@@ -131,28 +131,25 @@ async function scrapeIncidentDetails(page, url) {
           let val = td.innerText.trim();
 
           if (key === "Coordinates") {
-            // Collect all childNode text manually to avoid missing longitude parts
-            const combined = Array.from(td.childNodes)
-              .map((n) => n.textContent.trim())
-              .filter(Boolean)
-              .join(" ");
+            // Get all text including hidden childNodes & <div>
+            let combined = td.innerText.trim();
+            combined = combined.replace(/\s+/g, " "); // normalize spaces
+            console.log("[DEBUG FIXED combined coords]", combined);
 
-            // Now extract Latitude and Longitude separately
-            const latMatch = combined.match(/([\d°'\s]+Latitude)/i);
-            const lonMatch = combined.match(/(-?[\d°'\s]+Longitude)/i);
+            // Regex: flexible to match decimals + degrees
+            const latMatch = combined.match(/([\d°'\.\s]+)\s*Latitude/i);
+            const lonMatch = combined.match(/(-?[\d°'\.\s]+)\s*Longitude/i);
 
             if (latMatch) {
-              let lat = latMatch[1];
-              lat = lat.replace(/\s+/g, " ").trim(); // normalize spaces
+              let lat = latMatch[1].replace(/\s+/g, " ").trim();
               textMap["Latitude"] = lat;
             }
             if (lonMatch) {
-              let lon = lonMatch[1];
-              lon = lon.replace(/\s+/g, " ").trim(); // normalize spaces
+              let lon = lonMatch[1].replace(/\s+/g, " ").trim();
               textMap["Longitude"] = lon;
             }
 
-            // Also keep combined cleaned version
+            // Store combined nicely
             textMap["Coordinates"] = [
               textMap["Latitude"] || "",
               textMap["Longitude"] || "",

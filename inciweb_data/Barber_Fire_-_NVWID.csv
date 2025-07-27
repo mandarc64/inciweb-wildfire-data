@@ -1,2 +1,0 @@
-ScrapeDate,Incident,Type,State,Size,Updated,CurrentAsOf,IncidentTimeZone,IncidentType,Cause,DateOfOrigin,Location,IncidentCommander,Coordinates,Latitude,Longitude,TotalPersonnel
-2025-07-27,"Barber Fire - NVWID",Wildfire,Nevada,"17,583 Acres","2 weeks 1 day ago","Fri, 07/11/2025 - 17:45","Pacific Standard Time","Wildfire","Lightning","Thu, 07/03/2025 - 21:52","11 Miles S of Winnemucca, NV","Bureau of Land Management","40° 42' 87'' Latitude, -117° 51' 52 '' Longitude","40° 42' 87'' Latitude","-117° 51' 52 '' Longitude","77"

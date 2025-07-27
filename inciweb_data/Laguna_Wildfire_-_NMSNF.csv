@@ -1,2 +1,0 @@
-ScrapeDate,Incident,Type,State,Size,Updated,CurrentAsOf,IncidentTimeZone,IncidentType,Cause,DateOfOrigin,Location,IncidentCommander,Coordinates,Latitude,Longitude,TotalPersonnel
-2025-07-27,"Laguna Wildfire - NMSNF",Wildfire,New Mexico,"17,275 Acres","7 hours 47 minutes ago","Sat, 07/26/2025 - 13:21","Mountain Standard Time","Wildfire","Lightning","Wed, 06/25/2025 - 16:00","Coyote Ranger District, Santa Fe National Forest","Southwest Area Incident Management Team 1","36° 20' 17'' Latitude, -106° 45' 17 '' Longitude","36° 20' 17'' Latitude","-106° 45' 17 '' Longitude","202"

@@ -1,2 +1,0 @@
-ScrapeDate,Incident,Type,State,Size,Updated,CurrentAsOf,IncidentTimeZone,IncidentType,Cause,DateOfOrigin,Location,IncidentCommander,Coordinates,Latitude,Longitude,TotalPersonnel
-2025-07-27,"Trout Fire - NMGNF",Wildfire,New Mexico,"47,294 Acres","2 weeks 3 days ago","Wed, 07/09/2025 - 09:41","Mountain Standard Time","Wildfire","Lightning","Thu, 06/12/2025 - 08:24","12 miles north of Silver City","","32° 58' 46'' Latitude, -108° 13' 58 '' Longitude","32° 58' 46'' Latitude","-108° 13' 58 '' Longitude",""
