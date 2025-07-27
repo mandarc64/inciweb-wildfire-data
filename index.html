@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Wildfire CSV Viewer</title>
+    <script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
+  </head>
+  <body>
+    <h1>Wildfire Data</h1>
+    <select id="fileSelector"></select>
+    <div id="tableContainer"></div>
+
+    <script>
+      const repoURL =
+        "https://raw.githubusercontent.com/<YOUR_USERNAME>/inciweb-wildfire-data/main/inciweb_data/";
+      const files = ["Bear_Gulch_Fire_-_WAOLF.csv", "Turner_Gulch_-_COGRD.csv"];
+
+      const selector = document.getElementById("fileSelector");
+      files.forEach((file) => {
+        const opt = document.createElement("option");
+        opt.value = file;
+        opt.textContent = file;
+        selector.appendChild(opt);
+      });
+
+      selector.addEventListener("change", () => loadCSV(selector.value));
+
+      function loadCSV(file) {
+        Papa.parse(repoURL + file, {
+          download: true,
+          header: true,
+          complete: (results) => {
+            const table = document.createElement("table");
+            const headers = Object.keys(results.data[0] || {});
+            const headerRow = document.createElement("tr");
+            headers.forEach((h) => {
+              const th = document.createElement("th");
+              th.textContent = h;
+              headerRow.appendChild(th);
+            });
+            table.appendChild(headerRow);
+
+            results.data.forEach((row) => {
+              const tr = document.createElement("tr");
+              headers.forEach((h) => {
+                const td = document.createElement("td");
+                td.textContent = row[h];
+                tr.appendChild(td);
+              });
+              table.appendChild(tr);
+            });
+
+            document.getElementById("tableContainer").innerHTML = "";
+            document.getElementById("tableContainer").appendChild(table);
+          },
+        });
+      }
+
+      // Load first file initially
+      loadCSV(files[0]);
+    </script>
+  </body>
+</html>
