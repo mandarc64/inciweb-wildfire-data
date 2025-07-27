@@ -1,0 +1,34 @@
+name: Scrape Wildfire Data
+
+on:
+  schedule:
+    - cron: "0 15 * * *" # runs every day at 15:00 UTC (~8 AM PST)
+  workflow_dispatch: # allows manual trigger from GitHub
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+
+      - name: Install dependencies
+        run: |
+          npm init -y
+          npm install puppeteer
+
+      - name: Run scraper
+        run: node iniweb.mjs
+
+      - name: Commit & Push updated CSVs
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add inciweb_data/*.csv || echo "No new CSVs"
+          git commit -m "Auto-update CSVs $(date)" || echo "No changes"
+          git push
