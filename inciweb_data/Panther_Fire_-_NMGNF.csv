@@ -1,0 +1,2 @@
+ScrapeDate,Incident,Type,State,Size,Updated,CurrentAsOf,IncidentTimeZone,IncidentType,Cause,DateOfOrigin,Location,IncidentCommander,Coordinates,Latitude,Longitude,TotalPersonnel
+2025-07-27,"Panther Fire - NMGNF",Wildfire,New Mexico,"80 Acres","2 weeks 3 days ago","Wed, 07/09/2025 - 09:41","","Wildfire","Lightning/Natural","Wed, 07/02/2025 - 14:37","","","33° 02' 55'' Latitude, -108° 20' 13 '' Longitude","33° 02' 55'' Latitude","-108° 20' 13 '' Longitude",""

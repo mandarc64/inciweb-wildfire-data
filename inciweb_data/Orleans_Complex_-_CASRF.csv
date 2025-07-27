@@ -1,0 +1,4 @@
+ScrapeDate,Incident,Type,State,Size,Updated,CurrentAsOf,IncidentTimeZone,IncidentType,Cause,DateOfOrigin,Location,IncidentCommander,Coordinates,Latitude,Longitude,TotalPersonnel
+2025-07-27,"Orleans Complex - CASRF",Wildfire,California,"19,744 Acres","7 hours 58 minutes ago","Sat, 07/26/2025 - 13:11","Pacific Standard Time","Wildfire","Undetermined","Tue, 07/08/2025 - 19:31","10 miles east of Orleans, CA.","Incident Commander Rocky Opliger, California Complex Incident Management Team 4.
+
+Command of the incident transitions to California Interagency Incident Management Team 4 at 5 p.m. July 24.","41° 24' 24'' Latitude, -123° 35' 19 '' Longitude","41° 24' 24'' Latitude","-123° 35' 19 '' Longitude","1988"

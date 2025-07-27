@@ -1,0 +1,2 @@
+ScrapeDate,Incident,Type,State,Size,Updated,CurrentAsOf,IncidentTimeZone,IncidentType,Cause,DateOfOrigin,Location,IncidentCommander,Coordinates,Latitude,Longitude,TotalPersonnel
+2025-07-27,"Nenana Ridge Complex - AKFAS",Wildfire,Alaska,"","1 day 1 hour ago","Fri, 07/25/2025 - 19:53","Alaska Standard Time","Wildfire","Lightning","Sat, 06/21/2025 - 20:08","Southwest of Fairbanks, AK","","64° 43' 29'' Latitude, -148° 36' 10 '' Longitude","64° 43' 29'' Latitude","-148° 36' 10 '' Longitude",""

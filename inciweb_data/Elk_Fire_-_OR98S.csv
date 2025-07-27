@@ -1,0 +1,2 @@
+ScrapeDate,Incident,Type,State,Size,Updated,CurrentAsOf,IncidentTimeZone,IncidentType,Cause,DateOfOrigin,Location,IncidentCommander,Coordinates,Latitude,Longitude,TotalPersonnel
+2025-07-27,"Elk Fire - OR98S",Wildfire,Oregon,"2,637 Acres","3 days 7 hours ago","Wed, 07/23/2025 - 13:30","Pacific Standard Time","Wildfire","Under Investigation","Tue, 07/08/2025 - 10:44","7 miles SW of Beatty, Oregon","ODF IMT 1 - Incident Commander Dan Quinones","42° 19' 25'' Latitude, -121° 21' 42 '' Longitude","42° 19' 25'' Latitude","-121° 21' 42 '' Longitude","216"

@@ -1,0 +1,2 @@
+ScrapeDate,Incident,Type,State,Size,Updated,CurrentAsOf,IncidentTimeZone,IncidentType,Cause,DateOfOrigin,Location,IncidentCommander,Coordinates,Latitude,Longitude,TotalPersonnel
+2025-07-27,"Billy Fire - AZTNF",Wildfire,Arizona,"2,124 Acres","1 hour 18 minutes ago","Sat, 07/26/2025 - 19:50","Arizona Mountain Standard Time","Wildfire","Lightning","Wed, 07/09/2025 - 12:16","15 miles south of Young, Arizona","Benjamin Stewart, ICT3 Type 3 Team","33° 51' 35'' Latitude, -110° 54' 22 '' Longitude","33° 51' 35'' Latitude","-110° 54' 22 '' Longitude","154"

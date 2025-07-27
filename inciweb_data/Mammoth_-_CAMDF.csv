@@ -1,0 +1,2 @@
+ScrapeDate,Incident,Type,State,Size,Updated,CurrentAsOf,IncidentTimeZone,IncidentType,Cause,DateOfOrigin,Location,IncidentCommander,Coordinates,Latitude,Longitude,TotalPersonnel
+2025-07-27,"Mammoth - CAMDF",Wildfire,California,"3,100 Acres","9 hours 35 minutes ago","Sat, 07/26/2025 - 11:34","Pacific Standard Time","Wildfire","","Fri, 07/25/2025 - 15:10","","type 3 organization","41° 41' 02'' Latitude, -121° 19' 25 '' Longitude","41° 41' 02'' Latitude","-121° 19' 25 '' Longitude","82"

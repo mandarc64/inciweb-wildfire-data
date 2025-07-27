@@ -1,0 +1,2 @@
+ScrapeDate,Incident,Type,State,Size,Updated,CurrentAsOf,IncidentTimeZone,IncidentType,Cause,DateOfOrigin,Location,IncidentCommander,Coordinates,Latitude,Longitude,TotalPersonnel
+2025-07-27,"Turner Gulch - COGRD",Wildfire,Colorado,"18,958 Acres","1 hour ago","Sat, 07/26/2025 - 20:09","Mountain Standard Time","Wildfire","Lightning","Thu, 07/10/2025 - 12:18","8 Miles NE of Gateway, CO","Justin Conrad, Incident Commander, Rocky Mountain Complex Incident Command Team 1","38° 45' 18'' Latitude, -108° 52' 14 '' Longitude","38° 45' 18'' Latitude","-108° 52' 14 '' Longitude","441"

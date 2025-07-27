@@ -1,0 +1,4 @@
+ScrapeDate,Incident,Type,State,Size,Updated,CurrentAsOf,IncidentTimeZone,IncidentType,Cause,DateOfOrigin,Location,IncidentCommander,Coordinates,Latitude,Longitude,TotalPersonnel
+2025-07-27,"Hot Canyon Fire - NVEKD",Wildfire,Nevada,"12,794 Acres","4 days ago","Tue, 07/22/2025 - 20:44","Pacific Standard Time","Wildfire","Lightning","Tue, 07/08/2025 - 15:02","10 miles NW of Montello, NV","Boyce
+Type 5 IC
+Bureau of Land Management","41° 22' 5'' Latitude, -114° 20' 11 '' Longitude","41° 22' 5'' Latitude","-114° 20' 11 '' Longitude","33"
