@@ -33,11 +33,27 @@
       .header-section h1 {
         font-size: 2.5rem;
         font-weight: bold;
-        color: #dc3545; /* red accent */
+        color: #dc3545;
+        margin-bottom: 15px;
       }
-      .header-section p {
+      .header-paragraphs {
+        display: flex;
+        flex-wrap: wrap; /* Wrap on small screens */
+        justify-content: center; /* Center horizontally */
+        align-items: baseline; /* ✅ Aligns all text on the same baseline */
+        gap: 15px; /* Space between p tags */
+      }
+
+      .header-paragraphs p {
+        margin: 0;
         font-size: 1rem;
         color: #6c757d;
+        line-height: 1.5; /* ✅ Consistent height */
+        white-space: nowrap; /* ✅ Prevents unwanted line breaks inside */
+      }
+
+      .header-paragraphs p b {
+        font-weight: 600; /* Slightly less heavy than default <b> */
       }
       .card {
         background: #ffffff;
@@ -73,11 +89,14 @@
     <!-- HEADER -->
     <div class="header-section">
       <h1>🔥 Wildfire Incident Dashboard</h1>
-      <p>
-        Live wildfire data auto-fetched from InciWeb. Updated daily at <b>8:00 AM PST</b>.
-      </p>
-      <!-- ✅ Last Updated Placeholder -->
-      <p id="lastUpdated" class="text-muted">⏳ Loading last update time...</p>
+      <!-- ✅ Wrap p tags in a flex container -->
+      <div class="header-paragraphs">
+        <p>Live wildfire data auto-fetched from InciWeb</p>
+        <p id="lastUpdated" class="text-muted">
+          ⏳ Loading last update time...
+        </p>
+        <p>📅 The data shown here is from Sat, July 26, 2025</p>
+      </div>
     </div>
 
     <div class="container">
