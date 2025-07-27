@@ -23,7 +23,7 @@ jobs:
           node-version: 20
 
       - name: Install dependencies
-        run: npm install puppeteer
+        run: npm ci
 
       - name: Run scraper
         run: node iniweb.mjs
