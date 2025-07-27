@@ -227,7 +227,17 @@ async function scrapeIncidentDetails(page, url) {
 
 // 🛠 Main function
 async function scrapeInciwebWildfires() {
-  const browser = await puppeteer.launch({ headless: true });
+  const browser = await puppeteer.launch({
+    headless: true,
+    args: [
+      "--no-sandbox",
+      "--disable-setuid-sandbox",
+      "--disable-dev-shm-usage",
+      "--disable-gpu",
+      "--disable-software-rasterizer",
+    ],
+  });
+
   const page = await browser.newPage();
   const url = "https://inciweb.wildfire.gov/accessible-view";
 
