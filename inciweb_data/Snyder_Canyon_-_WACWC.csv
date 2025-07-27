@@ -1,0 +1,4 @@
+ScrapeDate,Incident,Type,State,Size,Updated,CurrentAsOf,IncidentTimeZone,IncidentType,Cause,DateOfOrigin,Location,IncidentCommander,Coordinates,Latitude,Longitude,TotalPersonnel
+2025-07-27,"Snyder Canyon - WACWC",Wildfire,Washington,"53 Acres","20 minutes 11 seconds ago","Sat, 07/26/2025 - 21:23","Pacific Standard Time","Wildfire","Lightning/Natural","Wed, 07/23/2025 - 13:38","3 Miles Northwest of Klickitat, WA","Incident Commander Brian Gales
+Deputy Incident Commander Eric Riener
+Complex Incident Management Team Northwest 13","45° 50' 48'', -121° 12' 43 ''","45° 50' 48''","-121° 12' 43 ''","115"

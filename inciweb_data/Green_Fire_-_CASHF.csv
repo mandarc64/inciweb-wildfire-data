@@ -1,0 +1,3 @@
+ScrapeDate,Incident,Type,State,Size,Updated,CurrentAsOf,IncidentTimeZone,IncidentType,Cause,DateOfOrigin,Location,IncidentCommander,Coordinates,Latitude,Longitude,TotalPersonnel
+2025-07-27,"Green Fire - CASHF",Wildfire,California,"19,022 Acres","10 hours 8 minutes ago","Sat, 07/26/2025 - 11:35","Pacific Standard Time","Wildfire","Lightning","Tue, 07/01/2025 - 21:37","13 Miles East of Lakehead, CA","Josh Boehm, Incident Commander IC
+California Interagency Incident Management Team 3 (CAIIMT 3)","40° 50' 2'', -122° 5' 48 ''","40° 50' 2''","-122° 5' 48 ''","725"

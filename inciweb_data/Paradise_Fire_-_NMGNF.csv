@@ -1,0 +1,3 @@
+ScrapeDate,Incident,Type,State,Size,Updated,CurrentAsOf,IncidentTimeZone,IncidentType,Cause,DateOfOrigin,Location,IncidentCommander,Coordinates,Latitude,Longitude,TotalPersonnel
+2025-07-27,"Paradise Fire - NMGNF",Wildfire,New Mexico,"727 Acres","1 month 2 weeks ago","Mon, 06/09/2025 - 12:55","","Wildfire","Human","Mon, 05/26/2025 - 18:56","13 miles south of Quemado, New Mexico","Xavier De La Torre IC5
+Diego Abeyta IC5(t)","34° 08' 46.7'', -108° 28' 43.4 ''","34° 08' 46.7''","-108° 28' 43.4 ''","115"

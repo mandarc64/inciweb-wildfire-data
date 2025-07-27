@@ -1,0 +1,3 @@
+ScrapeDate,Incident,Type,State,Size,Updated,CurrentAsOf,IncidentTimeZone,IncidentType,Cause,DateOfOrigin,Location,IncidentCommander,Coordinates,Latitude,Longitude,TotalPersonnel
+2025-07-27,"Hope Fire - WANES",Wildfire,Washington,"7,880 Acres","5 hours 56 minutes ago","Sat, 07/26/2025 - 15:47","Pacific Standard Time","Wildfire","Under Investigation","Tue, 07/08/2025 - 13:15","Approximately 15 Miles north of Kettle Falls, WA and 5 miles southwest of Northport, WA","Andrew Stenbeck
+Nolan Roth","48° 49' 16'', -117° 58' 56 ''","48° 49' 16''","-117° 58' 56 ''","356"
