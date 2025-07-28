@@ -183,6 +183,7 @@ async function scrapeIncidentDetails(page, url) {
           TotalPersonnel:
             textMap["Total Personnel"] || textMap["Total Personnel:"] || "",
           Size: textMap["Size"] || "",
+          ContainmentPercent: textMap["Percent of Perimeter Contained"] || "",
         },
       };
     });
@@ -319,6 +320,7 @@ async function scrapeInciwebWildfires() {
           "Latitude",
           "Longitude",
           "TotalPersonnel",
+          "ContainmentPercent",
         ].join(",") + "\n";
       fs.writeFileSync(filePath, header, "utf8");
     }
@@ -343,6 +345,7 @@ async function scrapeInciwebWildfires() {
         `"${newRow.Latitude}"`,
         `"${newRow.Longitude}"`,
         `"${newRow.TotalPersonnel}"`,
+        `"${newRow.ContainmentPercent}"`,
       ].join(",") + "\n";
 
     fs.appendFileSync(filePath, rowLine, "utf8");
