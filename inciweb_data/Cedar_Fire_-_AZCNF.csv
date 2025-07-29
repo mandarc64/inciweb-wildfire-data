@@ -1,0 +1,2 @@
+ScrapeDate,Incident,Type,State,Size,Updated,CurrentAsOf,IncidentTimeZone,IncidentType,Cause,DateOfOrigin,Location,IncidentCommander,Coordinates,Latitude,Longitude,TotalPersonnel,ContainmentPercent
+2025-07-29,"Cedar Fire - AZCNF",Wildfire,Arizona,"10 Acres","2 months 1 week ago","Wed, 05/21/2025 - 15:42","Mountain Standard Time","Wildfire","Under Investigation","Tue, 05/20/2025 - 16:47","Oracle, Arizona","The Santa Catalina Ranger District, Coronado national Forest, Type 4 Incident Organization","32° 35' 41.7'', -110° 46' 1.08 ''","32° 35' 41.7''","-110° 46' 1.08 ''","","50%"

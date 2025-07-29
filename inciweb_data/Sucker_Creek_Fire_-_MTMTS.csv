@@ -1,0 +1,2 @@
+ScrapeDate,Incident,Type,State,Size,Updated,CurrentAsOf,IncidentTimeZone,IncidentType,Cause,DateOfOrigin,Location,IncidentCommander,Coordinates,Latitude,Longitude,TotalPersonnel,ContainmentPercent
+2025-07-29,"Sucker Creek Fire - MTMTS",Wildfire,Montana,"80 Acres","15 hours 50 minutes ago","Mon, 07/28/2025 - 19:29","Mountain Standard Time","Wildfire","Undetermined","Sun, 07/27/2025 - 12:56","3 miles northwest of Lincoln, Montana","Sandman","46° 59' 56.0652'', -112° 38' 46.1754 ''","46° 59' 56.0652''","-112° 38' 46.1754 ''","",""
