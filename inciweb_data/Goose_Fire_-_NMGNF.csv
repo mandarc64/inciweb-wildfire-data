@@ -1,7 +1,7 @@
-ScrapeDate,Incident,Type,State,Size,Updated,CurrentAsOf,IncidentTimeZone,IncidentType,Cause,DateOfOrigin,Location,IncidentCommander,Coordinates,Latitude,Longitude,TotalPersonnel
-2025-07-27,"Goose Fire - NMGNF",Wildfire,New Mexico,"3,401 Acres","12 hours 15 minutes ago","Sat, 07/26/2025 - 09:28","","Wildfire","Lightning/Natural","Wed, 07/09/2025 - 13:30","18 miles northwest of Silver City, NM","Lino Baca, Albuquerque Zone Type 3 Team
-Michael Myrick (trainee)","33° 1' 13'', -108° 22' 58 ''","33° 1' 13''","-108° 22' 58 ''","115"
-2025-07-27,"Goose Fire - NMGNF",Wildfire,New Mexico,"3,690 Acres","3 hours 20 minutes ago","Sun, 07/27/2025 - 08:03","","Wildfire","Lightning/Natural","Wed, 07/09/2025 - 13:30","18 miles northwest of Silver City, NM","Lino Baca, Albuquerque Zone Type 3 Team
-Michael Myrick (trainee)","33° 1' 13'', -108° 22' 58 ''","33° 1' 13''","-108° 22' 58 ''","100"
-2025-07-28,"Goose Fire - NMGNF",Wildfire,New Mexico,"3,690 Acres","1 day 3 hours ago","Sun, 07/27/2025 - 08:03","","Wildfire","Lightning/Natural","Wed, 07/09/2025 - 13:30","18 miles northwest of Silver City, NM","Lino Baca, Albuquerque Zone Type 3 Team
-Michael Myrick (trainee)","33° 1' 13'', -108° 22' 58 ''","33° 1' 13''","-108° 22' 58 ''","100","47%"
+ScrapeDate,Incident,Type,State,Size,Updated,CurrentAsOf,IncidentTimeZone,IncidentType,Cause,DateOfOrigin,Location,IncidentCommander,Coordinates,Latitude,Longitude,TotalPersonnel,ContainmentPercent
+7/27/2025,Goose Fire - NMGNF,Wildfire,New Mexico,"3,401 Acres",12 hours 15 minutes ago,"Sat, 07/26/2025 - 09:28",,Wildfire,Lightning/Natural,"Wed, 07/09/2025 - 13:30","18 miles northwest of Silver City, NM","Lino Baca, Albuquerque Zone Type 3 Team
+Michael Myrick (trainee)","33° 1' 13'', -108° 22' 58 ''",33° 1' 13'',-108° 22' 58 '',115,
+7/27/2025,Goose Fire - NMGNF,Wildfire,New Mexico,"3,690 Acres",3 hours 20 minutes ago,"Sun, 07/27/2025 - 08:03",,Wildfire,Lightning/Natural,"Wed, 07/09/2025 - 13:30","18 miles northwest of Silver City, NM","Lino Baca, Albuquerque Zone Type 3 Team
+Michael Myrick (trainee)","33° 1' 13'', -108° 22' 58 ''",33° 1' 13'',-108° 22' 58 '',100,
+7/28/2025,Goose Fire - NMGNF,Wildfire,New Mexico,"3,690 Acres",1 day 3 hours ago,"Sun, 07/27/2025 - 08:03",,Wildfire,Lightning/Natural,"Wed, 07/09/2025 - 13:30","18 miles northwest of Silver City, NM","Lino Baca, Albuquerque Zone Type 3 Team
+Michael Myrick (trainee)","33° 1' 13'', -108° 22' 58 ''",33° 1' 13'',-108° 22' 58 '',100,47%

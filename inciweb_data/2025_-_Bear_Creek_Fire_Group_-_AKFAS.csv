@@ -1,7 +1,7 @@
 ScrapeDate,Incident,Type,State,Size,Updated,CurrentAsOf,IncidentTimeZone,IncidentType,Cause,DateOfOrigin,Location,IncidentCommander,Coordinates,Latitude,Longitude,TotalPersonnel,ContainmentPercent
 2025-07-27,"2025 - Bear Creek Fire Group - AKFAS",Wildfire,Alaska,"73,197 Acres","1 day 7 hours ago","Fri, 07/25/2025 - 14:34","Alaska Standard Time","Wildfire","Lightning/Natural","Thu, 06/19/2025 - 18:20","14 Miles NW of Healy, Alaska","Incident Commander Torrey Short
-Alaska Division of Forestry","64° 2' 33'', -149° 14' 34 ''","64° 2' 33''","-149° 14' 34 ''","22"
+Alaska Division of Forestry","64° 2' 33'', -149° 14' 34 ''","64° 2' 33''","-149° 14' 34 ''","22",""
 2025-07-27,"2025 - Bear Creek Fire Group - AKFAS",Wildfire,Alaska,"73,197 Acres","1 day 20 hours ago","Fri, 07/25/2025 - 14:34","Alaska Standard Time","Wildfire","Lightning/Natural","Thu, 06/19/2025 - 18:20","14 Miles NW of Healy, Alaska","Incident Commander Torrey Short
-Alaska Division of Forestry","64° 2' 33'', -149° 14' 34 ''","64° 2' 33''","-149° 14' 34 ''","22"
+Alaska Division of Forestry","64° 2' 33'', -149° 14' 34 ''","64° 2' 33''","-149° 14' 34 ''","22",""
 2025-07-28,"2025 - Bear Creek Fire Group - AKFAS",Wildfire,Alaska,"73,197 Acres","16 hours 44 minutes ago","Sun, 07/27/2025 - 18:43","Alaska Standard Time","Wildfire","Lightning/Natural","Thu, 06/19/2025 - 18:20","14 Miles NW of Healy, Alaska","Incident Commander Torrey Short
 Alaska Division of Forestry","64° 2' 33'', -149° 14' 34 ''","64° 2' 33''","-149° 14' 34 ''","22","58%"

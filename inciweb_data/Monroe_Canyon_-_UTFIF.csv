@@ -1,7 +1,7 @@
-ScrapeDate,Incident,Type,State,Size,Updated,CurrentAsOf,IncidentTimeZone,IncidentType,Cause,DateOfOrigin,Location,IncidentCommander,Coordinates,Latitude,Longitude,TotalPersonnel
-2025-07-27,"Monroe Canyon - UTFIF",Wildfire,Utah,"10,977 Acres","7 hours 45 minutes ago","Sat, 07/26/2025 - 13:58","Mountain Standard Time","Wildfire","Undetermined","Sun, 07/13/2025 - 09:14","3 miles east if Monroe Utah","Great Basin Complex Incident Management Team 3
-Incident Commander Brett Waters, Deputy Incident Commander Taiga Rohrer","38° 33' 41'', -112° 04' 48 ''","38° 33' 41''","-112° 04' 48 ''","961"
-2025-07-27,"Monroe Canyon - UTFIF",Wildfire,Utah,"20,870 Acres","7 minutes 38 seconds ago","Sun, 07/27/2025 - 11:16","Mountain Standard Time","Wildfire","Undetermined","Sun, 07/13/2025 - 09:14","3 miles east if Monroe Utah","Great Basin Complex Incident Management Team 3
-Incident Commander Brett Waters, Deputy Incident Commander Taiga Rohrer","38° 33' 41'', -112° 04' 48 ''","38° 33' 41''","-112° 04' 48 ''","976"
-2025-07-28,"Monroe Canyon - UTFIF",Wildfire,Utah,"23,265 Acres","1 hour 5 minutes ago","Mon, 07/28/2025 - 10:22","Mountain Standard Time","Wildfire","Undetermined","Sun, 07/13/2025 - 09:14","3 miles east of Monroe Utah","Great Basin Complex Incident Management Team 3
-Incident Commander Brett Waters, Deputy Incident Commander Taiga Rohrer","38° 33' 41'', -112° 04' 48 ''","38° 33' 41''","-112° 04' 48 ''","999","16%"
+ScrapeDate,Incident,Type,State,Size,Updated,CurrentAsOf,IncidentTimeZone,IncidentType,Cause,DateOfOrigin,Location,IncidentCommander,Coordinates,Latitude,Longitude,TotalPersonnel,ContainmentPercent
+7/27/2025,Monroe Canyon - UTFIF,Wildfire,Utah,"10,977 Acres",7 hours 45 minutes ago,"Sat, 07/26/2025 - 13:58",Mountain Standard Time,Wildfire,Undetermined,"Sun, 07/13/2025 - 09:14",3 miles east if Monroe Utah,"Great Basin Complex Incident Management Team 3
+Incident Commander Brett Waters, Deputy Incident Commander Taiga Rohrer","38° 33' 41'', -112° 04' 48 ''",38° 33' 41'',-112° 04' 48 '',961,
+7/27/2025,Monroe Canyon - UTFIF,Wildfire,Utah,"20,870 Acres",7 minutes 38 seconds ago,"Sun, 07/27/2025 - 11:16",Mountain Standard Time,Wildfire,Undetermined,"Sun, 07/13/2025 - 09:14",3 miles east if Monroe Utah,"Great Basin Complex Incident Management Team 3
+Incident Commander Brett Waters, Deputy Incident Commander Taiga Rohrer","38° 33' 41'', -112° 04' 48 ''",38° 33' 41'',-112° 04' 48 '',976,
+7/28/2025,Monroe Canyon - UTFIF,Wildfire,Utah,"23,265 Acres",1 hour 5 minutes ago,"Mon, 07/28/2025 - 10:22",Mountain Standard Time,Wildfire,Undetermined,"Sun, 07/13/2025 - 09:14",3 miles east of Monroe Utah,"Great Basin Complex Incident Management Team 3
+Incident Commander Brett Waters, Deputy Incident Commander Taiga Rohrer","38° 33' 41'', -112° 04' 48 ''",38° 33' 41'',-112° 04' 48 '',999,16%

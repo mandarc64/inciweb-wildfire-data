@@ -1,13 +1,13 @@
-ScrapeDate,Incident,Type,State,Size,Updated,CurrentAsOf,IncidentTimeZone,IncidentType,Cause,DateOfOrigin,Location,IncidentCommander,Coordinates,Latitude,Longitude,TotalPersonnel
-2025-07-27,"Pomas Fire 2025 - WAOWF",Wildfire,Washington,"3,446 Acres","8 hours 44 minutes ago","Sat, 07/26/2025 - 12:59","Pacific Standard Time","Wildfire","Lightning","Fri, 06/13/2025 - 10:40","Approximately 36 miles northwest of Entiat, WA","Complex Incident Management Team NW10 assumed command of this fire at 8 PM PST on July 24, 2025
+ScrapeDate,Incident,Type,State,Size,Updated,CurrentAsOf,IncidentTimeZone,IncidentType,Cause,DateOfOrigin,Location,IncidentCommander,Coordinates,Latitude,Longitude,TotalPersonnel,ContainmentPercent
+7/27/2025,Pomas Fire 2025 - WAOWF,Wildfire,Washington,"3,446 Acres",8 hours 44 minutes ago,"Sat, 07/26/2025 - 12:59",Pacific Standard Time,Wildfire,Lightning,"Fri, 06/13/2025 - 10:40","Approximately 36 miles northwest of Entiat, WA","Complex Incident Management Team NW10 assumed command of this fire at 8 PM PST on July 24, 2025
 
 Steve North - Incident Commander
-Nathan Rabe - Deputy Incident Commander","48° 5' 29'', -120° 43' 23 ''","48° 5' 29''","-120° 43' 23 ''","721"
-2025-07-27,"Pomas Fire 2025 - WAOWF",Wildfire,Washington,"3,446 Acres","11 hours 28 minutes ago","Sat, 07/26/2025 - 23:55","Pacific Standard Time","Wildfire","Lightning","Fri, 06/13/2025 - 10:40","Approximately 36 miles northwest of Entiat, WA","Complex Incident Management Team NW10 assumed command of this fire at 8 PM PST on July 24, 2025
+Nathan Rabe - Deputy Incident Commander","48° 5' 29'', -120° 43' 23 ''",48° 5' 29'',-120° 43' 23 '',721,
+7/27/2025,Pomas Fire 2025 - WAOWF,Wildfire,Washington,"3,446 Acres",11 hours 28 minutes ago,"Sat, 07/26/2025 - 23:55",Pacific Standard Time,Wildfire,Lightning,"Fri, 06/13/2025 - 10:40","Approximately 36 miles northwest of Entiat, WA","Complex Incident Management Team NW10 assumed command of this fire at 8 PM PST on July 24, 2025
 
 Steve North - Incident Commander
-Nathan Rabe - Deputy Incident Commander","48° 5' 29'', -120° 43' 23 ''","48° 5' 29''","-120° 43' 23 ''","720"
-2025-07-28,"Pomas Fire 2025 - WAOWF",Wildfire,Washington,"3,449 Acres","2 hours 48 minutes ago","Mon, 07/28/2025 - 08:39","Pacific Standard Time","Wildfire","Lightning","Fri, 06/13/2025 - 10:40","Approximately 36 miles northwest of Entiat, WA","Complex Incident Management Team NW10 assumed command of this fire at 8 PM PST on July 24, 2025
+Nathan Rabe - Deputy Incident Commander","48° 5' 29'', -120° 43' 23 ''",48° 5' 29'',-120° 43' 23 '',720,
+7/28/2025,Pomas Fire 2025 - WAOWF,Wildfire,Washington,"3,449 Acres",2 hours 48 minutes ago,"Mon, 07/28/2025 - 08:39",Pacific Standard Time,Wildfire,Lightning,"Fri, 06/13/2025 - 10:40","Approximately 36 miles northwest of Entiat, WA","Complex Incident Management Team NW10 assumed command of this fire at 8 PM PST on July 24, 2025
 
 Steve North - Incident Commander
-Nathan Rabe - Deputy Incident Commander","48° 5' 29'', -120° 43' 23 ''","48° 5' 29''","-120° 43' 23 ''","753",""
+Nathan Rabe - Deputy Incident Commander","48° 5' 29'', -120° 43' 23 ''",48° 5' 29'',-120° 43' 23 '',753,

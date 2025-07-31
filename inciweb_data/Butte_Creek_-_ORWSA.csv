@@ -1,13 +1,13 @@
-ScrapeDate,Incident,Type,State,Size,Updated,CurrentAsOf,IncidentTimeZone,IncidentType,Cause,DateOfOrigin,Location,IncidentCommander,Coordinates,Latitude,Longitude,TotalPersonnel
-2025-07-27,"Butte Creek - ORWSA",Wildfire,Oregon,"2,079 Acres","7 hours 51 minutes ago","Sat, 07/26/2025 - 13:52","Pacific Standard Time","Wildfire","Undetermined","Fri, 07/18/2025 - 21:59","2 miles west of Simnasho, Oregon","James Osborne, IC - NW Team 3
+ScrapeDate,Incident,Type,State,Size,Updated,CurrentAsOf,IncidentTimeZone,IncidentType,Cause,DateOfOrigin,Location,IncidentCommander,Coordinates,Latitude,Longitude,TotalPersonnel,ContainmentPercent
+7/27/2025,Butte Creek - ORWSA,Wildfire,Oregon,"2,079 Acres",7 hours 51 minutes ago,"Sat, 07/26/2025 - 13:52",Pacific Standard Time,Wildfire,Undetermined,"Fri, 07/18/2025 - 21:59","2 miles west of Simnasho, Oregon","James Osborne, IC - NW Team 3
 Lonnie Click, Deputy IC
 Randy Johnson, Deputy IC
-Larae Guillory, IC(t)","44° 59' 3'', -121° 28' 49 ''","44° 59' 3''","-121° 28' 49 ''","323"
-2025-07-27,"Butte Creek - ORWSA",Wildfire,Oregon,"2,079 Acres","11 hours 32 minutes ago","Sat, 07/26/2025 - 23:51","Pacific Standard Time","Wildfire","Undetermined","Fri, 07/18/2025 - 21:59","2 miles west of Simnasho, Oregon","James Osborne, IC - NW Team 3
+Larae Guillory, IC(t)","44° 59' 3'', -121° 28' 49 ''",44° 59' 3'',-121° 28' 49 '',323,
+7/27/2025,Butte Creek - ORWSA,Wildfire,Oregon,"2,079 Acres",11 hours 32 minutes ago,"Sat, 07/26/2025 - 23:51",Pacific Standard Time,Wildfire,Undetermined,"Fri, 07/18/2025 - 21:59","2 miles west of Simnasho, Oregon","James Osborne, IC - NW Team 3
 Lonnie Click, Deputy IC
 Randy Johnson, Deputy IC
-Larae Guillory, IC(t)","44° 59' 3'', -121° 28' 49 ''","44° 59' 3''","-121° 28' 49 ''","280"
-2025-07-28,"Butte Creek - ORWSA",Wildfire,Oregon,"2,079 Acres","1 day 11 hours ago","Sat, 07/26/2025 - 23:51","Pacific Standard Time","Wildfire","Undetermined","Fri, 07/18/2025 - 21:59","2 miles west of Simnasho, Oregon","James Osborne, IC - NW Team 3
+Larae Guillory, IC(t)","44° 59' 3'', -121° 28' 49 ''",44° 59' 3'',-121° 28' 49 '',280,
+7/28/2025,Butte Creek - ORWSA,Wildfire,Oregon,"2,079 Acres",1 day 11 hours ago,"Sat, 07/26/2025 - 23:51",Pacific Standard Time,Wildfire,Undetermined,"Fri, 07/18/2025 - 21:59","2 miles west of Simnasho, Oregon","James Osborne, IC - NW Team 3
 Lonnie Click, Deputy IC
 Randy Johnson, Deputy IC
-Larae Guillory, IC(t)","44° 59' 3'', -121° 28' 49 ''","44° 59' 3''","-121° 28' 49 ''","280","85%"
+Larae Guillory, IC(t)","44° 59' 3'', -121° 28' 49 ''",44° 59' 3'',-121° 28' 49 '',280,85%

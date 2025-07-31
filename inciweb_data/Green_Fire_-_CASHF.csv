@@ -1,7 +1,7 @@
-ScrapeDate,Incident,Type,State,Size,Updated,CurrentAsOf,IncidentTimeZone,IncidentType,Cause,DateOfOrigin,Location,IncidentCommander,Coordinates,Latitude,Longitude,TotalPersonnel
-2025-07-27,"Green Fire - CASHF",Wildfire,California,"19,022 Acres","10 hours 8 minutes ago","Sat, 07/26/2025 - 11:35","Pacific Standard Time","Wildfire","Lightning","Tue, 07/01/2025 - 21:37","13 Miles East of Lakehead, CA","Josh Boehm, Incident Commander IC
-California Interagency Incident Management Team 3 (CAIIMT 3)","40° 50' 2'', -122° 5' 48 ''","40° 50' 2''","-122° 5' 48 ''","725"
-2025-07-27,"Green Fire - CASHF",Wildfire,California,"19,022 Acres","1 hour 30 minutes ago","Sun, 07/27/2025 - 09:53","Pacific Standard Time","Wildfire","Lightning","Tue, 07/01/2025 - 21:37","13 Miles East of Lakehead, CA","Josh Boehm, Incident Commander IC
-California Interagency Incident Management Team 3 (CAIIMT 3)","40° 50' 2'', -122° 5' 48 ''","40° 50' 2''","-122° 5' 48 ''","690"
-2025-07-28,"Green Fire - CASHF",Wildfire,California,"19,022 Acres","1 hour 42 minutes ago","Mon, 07/28/2025 - 09:45","Pacific Standard Time","Wildfire","Lightning","Tue, 07/01/2025 - 21:37","13 Miles East of Lakehead, CA","Josh Boehm, Incident Commander IC
-California Interagency Incident Management Team 3 (CAIIMT 3)","40° 50' 2'', -122° 5' 48 ''","40° 50' 2''","-122° 5' 48 ''","612","82%"
+ScrapeDate,Incident,Type,State,Size,Updated,CurrentAsOf,IncidentTimeZone,IncidentType,Cause,DateOfOrigin,Location,IncidentCommander,Coordinates,Latitude,Longitude,TotalPersonnel,ContainmentPercent
+7/27/2025,Green Fire - CASHF,Wildfire,California,"19,022 Acres",10 hours 8 minutes ago,"Sat, 07/26/2025 - 11:35",Pacific Standard Time,Wildfire,Lightning,"Tue, 07/01/2025 - 21:37","13 Miles East of Lakehead, CA","Josh Boehm, Incident Commander IC
+California Interagency Incident Management Team 3 (CAIIMT 3)","40° 50' 2'', -122° 5' 48 ''",40° 50' 2'',-122° 5' 48 '',725,
+7/27/2025,Green Fire - CASHF,Wildfire,California,"19,022 Acres",1 hour 30 minutes ago,"Sun, 07/27/2025 - 09:53",Pacific Standard Time,Wildfire,Lightning,"Tue, 07/01/2025 - 21:37","13 Miles East of Lakehead, CA","Josh Boehm, Incident Commander IC
+California Interagency Incident Management Team 3 (CAIIMT 3)","40° 50' 2'', -122° 5' 48 ''",40° 50' 2'',-122° 5' 48 '',690,
+7/28/2025,Green Fire - CASHF,Wildfire,California,"19,022 Acres",1 hour 42 minutes ago,"Mon, 07/28/2025 - 09:45",Pacific Standard Time,Wildfire,Lightning,"Tue, 07/01/2025 - 21:37","13 Miles East of Lakehead, CA","Josh Boehm, Incident Commander IC
+California Interagency Incident Management Team 3 (CAIIMT 3)","40° 50' 2'', -122° 5' 48 ''",40° 50' 2'',-122° 5' 48 '',612,82%

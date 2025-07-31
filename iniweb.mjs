@@ -330,8 +330,8 @@ async function scrapeInciwebWildfires() {
       [
         newRow.ScrapeDate,
         `"${newRow.Incident}"`,
-        newRow.Type,
-        newRow.State,
+        `"${newRow.Type}"`,
+        `"${newRow.State}"`,
         `"${newRow.Size}"`,
         `"${newRow.Updated}"`,
         `"${newRow.CurrentAsOf}"`,
