@@ -1,0 +1,3 @@
+ScrapeDate,Incident,Type,State,Size,Updated,CurrentAsOf,IncidentTimeZone,IncidentType,Cause,DateOfOrigin,Location,IncidentCommander,Coordinates,Latitude,Longitude,TotalPersonnel,ContainmentPercent
+2025-07-30,"Vees Fire - WYWBD",Wildfire,Wyoming,"4,500 Acres","12 hours 46 minutes ago","Tue, 07/29/2025 - 22:39","Mountain Standard Time","Wildfire","","Sat, 07/26/2025 - 15:30","Southeast of Ten Sleep, WY","Wyoming Interagency Management Type 3 Team
+Incident Commander: Matt Weakland","43° 52' 11'', -107° 18' 26 ''","43° 52' 11''","-107° 18' 26 ''","135","0%"

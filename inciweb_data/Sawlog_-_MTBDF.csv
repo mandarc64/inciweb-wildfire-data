@@ -1,0 +1,3 @@
+ScrapeDate,Incident,Type,State,Size,Updated,CurrentAsOf,IncidentTimeZone,IncidentType,Cause,DateOfOrigin,Location,IncidentCommander,Coordinates,Latitude,Longitude,TotalPersonnel,ContainmentPercent
+2025-07-30,"Sawlog - MTBDF",Wildfire,Montana,"2,030 Acres","1 month 1 week ago","Sun, 06/22/2025 - 14:25","Mountain Standard Time","Wildfire","Undetermined","Thu, 05/01/2025 - 14:07","15 miles northeast of Wisdom, MT","Evan Burke
+USDA Forest Service","45° 49' 41'', -113° 15' 10 ''","45° 49' 41''","-113° 15' 10 ''","","100%"

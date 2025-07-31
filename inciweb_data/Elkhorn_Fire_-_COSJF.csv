@@ -1,0 +1,2 @@
+ScrapeDate,Incident,Type,State,Size,Updated,CurrentAsOf,IncidentTimeZone,IncidentType,Cause,DateOfOrigin,Location,IncidentCommander,Coordinates,Latitude,Longitude,TotalPersonnel,ContainmentPercent
+2025-07-30,"Elkhorn Fire - COSJF",Wildfire,Colorado,"323 Acres","2 hours 6 minutes ago","Wed, 07/30/2025 - 09:19","Mountain Standard Time","Wildfire","Undetermined","Sat, 07/26/2025 - 17:08","13 Miles N of Durango, CO","Nate Christiansen IC3, San Juan National Forest Team 8","37° 27' 56'', -107° 46' 5 ''","37° 27' 56''","-107° 46' 5 ''","217","5%"
