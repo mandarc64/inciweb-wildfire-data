@@ -1,0 +1,2 @@
+ScrapeDate,Incident,Type,State,Size,Updated,CurrentAsOf,IncidentTimeZone,IncidentType,Cause,DateOfOrigin,Location,IncidentCommander,Coordinates,Latitude,Longitude,TotalPersonnel,ContainmentPercent
+2025-07-31,"Moonshine Fire - NVWID","Wildfire","Nevada","2,863 Acres","16 hours 9 minutes ago","Wed, 07/30/2025 - 19:12","Pacific Standard Time","Wildfire","Natural","Tue, 07/29/2025 - 16:52","30 miles North of Winnemucca, NV","Bureau of Land Management, Winnemucca District","41° 39' 37'', -118° 02' 39 ''","41° 39' 37''","-118° 02' 39 ''","","30%"
