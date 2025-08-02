@@ -1,0 +1,2 @@
+ScrapeDate,Incident,Type,State,Size,Updated,CurrentAsOf,IncidentTimeZone,IncidentType,Cause,DateOfOrigin,Location,IncidentCommander,Coordinates,Latitude,Longitude,TotalPersonnel,ContainmentPercent
+2025-08-01,"Cedar Fire - Idaho - IDSCF","Wildfire","Idaho, United States","219 Acres","40 minutes 59 seconds ago","Fri, 08/01/2025 - 10:45","Mountain Standard Time","Wildfire","Lightning","Tue, 07/29/2025 - 17:34","approximately 4 miles northeast of Clyde","Platz/Toy(t)","44° 9' 34'', -113° 11' 2 ''","44° 9' 34''","-113° 11' 2 ''","97","0%"
