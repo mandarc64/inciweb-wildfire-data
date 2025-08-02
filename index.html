@@ -105,6 +105,15 @@
         <h5 class="text-center mb-3">Select an Incident</h5>
         <div class="mb-4 text-center">
           <select id="csvSelect" class="form-select w-50 mx-auto"></select>
+          <!-- CHARTS -->
+          <div class="row">
+            <div class="col-md-6">
+              <canvas id="acresChart"></canvas>
+            </div>
+            <div class="col-md-6">
+              <canvas id="containmentChart"></canvas>
+            </div>
+          </div>
         </div>
 
         <!-- TABLE -->
@@ -208,6 +217,9 @@
 
             // ✅ Render table
             renderTable(data);
+
+            // ✅ Render charts
+            renderCharts(data);
           },
         });
       }
@@ -280,6 +292,98 @@
 
       // ✅ Start by fetching CSV list
       fetchCSVList();
+
+      let acresChart = null;
+      let containmentChart = null;
+
+      function renderCharts(data) {
+        // Clean dates for X-axis
+        const labels = data.map((d) => d.ScrapeDate);
+        const acres = data.map(
+          (d) => parseFloat(d.Size.replace(/[^\d.]/g, "")) || 0
+        );
+        const containment = data.map(
+          (d) => parseFloat(d.ContainmentPercent?.replace("%", "")) || 0
+        );
+
+        // Destroy previous charts if needed
+        if (acresChart) acresChart.destroy();
+        if (containmentChart) containmentChart.destroy();
+
+        // Chart 1: Acres Over Time
+        acresChart = new Chart(document.getElementById("acresChart"), {
+          type: "line",
+          data: {
+            labels: labels,
+            datasets: [
+              {
+                label: "Acres Burned",
+                data: acres,
+                fill: true,
+                borderWidth: 2,
+                borderColor: "rgba(255, 99, 132, 1)",
+                backgroundColor: "rgba(255, 99, 132, 0.2)",
+                tension: 0.3,
+              },
+            ],
+          },
+          options: {
+            responsive: true,
+            plugins: {
+              title: { display: true, text: "Acres Burned Over Time" },
+            },
+            scales: {
+              y: {
+                beginAtZero: true,
+                title: { display: true, text: "Acres Burned" },
+              },
+              x: { title: { display: true, text: "Date" } },
+            },
+          },
+        });
+
+        // Chart 2: Containment Over Time
+        containmentChart = new Chart(
+          document.getElementById("containmentChart"),
+          {
+            type: "line",
+            data: {
+              labels: labels,
+              datasets: [
+                {
+                  label: "Containment %",
+                  data: containment,
+                  fill: false,
+                  borderWidth: 2,
+                  borderColor: "rgba(54, 162, 235, 1)",
+                  tension: 0.3,
+                },
+              ],
+            },
+            options: {
+              responsive: true,
+              plugins: {
+                title: { display: true, text: "Containment Percent Over Time" },
+              },
+              scales: {
+                y: {
+                  beginAtZero: true,
+                  suggestedMax: 105, // Allow chart to go slightly above 100%
+                  grace: "5%", // Add visual padding above the highest value
+                  ticks: {
+                    callback: (v) => v + "%",
+                    stepSize: 10,
+                  },
+                  title: { display: true, text: "Containment %" },
+                },
+
+                x: { title: { display: true, text: "Date" } },
+              },
+            },
+          }
+        );
+      }
     </script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
   </body>
 </html>
