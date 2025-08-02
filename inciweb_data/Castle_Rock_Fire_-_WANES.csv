@@ -1,0 +1,4 @@
+ScrapeDate,Incident,Type,State,Size,Updated,CurrentAsOf,IncidentTimeZone,IncidentType,Cause,DateOfOrigin,Location,IncidentCommander,Coordinates,Latitude,Longitude,TotalPersonnel,ContainmentPercent
+2025-08-02,"Castle Rock Fire - WANES","Wildfire","Washington","32 Acres","3 hours 19 minutes ago","Sat, 08/02/2025 - 08:04","Pacific Standard Time","Wildfire","Lightning/Natural","Thu, 07/31/2025 - 15:17","6 Miles SE of Colville, WA","IC Braden Britt
+IC(t) Ryan Powers
+NE WA Type 3 IMT #1","48° 27' 32'', -117° 49' 59.8 ''","48° 27' 32''","-117° 49' 59.8 ''","130","0%"

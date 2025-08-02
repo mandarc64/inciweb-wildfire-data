@@ -1,0 +1,2 @@
+ScrapeDate,Incident,Type,State,Size,Updated,CurrentAsOf,IncidentTimeZone,IncidentType,Cause,DateOfOrigin,Location,IncidentCommander,Coordinates,Latitude,Longitude,TotalPersonnel,ContainmentPercent
+2025-08-02,"Kinkaid Creek Fire - WACOA","Wildfire","Washington","110 Acres","18 hours 42 minutes ago","Fri, 08/01/2025 - 16:41","Pacific Standard Time","Wildfire","Undetermined","Thu, 07/31/2025 - 15:03","8 Miles N of Nespelem, WA","Jason Fulfer WA-COA","48° 15' 10'', -118° 53' 57 ''","48° 15' 10''","-118° 53' 57 ''","6","0%"

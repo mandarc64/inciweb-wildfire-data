@@ -1,0 +1,2 @@
+ScrapeDate,Incident,Type,State,Size,Updated,CurrentAsOf,IncidentTimeZone,IncidentType,Cause,DateOfOrigin,Location,IncidentCommander,Coordinates,Latitude,Longitude,TotalPersonnel,ContainmentPercent
+2025-08-02,"Stud Horse Fire - WANES","Wildfire","Washington","540 Acres","18 minutes 36 seconds ago","Sat, 08/02/2025 - 11:05","Pacific Standard Time","Wildfire","","Thu, 07/31/2025 - 15:18","2 miles east of Winthrop, WA","Ryan Nicholls, SE Washington Type 3 Incident Management Team","48° 28' 30.6'', -120° 08' 58.8 ''","48° 28' 30.6''","-120° 08' 58.8 ''","135","5%"

@@ -1,0 +1,2 @@
+ScrapeDate,Incident,Type,State,Size,Updated,CurrentAsOf,IncidentTimeZone,IncidentType,Cause,DateOfOrigin,Location,IncidentCommander,Coordinates,Latitude,Longitude,TotalPersonnel,ContainmentPercent
+2025-08-02,"Kirkland Fire - AZA5S","Wildfire","Arizona","750 Acres","10 hours 51 minutes ago","Sat, 08/02/2025 - 00:32","Arizona Mountain Standard Time","Wildfire","Human - Unknown","Fri, 08/01/2025 - 15:14","2 miles northeast of Hillside","Darrell Willis, IC - DFFM","34° 26' 48'', -112° 54' 2 ''","34° 26' 48''","-112° 54' 2 ''","47","0%"

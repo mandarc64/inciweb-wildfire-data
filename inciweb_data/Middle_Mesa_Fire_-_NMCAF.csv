@@ -1,0 +1,2 @@
+ScrapeDate,Incident,Type,State,Size,Updated,CurrentAsOf,IncidentTimeZone,IncidentType,Cause,DateOfOrigin,Location,IncidentCommander,Coordinates,Latitude,Longitude,TotalPersonnel,ContainmentPercent
+2025-08-02,"Middle Mesa Fire - NMCAF","Wildfire","New Mexico","500 Acres","11 hours 10 minutes ago","Sat, 08/02/2025 - 00:13","Mountain Standard Time","Wildfire","Under Investigation","Fri, 08/01/2025 - 10:27","Off Forest Road 218B, Jicarilla Ranger District","","36° 58' 11'', -107° 19' 46 ''","36° 58' 11''","-107° 19' 46 ''","","0%"

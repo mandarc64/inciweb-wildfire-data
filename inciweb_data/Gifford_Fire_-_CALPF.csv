@@ -1,0 +1,2 @@
+ScrapeDate,Incident,Type,State,Size,Updated,CurrentAsOf,IncidentTimeZone,IncidentType,Cause,DateOfOrigin,Location,IncidentCommander,Coordinates,Latitude,Longitude,TotalPersonnel,ContainmentPercent
+2025-08-02,"Gifford Fire - CALPF","Wildfire","California","5,000 Acres","9 hours 12 minutes ago","Sat, 08/02/2025 - 02:11","Pacific Standard Time","Wildfire","","Fri, 08/01/2025 - 13:57","","","35° 04' 34.9'', -120° 09' 33 ''","35° 04' 34.9''","-120° 09' 33 ''","","0%"

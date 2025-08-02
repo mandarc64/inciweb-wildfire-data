@@ -1,2 +1,3 @@
 ScrapeDate,Incident,Type,State,Size,Updated,CurrentAsOf,IncidentTimeZone,IncidentType,Cause,DateOfOrigin,Location,IncidentCommander,Coordinates,Latitude,Longitude,TotalPersonnel,ContainmentPercent
 2025-08-01,"Howards - CAMDF","Wildfire","California","100 Acres","14 hours 10 minutes ago","Thu, 07/31/2025 - 21:15","Pacific Standard Time","Wildfire","","Thu, 07/31/2025 - 14:32","","","41 ° 28 ' 45.2'', -120° 56' 01.7 ''","41 ° 28 ' 45.2''","-120° 56' 01.7 ''","","0%"
+2025-08-02,"Howards - CAMDF","Wildfire","California","100 Acres","17 hours 51 minutes ago","Fri, 08/01/2025 - 17:33","Pacific Standard Time","Wildfire","","Thu, 07/31/2025 - 14:32","","","41 ° 28 ' 45.2'', -120° 56' 01.7 ''","41 ° 28 ' 45.2''","-120° 56' 01.7 ''","","45%"
