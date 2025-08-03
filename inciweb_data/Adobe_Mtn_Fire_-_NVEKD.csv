@@ -1,0 +1,2 @@
+ScrapeDate,Incident,Type,State,Size,Updated,CurrentAsOf,IncidentTimeZone,IncidentType,Cause,DateOfOrigin,Location,IncidentCommander,Coordinates,Latitude,Longitude,TotalPersonnel,ContainmentPercent
+2025-08-03,"Adobe Mtn Fire - NVEKD","Wildfire","Nevada","7,500 Acres","13 hours 20 minutes ago","Sat, 08/02/2025 - 22:04","","Wildfire","","Sat, 08/02/2025 - 07:41","18 Miles South of Wild Horse, Nevada","","41° 23' 48.2'', -115° 41' 39.6 ''","41° 23' 48.2''","-115° 41' 39.6 ''","28","0%"

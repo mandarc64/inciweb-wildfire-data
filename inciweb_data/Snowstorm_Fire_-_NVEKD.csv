@@ -1,0 +1,2 @@
+ScrapeDate,Incident,Type,State,Size,Updated,CurrentAsOf,IncidentTimeZone,IncidentType,Cause,DateOfOrigin,Location,IncidentCommander,Coordinates,Latitude,Longitude,TotalPersonnel,ContainmentPercent
+2025-08-03,"Snowstorm Fire - NVEKD","Wildfire","Nevada","15,000 Acres","14 hours 18 minutes ago","Sat, 08/02/2025 - 21:06","Pacific Standard Time","Wildfire","","Fri, 08/01/2025 - 20:30","10 miles north of Midas, NV","","41° 23' 05.4'', -116° 50' 39.0 ''","41° 23' 05.4''","-116° 50' 39.0 ''","","0%"

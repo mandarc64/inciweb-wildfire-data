@@ -1,0 +1,2 @@
+ScrapeDate,Incident,Type,State,Size,Updated,CurrentAsOf,IncidentTimeZone,IncidentType,Cause,DateOfOrigin,Location,IncidentCommander,Coordinates,Latitude,Longitude,TotalPersonnel,ContainmentPercent
+2025-08-03,"Jakes Fire - NVEKD","Wildfire","Nevada","1,200 Acres","14 hours 14 minutes ago","Sat, 08/02/2025 - 21:10","","Wildfire","","","4 Mile SW of Midas, NV","","41° 12' 49.2'', -116° 51' 09.6 ''","41° 12' 49.2''","-116° 51' 09.6 ''","148","10%"
