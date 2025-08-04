@@ -1,0 +1,4 @@
+ScrapeDate,Incident,Type,State,Size,Updated,CurrentAsOf,IncidentTimeZone,IncidentType,Cause,DateOfOrigin,Location,IncidentCommander,Coordinates,Latitude,Longitude,TotalPersonnel,ContainmentPercent
+2025-08-04,"Leroux - COMRD","Wildfire","Colorado","250 Acres","5 minutes 21 seconds ago","Mon, 08/04/2025 - 11:24","Mountain Standard Time","Wildfire","Lightning","Sun, 08/03/2025 - 14:48","Redlands Mesa, Delta County Colorado","Currently Type 4, Type 3 team has been ordered as of 8/4/2025.
+
+BLM Southwest District has claimed ownership of Leroux Fire. Fire was started on BLM lands.","38° 52' 38.6'', -107° 46' 17 ''","38° 52' 38.6''","-107° 46' 17 ''","","0%"
