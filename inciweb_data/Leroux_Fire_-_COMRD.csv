@@ -1,0 +1,2 @@
+ScrapeDate,Incident,Type,State,Size,Updated,CurrentAsOf,IncidentTimeZone,IncidentType,Cause,DateOfOrigin,Location,IncidentCommander,Coordinates,Latitude,Longitude,TotalPersonnel,ContainmentPercent
+2025-08-05,"Leroux Fire - COMRD","Wildfire","Colorado","179 Acres","28 minutes 5 seconds ago","Tue, 08/05/2025 - 11:02","Mountain Standard Time","Wildfire","Undetermined","Sun, 08/03/2025 - 14:48","Redlands Mesa, Delta County Colorado","Fred Gross ICT3","38° 52' 38.6'', -107° 46' 17 ''","38° 52' 38.6''","-107° 46' 17 ''","45","0%"

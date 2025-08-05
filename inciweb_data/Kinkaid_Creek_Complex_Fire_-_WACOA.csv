@@ -1,0 +1,2 @@
+ScrapeDate,Incident,Type,State,Size,Updated,CurrentAsOf,IncidentTimeZone,IncidentType,Cause,DateOfOrigin,Location,IncidentCommander,Coordinates,Latitude,Longitude,TotalPersonnel,ContainmentPercent
+2025-08-05,"Kinkaid Creek Complex Fire - WACOA","Wildfire","Washington","313 Acres","11 hours 11 minutes ago","Tue, 08/05/2025 - 00:18","Pacific Standard Time","Wildfire","Lightning","Thu, 07/31/2025 - 14:57","8 Miles N of Nespelem, WA","Shane Robson","48° 15' 10'', -118° 53' 57 ''","48° 15' 10''","-118° 53' 57 ''","216","18%"

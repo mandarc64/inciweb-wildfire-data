@@ -1,0 +1,2 @@
+ScrapeDate,Incident,Type,State,Size,Updated,CurrentAsOf,IncidentTimeZone,IncidentType,Cause,DateOfOrigin,Location,IncidentCommander,Coordinates,Latitude,Longitude,TotalPersonnel,ContainmentPercent
+2025-08-05,"Rosa Fire - CABDF","Wildfire","California","1,200 Acres","2 hours 48 minutes ago","Tue, 08/05/2025 - 08:41","Pacific Standard Time","Wildfire","Under Investigation","Mon, 08/04/2025 - 00:35","Santa Rosa","US Forest Service is in Unified Command with CAL FIRE-RRU.","33° 34' 11'', -116° 31' 11 ''","33° 34' 11''","-116° 31' 11 ''","250","0%"
