@@ -1,0 +1,2 @@
+ScrapeDate,Incident,Type,State,Size,Updated,CurrentAsOf,IncidentTimeZone,IncidentType,Cause,DateOfOrigin,Location,IncidentCommander,Coordinates,Latitude,Longitude,TotalPersonnel,ContainmentPercent
+2025-08-06,"2025 BDF Gold Fire - CABDF","Wildfire","California","991 Acres","11 hours 30 minutes ago","Tue, 08/05/2025 - 23:47","Pacific Standard Time","Wildfire","Under Investigation","","1 mile NE of Holcomb Valley Campground","","34° 19' 2'', -116° 54' 38 ''","34° 19' 2''","-116° 54' 38 ''","500","5%"

@@ -1,0 +1,3 @@
+ScrapeDate,Incident,Type,State,Size,Updated,CurrentAsOf,IncidentTimeZone,IncidentType,Cause,DateOfOrigin,Location,IncidentCommander,Coordinates,Latitude,Longitude,TotalPersonnel,ContainmentPercent
+2025-08-06,"Silver Mountain Fire - TXTXS","Wildfire","Texas","300 Acres","14 minutes 20 seconds ago","Wed, 08/06/2025 - 11:03","Central Standard Time","Wildfire","Under investigation","Tue, 08/05/2025 - 19:24","Bexar County","T. Poe, Texas A&M Forest Service
+Bexar County","29° 11' 34.998'', -98° 32' 49.998 ''","29° 11' 34.998''","-98° 32' 49.998 ''","24","70%"

@@ -1,0 +1,2 @@
+ScrapeDate,Incident,Type,State,Size,Updated,CurrentAsOf,IncidentTimeZone,IncidentType,Cause,DateOfOrigin,Location,IncidentCommander,Coordinates,Latitude,Longitude,TotalPersonnel,ContainmentPercent
+2025-08-06,"Stoner Mesa Fire - COSJF","Wildfire","Colorado","250 Acres","1 hour 19 minutes ago","Wed, 08/06/2025 - 09:58","Mountain Standard Time","Wildfire","Undetermined","Tue, 08/05/2025 - 14:40","On San Juan National Forest - Stoner Mesa North of Highway 145","","37° 35' 39'', -108° 13' 44 ''","37° 35' 39''","-108° 13' 44 ''","","0%"
