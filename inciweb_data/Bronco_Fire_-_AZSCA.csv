@@ -1,0 +1,2 @@
+ScrapeDate,Incident,Type,State,Size,Updated,CurrentAsOf,IncidentTimeZone,IncidentType,Cause,DateOfOrigin,Location,IncidentCommander,Coordinates,Latitude,Longitude,TotalPersonnel,ContainmentPercent
+2025-08-07,"Bronco Fire - AZSCA","Wildfire","Arizona","3,200 Acres","21 hours 4 minutes ago","Wed, 08/06/2025 - 14:23","","Wildfire","Lightning/Natural","Sun, 08/03/2025 - 19:15","30 Miles Northeast of San Carlos, AZ","Aaron Norman","33° 39' 8'', -110° 13' 58 ''","33° 39' 8''","-110° 13' 58 ''","100","0%"

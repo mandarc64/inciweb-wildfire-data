@@ -2,3 +2,5 @@ ScrapeDate,Incident,Type,State,Size,Updated,CurrentAsOf,IncidentTimeZone,Inciden
 2025-08-05,"Leroux Fire - COMRD","Wildfire","Colorado","179 Acres","28 minutes 5 seconds ago","Tue, 08/05/2025 - 11:02","Mountain Standard Time","Wildfire","Undetermined","Sun, 08/03/2025 - 14:48","Redlands Mesa, Delta County Colorado","Fred Gross ICT3","38° 52' 38.6'', -107° 46' 17 ''","38° 52' 38.6''","-107° 46' 17 ''","45","0%"
 2025-08-06,"Leroux Fire - COMRD","Wildfire","Colorado","179 Acres","28 minutes 55 seconds ago","Wed, 08/06/2025 - 10:49","Mountain Standard Time","Wildfire","Lightning","Sun, 08/03/2025 - 14:48","Redlands Mesa, Delta County Colorado","Phil Daniels ICT3
 Brendan Ellis ICT3-t","38° 52' 38.6'', -107° 46' 17 ''","38° 52' 38.6''","-107° 46' 17 ''","93","0%"
+2025-08-07,"Leroux Fire - COMRD","Wildfire","Colorado","179 Acres","57 seconds ago","Thu, 08/07/2025 - 11:27","Mountain Standard Time","Wildfire","Lightning","Sun, 08/03/2025 - 14:48","5 Miles N of Hotchkiss, Delta County, Colorado","Phil Daniels ICT3
+Brennon Ellis ICT3-t","38° 52' 38.6'', -107° 46' 17 ''","38° 52' 38.6''","-107° 46' 17 ''","113","35%"

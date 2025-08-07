@@ -1,3 +1,5 @@
 ScrapeDate,Incident,Type,State,Size,Updated,CurrentAsOf,IncidentTimeZone,IncidentType,Cause,DateOfOrigin,Location,IncidentCommander,Coordinates,Latitude,Longitude,TotalPersonnel,ContainmentPercent
 2025-08-06,"Elk RBX Fire - COWRD","Wildfire","Colorado","8,304 Acres","40 minutes 35 seconds ago","Wed, 08/06/2025 - 10:37","Mountain Standard Time","Wildfire","Lightning","Sat, 08/02/2025 - 12:41","10 Miles SE of Meeker, Colorado","Incident Commander: Casey Cheesbrough
 Rocky Mountain Complex Incident Management Team 3","39° 57' 34'', -107° 44' 43 ''","39° 57' 34''","-107° 44' 43 ''","130","0%"
+2025-08-07,"Elk RBX Fire - COWRD","Wildfire","Colorado","14,250 Acres","1 hour 6 minutes ago","Thu, 08/07/2025 - 10:21","Mountain Standard Time","Wildfire","Lightning","Sat, 08/02/2025 - 12:41","10 Miles SE of Meeker, Colorado","Incident Commander: Casey Cheesbrough
+Rocky Mountain Complex Incident Management Team 3","39° 57' 34'', -107° 44' 43 ''","39° 57' 34''","-107° 44' 43 ''","338","0%"

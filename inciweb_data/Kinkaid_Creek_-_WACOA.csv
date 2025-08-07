@@ -1,0 +1,4 @@
+ScrapeDate,Incident,Type,State,Size,Updated,CurrentAsOf,IncidentTimeZone,IncidentType,Cause,DateOfOrigin,Location,IncidentCommander,Coordinates,Latitude,Longitude,TotalPersonnel,ContainmentPercent
+2025-08-07,"Kinkaid Creek - WACOA","Wildfire","Washington","261 Acres","10 hours 51 minutes ago","Thu, 08/07/2025 - 00:36","Pacific Standard Time","Wildfire","Undetermined","Thu, 07/31/2025 - 15:03","8 Miles N of Nespelem, WA","IC James Osborne
+Deputy IC Lonnie Click
+Deputy IC Randy Johnson","48° 15' 10'', -118° 53' 57 ''","48° 15' 10''","-118° 53' 57 ''","141","15%"

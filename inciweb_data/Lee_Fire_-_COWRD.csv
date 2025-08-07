@@ -1,3 +1,5 @@
 ScrapeDate,Incident,Type,State,Size,Updated,CurrentAsOf,IncidentTimeZone,IncidentType,Cause,DateOfOrigin,Location,IncidentCommander,Coordinates,Latitude,Longitude,TotalPersonnel,ContainmentPercent
 2025-08-06,"Lee Fire - COWRD","Wildfire","Colorado","22,497 Acres","40 minutes 18 seconds ago","Wed, 08/06/2025 - 10:37","Mountain Standard Time","Wildfire","Undetermined","Sat, 08/02/2025 - 16:59","11 Miles SW of Meeker, Colorado","Incident Commander: Casey Cheesbrough
 Rocky Mountain Complex Incident Management Team 3","39° 56' 02'', -108° 14' 02 ''","39° 56' 02''","-108° 14' 02 ''","106","0%"
+2025-08-07,"Lee Fire - COWRD","Wildfire","Colorado","45,000 Acres","1 hour ago","Thu, 08/07/2025 - 10:27","Mountain Standard Time","Wildfire","Undetermined","Sat, 08/02/2025 - 16:59","11 Miles SW of Meeker, Colorado","Incident Commander: Casey Cheesbrough
+Rocky Mountain Complex Incident Management Team 3","39° 56' 02'', -108° 14' 02 ''","39° 56' 02''","-108° 14' 02 ''","138","0%"
