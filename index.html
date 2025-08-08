@@ -20,6 +20,11 @@
       rel="stylesheet"
       href="https://cdn.datatables.net/responsive/2.5.0/css/responsive.dataTables.min.css"
     />
+    <!-- DataTables Buttons CSS -->
+    <link
+      rel="stylesheet"
+      href="https://cdn.datatables.net/buttons/2.4.2/css/buttons.dataTables.min.css"
+    />
 
     <style>
       body {
@@ -142,6 +147,18 @@
     <!-- DataTables -->
     <script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
     <script src="https://cdn.datatables.net/responsive/2.5.0/js/dataTables.responsive.min.js"></script>
+
+    <!-- JSZip for Excel export -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js"></script>
+
+    <!-- pdfmake for PDF export (optional) -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.2.7/pdfmake.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.2.7/vfs_fonts.js"></script>
+
+    <!-- DataTables Buttons -->
+    <script src="https://cdn.datatables.net/buttons/2.4.2/js/dataTables.buttons.min.js"></script>
+    <script src="https://cdn.datatables.net/buttons/2.4.2/js/buttons.html5.min.js"></script>
+    <script src="https://cdn.datatables.net/buttons/2.4.2/js/buttons.print.min.js"></script>
 
     <script>
       const GITHUB_USER = "mandarc64";
@@ -287,6 +304,29 @@
           pageLength: 10,
           autoWidth: false,
           columnDefs: [{ defaultContent: "-", targets: "_all" }],
+
+          // ✅ NEW LINES FOR EXPORT BUTTONS
+          dom: "Bfrtip", // Layout: Buttons, filter, table, pagination
+          buttons: [
+            {
+              extend: "excelHtml5",
+              text: "📥 Download Excel",
+              title: "Wildfire Incident Data",
+            },
+            {
+              extend: "csvHtml5",
+              text: "📥 Download CSV",
+              title: "Wildfire Incident Data",
+            },
+            {
+              extend: "pdfHtml5",
+              text: "📄 Download PDF",
+              title: "Wildfire Incident Data",
+              orientation: "landscape",
+              pageSize: "A4",
+            },
+            "print",
+          ],
         });
       }
 
