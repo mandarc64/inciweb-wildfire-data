@@ -1,2 +1,4 @@
 ScrapeDate,Incident,Type,State,Size,Updated,CurrentAsOf,IncidentTimeZone,IncidentType,Cause,DateOfOrigin,Location,IncidentCommander,Coordinates,Latitude,Longitude,TotalPersonnel,ContainmentPercent
 2025-08-07,"Bear Creek II - WACOA","Wildfire","Washington","","10 hours 34 minutes ago","Thu, 08/07/2025 - 00:53","","Wildfire","","","","","48° 20' 0'', -118° 47' 51 ''","48° 20' 0''","-118° 47' 51 ''","",""
+2025-08-08,"Bear Creek II - WACOA","Wildfire","Washington","260 Acres","10 hours 42 minutes ago","Fri, 08/08/2025 - 00:45","Pacific Standard Time","Wildfire","Undetermined","Mon, 08/04/2025 - 15:02","18 miles N of Keller, WA","IC-James Osborne
+Deputy IC's Lonnie Click and Randy Johnson","48° 20' 0'', -118° 47' 51 ''","48° 20' 0''","-118° 47' 51 ''","358","0%"
