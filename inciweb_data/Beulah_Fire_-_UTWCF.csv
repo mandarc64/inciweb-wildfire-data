@@ -1,0 +1,2 @@
+ScrapeDate,Incident,Type,State,Size,Updated,CurrentAsOf,IncidentTimeZone,IncidentType,Cause,DateOfOrigin,Location,IncidentCommander,Coordinates,Latitude,Longitude,TotalPersonnel,ContainmentPercent
+2025-08-09,"Beulah Fire - UTWCF","Wildfire","Utah","1,723 Acres","6 hours 6 minutes ago","Sat, 08/09/2025 - 11:30","Mountain Standard Time","Wildfire","","Thu, 08/07/2025 - 20:14","32 Miles NE of Kamas, UT","Scott Robison, Northern UT Interagency IMT Type 3","40° 48' 36'', -119° 42' 10 ''","40° 48' 36''","-119° 42' 10 ''","184","0%"
