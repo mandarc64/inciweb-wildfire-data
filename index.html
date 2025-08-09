@@ -165,14 +165,37 @@
       const GITHUB_REPO = "inciweb-wildfire-data";
       const CSV_FOLDER = "inciweb_data";
 
-      const csvBaseURL = `https://raw.githubusercontent.com/${GITHUB_USER}/${GITHUB_REPO}/master/${CSV_FOLDER}/`;
+      const csvBaseURL = `https://raw.githubusercontent.com/${GITHUB_USER}/${GITHUB_REPO}/feature/flight-logic/${CSV_FOLDER}/`;
       const apiURL = `https://api.github.com/repos/${GITHUB_USER}/${GITHUB_REPO}/contents/${CSV_FOLDER}`;
 
       const csvSelect = document.getElementById("csvSelect");
       const tableContainer = document.getElementById("tableContainer");
       const lastUpdatedEl = document.getElementById("lastUpdated");
 
+      // 🔗 Flight matches CSV (same repo)
+      const FLIGHT_MATCHES_FILE = "flight_fire_matches.csv"; // adjust path if in a folder
+      const flightMatchesURL = `https://raw.githubusercontent.com/${GITHUB_USER}/${GITHUB_REPO}/feature/flight-logic/${FLIGHT_MATCHES_FILE}`;
+
       let dataTable = null;
+
+      let flightsData = [];
+      // Start loading flights as soon as the page loads
+      const flightsReady = loadFlights();
+
+      function loadFlights() {
+        return new Promise((resolve) => {
+          Papa.parse(flightMatchesURL, {
+            download: true,
+            header: true,
+            skipEmptyLines: true,
+            complete: (res) => {
+              flightsData = res.data || [];
+              resolve();
+            },
+            error: () => resolve(), // fail-soft
+          });
+        });
+      }
 
       // ✅ Fetch CSV file list dynamically from GitHub API
       async function fetchCSVList() {
@@ -224,21 +247,34 @@
           download: true,
           header: true,
           skipEmptyLines: true,
-          complete: function (results) {
+          complete: async function (results) {
             console.log("Parsed CSV:", results.data);
 
-            const data = results.data;
+            const data = results.data || [];
+            await flightsReady; // ⏳ ensure flight CSV is loaded
+            const enriched = attachFlightsToRows(data); // ➕ add flights per row
 
             // ✅ Update "Last Updated" timestamp dynamically
             updateLastUpdated(data);
 
             // ✅ Render table
-            renderTable(data);
+            renderTable(enriched);
 
             // ✅ Render charts
-            renderCharts(data);
+            renderCharts(enriched);
           },
         });
+      }
+
+      function parseUpdatedAgoToMs(s = "") {
+        let ms = 0;
+        const day = s.match(/(\d+)\s*day/);
+        const hr = s.match(/(\d+)\s*hour/);
+        const min = s.match(/(\d+)\s*min/);
+        if (day) ms += Number(day[1]) * 86400000;
+        if (hr) ms += Number(hr[1]) * 3600000;
+        if (min) ms += Number(min[1]) * 60000;
+        return ms;
       }
 
       // ✅ Compute and display "Last updated at ..."
@@ -291,6 +327,19 @@
           data: col || null,
         }));
 
+        // Add an extra column at the end for flight count
+        columns.push({
+          title: "Flights",
+          data: "flights",
+          orderable: false,
+          render: (flights, type, row) => {
+            const n = Array.isArray(flights) ? flights.length : 0;
+            return n
+              ? `<a href="#" class="show-flights" data-count="${n}">${n} flights</a>`
+              : "—";
+          },
+        });
+
         // Destroy old DataTable if it exists
         if (dataTable) {
           dataTable.destroy();
@@ -328,6 +377,22 @@
             "print",
           ],
         });
+
+        // Row-level expander for flights
+        $("#incidentTable tbody").on("click", "a.show-flights", function (e) {
+          e.preventDefault();
+          const tr = $(this).closest("tr");
+          const row = $("#incidentTable").DataTable().row(tr);
+          const data = row.data();
+
+          if (row.child.isShown()) {
+            row.child.hide();
+            tr.removeClass("shown");
+          } else {
+            row.child(formatFlightsRow(data)).show();
+            tr.addClass("shown");
+          }
+        });
       }
 
       // ✅ Start by fetching CSV list
@@ -335,6 +400,38 @@
 
       let acresChart = null;
       let containmentChart = null;
+
+      function formatFlightsRow(rowData) {
+        const flights = rowData.flights || [];
+        if (!flights.length)
+          return `<div class="p-2">No flights matched during this period.</div>`;
+
+        const rows = flights
+          .map(
+            (f) => `
+          <tr>
+            <td>${f.FlightDate || ""}</td>
+            <td>${f.TailNumber || ""}</td>
+            <td>${f.Origin || ""}</td>
+            <td>${f.Destination || ""}</td>
+            <td>${f.DistanceKM || ""}</td>
+          </tr>
+        `
+          )
+          .join("");
+
+        return `
+          <div class="p-2">
+            <strong>Matching flights (${flights.length})</strong>
+            <table class="table table-sm table-bordered mt-2 mb-0">
+              <thead>
+                <tr><th>Date</th><th>Tail #</th><th>Origin</th><th>Destination</th><th>Distance (km)</th></tr>
+              </thead>
+              <tbody>${rows}</tbody>
+            </table>
+          </div>
+        `;
+      }
 
       function renderCharts(data) {
         // Clean dates for X-axis
@@ -422,6 +519,36 @@
             },
           }
         );
+      }
+
+      function attachFlightsToRows(fireRows) {
+        return fireRows.map((fire) => {
+          // Parse active window for this row
+          const scrape = new Date(fire.ScrapeDate);
+          const end = new Date(
+            scrape.getTime() - parseUpdatedAgoToMs(fire.Updated || "")
+          );
+          // DateOfOrigin may include time/weekday; grab the date part if needed
+          const startStr =
+            (fire.DateOfOrigin || "").match(/\d{2}\/\d{2}\/\d{4}/)?.[0] ||
+            fire.DateOfOrigin;
+          const start = startStr ? new Date(startStr) : null;
+
+          // If dates are missing, no flights
+          if (!start || isNaN(start) || !end || isNaN(end)) {
+            return { ...fire, flights: [] };
+          }
+
+          // Robust match: same Incident + FlightDate ∈ [start, end]
+          const matches = flightsData.filter((f) => {
+            if (f.FireIncident !== fire.Incident) return false;
+            const fd = f.FlightDate ? new Date(f.FlightDate) : null;
+            if (!fd || isNaN(fd)) return false;
+            return fd >= start && fd <= end;
+          });
+
+          return { ...fire, flights: matches };
+        });
       }
     </script>
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
