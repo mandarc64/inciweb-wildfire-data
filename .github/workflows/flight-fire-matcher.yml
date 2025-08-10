@@ -2,7 +2,7 @@ name: Build Flight–Fire Match CSV
 
 on:
   schedule:
-    - cron: "5 15 * * *" # 15:05 UTC (your first job is at 15:00)
+    - cron: "30 17 * * *" # 17:30 UTC (your first job is at 15:00)
   workflow_dispatch:
 
 jobs:
