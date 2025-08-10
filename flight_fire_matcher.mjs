@@ -296,8 +296,18 @@ async function scrapeAndMatchFlights() {
     )
   );
 
-  const browser = await puppeteer.connect({
-    browserURL: "http://127.0.0.1:9222", // or whatever port you're using
+  // const browser = await puppeteer.connect({
+  //   browserURL: "http://127.0.0.1:9222", // or whatever port you're using
+  // });
+  const browser = await puppeteer.launch({
+    headless: true,
+    args: [
+      "--no-sandbox",
+      "--disable-setuid-sandbox",
+      "--disable-dev-shm-usage",
+      "--disable-gpu",
+      "--disable-software-rasterizer",
+    ],
   });
   const page = await browser.newPage();
 
