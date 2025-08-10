@@ -88,6 +88,13 @@
         font-size: 0.85rem;
         color: #6c757d;
       }
+      .flights-block table {
+        background: #fff;
+      }
+      .flights-block strong {
+        display: inline-block;
+        margin-bottom: 0.25rem;
+      }
     </style>
   </head>
   <body>
@@ -178,6 +185,7 @@
 
       const FLIGHT_FOLDER = "flight_fire_data";
       const flightApiURL = `https://api.github.com/repos/${GITHUB_USER}/${GITHUB_REPO}/contents/${FLIGHT_FOLDER}?ref=${BRANCH}`;
+      const MAX_FLIGHT_FILES = 60;
 
       let dataTable = null;
 
@@ -187,41 +195,74 @@
 
       async function loadFlights() {
         try {
-          // list files in /flight_fire_data on the target branch
+          console.log("[Flights] Listing files in", flightApiURL);
           const res = await fetch(flightApiURL);
           if (!res.ok) throw new Error("Failed to list flight files");
           const files = await res.json();
 
-          // pick the newest CSV by filename (your files are timestamped)
+          // only CSVs
           const csvs = (files || []).filter(
-            (f) => f.type === "file" && f.name.endsWith(".csv")
+            (f) => f.type === "file" && f.name.toLowerCase().endsWith(".csv")
           );
           if (!csvs.length) {
+            console.warn("[Flights] No flight CSVs found.");
             flightsData = [];
             return;
           }
 
-          // sort by name ascending, then take the last (newest timestamp in name)
+          // sort by name ASC (timestamps in your filenames are ISO-like → lexicographic works)
           csvs.sort((a, b) => a.name.localeCompare(b.name));
-          const latest = csvs[csvs.length - 1].name;
 
-          const latestRawURL = `https://raw.githubusercontent.com/${GITHUB_USER}/${GITHUB_REPO}/${BRANCH}/${FLIGHT_FOLDER}/${latest}`;
+          // take the last K files
+          const recent = csvs.slice(-MAX_FLIGHT_FILES);
+          console.log(
+            `[Flights] Will load ${recent.length} of ${csvs.length} files (limit=${MAX_FLIGHT_FILES}).`
+          );
 
-          return new Promise((resolve) => {
-            Papa.parse(latestRawURL, {
-              download: true,
-              header: true,
-              skipEmptyLines: true,
-              complete: (res) => {
-                flightsData = res.data || [];
-                resolve();
-              },
-              error: () => {
-                flightsData = [];
-                resolve();
-              }, // fail-soft
+          // helper to parse one CSV into rows
+          const parseOne = (name) =>
+            new Promise((resolve) => {
+              const url = `https://raw.githubusercontent.com/${GITHUB_USER}/${GITHUB_REPO}/${BRANCH}/${FLIGHT_FOLDER}/${name}`;
+              Papa.parse(url, {
+                download: true,
+                header: true,
+                skipEmptyLines: true,
+                complete: (r) => resolve(r.data || []),
+                error: (e) => {
+                  console.warn("[Flights] parse error for", name, e);
+                  resolve([]);
+                },
+              });
             });
-          });
+
+          // load all recent CSVs
+          const allArrays = await Promise.all(
+            recent.map((f) => parseOne(f.name))
+          );
+          const combined = allArrays.flat();
+          console.log(
+            `[Flights] Loaded ${combined.length} rows before de-dup.`
+          );
+
+          // de-dup: keep the newest file’s row
+          // because we processed files in ascending order, later files overwrite earlier entries
+          const byKey = new Map();
+          const keyOf = (r) =>
+            `${r.TailNumber || ""}|${r.FlightDate || ""}|${r.Origin || ""}|${
+              r.Destination || ""
+            }|${r.FireIncident || ""}`;
+
+          for (const row of combined) {
+            byKey.set(keyOf(row), row); // later (newer) rows replace earlier ones
+          }
+
+          flightsData = Array.from(byKey.values());
+          console.log(`[Flights] After de-dup: ${flightsData.length} rows.`);
+
+          // optional debug preview
+          if (flightsData.length) {
+            console.log("[Flights] Sample row:", flightsData[0]);
+          }
         } catch (e) {
           console.error("Flight data load error:", e);
           flightsData = [];
@@ -350,13 +391,17 @@
         }
 
         // ✅ Get headers dynamically from the FIRST row
-        const headers = Object.keys(data[0]);
+        const headers = Object.keys(data[0]).filter((h) => h !== "flights");
         console.log("Detected Headers:", headers);
 
-        const columns = headers.map((col) => ({
-          title: col,
-          data: col || null,
-        }));
+        const columns = headers
+          .filter((col) => col !== "flights") // ⬅️ hide the raw flights array
+          .map((col) => ({ title: col, data: col }));
+
+        // ✅ Which column index is ScrapeDate?
+        const scrapeDateIdx = headers.indexOf("ScrapeDate");
+        // Fallback to the first column if ScrapeDate isn't found
+        const initialOrderIdx = scrapeDateIdx === -1 ? 0 : scrapeDateIdx;
 
         // Add an extra column at the end for flight count
         columns.push({
@@ -384,7 +429,8 @@
           pageLength: 10,
           autoWidth: false,
           columnDefs: [{ defaultContent: "-", targets: "_all" }],
-
+          // ✅ Default sort: ScrapeDate DESC (newest first)
+          order: [[initialOrderIdx, "desc"]],
           // ✅ NEW LINES FOR EXPORT BUTTONS
           dom: "Bfrtip", // Layout: Buttons, filter, table, pagination
           buttons: [
@@ -409,20 +455,64 @@
           ],
         });
 
-        // Row-level expander for flights
+        // Row-level expander for flights (inject inside the existing Responsive child row)
+        $("#incidentTable tbody").off("click", "a.show-flights"); // avoid double-binding on redraws
         $("#incidentTable tbody").on("click", "a.show-flights", function (e) {
           e.preventDefault();
-          const tr = $(this).closest("tr");
-          const row = $("#incidentTable").DataTable().row(tr);
-          const data = row.data();
+          e.stopPropagation(); // ✋ don't let Responsive toggle the row
 
-          if (row.child.isShown()) {
-            row.child.hide();
-            tr.removeClass("shown");
-          } else {
-            row.child(formatFlightsRow(data)).show();
-            tr.addClass("shown");
+          const dt = $("#incidentTable").DataTable();
+
+          // If the link sits inside the child row, the closest <tr> will be .child.
+          // Normalize to the *parent* data row:
+          let $tr = $(this).closest("tr");
+          if ($tr.hasClass("child")) $tr = $tr.prev("tr");
+
+          const row = dt.row($tr);
+          const rowData = row.data() || {};
+          const flightCount = Array.isArray(rowData.flights)
+            ? rowData.flights.length
+            : 0;
+
+          console.debug("[Flights click]", {
+            rowIndex: row.index(),
+            incident: rowData.Incident,
+            scrapeDate: rowData.ScrapeDate,
+            flights: flightCount,
+          });
+
+          // Ensure the Responsive details row is open
+          let $child = $tr.next("tr.child");
+          if (!$child.length || !$child.is(":visible")) {
+            console.debug("Child row not open; opening now…");
+            // Trigger Responsive's own toggle control so its details table is built
+            $tr.find("td.dtr-control").trigger("click");
+            $child = $tr.next("tr.child");
           }
+
+          // The child row has a single <td> that contains the details table/markup.
+          const $cell = $child.find("td");
+          if (!$cell.length) {
+            console.warn("No child-cell to inject into; bailing.");
+            return;
+          }
+
+          // Toggle our injected block
+          const EXISTING_SEL = ".flights-block";
+          const $existing = $cell.find(EXISTING_SEL);
+          if ($existing.length) {
+            console.debug("Removing existing flights block (toggle off).");
+            $existing.remove();
+            return;
+          }
+
+          console.debug("Injecting flights block into child.");
+          // Build and append the flights sub-table
+          const html = `
+            <div class="flights-block border-top mt-2 pt-2">
+              ${formatFlightsRow(rowData)}
+            </div>`;
+          $cell.append(html);
         });
       }
 
@@ -433,7 +523,11 @@
       let containmentChart = null;
 
       function formatFlightsRow(rowData) {
-        const flights = rowData.flights || [];
+        const flights = Array.isArray(rowData?.flights) ? rowData.flights : [];
+        console.debug("formatFlightsRow()", {
+          incident: rowData.Incident,
+          count: flights.length,
+        });
         if (!flights.length)
           return `<div class="p-2">No flights matched during this period.</div>`;
 

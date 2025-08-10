@@ -9,50 +9,50 @@ const DATA_DIR = "./inciweb_data";
 const RADIUS_KM = 30;
 const TAIL_NUMBERS = [
   "N131CG",
-  // "N132CG",
-  // "N136CG",
-  // "N137CG",
-  // "N138CG",
-  // "N140CG",
-  // "N291EA",
-  // "N292EA",
-  // "N293EA",
-  // "N294EA",
-  // "N295EA",
-  // "N296EA",
-  // "N297EA",
-  // "N325AC",
-  // "N354AC",
-  // "N355AC",
-  // "N366AC",
-  // "N374AC",
-  // "N385AC",
-  // "N386AC",
-  // "N389AC",
-  // "N416AC",
-  // "N635AC",
-  // "N839AC",
-  // "N988AC",
-  // "N998AC",
-  // "N406BT",
-  // "N415BT",
-  // "N417BT",
-  // "N418BT",
-  // "N419BT",
-  // "N470NA",
-  // "N471NA",
-  // "N472NA",
-  // "N473NA",
-  // "N474NA",
-  // "N475NA",
-  // "N476NA",
-  // "N477NA",
-  // "N478NA",
-  // "N479NA",
-  // "N522AX",
-  // "N603AX",
-  // "N612AX",
-  // "N17085",
+  "N132CG",
+  "N136CG",
+  "N137CG",
+  "N138CG",
+  "N140CG",
+  "N291EA",
+  "N292EA",
+  "N293EA",
+  "N294EA",
+  "N295EA",
+  "N296EA",
+  "N297EA",
+  "N325AC",
+  "N354AC",
+  "N355AC",
+  "N366AC",
+  "N374AC",
+  "N385AC",
+  "N386AC",
+  "N389AC",
+  "N416AC",
+  "N635AC",
+  "N839AC",
+  "N988AC",
+  "N998AC",
+  "N406BT",
+  "N415BT",
+  "N417BT",
+  "N418BT",
+  "N419BT",
+  "N470NA",
+  "N471NA",
+  "N472NA",
+  "N473NA",
+  "N474NA",
+  "N475NA",
+  "N476NA",
+  "N477NA",
+  "N478NA",
+  "N479NA",
+  "N522AX",
+  "N603AX",
+  "N612AX",
+  "N17085",
 ];
 
 // === UTILITIES ===
@@ -145,8 +145,10 @@ function parseDateOfOrigin(rawStr, file) {
 
 // === LOAD FIRES ===
 function loadFires() {
-  const fires = [];
   const files = fs.readdirSync(DATA_DIR).filter((f) => f.endsWith(".csv"));
+
+  // 1) Collect the newest snapshot per fire (by 'end' timestamp)
+  const latestByFire = new Map(); // key: incident|lat,lon  value: {parsed row w/ computed fields}
 
   for (const file of files) {
     const fullPath = path.join(DATA_DIR, file);
@@ -163,7 +165,7 @@ function loadFires() {
     } catch (err) {
       console.error(chalk.red(`❌ Error parsing CSV file: ${file}`));
       console.error(chalk.yellow(err.message));
-      continue; // Skip this file and move on
+      continue;
     }
 
     for (const row of rows) {
@@ -182,67 +184,88 @@ function loadFires() {
       if (!coords) continue;
 
       const start = parseDateOfOrigin(DateOfOrigin, file);
-      if (!start) continue; // skip if invalid
+      if (!start) continue;
 
-      // ⛔️ Manually skip edge case fire
-      if (Incident === "Elkhorn Fire - IDPAF") {
-        console.log(
-          chalk.yellow(`⚠️ Skipping Elkhorn Fire (hardcoded exception)`)
-        );
-        continue;
-      }
+      // hardcoded exception
+      if (Incident === "Elkhorn Fire - IDPAF") continue;
+
       const scrape = new Date(ScrapeDate);
       const updatedAgo = parseUpdatedAgo(Updated);
       const end = new Date(scrape.getTime() - updatedAgo);
 
-      // 🔁 Filter based on containment and staleness
       const containmentNum = parseFloat(
         ContainmentPercent?.replace("%", "") || "0"
       );
       const updatedDaysAgo = daysBetween(scrape, end);
 
-      if (containmentNum > 80 || updatedDaysAgo > 7) {
-        console.log(
-          chalk.gray(
-            `⏩ Skipping ${Incident} (Containment: ${containmentNum}%, Updated ${updatedDaysAgo}d ago)`
-          )
-        );
-        continue;
-      }
-
-      // console.log(chalk.blueBright(`\n🔥 Fire: ${Incident}`));
-      // console.log(
-      //   chalk.gray(
-      //     `🗓️  Active: ${start.toISOString().split("T")[0]} → ${
-      //       end.toISOString().split("T")[0]
-      //     }`
-      //   )
-      // );
-      // console.log(
-      //   chalk.gray(
-      //     `📍 Target Coords: lat=${coords.lat.toFixed(
-      //       6
-      //     )}, lon=${coords.lon.toFixed(6)}`
-      //   )
-      // );
-
-      fires.push({
+      const key = `${Incident}|${coords.lat.toFixed(4)},${coords.lon.toFixed(
+        4
+      )}`;
+      const candidate = {
         incident: Incident,
         lat: coords.lat,
         lon: coords.lon,
         start,
         end,
-      });
+        scrape,
+        containmentNum,
+        updatedDaysAgo,
+      };
+
+      // keep the most recent snapshot (max 'end')
+      const existing = latestByFire.get(key);
+      if (!existing || candidate.end > existing.end) {
+        latestByFire.set(key, candidate);
+      }
     }
   }
 
+  // 2) Now apply filters ONLY to the latest snapshot for each fire
+  const fires = [];
+  for (const fire of latestByFire.values()) {
+    console.log(
+      chalk.magenta(
+        `🔍 Fire (latest): ${fire.incident}, Containment: ${fire.containmentNum}%, Updated: ${fire.updatedDaysAgo}d ago`
+      )
+    );
+
+    // containment/staleness
+    if (fire.containmentNum > 80 || fire.updatedDaysAgo > 7) {
+      console.log(
+        chalk.gray(
+          `⏩ Skipping ${fire.incident} (Containment: ${fire.containmentNum}%, Updated ${fire.updatedDaysAgo}d ago)`
+        )
+      );
+      continue;
+    }
+
+    // ignore >30 days old (based on date of origin)
+    const daysSinceOrigin = daysBetween(new Date(), fire.start);
+    if (daysSinceOrigin > 30) {
+      console.log(
+        chalk.gray(
+          `⏩ Skipping ${fire.incident} (Started ${daysSinceOrigin} days ago — too old)`
+        )
+      );
+      continue;
+    }
+
+    fires.push({
+      incident: fire.incident,
+      lat: fire.lat,
+      lon: fire.lon,
+      start: fire.start,
+      end: fire.end,
+    });
+  }
+
+  // 3) Determine earliest start among the already-filtered fires
   let earliestStart = null;
   let earliestFire = null;
-
   if (fires.length) {
-    const sorted = fires.sort((a, b) => a.start - b.start);
-    earliestStart = sorted[0].start;
-    earliestFire = sorted[0].incident;
+    fires.sort((a, b) => a.start - b.start);
+    earliestStart = fires[0].start;
+    earliestFire = fires[0].incident;
   }
 
   return { fires, earliestStart, earliestFire };
@@ -259,16 +282,15 @@ async function scrapeAndMatchFlights() {
   }
 
   const today = new Date();
-  const FLIGHT_LOOKBACK_DAYS = daysBetween(today, earliestStart);
+  const LOOKBACK_DAYS = 3; // FlightAware free window
+
   console.log(
-    chalk.yellow(
-      `🔎 Using dynamic FLIGHT_LOOKBACK_DAYS = ${FLIGHT_LOOKBACK_DAYS}`
-    )
+    chalk.yellow(`🔎 Using dynamic LOOKBACK_DAYS = ${LOOKBACK_DAYS}`)
   );
 
   console.log(
     chalk.yellow(
-      `🔎 Using dynamic FLIGHT_LOOKBACK_DAYS = ${FLIGHT_LOOKBACK_DAYS} (from "${earliestFire}" on ${
+      `🔎 Using dynamic LOOKBACK_DAYS = ${LOOKBACK_DAYS} (from "${earliestFire}" on ${
         earliestStart.toISOString().split("T")[0]
       })`
     )
@@ -278,26 +300,50 @@ async function scrapeAndMatchFlights() {
     browserURL: "http://127.0.0.1:9222", // or whatever port you're using
   });
   const page = await browser.newPage();
-  const results = [];
+
+  // === Set up output CSV file ===
+  const OUTPUT_DIR = path.join(process.cwd(), "flight_fire_data");
+  if (!fs.existsSync(OUTPUT_DIR)) fs.mkdirSync(OUTPUT_DIR);
+
+  const timestamp = new Date()
+    .toISOString()
+    .replace(/[:T]/g, "-")
+    .split(".")[0];
+  const filename = `flight_fire_matches_${timestamp}.csv`;
+  const filepath = path.join(OUTPUT_DIR, filename);
+
+  // Write CSV header
+  fs.writeFileSync(
+    filepath,
+    "TailNumber,FlightDate,Origin,Destination,FireIncident,FireStart,FireEnd,DistanceKM\n"
+  );
 
   for (const tail of TAIL_NUMBERS) {
     console.log(chalk.cyan(`✈️  Checking ${tail}...`));
     const historyUrl = `https://www.flightaware.com/live/flight/${tail}/history`;
     await page.goto(historyUrl, { waitUntil: "networkidle2" });
+    await page.waitForSelector("table.prettyTable tbody", { timeout: 30_000 });
 
     const flights = await page.$$eval("table.prettyTable tbody tr", (rows) =>
       rows
         .map((tr) => {
-          const tds = [...tr.querySelectorAll("td")];
-          const dateText = tds[0]?.innerText.trim();
-          const origin = tds[1]?.innerText.trim();
-          const destination = tds[2]?.innerText.trim();
-          const href = tr
-            .querySelector("a[href*='/history/']")
-            ?.getAttribute("href");
-          return { date: dateText, origin, destination, href };
+          const tds = tr.querySelectorAll("td");
+          if (!tds.length) return null;
+
+          // Use innerText (not textContent) and the correct column indices:
+          // 0: Date, 1: Aircraft, 2: From, 3: To, 4: Departure, 5: Arrival, 6: Duration
+          const clean = (s) => (s ? s.replace(/\s+/g, " ").trim() : "");
+
+          const dateText = clean(tds[0]?.innerText);
+          const origin = clean(tds[2]?.innerText) || "Unknown";
+          const destination = clean(tds[3]?.innerText) || "Unknown";
+
+          const link = tr.querySelector('a[href*="/history/"]');
+          const href = link ? link.getAttribute("href") : null;
+
+          return href ? { date: dateText, origin, destination, href } : null;
         })
-        .filter((f) => f.href)
+        .filter(Boolean)
     );
 
     const parsedFlights = flights.map((f) => {
@@ -323,7 +369,8 @@ async function scrapeAndMatchFlights() {
     const filteredFlights = parsedFlights.filter((f) => {
       const flightDate = new Date(f.isoDate);
       const daysAgo = daysBetween(today, flightDate);
-      return daysAgo <= FLIGHT_LOOKBACK_DAYS;
+      // keep yesterday..3 days ago, exclude "today"
+      return daysAgo >= 1 && daysAgo <= LOOKBACK_DAYS;
     });
 
     for (const flight of filteredFlights) {
@@ -361,16 +408,19 @@ async function scrapeAndMatchFlights() {
                 `    ✅ Match with ${fire.incident} — ${dist.toFixed(2)} km`
               )
             );
-            results.push({
-              tail,
-              flightDate: flight.isoDate,
-              fire: fire.incident,
-              fireDateStart: fire.start.toISOString().split("T")[0],
-              fireDateEnd: fire.end.toISOString().split("T")[0],
-              distance: dist.toFixed(2),
-              origin: flight.origin,
-              destination: flight.destination,
-            });
+            const csvLine =
+              [
+                tail,
+                flight.isoDate,
+                `"${flight.origin.replace(/"/g, '""')}"`,
+                `"${flight.destination.replace(/"/g, '""')}"`,
+                `"${fire.incident.replace(/"/g, '""')}"`,
+                fire.start.toISOString().split("T")[0],
+                fire.end.toISOString().split("T")[0],
+                dist.toFixed(2),
+              ].join(",") + "\n";
+
+            fs.appendFileSync(filepath, csvLine);
             break; // Only one match per fire per flight needed
           }
         }
@@ -379,18 +429,7 @@ async function scrapeAndMatchFlights() {
   }
 
   await browser.close();
-
-  // === Write results ===
-  const out = [
-    "TailNumber,FlightDate,Origin,Destination,FireIncident,FireStart,FireEnd,DistanceKM",
-    ...results.map(
-      (r) =>
-        `${r.tail},${r.flightDate},${r.origin},${r.destination},${r.fire},${r.fireDateStart},${r.fireDateEnd},${r.distance}`
-    ),
-  ];
-
-  fs.writeFileSync("flight_fire_matches.csv", out.join("\n"));
-  console.log(chalk.green(`\n✅ Matches saved to flight_fire_matches.csv`));
+  console.log(chalk.green(`\n✅ All matches saved to ${filepath}`));
 }
 
 scrapeAndMatchFlights();

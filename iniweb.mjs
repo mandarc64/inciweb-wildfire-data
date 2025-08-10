@@ -93,7 +93,6 @@ function hasChanged(lastRow, newRow) {
 
 // 🛠 Scrape incident detail page for extra info (improved Coordinates parsing)
 async function scrapeIncidentDetails(page, url) {
-  console.log(`   ↳ Fetching details from ${url}`);
   try {
     await page.goto(url, { waitUntil: "networkidle2", timeout: 60000 });
 
@@ -134,7 +133,6 @@ async function scrapeIncidentDetails(page, url) {
             // Get all text including hidden childNodes & <div>
             let combined = td.innerText.trim();
             combined = combined.replace(/\s+/g, " "); // normalize spaces
-            console.log("[DEBUG FIXED combined coords]", combined);
 
             // Regex: flexible to match decimals + degrees
             const latMatch = combined.match(/([\d°'\.\s]+)\s*Latitude/i);
@@ -187,22 +185,6 @@ async function scrapeIncidentDetails(page, url) {
         },
       };
     });
-
-    // Print debug for Coordinates extraction
-    console.log("   [DEBUG] Keys found:", details.debug.keysFound);
-    console.log(
-      "   [DEBUG] Coordinates innerHTML:",
-      details.debug.rawCoordHtml
-    );
-    console.log(
-      "   [DEBUG] Coordinates innerText:",
-      details.debug.rawCoordText
-    );
-    console.log(
-      "   [DEBUG] Coordinates childNodes:",
-      details.debug.rawCoordNodes
-    );
-    console.log("   [DEBUG] Extracted details:", details.extracted);
 
     return details.extracted;
   } catch (err) {
@@ -268,8 +250,6 @@ async function scrapeInciwebWildfires() {
 
   // Filter only within last 21 days
   wildfires = wildfires.filter((wf) => isWithin21Days(wf.updated));
-
-  console.log(`🔥 Found ${wildfires.length} active wildfires (last 21 days)`);
 
   const scrapeDate = new Date().toISOString().split("T")[0]; // YYYY-MM-DD
 
@@ -349,7 +329,6 @@ async function scrapeInciwebWildfires() {
       ].join(",") + "\n";
 
     fs.appendFileSync(filePath, rowLine, "utf8");
-    console.log(`✅ Updated: ${wf.incident}`);
   }
 
   await browser.close();

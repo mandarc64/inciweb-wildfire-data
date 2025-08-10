@@ -1,0 +1,42 @@
+name: Build Flight–Fire Match CSV
+
+on:
+  schedule:
+    - cron: "5 15 * * *" # 15:05 UTC (your first job is at 15:00)
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # allow pushing back to repo
+    concurrency:
+      group: flight-fire-matcher
+      cancel-in-progress: true
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          persist-credentials: true
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run matcher
+        run: node flight_fire_matcher.mjs
+
+      - name: Commit & Push CSV
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          # In case the 15:00 job pushed just now, pull/rebase to avoid conflicts
+          git pull --rebase
+          git add flight_fire_matches.csv
+          git diff --quiet && git diff --staged --quiet || git commit -m "Auto-update flight_fire_matches.csv $(date -u +'%Y-%m-%d %H:%M:%S UTC')"
+          git push
