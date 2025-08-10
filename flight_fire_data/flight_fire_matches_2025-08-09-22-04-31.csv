@@ -1,0 +1,269 @@
+TailNumber,FlightDate,Origin,Destination,FireIncident,FireStart,FireEnd,DistanceKM
+N137CG,2025-08-07,"DestinationPhoenix-Mesa Gateway (KIWA)","Departure07:05PM MST","Bronco Fire - AZSCA",2025-08-03,2025-08-07,27.41
+N137CG,2025-08-07,"DestinationPhoenix-Mesa Gateway (KIWA)","Departure06:00PM MST","Bronco Fire - AZSCA",2025-08-03,2025-08-07,29.13
+N137CG,2025-08-07,"DestinationPhoenix-Mesa Gateway (KIWA)","Departure04:49PM MST","Bronco Fire - AZSCA",2025-08-03,2025-08-07,29.50
+N137CG,2025-08-07,"DestinationPhoenix-Mesa Gateway (KIWA)","Departure03:44PM MST","Bronco Fire - AZSCA",2025-08-03,2025-08-07,28.60
+N137CG,2025-08-07,"DestinationPhoenix-Mesa Gateway (KIWA)","Departure12:50PM MDT","Bronco Fire - AZSCA",2025-08-03,2025-08-07,29.56
+N137CG,2025-08-06,"DestinationCedar City Rgnl (KCDC)","Departure06:41PM MDT","Monroe Canyon - UTFIF",2025-07-13,2025-08-07,17.05
+N137CG,2025-08-06,"DestinationCedar City Rgnl (KCDC)","Departure05:43PM MDT","Monroe Canyon - UTFIF",2025-07-13,2025-08-07,26.72
+N137CG,2025-08-06,"DestinationCedar City Rgnl (KCDC)","Departure04:45PM MDT","Monroe Canyon - UTFIF",2025-07-13,2025-08-07,27.11
+N137CG,2025-08-06,"DestinationCedar City Rgnl (KCDC)","Departure03:39PM MDT","Monroe Canyon - UTFIF",2025-07-13,2025-08-07,26.41
+N137CG,2025-08-06,"DestinationCedar City Rgnl (KCDC)","Departure02:38PM MDT","Monroe Canyon - UTFIF",2025-07-13,2025-08-07,29.16
+N137CG,2025-08-06,"DestinationCedar City Rgnl (KCDC)","Departure12:13PM MDT","Monroe Canyon - UTFIF",2025-07-13,2025-08-07,26.63
+N137CG,2025-08-06,"DestinationCedar City Rgnl (KCDC)","Departure11:08AM MDT","Monroe Canyon - UTFIF",2025-07-13,2025-08-07,28.95
+N137CG,2025-08-06,"DestinationCedar City Rgnl (KCDC)","Departure10:05AM MDT","Monroe Canyon - UTFIF",2025-07-13,2025-08-07,28.03
+N140CG,2025-08-07,"DestinationSanta Maria (KSMX)","Departure07:02PM PDT","Gifford Fire - CALPF",2025-08-01,2025-08-07,29.80
+N140CG,2025-08-07,"DestinationGeneral Wm J Fox Airfield (KWJF)","Departure04:29PM PDT","Gifford Fire - CALPF",2025-08-01,2025-08-07,29.91
+N140CG,2025-08-06,"DestinationSanta Maria (KSMX)","Departure05:40PM PDT","Gifford Fire - CALPF",2025-08-01,2025-08-07,29.40
+N140CG,2025-08-06,"DestinationSanta Maria (KSMX)","Departure04:51PM PDT","Gifford Fire - CALPF",2025-08-01,2025-08-07,28.79
+N140CG,2025-08-06,"DestinationSanta Maria (KSMX)","Departure04:15PM PDT","Gifford Fire - CALPF",2025-08-01,2025-08-07,28.77
+N140CG,2025-08-06,"DestinationSanta Maria (KSMX)","Departure03:18PM PDT","Gifford Fire - CALPF",2025-08-01,2025-08-07,28.68
+N140CG,2025-08-06,"DestinationSanta Maria (KSMX)","Departure02:36PM PDT","Gifford Fire - CALPF",2025-08-01,2025-08-07,29.01
+N140CG,2025-08-06,"DestinationSanta Maria (KSMX)","Departure11:21AM PDT","Gifford Fire - CALPF",2025-08-01,2025-08-07,28.90
+N140CG,2025-08-06,"DestinationSanta Maria (KSMX)","Departure10:33AM PDT","Gifford Fire - CALPF",2025-08-01,2025-08-07,28.70
+N140CG,2025-08-06,"DestinationSanta Maria (KSMX)","Departure09:38AM PDT","Gifford Fire - CALPF",2025-08-01,2025-08-07,28.36
+N291EA,2025-08-06,"DestinationSanta Maria (KSMX)","Departure05:44PM PDT","Gifford Fire - CALPF",2025-08-01,2025-08-07,28.60
+N291EA,2025-08-06,"DestinationSanta Maria (KSMX)","Departure05:03PM PDT","Gifford Fire - CALPF",2025-08-01,2025-08-07,29.29
+N291EA,2025-08-06,"DestinationSanta Maria (KSMX)","Departure04:33PM PDT","Gifford Fire - CALPF",2025-08-01,2025-08-07,29.36
+N291EA,2025-08-06,"DestinationSanta Maria (KSMX)","Departure03:39PM PDT","Gifford Fire - CALPF",2025-08-01,2025-08-07,29.90
+N291EA,2025-08-06,"DestinationSanta Maria (KSMX)","Departure03:01PM PDT","Gifford Fire - CALPF",2025-08-01,2025-08-07,29.72
+N291EA,2025-08-06,"DestinationSanta Maria (KSMX)","Departure02:27PM PDT","Gifford Fire - CALPF",2025-08-01,2025-08-07,28.90
+N291EA,2025-08-06,"DestinationSanta Maria (KSMX)","Departure10:44AM PDT","Gifford Fire - CALPF",2025-08-01,2025-08-07,28.63
+N291EA,2025-08-06,"DestinationSanta Maria (KSMX)","Departure09:58AM PDT","Gifford Fire - CALPF",2025-08-01,2025-08-07,28.20
+N291EA,2025-08-06,"DestinationSanta Maria (KSMX)","Departure09:17AM PDT","Gifford Fire - CALPF",2025-08-01,2025-08-07,29.17
+N293EA,2025-08-06,"DestinationCedar City Rgnl (KCDC)","Departure07:17PM MDT","Monroe Canyon - UTFIF",2025-07-13,2025-08-07,28.96
+N293EA,2025-08-06,"DestinationCedar City Rgnl (KCDC)","Departure06:06PM MDT","Monroe Canyon - UTFIF",2025-07-13,2025-08-07,27.63
+N293EA,2025-08-06,"DestinationCedar City Rgnl (KCDC)","Departure05:06PM MDT","Monroe Canyon - UTFIF",2025-07-13,2025-08-07,20.88
+N293EA,2025-08-06,"DestinationCedar City Rgnl (KCDC)","Departure03:57PM MDT","Monroe Canyon - UTFIF",2025-07-13,2025-08-07,26.86
+N293EA,2025-08-06,"DestinationCedar City Rgnl (KCDC)","Departure02:50PM MDT","Monroe Canyon - UTFIF",2025-07-13,2025-08-07,25.88
+N293EA,2025-08-06,"DestinationCedar City Rgnl (KCDC)","Departure12:51PM MDT","Monroe Canyon - UTFIF",2025-07-13,2025-08-07,26.55
+N293EA,2025-08-06,"DestinationCedar City Rgnl (KCDC)","Departure11:54AM MDT","Monroe Canyon - UTFIF",2025-07-13,2025-08-07,26.11
+N293EA,2025-08-06,"DestinationCedar City Rgnl (KCDC)","Departure10:54AM MDT","Monroe Canyon - UTFIF",2025-07-13,2025-08-07,29.99
+N293EA,2025-08-06,"DestinationCedar City Rgnl (KCDC)","Departure09:47AM MDT","Monroe Canyon - UTFIF",2025-07-13,2025-08-07,29.89
+N294EA,2025-08-07,"DestinationPhoenix-Mesa Gateway (KIWA)","Departure06:13PM MST","Bronco Fire - AZSCA",2025-08-03,2025-08-07,29.38
+N294EA,2025-08-07,"DestinationPhoenix-Mesa Gateway (KIWA)","Departure05:30PM MDT","Bronco Fire - AZSCA",2025-08-03,2025-08-07,8.48
+N294EA,2025-08-06,"DestinationDurango-La Plata County (KDRO)","Departure06:59PM MDT","Middle Mesa Fire - NMCAF",2025-08-01,2025-08-07,28.17
+N294EA,2025-08-06,"DestinationDurango-La Plata County (KDRO)","Departure06:21PM MDT","Middle Mesa Fire - NMCAF",2025-08-01,2025-08-07,29.98
+N294EA,2025-08-06,"DestinationDurango-La Plata County (KDRO)","Departure05:41PM MDT","Middle Mesa Fire - NMCAF",2025-08-01,2025-08-07,26.86
+N294EA,2025-08-06,"DestinationDurango-La Plata County (KDRO)","Departure04:49PM MDT","Middle Mesa Fire - NMCAF",2025-08-01,2025-08-07,29.94
+N294EA,2025-08-06,"DestinationDurango-La Plata County (KDRO)","Departure04:09PM MDT","Middle Mesa Fire - NMCAF",2025-08-01,2025-08-07,28.66
+N294EA,2025-08-06,"DestinationDurango-La Plata County (KDRO)","Departure03:29PM MDT","Middle Mesa Fire - NMCAF",2025-08-01,2025-08-07,29.68
+N294EA,2025-08-06,"DestinationDurango-La Plata County (KDRO)","Departure02:52PM MDT","Middle Mesa Fire - NMCAF",2025-08-01,2025-08-07,28.97
+N295EA,2025-08-07,"DestinationPhoenix-Mesa Gateway (KIWA)","Departure06:59PM MST","Bronco Fire - AZSCA",2025-08-03,2025-08-07,25.94
+N295EA,2025-08-07,"DestinationPhoenix-Mesa Gateway (KIWA)","Departure05:55PM MST","Bronco Fire - AZSCA",2025-08-03,2025-08-07,26.78
+N295EA,2025-08-07,"DestinationPhoenix-Mesa Gateway (KIWA)","Departure04:38PM MST","Bronco Fire - AZSCA",2025-08-03,2025-08-07,28.42
+N295EA,2025-08-07,"DestinationPhoenix-Mesa Gateway (KIWA)","Departure03:31PM MST","Bronco Fire - AZSCA",2025-08-03,2025-08-07,28.53
+N295EA,2025-08-06,"DestinationCedar City Rgnl (KCDC)","Departure07:06PM MDT","Monroe Canyon - UTFIF",2025-07-13,2025-08-07,27.53
+N295EA,2025-08-06,"DestinationCedar City Rgnl (KCDC)","Departure06:05PM MDT","Monroe Canyon - UTFIF",2025-07-13,2025-08-07,17.66
+N295EA,2025-08-06,"DestinationCedar City Rgnl (KCDC)","Departure04:50PM MDT","Monroe Canyon - UTFIF",2025-07-13,2025-08-07,29.02
+N295EA,2025-08-06,"DestinationCedar City Rgnl (KCDC)","Departure03:52PM MDT","Monroe Canyon - UTFIF",2025-07-13,2025-08-07,27.43
+N295EA,2025-08-06,"DestinationCedar City Rgnl (KCDC)","Departure02:37PM MDT","Monroe Canyon - UTFIF",2025-07-13,2025-08-07,25.88
+N295EA,2025-08-06,"DestinationCedar City Rgnl (KCDC)","Departure12:11PM MDT","Monroe Canyon - UTFIF",2025-07-13,2025-08-07,29.43
+N295EA,2025-08-06,"DestinationCedar City Rgnl (KCDC)","Departure11:03AM MDT","Monroe Canyon - UTFIF",2025-07-13,2025-08-07,29.73
+N295EA,2025-08-06,"DestinationCedar City Rgnl (KCDC)","Departure09:55AM MDT","Monroe Canyon - UTFIF",2025-07-13,2025-08-07,26.45
+N296EA,2025-08-07,"DestinationPhoenix-Mesa Gateway (KIWA)","Departure06:32PM MST","Bronco Fire - AZSCA",2025-08-03,2025-08-07,13.39
+N296EA,2025-08-07,"DestinationPhoenix-Mesa Gateway (KIWA)","Departure05:33PM MDT","Bronco Fire - AZSCA",2025-08-03,2025-08-07,14.13
+N296EA,2025-08-06,"DestinationDurango-La Plata County (KDRO)","Departure07:25PM MDT","Middle Mesa Fire - NMCAF",2025-08-01,2025-08-07,29.76
+N296EA,2025-08-06,"DestinationDurango-La Plata County (KDRO)","Departure06:39PM MDT","Middle Mesa Fire - NMCAF",2025-08-01,2025-08-07,26.49
+N296EA,2025-08-06,"DestinationDurango-La Plata County (KDRO)","Departure05:55PM MDT","Middle Mesa Fire - NMCAF",2025-08-01,2025-08-07,26.79
+N296EA,2025-08-06,"DestinationDurango-La Plata County (KDRO)","Departure04:54PM MDT","Middle Mesa Fire - NMCAF",2025-08-01,2025-08-07,29.28
+N296EA,2025-08-06,"DestinationDurango-La Plata County (KDRO)","Departure04:14PM MDT","Middle Mesa Fire - NMCAF",2025-08-01,2025-08-07,29.64
+N296EA,2025-08-06,"DestinationDurango-La Plata County (KDRO)","Departure03:36PM MDT","Middle Mesa Fire - NMCAF",2025-08-01,2025-08-07,28.77
+N296EA,2025-08-06,"DestinationDurango-La Plata County (KDRO)","Departure02:54PM MDT","Middle Mesa Fire - NMCAF",2025-08-01,2025-08-07,29.03
+N297EA,2025-08-07,"DestinationColorado Sprgs Muni (KCOS)","Departure06:25PM MDT","Elk RBX Fire - COWRD",2025-08-02,2025-08-07,29.36
+N297EA,2025-08-07,"DestinationColorado Sprgs Muni (KCOS)","Departure06:25PM MDT","Lee Fire - COWRD",2025-08-02,2025-08-07,28.90
+N297EA,2025-08-07,"DestinationGrand Junction Rgnl (KGJT)","Departure05:31PM MDT","Lee Fire - COWRD",2025-08-02,2025-08-07,27.34
+N297EA,2025-08-07,"DestinationGrand Junction Rgnl (KGJT)","Departure04:37PM MDT","Lee Fire - COWRD",2025-08-02,2025-08-07,29.73
+N297EA,2025-08-07,"DestinationGrand Junction Rgnl (KGJT)","Departure03:44PM MDT","Lee Fire - COWRD",2025-08-02,2025-08-07,27.94
+N297EA,2025-08-07,"DestinationGrand Junction Rgnl (KGJT)","Departure02:56PM MDT","Elk RBX Fire - COWRD",2025-08-02,2025-08-07,29.37
+N297EA,2025-08-07,"DestinationGrand Junction Rgnl (KGJT)","Departure02:56PM MDT","Lee Fire - COWRD",2025-08-02,2025-08-07,27.50
+N297EA,2025-08-07,"DestinationGrand Junction Rgnl (KGJT)","Departure01:31PM MDT","Elk RBX Fire - COWRD",2025-08-02,2025-08-07,27.64
+N297EA,2025-08-07,"DestinationGrand Junction Rgnl (KGJT)","Departure01:31PM MDT","Lee Fire - COWRD",2025-08-02,2025-08-07,28.55
+N297EA,2025-08-06,"DestinationColorado Sprgs Muni (KCOS)","Departure07:42PM MDT","Elk RBX Fire - COWRD",2025-08-02,2025-08-07,27.52
+N297EA,2025-08-06,"DestinationColorado Sprgs Muni (KCOS)","Departure07:42PM MDT","Lee Fire - COWRD",2025-08-02,2025-08-07,27.81
+N297EA,2025-08-06,"DestinationGrand Junction Rgnl (KGJT)","Departure06:42PM MDT","Lee Fire - COWRD",2025-08-02,2025-08-07,26.12
+N297EA,2025-08-06,"DestinationGrand Junction Rgnl (KGJT)","Departure05:45PM MDT","Lee Fire - COWRD",2025-08-02,2025-08-07,29.54
+N297EA,2025-08-06,"DestinationGrand Junction Rgnl (KGJT)","Departure03:48PM MDT","Elk RBX Fire - COWRD",2025-08-02,2025-08-07,28.13
+N297EA,2025-08-06,"DestinationGrand Junction Rgnl (KGJT)","Departure03:48PM MDT","Lee Fire - COWRD",2025-08-02,2025-08-07,29.69
+N297EA,2025-08-06,"DestinationGrand Junction Rgnl (KGJT)","Departure02:51PM MDT","Elk RBX Fire - COWRD",2025-08-02,2025-08-07,27.54
+N297EA,2025-08-06,"DestinationGrand Junction Rgnl (KGJT)","Departure02:51PM MDT","Lee Fire - COWRD",2025-08-02,2025-08-07,27.61
+N297EA,2025-08-06,"DestinationGrand Junction Rgnl (KGJT)","Departure12:14PM MDT","Turner Gulch - COGRD",2025-07-10,2025-08-07,28.59
+N297EA,2025-08-06,"DestinationGrand Junction Rgnl (KGJT)","Departure10:48AM MDT","Turner Gulch - COGRD",2025-07-10,2025-08-07,28.85
+N297EA,2025-08-06,"DestinationGrand Junction Rgnl (KGJT)","Departure10:48AM MDT","Leroux Fire - COMRD",2025-08-03,2025-08-07,23.69
+N355AC,2025-08-07,"DestinationColorado Sprgs Muni (KCOS)","Departure06:36PM MDT","Elk RBX Fire - COWRD",2025-08-02,2025-08-07,29.76
+N355AC,2025-08-07,"DestinationColorado Sprgs Muni (KCOS)","Departure06:36PM MDT","Lee Fire - COWRD",2025-08-02,2025-08-07,27.54
+N355AC,2025-08-07,"DestinationGrand Junction Rgnl (KGJT)","Departure05:35PM MDT","Lee Fire - COWRD",2025-08-02,2025-08-07,25.39
+N355AC,2025-08-07,"DestinationGrand Junction Rgnl (KGJT)","Departure04:39PM MDT","Lee Fire - COWRD",2025-08-02,2025-08-07,29.68
+N355AC,2025-08-07,"DestinationGrand Junction Rgnl (KGJT)","Departure03:41PM MDT","Lee Fire - COWRD",2025-08-02,2025-08-07,29.32
+N355AC,2025-08-07,"DestinationGrand Junction Rgnl (KGJT)","Departure02:38PM MDT","Elk RBX Fire - COWRD",2025-08-02,2025-08-07,28.89
+N355AC,2025-08-07,"DestinationGrand Junction Rgnl (KGJT)","Departure02:38PM MDT","Lee Fire - COWRD",2025-08-02,2025-08-07,28.43
+N355AC,2025-08-07,"DestinationGrand Junction Rgnl (KGJT)","Departure01:27PM MDT","Lee Fire - COWRD",2025-08-02,2025-08-07,26.92
+N355AC,2025-08-07,"DestinationGrand Junction Rgnl (KGJT)","Departure11:58AM MDT","Elk RBX Fire - COWRD",2025-08-02,2025-08-07,28.30
+N355AC,2025-08-07,"DestinationGrand Junction Rgnl (KGJT)","Departure11:58AM MDT","Lee Fire - COWRD",2025-08-02,2025-08-07,28.64
+N355AC,2025-08-06,"DestinationColorado Sprgs Muni (KCOS)","Departure07:37PM MDT","Elk RBX Fire - COWRD",2025-08-02,2025-08-07,28.01
+N355AC,2025-08-06,"DestinationColorado Sprgs Muni (KCOS)","Departure07:37PM MDT","Lee Fire - COWRD",2025-08-02,2025-08-07,26.96
+N355AC,2025-08-06,"DestinationGrand Junction Rgnl (KGJT)","Departure06:19PM MDT","Lee Fire - COWRD",2025-08-02,2025-08-07,27.95
+N355AC,2025-08-06,"DestinationGrand Junction Rgnl (KGJT)","Departure04:57PM MDT","Lee Fire - COWRD",2025-08-02,2025-08-07,27.28
+N355AC,2025-08-06,"DestinationGrand Junction Rgnl (KGJT)","Departure03:21PM MDT","Elk RBX Fire - COWRD",2025-08-02,2025-08-07,28.61
+N355AC,2025-08-06,"DestinationGrand Junction Rgnl (KGJT)","Departure03:21PM MDT","Lee Fire - COWRD",2025-08-02,2025-08-07,27.62
+N355AC,2025-08-06,"DestinationGrand Junction Rgnl (KGJT)","Departure12:35PM MDT","Turner Gulch - COGRD",2025-07-10,2025-08-07,28.95
+N355AC,2025-08-06,"DestinationGrand Junction Rgnl (KGJT)","Departure10:51AM MDT","Turner Gulch - COGRD",2025-07-10,2025-08-07,28.47
+N355AC,2025-08-06,"DestinationGrand Junction Rgnl (KGJT)","Departure10:51AM MDT","Leroux Fire - COMRD",2025-08-03,2025-08-07,27.79
+N374AC,2025-08-07,"DestinationPocatello Rgnl (KPIH)","Departure02:33PM PDT","Adobe Mtn Fire - NVEKD",2025-08-02,2025-08-07,26.99
+N374AC,2025-08-07,"DestinationNear Battle Mountain, NV","DepartureFirst seen 01:26PM PDT","Jakes Fire - NVEKD",2025-08-01,2025-08-07,9.05
+N374AC,2025-08-07,"DestinationNear Battle Mountain, NV","Departure12:56PM MDT","Jakes Fire - NVEKD",2025-08-01,2025-08-07,29.86
+N374AC,2025-08-07,"DestinationNear Battle Mountain, NV","Departure12:56PM MDT","Adobe Mtn Fire - NVEKD",2025-08-02,2025-08-07,29.54
+N374AC,2025-08-06,"DestinationPocatello Rgnl (KPIH)","Departure07:48PM PDT","Jakes Fire - NVEKD",2025-08-01,2025-08-07,11.29
+N374AC,2025-08-06,"DestinationPocatello Rgnl (KPIH)","Departure07:48PM PDT","Adobe Mtn Fire - NVEKD",2025-08-02,2025-08-07,29.51
+N374AC,2025-08-06,"DestinationNear Battle Mountain, NV","DepartureFirst seen 06:50PM PDT","Jakes Fire - NVEKD",2025-08-01,2025-08-07,9.65
+N374AC,2025-08-06,"DestinationNear Battle Mountain, NV","DepartureFirst seen 05:49PM PDT","Jakes Fire - NVEKD",2025-08-01,2025-08-07,16.37
+N374AC,2025-08-06,"DestinationSt George Rgnl (KSGU)","Departure02:49PM MDT","Monroe Canyon - UTFIF",2025-07-13,2025-08-07,27.22
+N416AC,2025-08-06,"DestinationCedar City Rgnl (KCDC)","Departure07:07PM MDT","Monroe Canyon - UTFIF",2025-07-13,2025-08-07,27.37
+N416AC,2025-08-06,"DestinationCedar City Rgnl (KCDC)","Departure05:58PM MDT","Monroe Canyon - UTFIF",2025-07-13,2025-08-07,26.55
+N416AC,2025-08-06,"DestinationCedar City Rgnl (KCDC)","Departure05:03PM MDT","Monroe Canyon - UTFIF",2025-07-13,2025-08-07,26.17
+N416AC,2025-08-06,"DestinationCedar City Rgnl (KCDC)","Departure03:53PM MDT","Monroe Canyon - UTFIF",2025-07-13,2025-08-07,29.20
+N416AC,2025-08-06,"DestinationCedar City Rgnl (KCDC)","Departure02:48PM MDT","Monroe Canyon - UTFIF",2025-07-13,2025-08-07,27.50
+N416AC,2025-08-06,"DestinationCedar City Rgnl (KCDC)","Departure12:30PM MDT","Monroe Canyon - UTFIF",2025-07-13,2025-08-07,26.26
+N416AC,2025-08-06,"DestinationCedar City Rgnl (KCDC)","Departure11:26AM MDT","Monroe Canyon - UTFIF",2025-07-13,2025-08-07,25.93
+N416AC,2025-08-06,"DestinationCedar City Rgnl (KCDC)","Departure10:26AM MDT","Monroe Canyon - UTFIF",2025-07-13,2025-08-07,29.49
+N635AC,2025-08-06,"DestinationColorado Sprgs Muni (KCOS)","Departure08:14PM MDT","Leroux Fire - COMRD",2025-08-03,2025-08-07,29.13
+N635AC,2025-08-06,"DestinationGrand Junction Rgnl (KGJT)","Departure07:08PM MDT","Lee Fire - COWRD",2025-08-02,2025-08-07,25.45
+N635AC,2025-08-06,"DestinationGrand Junction Rgnl (KGJT)","Departure06:00PM MDT","Lee Fire - COWRD",2025-08-02,2025-08-07,27.02
+N635AC,2025-08-06,"DestinationGrand Junction Rgnl (KGJT)","Departure03:44PM MDT","Elk RBX Fire - COWRD",2025-08-02,2025-08-07,29.55
+N635AC,2025-08-06,"DestinationGrand Junction Rgnl (KGJT)","Departure03:44PM MDT","Lee Fire - COWRD",2025-08-02,2025-08-07,29.60
+N635AC,2025-08-06,"DestinationGrand Junction Rgnl (KGJT)","Departure02:47PM MDT","Elk RBX Fire - COWRD",2025-08-02,2025-08-07,28.71
+N635AC,2025-08-06,"DestinationGrand Junction Rgnl (KGJT)","Departure02:47PM MDT","Lee Fire - COWRD",2025-08-02,2025-08-07,27.33
+N635AC,2025-08-06,"DestinationGrand Junction Rgnl (KGJT)","Departure11:36AM MDT","Turner Gulch - COGRD",2025-07-10,2025-08-07,27.24
+N635AC,2025-08-06,"DestinationGrand Junction Rgnl (KGJT)","Departure09:57AM MDT","Turner Gulch - COGRD",2025-07-10,2025-08-07,29.37
+N635AC,2025-08-06,"DestinationGrand Junction Rgnl (KGJT)","Departure09:57AM MDT","Leroux Fire - COMRD",2025-08-03,2025-08-07,28.35
+N839AC,2025-08-07,"DestinationPocatello Rgnl (KPIH)","Departure01:32PM MDT","Jakes Fire - NVEKD",2025-08-01,2025-08-07,28.97
+N839AC,2025-08-07,"DestinationPocatello Rgnl (KPIH)","Departure01:32PM MDT","Adobe Mtn Fire - NVEKD",2025-08-02,2025-08-07,28.49
+N988AC,2025-08-07,"DestinationGowen Field (KBOI)","Departure02:09PM PDT","Jakes Fire - NVEKD",2025-08-01,2025-08-07,29.09
+N988AC,2025-08-07,"DestinationNear Battle Mountain, NV","DepartureFirst seen 01:16PM PDT","Jakes Fire - NVEKD",2025-08-01,2025-08-07,15.54
+N988AC,2025-08-07,"DestinationNear Battle Mountain, NV","Departure12:53PM MDT","Jakes Fire - NVEKD",2025-08-01,2025-08-07,29.76
+N988AC,2025-08-06,"DestinationGowen Field (KBOI)","Departure08:14PM MDT","Jakes Fire - NVEKD",2025-08-01,2025-08-07,29.81
+N988AC,2025-08-06,"DestinationMagic Valley Rgnl (KTWF)","Departure06:25PM MDT","Jakes Fire - NVEKD",2025-08-01,2025-08-07,29.16
+N988AC,2025-08-06,"DestinationMagic Valley Rgnl (KTWF)","Departure04:55PM MDT","Jakes Fire - NVEKD",2025-08-01,2025-08-07,29.36
+N988AC,2025-08-06,"DestinationMagic Valley Rgnl (KTWF)","Departure03:09PM MDT","Jakes Fire - NVEKD",2025-08-01,2025-08-07,28.34
+N406BT,2025-08-07,"DestinationElko Rgnl (KEKO)","Departure02:37PM PDT","Jakes Fire - NVEKD",2025-08-01,2025-08-07,27.45
+N406BT,2025-08-07,"DestinationElko Rgnl (KEKO)","Departure09:22AM PDT","Jakes Fire - NVEKD",2025-08-01,2025-08-07,25.58
+N406BT,2025-08-06,"DestinationElko Rgnl (KEKO)","Departure03:04PM PDT","Jakes Fire - NVEKD",2025-08-01,2025-08-07,7.23
+N406BT,2025-08-06,"DestinationElko Rgnl (KEKO)","Departure09:43AM PDT","Jakes Fire - NVEKD",2025-08-01,2025-08-07,27.79
+N415BT,2025-08-07,"DestinationFour Corners Rgnl (KFMN)","Departure02:07PM MDT","Middle Mesa Fire - NMCAF",2025-08-01,2025-08-07,28.01
+N417BT,2025-08-07,"DestinationFour Corners Rgnl (KFMN)","Departure02:07PM MDT","Middle Mesa Fire - NMCAF",2025-08-01,2025-08-07,25.66
+N418BT,2025-08-07,"DestinationCedar City Rgnl (KCDC)","Departure11:29AM MDT","Monroe Canyon - UTFIF",2025-07-13,2025-08-07,11.04
+N419BT,2025-08-07,"DestinationNear Bryce Canyon, UT","Departure11:30AM MDT","Monroe Canyon - UTFIF",2025-07-13,2025-08-07,19.47
+N470NA,2025-08-06,"DestinationNear Battle Mountain, NV","DepartureFirst seen 07:37PM PDT","Jakes Fire - NVEKD",2025-08-01,2025-08-07,7.90
+N470NA,2025-08-06,"DestinationNear Battle Mountain, NV","DepartureFirst seen 06:27PM PDT","Jakes Fire - NVEKD",2025-08-01,2025-08-07,11.55
+N470NA,2025-08-06,"DestinationNear Battle Mountain, NV","DepartureFirst seen 05:39PM PDT","Jakes Fire - NVEKD",2025-08-01,2025-08-07,6.95
+N470NA,2025-08-06,"DestinationNear Battle Mountain, NV","Departure03:15PM PDT","Jakes Fire - NVEKD",2025-08-01,2025-08-07,28.33
+N471NA,2025-08-07,"DestinationGeneral Wm J Fox Airfield (KWJF)","Departure02:55PM PDT","Gifford Fire - CALPF",2025-08-01,2025-08-07,28.96
+N471NA,2025-08-06,"DestinationSanta Maria (KSMX)","Departure05:18PM PDT","Gifford Fire - CALPF",2025-08-01,2025-08-07,29.80
+N471NA,2025-08-06,"DestinationSanta Maria (KSMX)","Departure04:44PM PDT","Gifford Fire - CALPF",2025-08-01,2025-08-07,29.23
+N471NA,2025-08-06,"DestinationSanta Maria (KSMX)","Departure04:12PM PDT","Gifford Fire - CALPF",2025-08-01,2025-08-07,29.80
+N471NA,2025-08-06,"DestinationSanta Maria (KSMX)","Departure03:15PM PDT","Gifford Fire - CALPF",2025-08-01,2025-08-07,29.07
+N471NA,2025-08-06,"DestinationSanta Maria (KSMX)","Departure02:39PM PDT","Gifford Fire - CALPF",2025-08-01,2025-08-07,29.23
+N471NA,2025-08-06,"DestinationSanta Maria (KSMX)","Departure02:03PM PDT","Gifford Fire - CALPF",2025-08-01,2025-08-07,27.10
+N471NA,2025-08-06,"DestinationSanta Maria (KSMX)","Departure10:45AM PDT","Gifford Fire - CALPF",2025-08-01,2025-08-07,29.92
+N471NA,2025-08-06,"DestinationSanta Maria (KSMX)","Departure09:51AM PDT","Gifford Fire - CALPF",2025-08-01,2025-08-07,29.30
+N471NA,2025-08-06,"DestinationSanta Maria (KSMX)","Departure09:11AM PDT","Gifford Fire - CALPF",2025-08-01,2025-08-07,28.64
+N472NA,2025-08-06,"DestinationMissoula Montana (KMSO)","Departure06:51PM MDT","Gill Gulch Fire - MTHLF",2025-08-04,2025-08-07,28.82
+N472NA,2025-08-06,"DestinationHelena Rgnl (KHLN)","Departure06:10PM MDT","Gill Gulch Fire - MTHLF",2025-08-04,2025-08-07,28.83
+N472NA,2025-08-06,"DestinationHelena Rgnl (KHLN)","Departure05:29PM MDT","Gill Gulch Fire - MTHLF",2025-08-04,2025-08-07,26.78
+N472NA,2025-08-06,"DestinationHelena Rgnl (KHLN)","Departure04:38PM MDT","Gill Gulch Fire - MTHLF",2025-08-04,2025-08-07,29.72
+N472NA,2025-08-06,"DestinationHelena Rgnl (KHLN)","Departure03:54PM MDT","Gill Gulch Fire - MTHLF",2025-08-04,2025-08-07,29.88
+N472NA,2025-08-06,"DestinationHelena Rgnl (KHLN)","Departure02:44PM MDT","Gill Gulch Fire - MTHLF",2025-08-04,2025-08-07,25.90
+N473NA,2025-08-07,"DestinationGeneral Wm J Fox Airfield (KWJF)","Departure01:56PM PDT","Gifford Fire - CALPF",2025-08-01,2025-08-07,29.87
+N473NA,2025-08-06,"DestinationSanta Maria (KSMX)","Departure05:13PM PDT","Gifford Fire - CALPF",2025-08-01,2025-08-07,27.22
+N473NA,2025-08-06,"DestinationSanta Maria (KSMX)","Departure04:34PM PDT","Gifford Fire - CALPF",2025-08-01,2025-08-07,28.78
+N473NA,2025-08-06,"DestinationSanta Maria (KSMX)","Departure03:52PM PDT","Gifford Fire - CALPF",2025-08-01,2025-08-07,28.79
+N473NA,2025-08-06,"DestinationSanta Maria (KSMX)","Departure02:58PM PDT","Gifford Fire - CALPF",2025-08-01,2025-08-07,29.04
+N473NA,2025-08-06,"DestinationSanta Maria (KSMX)","Departure02:22PM PDT","Gifford Fire - CALPF",2025-08-01,2025-08-07,29.05
+N473NA,2025-08-06,"DestinationSanta Maria (KSMX)","Departure11:23AM PDT","Gifford Fire - CALPF",2025-08-01,2025-08-07,28.69
+N473NA,2025-08-06,"DestinationSanta Maria (KSMX)","Departure10:34AM PDT","Gifford Fire - CALPF",2025-08-01,2025-08-07,29.02
+N473NA,2025-08-06,"DestinationSanta Maria (KSMX)","Departure09:48AM PDT","Gifford Fire - CALPF",2025-08-01,2025-08-07,28.02
+N474NA,2025-08-07,"DestinationCedar City Rgnl (KCDC)","Departure05:56PM MDT","Stoner Mesa Fire - COSJF",2025-08-05,2025-08-07,27.38
+N474NA,2025-08-06,"DestinationColorado Sprgs Muni (KCOS)","Departure08:23PM MDT","Leroux Fire - COMRD",2025-08-03,2025-08-07,27.74
+N474NA,2025-08-06,"DestinationGrand Junction Rgnl (KGJT)","Departure07:15PM MDT","Lee Fire - COWRD",2025-08-02,2025-08-07,23.63
+N474NA,2025-08-06,"DestinationGrand Junction Rgnl (KGJT)","Departure06:07PM MDT","Lee Fire - COWRD",2025-08-02,2025-08-07,28.09
+N474NA,2025-08-06,"DestinationGrand Junction Rgnl (KGJT)","Departure03:52PM MDT","Elk RBX Fire - COWRD",2025-08-02,2025-08-07,28.56
+N474NA,2025-08-06,"DestinationGrand Junction Rgnl (KGJT)","Departure03:52PM MDT","Lee Fire - COWRD",2025-08-02,2025-08-07,25.94
+N475NA,2025-08-07,"DestinationGrand Junction Rgnl (KGJT)","Departure06:15PM MDT","Lee Fire - COWRD",2025-08-02,2025-08-07,29.69
+N475NA,2025-08-07,"DestinationGrand Junction Rgnl (KGJT)","Departure05:16PM MDT","Lee Fire - COWRD",2025-08-02,2025-08-07,28.97
+N475NA,2025-08-07,"DestinationGrand Junction Rgnl (KGJT)","Departure04:09PM MDT","Lee Fire - COWRD",2025-08-02,2025-08-07,28.52
+N475NA,2025-08-07,"DestinationGrand Junction Rgnl (KGJT)","Departure03:11PM MDT","Lee Fire - COWRD",2025-08-02,2025-08-07,28.50
+N475NA,2025-08-07,"DestinationGrand Junction Rgnl (KGJT)","Departure02:00PM MDT","Lee Fire - COWRD",2025-08-02,2025-08-07,29.33
+N475NA,2025-08-07,"DestinationGrand Junction Rgnl (KGJT)","Departure01:04PM MDT","Lee Fire - COWRD",2025-08-02,2025-08-07,29.45
+N475NA,2025-08-07,"DestinationGrand Junction Rgnl (KGJT)","Departure11:55AM MDT","Elk RBX Fire - COWRD",2025-08-02,2025-08-07,29.78
+N475NA,2025-08-07,"DestinationGrand Junction Rgnl (KGJT)","Departure11:55AM MDT","Lee Fire - COWRD",2025-08-02,2025-08-07,29.42
+N475NA,2025-08-06,"DestinationGrand Junction Rgnl (KGJT)","Departure07:24PM MDT","Lee Fire - COWRD",2025-08-02,2025-08-07,29.91
+N475NA,2025-08-06,"DestinationGrand Junction Rgnl (KGJT)","Departure06:14PM MDT","Lee Fire - COWRD",2025-08-02,2025-08-07,28.96
+N475NA,2025-08-06,"DestinationGrand Junction Rgnl (KGJT)","Departure04:52PM MDT","Lee Fire - COWRD",2025-08-02,2025-08-07,28.69
+N475NA,2025-08-06,"DestinationGrand Junction Rgnl (KGJT)","Departure03:07PM MDT","Elk RBX Fire - COWRD",2025-08-02,2025-08-07,29.83
+N475NA,2025-08-06,"DestinationGrand Junction Rgnl (KGJT)","Departure03:07PM MDT","Lee Fire - COWRD",2025-08-02,2025-08-07,27.55
+N475NA,2025-08-06,"DestinationGrand Junction Rgnl (KGJT)","Departure12:23PM MDT","Turner Gulch - COGRD",2025-07-10,2025-08-07,27.02
+N475NA,2025-08-06,"DestinationGrand Junction Rgnl (KGJT)","Departure11:22AM MDT","Turner Gulch - COGRD",2025-07-10,2025-08-07,27.74
+N475NA,2025-08-06,"DestinationGrand Junction Rgnl (KGJT)","Departure10:32AM MDT","Turner Gulch - COGRD",2025-07-10,2025-08-07,29.53
+N475NA,2025-08-06,"DestinationGrand Junction Rgnl (KGJT)","Departure09:32AM MDT","Turner Gulch - COGRD",2025-07-10,2025-08-07,27.53
+N476NA,2025-08-06,"DestinationSanta Maria (KSMX)","Departure05:48PM PDT","Gifford Fire - CALPF",2025-08-01,2025-08-07,28.62
+N476NA,2025-08-06,"DestinationSanta Maria (KSMX)","Departure05:06PM PDT","Gifford Fire - CALPF",2025-08-01,2025-08-07,28.81
+N476NA,2025-08-06,"DestinationSanta Maria (KSMX)","Departure04:29PM PDT","Gifford Fire - CALPF",2025-08-01,2025-08-07,28.05
+N476NA,2025-08-06,"DestinationSanta Maria (KSMX)","Departure03:30PM PDT","Gifford Fire - CALPF",2025-08-01,2025-08-07,28.89
+N476NA,2025-08-06,"DestinationSanta Maria (KSMX)","Departure02:51PM PDT","Gifford Fire - CALPF",2025-08-01,2025-08-07,27.43
+N476NA,2025-08-06,"DestinationSanta Maria (KSMX)","Departure02:12PM PDT","Gifford Fire - CALPF",2025-08-01,2025-08-07,28.63
+N476NA,2025-08-06,"DestinationSanta Maria (KSMX)","Departure11:16AM PDT","Gifford Fire - CALPF",2025-08-01,2025-08-07,29.72
+N476NA,2025-08-06,"DestinationSanta Maria (KSMX)","Departure10:31AM PDT","Gifford Fire - CALPF",2025-08-01,2025-08-07,28.64
+N476NA,2025-08-06,"DestinationSanta Maria (KSMX)","Departure09:45AM PDT","Gifford Fire - CALPF",2025-08-01,2025-08-07,29.33
+N477NA,2025-08-07,"DestinationMagic Valley Rgnl (KTWF)","Departure04:27PM PDT","Jakes Fire - NVEKD",2025-08-01,2025-08-07,5.71
+N477NA,2025-08-07,"DestinationNear Battle Mountain, NV","DepartureFirst seen 03:31PM PDT","Jakes Fire - NVEKD",2025-08-01,2025-08-07,6.73
+N477NA,2025-08-07,"DestinationNear Battle Mountain, NV","DepartureFirst seen 02:02PM PDT","Jakes Fire - NVEKD",2025-08-01,2025-08-07,9.75
+N477NA,2025-08-07,"DestinationNear Battle Mountain, NV","DepartureFirst seen 01:11PM PDT","Jakes Fire - NVEKD",2025-08-01,2025-08-07,6.75
+N477NA,2025-08-07,"DestinationNear Battle Mountain, NV","Departure12:58PM MDT","Jakes Fire - NVEKD",2025-08-01,2025-08-07,28.71
+N478NA,2025-08-07,"DestinationColorado Sprgs Muni (KCOS)","Departure08:06PM MDT","Leroux Fire - COMRD",2025-08-03,2025-08-07,24.65
+N478NA,2025-08-07,"DestinationGrand Junction Rgnl (KGJT)","Departure06:55PM MDT","Elk RBX Fire - COWRD",2025-08-02,2025-08-07,29.41
+N478NA,2025-08-07,"DestinationGrand Junction Rgnl (KGJT)","Departure06:55PM MDT","Lee Fire - COWRD",2025-08-02,2025-08-07,26.19
+N478NA,2025-08-07,"DestinationGrand Junction Rgnl (KGJT)","Departure05:53PM MDT","Lee Fire - COWRD",2025-08-02,2025-08-07,25.97
+N478NA,2025-08-07,"DestinationGrand Junction Rgnl (KGJT)","Departure04:56PM MDT","Lee Fire - COWRD",2025-08-02,2025-08-07,28.07
+N478NA,2025-08-07,"DestinationGrand Junction Rgnl (KGJT)","Departure04:00PM MDT","Lee Fire - COWRD",2025-08-02,2025-08-07,26.79
+N478NA,2025-08-07,"DestinationGrand Junction Rgnl (KGJT)","Departure02:58PM MDT","Elk RBX Fire - COWRD",2025-08-02,2025-08-07,29.53
+N478NA,2025-08-07,"DestinationGrand Junction Rgnl (KGJT)","Departure02:58PM MDT","Lee Fire - COWRD",2025-08-02,2025-08-07,27.65
+N478NA,2025-08-07,"DestinationGrand Junction Rgnl (KGJT)","Departure01:35PM MDT","Elk RBX Fire - COWRD",2025-08-02,2025-08-07,29.27
+N478NA,2025-08-07,"DestinationGrand Junction Rgnl (KGJT)","Departure01:35PM MDT","Lee Fire - COWRD",2025-08-02,2025-08-07,29.61
+N478NA,2025-08-06,"DestinationColorado Sprgs Muni (KCOS)","Departure07:59PM MDT","Elk RBX Fire - COWRD",2025-08-02,2025-08-07,26.78
+N478NA,2025-08-06,"DestinationColorado Sprgs Muni (KCOS)","Departure07:59PM MDT","Lee Fire - COWRD",2025-08-02,2025-08-07,29.69
+N478NA,2025-08-06,"DestinationGrand Junction Rgnl (KGJT)","Departure06:55PM MDT","Lee Fire - COWRD",2025-08-02,2025-08-07,29.49
+N478NA,2025-08-06,"DestinationGrand Junction Rgnl (KGJT)","Departure05:51PM MDT","Lee Fire - COWRD",2025-08-02,2025-08-07,29.01
+N478NA,2025-08-06,"DestinationGrand Junction Rgnl (KGJT)","Departure04:07PM MDT","Elk RBX Fire - COWRD",2025-08-02,2025-08-07,29.94
+N478NA,2025-08-06,"DestinationGrand Junction Rgnl (KGJT)","Departure04:07PM MDT","Lee Fire - COWRD",2025-08-02,2025-08-07,27.60
+N478NA,2025-08-06,"DestinationGrand Junction Rgnl (KGJT)","Departure03:01PM MDT","Elk RBX Fire - COWRD",2025-08-02,2025-08-07,28.89
+N478NA,2025-08-06,"DestinationGrand Junction Rgnl (KGJT)","Departure03:01PM MDT","Lee Fire - COWRD",2025-08-02,2025-08-07,27.50
+N478NA,2025-08-06,"DestinationGrand Junction Rgnl (KGJT)","Departure12:17PM MDT","Turner Gulch - COGRD",2025-07-10,2025-08-07,29.73
+N478NA,2025-08-06,"DestinationGrand Junction Rgnl (KGJT)","Departure10:46AM MDT","Turner Gulch - COGRD",2025-07-10,2025-08-07,28.20
+N478NA,2025-08-06,"DestinationGrand Junction Rgnl (KGJT)","Departure10:46AM MDT","Leroux Fire - COMRD",2025-08-03,2025-08-07,27.96
+N522AX,2025-08-07,"DestinationPhoenix-Mesa Gateway (KIWA)","Departure06:42PM MDT","Monroe Canyon - UTFIF",2025-07-13,2025-08-07,27.27
+N522AX,2025-08-06,"DestinationPocatello Rgnl (KPIH)","Departure04:14PM MDT","Monroe Canyon - UTFIF",2025-07-13,2025-08-07,23.96
+N522AX,2025-08-06,"DestinationNear Richfield, UT","Departure03:15PM MDT","Monroe Canyon - UTFIF",2025-07-13,2025-08-07,29.34
+N522AX,2025-08-06,"DestinationPocatello Rgnl (KPIH)","Departure10:11AM MDT","Monroe Canyon - UTFIF",2025-07-13,2025-08-07,28.78
+N603AX,2025-08-07,"DestinationColorado Sprgs Muni (KCOS)","Departure05:46PM MDT","Elk RBX Fire - COWRD",2025-08-02,2025-08-07,28.66
+N603AX,2025-08-07,"DestinationColorado Sprgs Muni (KCOS)","Departure05:46PM MDT","Lee Fire - COWRD",2025-08-02,2025-08-07,29.96
+N603AX,2025-08-07,"DestinationColorado Sprgs Muni (KCOS)","Departure03:45PM MDT","Elk RBX Fire - COWRD",2025-08-02,2025-08-07,28.34
+N603AX,2025-08-07,"DestinationColorado Sprgs Muni (KCOS)","Departure03:45PM MDT","Lee Fire - COWRD",2025-08-02,2025-08-07,29.68
+N603AX,2025-08-07,"DestinationColorado Sprgs Muni (KCOS)","Departure01:20PM MDT","Turner Gulch - COGRD",2025-07-10,2025-08-07,27.41
+N603AX,2025-08-07,"DestinationColorado Sprgs Muni (KCOS)","Departure01:20PM MDT","Leroux Fire - COMRD",2025-08-03,2025-08-07,26.36
+N603AX,2025-08-07,"DestinationColorado Sprgs Muni (KCOS)","Departure11:20AM MDT","Turner Gulch - COGRD",2025-07-10,2025-08-07,27.79
+N603AX,2025-08-07,"DestinationColorado Sprgs Muni (KCOS)","Departure11:20AM MDT","Leroux Fire - COMRD",2025-08-03,2025-08-07,27.37
+N603AX,2025-08-06,"DestinationColorado Sprgs Muni (KCOS)","Departure05:47PM MDT","Elk RBX Fire - COWRD",2025-08-02,2025-08-07,27.87
+N603AX,2025-08-06,"DestinationColorado Sprgs Muni (KCOS)","Departure05:47PM MDT","Lee Fire - COWRD",2025-08-02,2025-08-07,29.59
+N612AX,2025-08-06,"DestinationSan Bernardino Intl (KSBD)","Departure06:19PM PDT","Gifford Fire - CALPF",2025-08-01,2025-08-07,29.52
+N612AX,2025-08-06,"DestinationSanta Maria (KSMX)","Departure04:32PM PDT","Gifford Fire - CALPF",2025-08-01,2025-08-07,29.77
+N17085,2025-08-07,"DestinationColorado Sprgs Muni (KCOS)","Departure03:23PM MDT","Elk RBX Fire - COWRD",2025-08-02,2025-08-07,29.85
+N17085,2025-08-07,"DestinationColorado Sprgs Muni (KCOS)","Departure03:23PM MDT","Lee Fire - COWRD",2025-08-02,2025-08-07,29.68
+N17085,2025-08-07,"DestinationColorado Sprgs Muni (KCOS)","Departure01:09PM MDT","Turner Gulch - COGRD",2025-07-10,2025-08-07,27.02
+N17085,2025-08-07,"DestinationColorado Sprgs Muni (KCOS)","Departure01:09PM MDT","Leroux Fire - COMRD",2025-08-03,2025-08-07,27.64
+N17085,2025-08-07,"DestinationColorado Sprgs Muni (KCOS)","Departure10:44AM MDT","Turner Gulch - COGRD",2025-07-10,2025-08-07,29.03
+N17085,2025-08-07,"DestinationColorado Sprgs Muni (KCOS)","Departure10:44AM MDT","Leroux Fire - COMRD",2025-08-03,2025-08-07,29.58
+N17085,2025-08-06,"DestinationColorado Sprgs Muni (KCOS)","Departure04:40PM PDT","Gifford Fire - CALPF",2025-08-01,2025-08-07,28.68
+N17085,2025-08-06,"DestinationColorado Sprgs Muni (KCOS)","Departure04:40PM PDT","Middle Mesa Fire - NMCAF",2025-08-01,2025-08-07,29.61
+N17085,2025-08-06,"DestinationSanta Maria (KSMX)","Departure02:45PM PDT","Gifford Fire - CALPF",2025-08-01,2025-08-07,29.41
+N17085,2025-08-06,"DestinationSanta Maria (KSMX)","Departure11:07AM PDT","Gifford Fire - CALPF",2025-08-01,2025-08-07,28.21
+N17085,2025-08-06,"DestinationSanta Maria (KSMX)","Departure09:54AM PDT","Gifford Fire - CALPF",2025-08-01,2025-08-07,27.27

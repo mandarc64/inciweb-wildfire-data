@@ -165,36 +165,67 @@
       const GITHUB_REPO = "inciweb-wildfire-data";
       const CSV_FOLDER = "inciweb_data";
 
-      const csvBaseURL = `https://raw.githubusercontent.com/${GITHUB_USER}/${GITHUB_REPO}/feature/flight-logic/${CSV_FOLDER}/`;
-      const apiURL = `https://api.github.com/repos/${GITHUB_USER}/${GITHUB_REPO}/contents/${CSV_FOLDER}`;
+      // const csvBaseURL = `https://raw.githubusercontent.com/${GITHUB_USER}/${GITHUB_REPO}/feature/flight-logic/${CSV_FOLDER}/`;
+      // const apiURL = `https://api.github.com/repos/${GITHUB_USER}/${GITHUB_REPO}/contents/${CSV_FOLDER}`;
 
       const csvSelect = document.getElementById("csvSelect");
       const tableContainer = document.getElementById("tableContainer");
       const lastUpdatedEl = document.getElementById("lastUpdated");
 
-      // 🔗 Flight matches CSV (same repo)
-      const FLIGHT_MATCHES_FILE = "flight_fire_matches.csv"; // adjust path if in a folder
-      const flightMatchesURL = `https://raw.githubusercontent.com/${GITHUB_USER}/${GITHUB_REPO}/feature/flight-logic/${FLIGHT_MATCHES_FILE}`;
+      const BRANCH = "feature/flight-logic";
+      const csvBaseURL = `https://raw.githubusercontent.com/${GITHUB_USER}/${GITHUB_REPO}/${BRANCH}/${CSV_FOLDER}/`;
+      const apiURL = `https://api.github.com/repos/${GITHUB_USER}/${GITHUB_REPO}/contents/${CSV_FOLDER}?ref=${BRANCH}`;
+
+      const FLIGHT_FOLDER = "flight_fire_data";
+      const flightApiURL = `https://api.github.com/repos/${GITHUB_USER}/${GITHUB_REPO}/contents/${FLIGHT_FOLDER}?ref=${BRANCH}`;
 
       let dataTable = null;
 
+      // NEW  ✅
       let flightsData = [];
-      // Start loading flights as soon as the page loads
       const flightsReady = loadFlights();
 
-      function loadFlights() {
-        return new Promise((resolve) => {
-          Papa.parse(flightMatchesURL, {
-            download: true,
-            header: true,
-            skipEmptyLines: true,
-            complete: (res) => {
-              flightsData = res.data || [];
-              resolve();
-            },
-            error: () => resolve(), // fail-soft
+      async function loadFlights() {
+        try {
+          // list files in /flight_fire_data on the target branch
+          const res = await fetch(flightApiURL);
+          if (!res.ok) throw new Error("Failed to list flight files");
+          const files = await res.json();
+
+          // pick the newest CSV by filename (your files are timestamped)
+          const csvs = (files || []).filter(
+            (f) => f.type === "file" && f.name.endsWith(".csv")
+          );
+          if (!csvs.length) {
+            flightsData = [];
+            return;
+          }
+
+          // sort by name ascending, then take the last (newest timestamp in name)
+          csvs.sort((a, b) => a.name.localeCompare(b.name));
+          const latest = csvs[csvs.length - 1].name;
+
+          const latestRawURL = `https://raw.githubusercontent.com/${GITHUB_USER}/${GITHUB_REPO}/${BRANCH}/${FLIGHT_FOLDER}/${latest}`;
+
+          return new Promise((resolve) => {
+            Papa.parse(latestRawURL, {
+              download: true,
+              header: true,
+              skipEmptyLines: true,
+              complete: (res) => {
+                flightsData = res.data || [];
+                resolve();
+              },
+              error: () => {
+                flightsData = [];
+                resolve();
+              }, // fail-soft
+            });
           });
-        });
+        } catch (e) {
+          console.error("Flight data load error:", e);
+          flightsData = [];
+        }
       }
 
       // ✅ Fetch CSV file list dynamically from GitHub API
