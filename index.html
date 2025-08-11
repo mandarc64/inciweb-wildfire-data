@@ -95,6 +95,12 @@
         display: inline-block;
         margin-bottom: 0.25rem;
       }
+      tr.shown td {
+        border-bottom: 0;
+      }
+      .flights-block table {
+        margin-top: 0.5rem;
+      }
     </style>
   </head>
   <body>
@@ -349,6 +355,22 @@
         return ms;
       }
 
+      function parseOriginDate(str = "") {
+        // pulls MM/DD/YYYY from "Sun, 08/03/2025 - 19:15"
+        const m = str.match(/\d{2}\/\d{2}\/\d{4}/);
+        if (!m) return null;
+        const [mm, dd, yyyy] = m[0].split("/");
+        return new Date(Date.UTC(+yyyy, +mm - 1, +dd)); // midnight UTC
+      }
+
+      function parseISODateOnly(iso = "") {
+        // for FlightDate like "2025-08-07"
+        const parts = iso.split("-");
+        if (parts.length !== 3) return null;
+        const [yyyy, mm, dd] = parts.map(Number);
+        return new Date(Date.UTC(yyyy, mm - 1, dd)); // midnight UTC
+      }
+
       // ✅ Compute and display "Last updated at ..."
       function updateLastUpdated(data) {
         if (!data || data.length === 0) {
@@ -403,11 +425,13 @@
         // Fallback to the first column if ScrapeDate isn't found
         const initialOrderIdx = scrapeDateIdx === -1 ? 0 : scrapeDateIdx;
 
-        // Add an extra column at the end for flight count
+        // Add an extra column at the end for flight count (force always visible)
         columns.push({
           title: "Flights",
           data: "flights",
           orderable: false,
+          className: "all text-center", // <= keep visible in main table
+          responsivePriority: 0, // <= highest priority to stay visible
           render: (flights, type, row) => {
             const n = Array.isArray(flights) ? flights.length : 0;
             return n
@@ -424,7 +448,29 @@
         dataTable = $("#incidentTable").DataTable({
           data: data,
           columns: columns,
-          responsive: true,
+          responsive: {
+            details: {
+              // keep the click-to-expand on the left (same behavior you have now)
+              type: "inline",
+              renderer: function (api, rowIdx, columns) {
+                // Build the default details table but SKIP the Flights column
+                const rows = $.map(columns, function (col) {
+                  if (!col.hidden) return ""; // only render hidden columns
+                  if (col.title === "Flights") return ""; // omit Flights from child panel
+                  return `
+          <tr data-dt-row="${col.rowIndex}" data-dt-column="${col.columnIndex}">
+            <td><strong>${col.title}</strong></td>
+            <td>${col.data !== null ? col.data : "-"}</td>
+          </tr>`;
+                }).join("");
+
+                return rows
+                  ? $('<table class="table table-sm mb-0"/>').append(rows)
+                  : false;
+              },
+            },
+          },
+
           scrollX: true,
           pageLength: 10,
           autoWidth: false,
@@ -455,18 +501,16 @@
           ],
         });
 
-        // Row-level expander for flights (inject inside the existing Responsive child row)
-        $("#incidentTable tbody").off("click", "a.show-flights"); // avoid double-binding on redraws
+        // Row-level expander for flights (dedicated child row; not Responsive details)
+        $("#incidentTable tbody").off("click", "a.show-flights");
         $("#incidentTable tbody").on("click", "a.show-flights", function (e) {
           e.preventDefault();
-          e.stopPropagation(); // ✋ don't let Responsive toggle the row
+          e.stopPropagation();
 
           const dt = $("#incidentTable").DataTable();
 
-          // If the link sits inside the child row, the closest <tr> will be .child.
-          // Normalize to the *parent* data row:
           let $tr = $(this).closest("tr");
-          if ($tr.hasClass("child")) $tr = $tr.prev("tr");
+          if ($tr.hasClass("child")) $tr = $tr.prev("tr"); // normalize to parent row
 
           const row = dt.row($tr);
           const rowData = row.data() || {};
@@ -475,43 +519,40 @@
             : 0;
 
           console.debug("[Flights click]", {
-            rowIndex: row.index(),
+            parentRowIndex: row.index(),
             incident: rowData.Incident,
             scrapeDate: rowData.ScrapeDate,
             flights: flightCount,
           });
 
-          // Ensure the Responsive details row is open
+          // Ensure the Responsive child is open (so we have a place to inject)
           let $child = $tr.next("tr.child");
           if (!$child.length || !$child.is(":visible")) {
-            console.debug("Child row not open; opening now…");
-            // Trigger Responsive's own toggle control so its details table is built
             $tr.find("td.dtr-control").trigger("click");
             $child = $tr.next("tr.child");
           }
 
-          // The child row has a single <td> that contains the details table/markup.
-          const $cell = $child.find("td");
+          // ✅ select ONLY the outer container cell, not all inner tds
+          const $cell = $child.children("td");
           if (!$cell.length) {
-            console.warn("No child-cell to inject into; bailing.");
+            console.warn("No child cell to inject flights block.");
             return;
           }
 
-          // Toggle our injected block
+          // Toggle our custom block
           const EXISTING_SEL = ".flights-block";
           const $existing = $cell.find(EXISTING_SEL);
           if ($existing.length) {
-            console.debug("Removing existing flights block (toggle off).");
+            console.debug("Removing flights block (toggle off).");
             $existing.remove();
             return;
           }
 
-          console.debug("Injecting flights block into child.");
-          // Build and append the flights sub-table
+          console.debug("Injecting flights block…");
           const html = `
-            <div class="flights-block border-top mt-2 pt-2">
-              ${formatFlightsRow(rowData)}
-            </div>`;
+    <div class="flights-block border-top mt-2 pt-2">
+      ${formatFlightsRow(rowData)}
+    </div>`;
           $cell.append(html);
         });
       }
@@ -647,33 +688,76 @@
       }
 
       function attachFlightsToRows(fireRows) {
-        return fireRows.map((fire) => {
-          // Parse active window for this row
-          const scrape = new Date(fire.ScrapeDate);
-          const end = new Date(
-            scrape.getTime() - parseUpdatedAgoToMs(fire.Updated || "")
-          );
-          // DateOfOrigin may include time/weekday; grab the date part if needed
-          const startStr =
-            (fire.DateOfOrigin || "").match(/\d{2}\/\d{2}\/\d{4}/)?.[0] ||
-            fire.DateOfOrigin;
-          const start = startStr ? new Date(startStr) : null;
+        if (!Array.isArray(fireRows) || !fireRows.length) return [];
 
-          // If dates are missing, no flights
-          if (!start || isNaN(start) || !end || isNaN(end)) {
-            return { ...fire, flights: [] };
+        // We will return a copy in the SAME order as incoming rows.
+        const output = fireRows.map((r) => ({ ...r, flights: [] }));
+
+        // 1) Group rows by Incident
+        const byIncident = new Map();
+        fireRows.forEach((row, idx) => {
+          const key = row.Incident || "__UNKNOWN__";
+          if (!byIncident.has(key)) byIncident.set(key, []);
+          byIncident.get(key).push({ row, idx });
+        });
+
+        // 2) For each incident, sort rows by ScrapeDate ASC and build non-overlapping windows
+        for (const [incident, list] of byIncident.entries()) {
+          list.sort(
+            (a, b) => new Date(a.row.ScrapeDate) - new Date(b.row.ScrapeDate)
+          );
+
+          // First row starts at DateOfOrigin
+          const origin = parseOriginDate(list[0].row.DateOfOrigin);
+          if (!origin || isNaN(origin)) {
+            // can't compute windows for this incident; leave flights empty
+            continue;
           }
 
-          // Robust match: same Incident + FlightDate ∈ [start, end]
-          const matches = flightsData.filter((f) => {
-            if (f.FireIncident !== fire.Incident) return false;
-            const fd = f.FlightDate ? new Date(f.FlightDate) : null;
-            if (!fd || isNaN(fd)) return false;
-            return fd >= start && fd <= end;
-          });
+          let prevEnd = null;
 
-          return { ...fire, flights: matches };
-        });
+          for (let i = 0; i < list.length; i++) {
+            const { row, idx } = list[i];
+
+            // end_i = ScrapeDate_i − parse(Updated_i)
+            const scrape = new Date(row.ScrapeDate);
+            const end = new Date(
+              scrape.getTime() - parseUpdatedAgoToMs(row.Updated || "")
+            );
+
+            if (!end || isNaN(end)) {
+              output[idx].flights = [];
+              prevEnd = end;
+              continue;
+            }
+
+            // Window for this row:
+            //   i = 0  -> [origin, end]
+            //   i > 0  -> (prevEnd, end]
+            const windowStart = i === 0 ? origin : prevEnd;
+            const inclusiveLower = i === 0; // include origin on first row
+
+            // 3) Assign flights to THIS window
+            const matches = flightsData.filter((f) => {
+              if (f.FireIncident !== incident) return false;
+              const fd = f.FlightDate ? parseISODateOnly(f.FlightDate) : null;
+              if (!fd || isNaN(fd)) return false;
+
+              // (prevEnd, end]  OR  [origin, end] for first row
+              if (inclusiveLower) {
+                return fd >= windowStart && fd <= end;
+              } else {
+                return windowStart && fd > windowStart && fd <= end;
+              }
+            });
+
+            output[idx].flights = matches;
+            prevEnd = end;
+          }
+        }
+
+        // same order as input so your DataTable sort still works
+        return output;
       }
     </script>
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
