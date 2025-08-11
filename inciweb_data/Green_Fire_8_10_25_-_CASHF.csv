@@ -1,0 +1,2 @@
+ScrapeDate,Incident,Type,State,Size,Updated,CurrentAsOf,IncidentTimeZone,IncidentType,Cause,DateOfOrigin,Location,IncidentCommander,Coordinates,Latitude,Longitude,TotalPersonnel,ContainmentPercent
+2025-08-11,"Green Fire 8/10/25 - CASHF","Wildfire","California","19,022 Acres","14 hours 51 minutes ago","Sun, 08/10/2025 - 20:35","Pacific Standard Time","Wildfire","Lightning","Tue, 07/01/2025 - 21:37","13 Miles East of Lakehead, CA","Shasta-Trinity National Forest Type 4 Team","40° 50' 2'', -122° 5' 48 ''","40° 50' 2''","-122° 5' 48 ''","99","99%"
