@@ -1,0 +1,278 @@
+TailNumber,FlightDate,Origin,Destination,FireIncident,FireStart,FireEnd,DistanceKM
+N136CG,2025-08-11,"Crater Lake/Klamath Rgnl (KLMT)","Redding Rgnl (KRDD)","Mountain Fire - CAMDF",2025-08-11,2025-08-11,28.53
+N136CG,2025-08-11,"Crater Lake/Klamath Rgnl (KLMT)","Crater Lake/Klamath Rgnl (KLMT)","Mountain Fire - CAMDF",2025-08-11,2025-08-11,29.16
+N136CG,2025-08-11,"Redding Rgnl (KRDD)","Crater Lake/Klamath Rgnl (KLMT)","Mountain Fire - CAMDF",2025-08-11,2025-08-11,29.20
+N137CG,2025-08-10,"Durango-La Plata County (KDRO)","Grand Junction Rgnl (KGJT)","Middle Mesa Fire - NMCAF",2025-08-01,2025-08-11,29.07
+N137CG,2025-08-10,"Durango-La Plata County (KDRO)","Durango-La Plata County (KDRO)","Middle Mesa Fire - NMCAF",2025-08-01,2025-08-11,27.88
+N137CG,2025-08-10,"Grand Junction Rgnl (KGJT)","Durango-La Plata County (KDRO)","Middle Mesa Fire - NMCAF",2025-08-01,2025-08-11,29.57
+N137CG,2025-08-09,"Albuquerque Intl Sunport (KABQ)","Grand Junction Rgnl (KGJT)","Stoner Mesa Fire - COSJF",2025-07-28,2025-08-11,29.12
+N137CG,2025-08-09,"Albuquerque Intl Sunport (KABQ)","Grand Junction Rgnl (KGJT)","Vereda Blanca Wildfire Mt Taylor Ranger District - NMCIF",2025-08-08,2025-08-09,28.12
+N137CG,2025-08-09,"Durango-La Plata County (KDRO)","Durango-La Plata County (KDRO)","Vereda Blanca Wildfire Mt Taylor Ranger District - NMCIF",2025-08-08,2025-08-09,29.30
+N137CG,2025-08-09,"Durango-La Plata County (KDRO)","Durango-La Plata County (KDRO)","Vereda Blanca Wildfire Mt Taylor Ranger District - NMCIF",2025-08-08,2025-08-11,25.97
+N137CG,2025-08-09,"Durango-La Plata County (KDRO)","Durango-La Plata County (KDRO)","Vereda Blanca Wildfire Mt Taylor Ranger District - NMCIF",2025-08-08,2025-08-09,29.99
+N137CG,2025-08-09,"Durango-La Plata County (KDRO)","Durango-La Plata County (KDRO)","Vereda Blanca Wildfire Mt Taylor Ranger District - NMCIF",2025-08-08,2025-08-11,26.69
+N137CG,2025-08-09,"Durango-La Plata County (KDRO)","Durango-La Plata County (KDRO)","Vereda Blanca Wildfire Mt Taylor Ranger District - NMCIF",2025-08-08,2025-08-09,25.33
+N137CG,2025-08-09,"Durango-La Plata County (KDRO)","Durango-La Plata County (KDRO)","Vereda Blanca Wildfire Mt Taylor Ranger District - NMCIF",2025-08-08,2025-08-11,27.07
+N137CG,2025-08-09,"Durango-La Plata County (KDRO)","Durango-La Plata County (KDRO)","Vereda Blanca Wildfire Mt Taylor Ranger District - NMCIF",2025-08-08,2025-08-09,25.62
+N137CG,2025-08-09,"Durango-La Plata County (KDRO)","Durango-La Plata County (KDRO)","Vereda Blanca Wildfire Mt Taylor Ranger District - NMCIF",2025-08-08,2025-08-11,27.29
+N137CG,2025-08-09,"Durango-La Plata County (KDRO)","Durango-La Plata County (KDRO)","Vereda Blanca Wildfire Mt Taylor Ranger District - NMCIF",2025-08-08,2025-08-09,29.68
+N137CG,2025-08-09,"Durango-La Plata County (KDRO)","Durango-La Plata County (KDRO)","Vereda Blanca Wildfire Mt Taylor Ranger District - NMCIF",2025-08-08,2025-08-11,26.16
+N137CG,2025-08-09,"Phoenix-Mesa Gateway (KIWA)","Durango-La Plata County (KDRO)","Middle Mesa Fire - NMCAF",2025-08-01,2025-08-11,29.47
+N137CG,2025-08-09,"Phoenix-Mesa Gateway (KIWA)","Durango-La Plata County (KDRO)","Vereda Blanca Wildfire Mt Taylor Ranger District - NMCIF",2025-08-08,2025-08-09,28.10
+N137CG,2025-08-09,"Phoenix-Mesa Gateway (KIWA)","Durango-La Plata County (KDRO)","Vereda Blanca Wildfire Mt Taylor Ranger District - NMCIF",2025-08-08,2025-08-11,25.94
+N140CG,2025-08-11,"Santa Maria (KSMX)","Santa Maria (KSMX)","Gifford Fire - CALPF",2025-08-01,2025-08-11,29.84
+N140CG,2025-08-11,"Santa Maria (KSMX)","Santa Maria (KSMX)","Gifford Fire - CALPF",2025-08-01,2025-08-11,29.45
+N140CG,2025-08-11,"Santa Maria (KSMX)","Santa Maria (KSMX)","Gifford Fire - CALPF",2025-08-01,2025-08-11,29.99
+N140CG,2025-08-11,"Santa Maria (KSMX)","Santa Maria (KSMX)","Gifford Fire - CALPF",2025-08-01,2025-08-11,29.34
+N140CG,2025-08-11,"Santa Maria (KSMX)","Santa Maria (KSMX)","Gifford Fire - CALPF",2025-08-01,2025-08-11,29.39
+N140CG,2025-08-11,"Santa Maria (KSMX)","Santa Maria (KSMX)","Gifford Fire - CALPF",2025-08-01,2025-08-11,29.98
+N140CG,2025-08-11,"Paso Robles Muni (KPRB)","Santa Maria (KSMX)","Gifford Fire - CALPF",2025-08-01,2025-08-11,29.29
+N140CG,2025-08-11,"Paso Robles Muni (KPRB)","Paso Robles Muni (KPRB)","Gifford Fire - CALPF",2025-08-01,2025-08-11,29.73
+N140CG,2025-08-11,"Paso Robles Muni (KPRB)","Paso Robles Muni (KPRB)","Gifford Fire - CALPF",2025-08-01,2025-08-11,28.95
+N140CG,2025-08-11,"Paso Robles Muni (KPRB)","Paso Robles Muni (KPRB)","Gifford Fire - CALPF",2025-08-01,2025-08-11,29.44
+N140CG,2025-08-11,"Santa Maria (KSMX)","Paso Robles Muni (KPRB)","Gifford Fire - CALPF",2025-08-01,2025-08-11,29.65
+N140CG,2025-08-10,"Santa Maria (KSMX)","Santa Maria (KSMX)","Gifford Fire - CALPF",2025-08-01,2025-08-11,29.26
+N140CG,2025-08-10,"Santa Maria (KSMX)","Santa Maria (KSMX)","Gifford Fire - CALPF",2025-08-01,2025-08-11,29.97
+N140CG,2025-08-10,"Santa Maria (KSMX)","Santa Maria (KSMX)","Gifford Fire - CALPF",2025-08-01,2025-08-11,29.07
+N140CG,2025-08-09,"Santa Maria (KSMX)","Santa Maria (KSMX)","Gifford Fire - CALPF",2025-08-01,2025-08-11,28.37
+N140CG,2025-08-09,"Santa Maria (KSMX)","Santa Maria (KSMX)","Gifford Fire - CALPF",2025-08-01,2025-08-11,28.95
+N140CG,2025-08-09,"Santa Maria (KSMX)","Santa Maria (KSMX)","Gifford Fire - CALPF",2025-08-01,2025-08-11,28.54
+N291EA,2025-08-11,"Santa Maria (KSMX)","General Wm J Fox Airfield (KWJF)","Gifford Fire - CALPF",2025-08-01,2025-08-11,29.17
+N291EA,2025-08-11,"Near Santa Maria, CA","Santa Maria (KSMX)","Gifford Fire - CALPF",2025-08-01,2025-08-11,28.73
+N291EA,2025-08-11,"Near Santa Maria, CA","Santa Maria (KSMX)","Gifford Fire - CALPF",2025-08-01,2025-08-11,28.84
+N291EA,2025-08-11,"Santa Maria (KSMX)","Santa Maria (KSMX)","Gifford Fire - CALPF",2025-08-01,2025-08-11,29.98
+N291EA,2025-08-11,"Santa Maria (KSMX)","Santa Maria (KSMX)","Gifford Fire - CALPF",2025-08-01,2025-08-11,28.43
+N291EA,2025-08-11,"Santa Maria (KSMX)","Santa Maria (KSMX)","Gifford Fire - CALPF",2025-08-01,2025-08-11,28.97
+N291EA,2025-08-11,"Santa Maria (KSMX)","Santa Maria (KSMX)","Gifford Fire - CALPF",2025-08-01,2025-08-11,29.97
+N291EA,2025-08-11,"Santa Maria (KSMX)","Santa Maria (KSMX)","Gifford Fire - CALPF",2025-08-01,2025-08-11,29.58
+N291EA,2025-08-11,"Santa Maria (KSMX)","Santa Maria (KSMX)","Gifford Fire - CALPF",2025-08-01,2025-08-11,29.68
+N291EA,2025-08-11,"Santa Maria (KSMX)","Santa Maria (KSMX)","Gifford Fire - CALPF",2025-08-01,2025-08-11,29.85
+N291EA,2025-08-11,"Near Santa Maria, CA","Santa Maria (KSMX)","Gifford Fire - CALPF",2025-08-01,2025-08-11,28.75
+N291EA,2025-08-11,"Santa Maria (KSMX)","Santa Maria (KSMX)","Gifford Fire - CALPF",2025-08-01,2025-08-11,28.61
+N291EA,2025-08-11,"General Wm J Fox Airfield (KWJF)","Santa Maria (KSMX)","Gifford Fire - CALPF",2025-08-01,2025-08-11,28.80
+N291EA,2025-08-10,"General Wm J Fox Airfield (KWJF)","General Wm J Fox Airfield (KWJF)","Gifford Fire - CALPF",2025-08-01,2025-08-11,26.72
+N291EA,2025-08-10,"Santa Maria (KSMX)","General Wm J Fox Airfield (KWJF)","Gifford Fire - CALPF",2025-08-01,2025-08-11,29.89
+N291EA,2025-08-09,"Santa Maria (KSMX)","Santa Maria (KSMX)","Gifford Fire - CALPF",2025-08-01,2025-08-11,28.64
+N291EA,2025-08-09,"Santa Maria (KSMX)","Santa Maria (KSMX)","Gifford Fire - CALPF",2025-08-01,2025-08-11,29.09
+N291EA,2025-08-09,"Santa Maria (KSMX)","Santa Maria (KSMX)","Gifford Fire - CALPF",2025-08-01,2025-08-11,29.88
+N291EA,2025-08-09,"Santa Maria (KSMX)","Santa Maria (KSMX)","Gifford Fire - CALPF",2025-08-01,2025-08-11,29.17
+N292EA,2025-08-11,"Santa Maria (KSMX)","Santa Maria (KSMX)","Gifford Fire - CALPF",2025-08-01,2025-08-11,29.57
+N292EA,2025-08-11,"Cedar City Rgnl (KCDC)","Santa Maria (KSMX)","Gifford Fire - CALPF",2025-08-01,2025-08-11,28.28
+N292EA,2025-08-09,"Cedar City Rgnl (KCDC)","Cedar City Rgnl (KCDC)","Lee Fire - COWRD",2025-08-02,2025-08-12,29.51
+N293EA,2025-08-09,"Phoenix-Mesa Gateway (KIWA)","Cedar City Rgnl (KCDC)","Bronco Fire - AZSCA",2025-08-03,2025-08-11,22.44
+N293EA,2025-08-09,"Phoenix-Mesa Gateway (KIWA)","Cedar City Rgnl (KCDC)","Indian Creek - AZFTA",2025-08-05,2025-08-11,26.18
+N293EA,2025-08-09,"Cedar City Rgnl (KCDC)","Phoenix-Mesa Gateway (KIWA)","Bronco Fire - AZSCA",2025-08-03,2025-08-11,4.31
+N293EA,2025-08-09,"Cedar City Rgnl (KCDC)","Phoenix-Mesa Gateway (KIWA)","Indian Creek - AZFTA",2025-08-05,2025-08-11,15.70
+N294EA,2025-08-10,"Durango-La Plata County (KDRO)","Durango-La Plata County (KDRO)","Middle Mesa Fire - NMCAF",2025-08-01,2025-08-11,27.87
+N294EA,2025-08-09,"Durango-La Plata County (KDRO)","Durango-La Plata County (KDRO)","Vereda Blanca Wildfire Mt Taylor Ranger District - NMCIF",2025-08-08,2025-08-09,28.71
+N294EA,2025-08-09,"Durango-La Plata County (KDRO)","Durango-La Plata County (KDRO)","Vereda Blanca Wildfire Mt Taylor Ranger District - NMCIF",2025-08-08,2025-08-11,25.26
+N294EA,2025-08-09,"Durango-La Plata County (KDRO)","Durango-La Plata County (KDRO)","Middle Mesa Fire - NMCAF",2025-08-01,2025-08-11,29.95
+N294EA,2025-08-09,"Durango-La Plata County (KDRO)","Durango-La Plata County (KDRO)","Vereda Blanca Wildfire Mt Taylor Ranger District - NMCIF",2025-08-08,2025-08-09,29.64
+N294EA,2025-08-09,"Durango-La Plata County (KDRO)","Durango-La Plata County (KDRO)","Vereda Blanca Wildfire Mt Taylor Ranger District - NMCIF",2025-08-08,2025-08-11,27.97
+N294EA,2025-08-09,"Durango-La Plata County (KDRO)","Durango-La Plata County (KDRO)","Middle Mesa Fire - NMCAF",2025-08-01,2025-08-11,29.45
+N294EA,2025-08-09,"Durango-La Plata County (KDRO)","Durango-La Plata County (KDRO)","Vereda Blanca Wildfire Mt Taylor Ranger District - NMCIF",2025-08-08,2025-08-09,26.99
+N294EA,2025-08-09,"Durango-La Plata County (KDRO)","Durango-La Plata County (KDRO)","Vereda Blanca Wildfire Mt Taylor Ranger District - NMCIF",2025-08-08,2025-08-11,28.50
+N294EA,2025-08-09,"Durango-La Plata County (KDRO)","Durango-La Plata County (KDRO)","Middle Mesa Fire - NMCAF",2025-08-01,2025-08-11,28.70
+N294EA,2025-08-09,"Durango-La Plata County (KDRO)","Durango-La Plata County (KDRO)","Vereda Blanca Wildfire Mt Taylor Ranger District - NMCIF",2025-08-08,2025-08-09,27.54
+N294EA,2025-08-09,"Durango-La Plata County (KDRO)","Durango-La Plata County (KDRO)","Vereda Blanca Wildfire Mt Taylor Ranger District - NMCIF",2025-08-08,2025-08-11,28.96
+N294EA,2025-08-09,"Durango-La Plata County (KDRO)","Durango-La Plata County (KDRO)","Middle Mesa Fire - NMCAF",2025-08-01,2025-08-11,29.57
+N294EA,2025-08-09,"Durango-La Plata County (KDRO)","Durango-La Plata County (KDRO)","Vereda Blanca Wildfire Mt Taylor Ranger District - NMCIF",2025-08-08,2025-08-09,29.42
+N294EA,2025-08-09,"Durango-La Plata County (KDRO)","Durango-La Plata County (KDRO)","Vereda Blanca Wildfire Mt Taylor Ranger District - NMCIF",2025-08-08,2025-08-11,25.38
+N294EA,2025-08-09,"Durango-La Plata County (KDRO)","Durango-La Plata County (KDRO)","Vereda Blanca Wildfire Mt Taylor Ranger District - NMCIF",2025-08-08,2025-08-09,26.83
+N294EA,2025-08-09,"Durango-La Plata County (KDRO)","Durango-La Plata County (KDRO)","Vereda Blanca Wildfire Mt Taylor Ranger District - NMCIF",2025-08-08,2025-08-11,28.53
+N294EA,2025-08-09,"Phoenix-Mesa Gateway (KIWA)","Durango-La Plata County (KDRO)","Middle Mesa Fire - NMCAF",2025-08-01,2025-08-11,29.95
+N294EA,2025-08-09,"Phoenix-Mesa Gateway (KIWA)","Durango-La Plata County (KDRO)","Vereda Blanca Wildfire Mt Taylor Ranger District - NMCIF",2025-08-08,2025-08-09,27.96
+N294EA,2025-08-09,"Phoenix-Mesa Gateway (KIWA)","Durango-La Plata County (KDRO)","Vereda Blanca Wildfire Mt Taylor Ranger District - NMCIF",2025-08-08,2025-08-11,28.03
+N295EA,2025-08-10,"Durango-La Plata County (KDRO)","Durango-La Plata County (KDRO)","Middle Mesa Fire - NMCAF",2025-08-01,2025-08-11,29.16
+N295EA,2025-08-10,"Durango-La Plata County (KDRO)","Durango-La Plata County (KDRO)","Middle Mesa Fire - NMCAF",2025-08-01,2025-08-11,29.95
+N295EA,2025-08-10,"Durango-La Plata County (KDRO)","Durango-La Plata County (KDRO)","Middle Mesa Fire - NMCAF",2025-08-01,2025-08-11,26.29
+N295EA,2025-08-10,"Durango-La Plata County (KDRO)","Durango-La Plata County (KDRO)","Middle Mesa Fire - NMCAF",2025-08-01,2025-08-11,27.61
+N295EA,2025-08-10,"Durango-La Plata County (KDRO)","Durango-La Plata County (KDRO)","Middle Mesa Fire - NMCAF",2025-08-01,2025-08-11,28.18
+N295EA,2025-08-10,"Durango-La Plata County (KDRO)","Durango-La Plata County (KDRO)","Middle Mesa Fire - NMCAF",2025-08-01,2025-08-11,26.69
+N295EA,2025-08-09,"Durango-La Plata County (KDRO)","Durango-La Plata County (KDRO)","Vereda Blanca Wildfire Mt Taylor Ranger District - NMCIF",2025-08-08,2025-08-09,27.22
+N295EA,2025-08-09,"Durango-La Plata County (KDRO)","Durango-La Plata County (KDRO)","Vereda Blanca Wildfire Mt Taylor Ranger District - NMCIF",2025-08-08,2025-08-11,28.65
+N295EA,2025-08-09,"Durango-La Plata County (KDRO)","Durango-La Plata County (KDRO)","Vereda Blanca Wildfire Mt Taylor Ranger District - NMCIF",2025-08-08,2025-08-09,26.98
+N295EA,2025-08-09,"Durango-La Plata County (KDRO)","Durango-La Plata County (KDRO)","Vereda Blanca Wildfire Mt Taylor Ranger District - NMCIF",2025-08-08,2025-08-11,28.51
+N295EA,2025-08-09,"Durango-La Plata County (KDRO)","Durango-La Plata County (KDRO)","Middle Mesa Fire - NMCAF",2025-08-01,2025-08-11,29.23
+N295EA,2025-08-09,"Durango-La Plata County (KDRO)","Durango-La Plata County (KDRO)","Vereda Blanca Wildfire Mt Taylor Ranger District - NMCIF",2025-08-08,2025-08-09,27.00
+N295EA,2025-08-09,"Durango-La Plata County (KDRO)","Durango-La Plata County (KDRO)","Vereda Blanca Wildfire Mt Taylor Ranger District - NMCIF",2025-08-08,2025-08-11,28.35
+N295EA,2025-08-09,"Durango-La Plata County (KDRO)","Durango-La Plata County (KDRO)","Middle Mesa Fire - NMCAF",2025-08-01,2025-08-11,29.59
+N295EA,2025-08-09,"Durango-La Plata County (KDRO)","Durango-La Plata County (KDRO)","Vereda Blanca Wildfire Mt Taylor Ranger District - NMCIF",2025-08-08,2025-08-09,25.90
+N295EA,2025-08-09,"Durango-La Plata County (KDRO)","Durango-La Plata County (KDRO)","Vereda Blanca Wildfire Mt Taylor Ranger District - NMCIF",2025-08-08,2025-08-11,27.60
+N295EA,2025-08-09,"Durango-La Plata County (KDRO)","Durango-La Plata County (KDRO)","Middle Mesa Fire - NMCAF",2025-08-01,2025-08-11,29.58
+N295EA,2025-08-09,"Durango-La Plata County (KDRO)","Durango-La Plata County (KDRO)","Vereda Blanca Wildfire Mt Taylor Ranger District - NMCIF",2025-08-08,2025-08-09,26.20
+N295EA,2025-08-09,"Durango-La Plata County (KDRO)","Durango-La Plata County (KDRO)","Vereda Blanca Wildfire Mt Taylor Ranger District - NMCIF",2025-08-08,2025-08-11,27.69
+N295EA,2025-08-09,"Durango-La Plata County (KDRO)","Durango-La Plata County (KDRO)","Vereda Blanca Wildfire Mt Taylor Ranger District - NMCIF",2025-08-08,2025-08-09,26.91
+N295EA,2025-08-09,"Durango-La Plata County (KDRO)","Durango-La Plata County (KDRO)","Vereda Blanca Wildfire Mt Taylor Ranger District - NMCIF",2025-08-08,2025-08-11,28.37
+N295EA,2025-08-09,"Phoenix-Mesa Gateway (KIWA)","Durango-La Plata County (KDRO)","Vereda Blanca Wildfire Mt Taylor Ranger District - NMCIF",2025-08-08,2025-08-09,29.86
+N295EA,2025-08-09,"Phoenix-Mesa Gateway (KIWA)","Durango-La Plata County (KDRO)","Vereda Blanca Wildfire Mt Taylor Ranger District - NMCIF",2025-08-08,2025-08-11,30.00
+N296EA,2025-08-11,"Grand Junction Rgnl (KGJT)","Durango-La Plata County (KDRO)","Elk RBX Fire - COWRD",2025-08-02,2025-08-11,27.92
+N296EA,2025-08-11,"Grand Junction Rgnl (KGJT)","Grand Junction Rgnl (KGJT)","Elk RBX Fire - COWRD",2025-08-02,2025-08-11,26.90
+N296EA,2025-08-11,"Durango-La Plata County (KDRO)","Grand Junction Rgnl (KGJT)","Lee Fire - COWRD",2025-08-02,2025-08-12,28.68
+N296EA,2025-08-10,"Durango-La Plata County (KDRO)","Durango-La Plata County (KDRO)","Middle Mesa Fire - NMCAF",2025-08-01,2025-08-11,29.51
+N296EA,2025-08-10,"Durango-La Plata County (KDRO)","Durango-La Plata County (KDRO)","Middle Mesa Fire - NMCAF",2025-08-01,2025-08-11,29.10
+N296EA,2025-08-10,"Durango-La Plata County (KDRO)","Durango-La Plata County (KDRO)","Middle Mesa Fire - NMCAF",2025-08-01,2025-08-11,29.16
+N296EA,2025-08-10,"Durango-La Plata County (KDRO)","Durango-La Plata County (KDRO)","Middle Mesa Fire - NMCAF",2025-08-01,2025-08-11,29.47
+N296EA,2025-08-10,"Durango-La Plata County (KDRO)","Durango-La Plata County (KDRO)","Middle Mesa Fire - NMCAF",2025-08-01,2025-08-11,29.03
+N296EA,2025-08-10,"Durango-La Plata County (KDRO)","Durango-La Plata County (KDRO)","Middle Mesa Fire - NMCAF",2025-08-01,2025-08-11,28.89
+N296EA,2025-08-10,"Durango-La Plata County (KDRO)","Durango-La Plata County (KDRO)","Middle Mesa Fire - NMCAF",2025-08-01,2025-08-11,28.52
+N296EA,2025-08-09,"Durango-La Plata County (KDRO)","Durango-La Plata County (KDRO)","Vereda Blanca Wildfire Mt Taylor Ranger District - NMCIF",2025-08-08,2025-08-09,29.51
+N296EA,2025-08-09,"Durango-La Plata County (KDRO)","Durango-La Plata County (KDRO)","Vereda Blanca Wildfire Mt Taylor Ranger District - NMCIF",2025-08-08,2025-08-11,26.44
+N296EA,2025-08-09,"Durango-La Plata County (KDRO)","Durango-La Plata County (KDRO)","Vereda Blanca Wildfire Mt Taylor Ranger District - NMCIF",2025-08-08,2025-08-09,25.70
+N296EA,2025-08-09,"Durango-La Plata County (KDRO)","Durango-La Plata County (KDRO)","Vereda Blanca Wildfire Mt Taylor Ranger District - NMCIF",2025-08-08,2025-08-11,27.35
+N296EA,2025-08-09,"Durango-La Plata County (KDRO)","Durango-La Plata County (KDRO)","Vereda Blanca Wildfire Mt Taylor Ranger District - NMCIF",2025-08-08,2025-08-09,29.82
+N296EA,2025-08-09,"Durango-La Plata County (KDRO)","Durango-La Plata County (KDRO)","Vereda Blanca Wildfire Mt Taylor Ranger District - NMCIF",2025-08-08,2025-08-11,26.74
+N296EA,2025-08-09,"Durango-La Plata County (KDRO)","Durango-La Plata County (KDRO)","Vereda Blanca Wildfire Mt Taylor Ranger District - NMCIF",2025-08-08,2025-08-09,29.61
+N296EA,2025-08-09,"Durango-La Plata County (KDRO)","Durango-La Plata County (KDRO)","Vereda Blanca Wildfire Mt Taylor Ranger District - NMCIF",2025-08-08,2025-08-11,26.52
+N296EA,2025-08-09,"Durango-La Plata County (KDRO)","Durango-La Plata County (KDRO)","Vereda Blanca Wildfire Mt Taylor Ranger District - NMCIF",2025-08-08,2025-08-09,29.73
+N296EA,2025-08-09,"Durango-La Plata County (KDRO)","Durango-La Plata County (KDRO)","Vereda Blanca Wildfire Mt Taylor Ranger District - NMCIF",2025-08-08,2025-08-11,26.83
+N296EA,2025-08-09,"Phoenix-Mesa Gateway (KIWA)","Durango-La Plata County (KDRO)","Vereda Blanca Wildfire Mt Taylor Ranger District - NMCIF",2025-08-08,2025-08-09,27.48
+N296EA,2025-08-09,"Phoenix-Mesa Gateway (KIWA)","Durango-La Plata County (KDRO)","Vereda Blanca Wildfire Mt Taylor Ranger District - NMCIF",2025-08-08,2025-08-11,27.79
+N297EA,2025-08-11,"Grand Junction Rgnl (KGJT)","Durango-La Plata County (KDRO)","Elk RBX Fire - COWRD",2025-08-02,2025-08-11,26.04
+N297EA,2025-08-11,"Grand Junction Rgnl (KGJT)","Durango-La Plata County (KDRO)","Lee Fire - COWRD",2025-08-02,2025-08-12,29.39
+N297EA,2025-08-11,"Durango-La Plata County (KDRO)","Grand Junction Rgnl (KGJT)","Stoner Mesa Fire - COSJF",2025-07-28,2025-08-11,27.82
+N297EA,2025-08-11,"Durango-La Plata County (KDRO)","Grand Junction Rgnl (KGJT)","Elk RBX Fire - COWRD",2025-08-02,2025-08-11,29.55
+N297EA,2025-08-11,"Durango-La Plata County (KDRO)","Grand Junction Rgnl (KGJT)","Lee Fire - COWRD",2025-08-02,2025-08-12,28.31
+N297EA,2025-08-10,"Durango-La Plata County (KDRO)","Durango-La Plata County (KDRO)","Middle Mesa Fire - NMCAF",2025-08-01,2025-08-11,27.79
+N297EA,2025-08-10,"Durango-La Plata County (KDRO)","Durango-La Plata County (KDRO)","Middle Mesa Fire - NMCAF",2025-08-01,2025-08-11,29.80
+N297EA,2025-08-10,"Durango-La Plata County (KDRO)","Durango-La Plata County (KDRO)","Middle Mesa Fire - NMCAF",2025-08-01,2025-08-11,27.08
+N297EA,2025-08-10,"Durango-La Plata County (KDRO)","Durango-La Plata County (KDRO)","Middle Mesa Fire - NMCAF",2025-08-01,2025-08-11,29.24
+N297EA,2025-08-10,"Durango-La Plata County (KDRO)","Durango-La Plata County (KDRO)","Middle Mesa Fire - NMCAF",2025-08-01,2025-08-11,27.69
+N297EA,2025-08-10,"Durango-La Plata County (KDRO)","Durango-La Plata County (KDRO)","Middle Mesa Fire - NMCAF",2025-08-01,2025-08-11,28.44
+N355AC,2025-08-09,"Durango-La Plata County (KDRO)","Casper/Natrona County Intl (KCPR)","Stoner Mesa Fire - COSJF",2025-07-28,2025-08-11,28.86
+N355AC,2025-08-09,"Durango-La Plata County (KDRO)","Casper/Natrona County Intl (KCPR)","Lee Fire - COWRD",2025-08-02,2025-08-12,29.90
+N355AC,2025-08-09,"Colorado Sprgs Muni (KCOS)","Durango-La Plata County (KDRO)","Vereda Blanca Wildfire Mt Taylor Ranger District - NMCIF",2025-08-08,2025-08-09,27.04
+N355AC,2025-08-09,"Colorado Sprgs Muni (KCOS)","Durango-La Plata County (KDRO)","Vereda Blanca Wildfire Mt Taylor Ranger District - NMCIF",2025-08-08,2025-08-11,26.90
+N355AC,2025-08-09,"Durango-La Plata County (KDRO)","Colorado Sprgs Muni (KCOS)","Vereda Blanca Wildfire Mt Taylor Ranger District - NMCIF",2025-08-08,2025-08-09,28.41
+N355AC,2025-08-09,"Durango-La Plata County (KDRO)","Colorado Sprgs Muni (KCOS)","Vereda Blanca Wildfire Mt Taylor Ranger District - NMCIF",2025-08-08,2025-08-11,29.74
+N355AC,2025-08-09,"Durango-La Plata County (KDRO)","Durango-La Plata County (KDRO)","Vereda Blanca Wildfire Mt Taylor Ranger District - NMCIF",2025-08-08,2025-08-09,27.16
+N355AC,2025-08-09,"Durango-La Plata County (KDRO)","Durango-La Plata County (KDRO)","Vereda Blanca Wildfire Mt Taylor Ranger District - NMCIF",2025-08-08,2025-08-11,28.87
+N355AC,2025-08-09,"Colorado Sprgs Muni (KCOS)","Durango-La Plata County (KDRO)","Vereda Blanca Wildfire Mt Taylor Ranger District - NMCIF",2025-08-08,2025-08-09,26.51
+N355AC,2025-08-09,"Colorado Sprgs Muni (KCOS)","Durango-La Plata County (KDRO)","Vereda Blanca Wildfire Mt Taylor Ranger District - NMCIF",2025-08-08,2025-08-11,26.31
+N389AC,2025-08-11,"Provo Muni (KPVU)","Provo Muni (KPVU)","Beulah Fire - UTWCF",2025-08-07,2025-08-11,27.52
+N389AC,2025-08-11,"Provo Muni (KPVU)","Provo Muni (KPVU)","Beulah Fire - UTWCF",2025-08-07,2025-08-11,28.45
+N389AC,2025-08-10,"Provo Muni (KPVU)","Provo Muni (KPVU)","Beulah Fire - UTWCF",2025-08-07,2025-08-11,28.80
+N389AC,2025-08-10,"Provo Muni (KPVU)","Provo Muni (KPVU)","Beulah Fire - UTWCF",2025-08-07,2025-08-11,26.97
+N389AC,2025-08-09,"Provo Muni (KPVU)","Provo Muni (KPVU)","Beulah Fire - UTWCF",2025-08-07,2025-08-11,29.82
+N389AC,2025-08-09,"Provo Muni (KPVU)","Provo Muni (KPVU)","Beulah Fire - UTWCF",2025-08-07,2025-08-11,27.63
+N416AC,2025-08-09,"Grand Junction Rgnl (KGJT)","Cedar City Rgnl (KCDC)","Lee Fire - COWRD",2025-08-02,2025-08-12,29.10
+N416AC,2025-08-09,"Grand Junction Rgnl (KGJT)","Grand Junction Rgnl (KGJT)","Lee Fire - COWRD",2025-08-02,2025-08-12,29.62
+N416AC,2025-08-09,"Grand Junction Rgnl (KGJT)","Grand Junction Rgnl (KGJT)","Lee Fire - COWRD",2025-08-02,2025-08-12,27.59
+N416AC,2025-08-09,"Grand Junction Rgnl (KGJT)","Grand Junction Rgnl (KGJT)","Lee Fire - COWRD",2025-08-02,2025-08-12,28.09
+N416AC,2025-08-09,"Cedar City Rgnl (KCDC)","Grand Junction Rgnl (KGJT)","Lee Fire - COWRD",2025-08-02,2025-08-12,29.47
+N635AC,2025-08-09,"Meeker Coulter Fld (KEEO)","Casper/Natrona County Intl (KCPR)","Lee Fire - COWRD",2025-08-02,2025-08-12,16.85
+N635AC,2025-08-09,"Colorado Sprgs Muni (KCOS)","Grand Junction Rgnl (KGJT)","Middle Mesa Fire - NMCAF",2025-08-01,2025-08-11,27.74
+N635AC,2025-08-09,"Colorado Sprgs Muni (KCOS)","Grand Junction Rgnl (KGJT)","Vereda Blanca Wildfire Mt Taylor Ranger District - NMCIF",2025-08-08,2025-08-09,28.75
+N635AC,2025-08-09,"Colorado Sprgs Muni (KCOS)","Grand Junction Rgnl (KGJT)","Vereda Blanca Wildfire Mt Taylor Ranger District - NMCIF",2025-08-08,2025-08-11,28.25
+N635AC,2025-08-09,"Colorado Sprgs Muni (KCOS)","Casper/Natrona County Intl (KCPR)","Middle Mesa Fire - NMCAF",2025-08-01,2025-08-11,27.74
+N635AC,2025-08-09,"Colorado Sprgs Muni (KCOS)","Casper/Natrona County Intl (KCPR)","Vereda Blanca Wildfire Mt Taylor Ranger District - NMCIF",2025-08-08,2025-08-09,28.75
+N635AC,2025-08-09,"Colorado Sprgs Muni (KCOS)","Casper/Natrona County Intl (KCPR)","Vereda Blanca Wildfire Mt Taylor Ranger District - NMCIF",2025-08-08,2025-08-11,28.25
+N635AC,2025-08-09,"Durango-La Plata County (KDRO)","Colorado Sprgs Muni (KCOS)","Vereda Blanca Wildfire Mt Taylor Ranger District - NMCIF",2025-08-08,2025-08-09,26.41
+N635AC,2025-08-09,"Durango-La Plata County (KDRO)","Colorado Sprgs Muni (KCOS)","Vereda Blanca Wildfire Mt Taylor Ranger District - NMCIF",2025-08-08,2025-08-11,27.74
+N635AC,2025-08-09,"Durango-La Plata County (KDRO)","Durango-La Plata County (KDRO)","Vereda Blanca Wildfire Mt Taylor Ranger District - NMCIF",2025-08-08,2025-08-09,29.19
+N635AC,2025-08-09,"Durango-La Plata County (KDRO)","Durango-La Plata County (KDRO)","Vereda Blanca Wildfire Mt Taylor Ranger District - NMCIF",2025-08-08,2025-08-11,26.49
+N635AC,2025-08-09,"Colorado Sprgs Muni (KCOS)","Durango-La Plata County (KDRO)","Vereda Blanca Wildfire Mt Taylor Ranger District - NMCIF",2025-08-08,2025-08-09,28.97
+N635AC,2025-08-09,"Colorado Sprgs Muni (KCOS)","Durango-La Plata County (KDRO)","Vereda Blanca Wildfire Mt Taylor Ranger District - NMCIF",2025-08-08,2025-08-11,26.12
+N839AC,2025-08-11,"Santa Maria (KSMX)","Fresno Yosemite Intl (KFAT)","Gifford Fire - CALPF",2025-08-01,2025-08-11,29.59
+N839AC,2025-08-11,"Santa Maria (KSMX)","Santa Maria (KSMX)","Gifford Fire - CALPF",2025-08-01,2025-08-11,29.97
+N839AC,2025-08-11,"Santa Maria (KSMX)","Santa Maria (KSMX)","Gifford Fire - CALPF",2025-08-01,2025-08-11,29.97
+N839AC,2025-08-11,"Santa Maria (KSMX)","Santa Maria (KSMX)","Gifford Fire - CALPF",2025-08-01,2025-08-11,29.85
+N839AC,2025-08-11,"Santa Maria (KSMX)","Santa Maria (KSMX)","Gifford Fire - CALPF",2025-08-01,2025-08-11,29.90
+N839AC,2025-08-11,"Santa Maria (KSMX)","Santa Maria (KSMX)","Gifford Fire - CALPF",2025-08-01,2025-08-11,29.77
+N839AC,2025-08-11,"Santa Maria (KSMX)","Santa Maria (KSMX)","Gifford Fire - CALPF",2025-08-01,2025-08-11,29.22
+N839AC,2025-08-11,"Santa Maria (KSMX)","Santa Maria (KSMX)","Gifford Fire - CALPF",2025-08-01,2025-08-11,29.58
+N839AC,2025-08-11,"Santa Maria (KSMX)","Santa Maria (KSMX)","Gifford Fire - CALPF",2025-08-01,2025-08-11,28.91
+N839AC,2025-08-11,"Santa Maria (KSMX)","Santa Maria (KSMX)","Gifford Fire - CALPF",2025-08-01,2025-08-11,29.80
+N839AC,2025-08-11,"Fresno Yosemite Intl (KFAT)","Santa Maria (KSMX)","Gifford Fire - CALPF",2025-08-01,2025-08-11,29.81
+N839AC,2025-08-10,"Sacramento McClellan (KMCC)","Fresno Yosemite Intl (KFAT)","Gifford Fire - CALPF",2025-08-01,2025-08-11,29.09
+N406BT,2025-08-11,"Provo Muni (KPVU)","Provo Muni (KPVU)","Beulah Fire - UTWCF",2025-08-07,2025-08-11,27.70
+N406BT,2025-08-11,"Provo Muni (KPVU)","Provo Muni (KPVU)","Beulah Fire - UTWCF",2025-08-07,2025-08-11,28.96
+N406BT,2025-08-10,"Provo Muni (KPVU)","Provo Muni (KPVU)","Beulah Fire - UTWCF",2025-08-07,2025-08-11,27.35
+N406BT,2025-08-10,"Provo Muni (KPVU)","Provo Muni (KPVU)","Beulah Fire - UTWCF",2025-08-07,2025-08-11,29.04
+N406BT,2025-08-09,"Provo Muni (KPVU)","Provo Muni (KPVU)","Beulah Fire - UTWCF",2025-08-07,2025-08-11,27.70
+N406BT,2025-08-09,"Provo Muni (KPVU)","Provo Muni (KPVU)","Beulah Fire - UTWCF",2025-08-07,2025-08-11,29.48
+N418BT,2025-08-09,"Cedar City Rgnl (KCDC)","Cedar City Rgnl (KCDC)","Monroe Canyon - UTFIF",2025-07-13,2025-08-11,10.13
+N419BT,2025-08-10,"Cedar City Rgnl (KCDC)","Cedar City Rgnl (KCDC)","Monroe Canyon - UTFIF",2025-07-13,2025-08-11,26.21
+N419BT,2025-08-09,"Cedar City Rgnl (KCDC)","Cedar City Rgnl (KCDC)","Monroe Canyon - UTFIF",2025-07-13,2025-08-11,10.70
+N470NA,2025-08-11,"Santa Maria (KSMX)","General Wm J Fox Airfield (KWJF)","Gifford Fire - CALPF",2025-08-01,2025-08-11,28.97
+N470NA,2025-08-11,"Santa Maria (KSMX)","Santa Maria (KSMX)","Gifford Fire - CALPF",2025-08-01,2025-08-11,29.15
+N470NA,2025-08-11,"Santa Maria (KSMX)","Santa Maria (KSMX)","Gifford Fire - CALPF",2025-08-01,2025-08-11,29.29
+N470NA,2025-08-11,"Santa Maria (KSMX)","Santa Maria (KSMX)","Gifford Fire - CALPF",2025-08-01,2025-08-11,29.28
+N470NA,2025-08-11,"Santa Maria (KSMX)","Santa Maria (KSMX)","Gifford Fire - CALPF",2025-08-01,2025-08-11,29.02
+N470NA,2025-08-11,"Santa Maria (KSMX)","Santa Maria (KSMX)","Gifford Fire - CALPF",2025-08-01,2025-08-11,28.61
+N470NA,2025-08-11,"Santa Maria (KSMX)","Santa Maria (KSMX)","Gifford Fire - CALPF",2025-08-01,2025-08-11,29.74
+N470NA,2025-08-11,"Santa Maria (KSMX)","Santa Maria (KSMX)","Gifford Fire - CALPF",2025-08-01,2025-08-11,29.48
+N470NA,2025-08-11,"Santa Maria (KSMX)","Santa Maria (KSMX)","Gifford Fire - CALPF",2025-08-01,2025-08-11,28.75
+N470NA,2025-08-11,"Santa Maria (KSMX)","Santa Maria (KSMX)","Gifford Fire - CALPF",2025-08-01,2025-08-11,29.64
+N470NA,2025-08-11,"Santa Maria (KSMX)","Santa Maria (KSMX)","Gifford Fire - CALPF",2025-08-01,2025-08-11,29.56
+N470NA,2025-08-11,"Santa Maria (KSMX)","Santa Maria (KSMX)","Gifford Fire - CALPF",2025-08-01,2025-08-11,29.27
+N470NA,2025-08-11,"General Wm J Fox Airfield (KWJF)","Santa Maria (KSMX)","Gifford Fire - CALPF",2025-08-01,2025-08-11,26.98
+N470NA,2025-08-10,"General Wm J Fox Airfield (KWJF)","General Wm J Fox Airfield (KWJF)","Gifford Fire - CALPF",2025-08-01,2025-08-11,29.00
+N471NA,2025-08-10,"Santa Maria (KSMX)","Santa Maria (KSMX)","Gifford Fire - CALPF",2025-08-01,2025-08-11,29.48
+N471NA,2025-08-10,"Santa Maria (KSMX)","Santa Maria (KSMX)","Gifford Fire - CALPF",2025-08-01,2025-08-11,29.24
+N471NA,2025-08-10,"Santa Maria (KSMX)","Santa Maria (KSMX)","Gifford Fire - CALPF",2025-08-01,2025-08-11,29.14
+N471NA,2025-08-10,"Santa Maria (KSMX)","Santa Maria (KSMX)","Gifford Fire - CALPF",2025-08-01,2025-08-11,28.13
+N471NA,2025-08-10,"Santa Maria (KSMX)","Santa Maria (KSMX)","Gifford Fire - CALPF",2025-08-01,2025-08-11,28.41
+N471NA,2025-08-09,"Santa Maria (KSMX)","Santa Maria (KSMX)","Gifford Fire - CALPF",2025-08-01,2025-08-11,29.62
+N471NA,2025-08-09,"Santa Maria (KSMX)","Santa Maria (KSMX)","Gifford Fire - CALPF",2025-08-01,2025-08-11,28.59
+N471NA,2025-08-09,"Santa Maria (KSMX)","Santa Maria (KSMX)","Gifford Fire - CALPF",2025-08-01,2025-08-11,28.48
+N473NA,2025-08-10,"San Bernardino Intl (KSBD)","San Bernardino Intl (KSBD)","Gifford Fire - CALPF",2025-08-01,2025-08-11,28.78
+N474NA,2025-08-09,"Grand Junction Rgnl (KGJT)","Cedar City Rgnl (KCDC)","Monroe Canyon - UTFIF",2025-07-13,2025-08-11,29.34
+N474NA,2025-08-09,"Grand Junction Rgnl (KGJT)","Cedar City Rgnl (KCDC)","Lee Fire - COWRD",2025-08-02,2025-08-12,29.75
+N474NA,2025-08-09,"Grand Junction Rgnl (KGJT)","Grand Junction Rgnl (KGJT)","Lee Fire - COWRD",2025-08-02,2025-08-12,28.98
+N474NA,2025-08-09,"Grand Junction Rgnl (KGJT)","Grand Junction Rgnl (KGJT)","Lee Fire - COWRD",2025-08-02,2025-08-12,27.34
+N474NA,2025-08-09,"Grand Junction Rgnl (KGJT)","Grand Junction Rgnl (KGJT)","Lee Fire - COWRD",2025-08-02,2025-08-12,29.31
+N474NA,2025-08-09,"Cedar City Rgnl (KCDC)","Grand Junction Rgnl (KGJT)","Lee Fire - COWRD",2025-08-02,2025-08-12,27.37
+N475NA,2025-08-11,"Grand Junction Rgnl (KGJT)","Grand Junction Rgnl (KGJT)","Elk RBX Fire - COWRD",2025-08-02,2025-08-11,29.01
+N475NA,2025-08-11,"Grand Junction Rgnl (KGJT)","Grand Junction Rgnl (KGJT)","Lee Fire - COWRD",2025-08-02,2025-08-12,29.14
+N475NA,2025-08-11,"Grand Junction Rgnl (KGJT)","Grand Junction Rgnl (KGJT)","Elk RBX Fire - COWRD",2025-08-02,2025-08-11,29.98
+N475NA,2025-08-11,"Grand Junction Rgnl (KGJT)","Grand Junction Rgnl (KGJT)","Lee Fire - COWRD",2025-08-02,2025-08-12,28.70
+N475NA,2025-08-10,"Durango-La Plata County (KDRO)","Grand Junction Rgnl (KGJT)","Stoner Mesa Fire - COSJF",2025-07-28,2025-08-11,29.70
+N475NA,2025-08-10,"Near Durango, CO","Durango-La Plata County (KDRO)","Middle Mesa Fire - NMCAF",2025-08-01,2025-08-11,26.75
+N475NA,2025-08-10,"Grand Junction Rgnl (KGJT)","Durango-La Plata County (KDRO)","Middle Mesa Fire - NMCAF",2025-08-01,2025-08-11,29.80
+N475NA,2025-08-09,"Grand Junction Rgnl (KGJT)","Grand Junction Rgnl (KGJT)","Lee Fire - COWRD",2025-08-02,2025-08-12,28.84
+N475NA,2025-08-09,"Grand Junction Rgnl (KGJT)","Grand Junction Rgnl (KGJT)","Lee Fire - COWRD",2025-08-02,2025-08-12,29.66
+N475NA,2025-08-09,"Grand Junction Rgnl (KGJT)","Grand Junction Rgnl (KGJT)","Lee Fire - COWRD",2025-08-02,2025-08-12,29.56
+N475NA,2025-08-09,"Grand Junction Rgnl (KGJT)","Grand Junction Rgnl (KGJT)","Lee Fire - COWRD",2025-08-02,2025-08-12,29.30
+N475NA,2025-08-09,"Grand Junction Rgnl (KGJT)","Grand Junction Rgnl (KGJT)","Lee Fire - COWRD",2025-08-02,2025-08-12,29.78
+N475NA,2025-08-09,"Grand Junction Rgnl (KGJT)","Grand Junction Rgnl (KGJT)","Lee Fire - COWRD",2025-08-02,2025-08-12,29.90
+N476NA,2025-08-11,"Santa Maria (KSMX)","Santa Maria (KSMX)","Gifford Fire - CALPF",2025-08-01,2025-08-11,29.24
+N476NA,2025-08-11,"Santa Maria (KSMX)","Santa Maria (KSMX)","Gifford Fire - CALPF",2025-08-01,2025-08-11,29.75
+N476NA,2025-08-11,"Santa Maria (KSMX)","Santa Maria (KSMX)","Gifford Fire - CALPF",2025-08-01,2025-08-11,29.13
+N476NA,2025-08-11,"Sacramento McClellan (KMCC)","Santa Maria (KSMX)","Gifford Fire - CALPF",2025-08-01,2025-08-11,29.43
+N476NA,2025-08-10,"Santa Maria (KSMX)","Santa Maria (KSMX)","Gifford Fire - CALPF",2025-08-01,2025-08-11,28.82
+N476NA,2025-08-10,"Santa Maria (KSMX)","Santa Maria (KSMX)","Gifford Fire - CALPF",2025-08-01,2025-08-11,29.05
+N476NA,2025-08-10,"Santa Maria (KSMX)","San Bernardino Intl (KSBD)","Gifford Fire - CALPF",2025-08-01,2025-08-11,29.05
+N476NA,2025-08-09,"Santa Maria (KSMX)","Santa Maria (KSMX)","Gifford Fire - CALPF",2025-08-01,2025-08-11,29.33
+N476NA,2025-08-09,"Santa Maria (KSMX)","Santa Maria (KSMX)","Gifford Fire - CALPF",2025-08-01,2025-08-11,28.98
+N476NA,2025-08-09,"Santa Maria (KSMX)","Santa Maria (KSMX)","Gifford Fire - CALPF",2025-08-01,2025-08-11,29.24
+N476NA,2025-08-09,"Santa Maria (KSMX)","Santa Maria (KSMX)","Gifford Fire - CALPF",2025-08-01,2025-08-11,28.72
+N477NA,2025-08-11,"Crater Lake/Klamath Rgnl (KLMT)","Crater Lake/Klamath Rgnl (KLMT)","Mountain Fire - CAMDF",2025-08-11,2025-08-11,27.50
+N477NA,2025-08-11,"Crater Lake/Klamath Rgnl (KLMT)","Crater Lake/Klamath Rgnl (KLMT)","Mountain Fire - CAMDF",2025-08-11,2025-08-11,29.72
+N478NA,2025-08-11,"Grand Junction Rgnl (KGJT)","Colorado Sprgs Muni (KCOS)","Elk RBX Fire - COWRD",2025-08-02,2025-08-11,26.70
+N478NA,2025-08-11,"Colorado Sprgs Muni (KCOS)","Grand Junction Rgnl (KGJT)","Elk RBX Fire - COWRD",2025-08-02,2025-08-11,29.69
+N478NA,2025-08-11,"Colorado Sprgs Muni (KCOS)","Grand Junction Rgnl (KGJT)","Lee Fire - COWRD",2025-08-02,2025-08-12,29.78
+N478NA,2025-08-10,"Colorado Sprgs Muni (KCOS)","Colorado Sprgs Muni (KCOS)","Middle Mesa Fire - NMCAF",2025-08-01,2025-08-11,29.36
+N522AX,2025-08-11,"Phoenix-Mesa Gateway (KIWA)","Phoenix-Mesa Gateway (KIWA)","Bronco Fire - AZSCA",2025-08-03,2025-08-11,25.84
+N522AX,2025-08-11,"Phoenix-Mesa Gateway (KIWA)","Phoenix-Mesa Gateway (KIWA)","Indian Creek - AZFTA",2025-08-05,2025-08-11,25.89
+N522AX,2025-08-11,"Phoenix-Mesa Gateway (KIWA)","Phoenix-Mesa Gateway (KIWA)","Bronco Fire - AZSCA",2025-08-03,2025-08-11,27.04
+N522AX,2025-08-11,"Phoenix-Mesa Gateway (KIWA)","Phoenix-Mesa Gateway (KIWA)","Indian Creek - AZFTA",2025-08-05,2025-08-11,29.75
+N522AX,2025-08-11,"Phoenix-Mesa Gateway (KIWA)","Phoenix-Mesa Gateway (KIWA)","Goodwin Fire - AZSCA",2025-08-06,2025-08-11,29.90
+N522AX,2025-08-09,"Phoenix-Mesa Gateway (KIWA)","Phoenix-Mesa Gateway (KIWA)","Bronco Fire - AZSCA",2025-08-03,2025-08-11,27.85
+N522AX,2025-08-09,"Phoenix-Mesa Gateway (KIWA)","Phoenix-Mesa Gateway (KIWA)","Indian Creek - AZFTA",2025-08-05,2025-08-11,28.34
+N522AX,2025-08-09,"Phoenix-Mesa Gateway (KIWA)","Phoenix-Mesa Gateway (KIWA)","Bronco Fire - AZSCA",2025-08-03,2025-08-11,29.01
+N522AX,2025-08-09,"Phoenix-Mesa Gateway (KIWA)","Phoenix-Mesa Gateway (KIWA)","Indian Creek - AZFTA",2025-08-05,2025-08-11,28.17
+N603AX,2025-08-11,"Santa Maria (KSMX)","San Bernardino Intl (KSBD)","Gifford Fire - CALPF",2025-08-01,2025-08-11,28.59
+N603AX,2025-08-11,"Santa Maria (KSMX)","Santa Maria (KSMX)","Gifford Fire - CALPF",2025-08-01,2025-08-11,29.93
+N603AX,2025-08-11,"Santa Maria (KSMX)","Santa Maria (KSMX)","Gifford Fire - CALPF",2025-08-01,2025-08-11,28.68
+N603AX,2025-08-11,"Santa Maria (KSMX)","Santa Maria (KSMX)","Gifford Fire - CALPF",2025-08-01,2025-08-11,29.97
+N603AX,2025-08-11,"Santa Maria (KSMX)","Santa Maria (KSMX)","Gifford Fire - CALPF",2025-08-01,2025-08-11,29.30
+N603AX,2025-08-11,"Santa Maria (KSMX)","Santa Maria (KSMX)","Gifford Fire - CALPF",2025-08-01,2025-08-11,29.84
+N603AX,2025-08-11,"Santa Maria (KSMX)","Santa Maria (KSMX)","Gifford Fire - CALPF",2025-08-01,2025-08-11,29.35
+N603AX,2025-08-11,"Santa Maria (KSMX)","Santa Maria (KSMX)","Gifford Fire - CALPF",2025-08-01,2025-08-11,29.25
+N603AX,2025-08-11,"San Bernardino Intl (KSBD)","Santa Maria (KSMX)","Gifford Fire - CALPF",2025-08-01,2025-08-11,27.25
+N603AX,2025-08-10,"San Bernardino Intl (KSBD)","San Bernardino Intl (KSBD)","Gifford Fire - CALPF",2025-08-01,2025-08-11,29.14
+N603AX,2025-08-09,"Santa Maria (KSMX)","San Bernardino Intl (KSBD)","Gifford Fire - CALPF",2025-08-01,2025-08-11,28.50
+N603AX,2025-08-09,"Santa Maria (KSMX)","Santa Maria (KSMX)","Gifford Fire - CALPF",2025-08-01,2025-08-11,29.38
+N603AX,2025-08-09,"Santa Maria (KSMX)","Santa Maria (KSMX)","Gifford Fire - CALPF",2025-08-01,2025-08-11,29.99
+N612AX,2025-08-09,"San Bernardino Intl (KSBD)","Pocatello Rgnl (KPIH)","Lee Fire - COWRD",2025-08-02,2025-08-12,29.45
