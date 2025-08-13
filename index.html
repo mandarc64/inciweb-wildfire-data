@@ -430,10 +430,25 @@
           title: "Flights",
           data: "flights",
           orderable: false,
-          className: "all text-center", // <= keep visible in main table
-          responsivePriority: 0, // <= highest priority to stay visible
+          className: "all text-center",
+          responsivePriority: 0,
           render: (flights, type, row) => {
             const n = Array.isArray(flights) ? flights.length : 0;
+
+            // For export types (csv, excel, pdf), return plain text with all flight info
+            if (type === "export") {
+              if (!n) return "No flights";
+              return flights
+                .map(
+                  (f) =>
+                    `${f.FlightDate || ""} | ${f.TailNumber || ""} | ${
+                      f.Origin || ""
+                    } -> ${f.Destination || ""} | ${f.DistanceKM || ""} km`
+                )
+                .join("\n"); // keep real newline
+            }
+
+            // For display in browser
             return n
               ? `<a href="#" class="show-flights" data-count="${n}">${n} flights</a>`
               : "—";
@@ -444,6 +459,12 @@
         if (dataTable) {
           dataTable.destroy();
         }
+
+        // Create dynamic filename from first incident name + timestamp
+        const incidentName = data.length
+          ? data[0].Incident.replace(/\s+/g, "_")
+          : "wildfire";
+        const timestamp = new Date().toISOString().replace(/[:.]/g, "-");
 
         dataTable = $("#incidentTable").DataTable({
           data: data,
@@ -458,10 +479,12 @@
                   if (!col.hidden) return ""; // only render hidden columns
                   if (col.title === "Flights") return ""; // omit Flights from child panel
                   return `
-          <tr data-dt-row="${col.rowIndex}" data-dt-column="${col.columnIndex}">
-            <td><strong>${col.title}</strong></td>
-            <td>${col.data !== null ? col.data : "-"}</td>
-          </tr>`;
+                <tr data-dt-row="${
+                  col.rowIndex
+                }" data-dt-column="${col.columnIndex}">
+                  <td><strong>${col.title}</strong></td>
+                  <td>${col.data !== null ? col.data : "-"}</td>
+                </tr>`;
                 }).join("");
 
                 return rows
@@ -479,25 +502,48 @@
           order: [[initialOrderIdx, "desc"]],
           // ✅ NEW LINES FOR EXPORT BUTTONS
           dom: "Bfrtip", // Layout: Buttons, filter, table, pagination
+
           buttons: [
             {
               extend: "excelHtml5",
               text: "📥 Download Excel",
               title: "Wildfire Incident Data",
+              filename: `${incidentName}_${timestamp}`,
+              exportOptions: { orthogonal: "export" },
+              customize: function (xlsx) {
+                const sheet = xlsx.xl.worksheets["sheet1.xml"];
+                // Make Excel respect newlines
+                $("row c[r]", sheet).attr("s", "55"); // style with wrap text
+              },
             },
             {
               extend: "csvHtml5",
               text: "📥 Download CSV",
               title: "Wildfire Incident Data",
+              filename: `${incidentName}_${timestamp}`,
+              exportOptions: { orthogonal: "export" },
+              fieldBoundary: '"', // Enclose fields in quotes
+              escapeChar: '"', // Escape quotes
+              fieldSeparator: ",", // Comma separator
+              customize: function (csv) {
+                // Ensure our `\n` in the flights column remain inside the quotes
+                return csv;
+              },
             },
+
             {
               extend: "pdfHtml5",
               text: "📄 Download PDF",
               title: "Wildfire Incident Data",
               orientation: "landscape",
               pageSize: "A4",
+              filename: `${incidentName}_${timestamp}`,
+              exportOptions: { orthogonal: "export" },
             },
-            "print",
+            {
+              extend: "print",
+              exportOptions: { orthogonal: "export" },
+            },
           ],
         });
 
@@ -550,9 +596,9 @@
 
           console.debug("Injecting flights block…");
           const html = `
-    <div class="flights-block border-top mt-2 pt-2">
-      ${formatFlightsRow(rowData)}
-    </div>`;
+          <div class="flights-block border-top mt-2 pt-2">
+            ${formatFlightsRow(rowData)}
+          </div>`;
           $cell.append(html);
         });
       }
@@ -575,28 +621,28 @@
         const rows = flights
           .map(
             (f) => `
-          <tr>
-            <td>${f.FlightDate || ""}</td>
-            <td>${f.TailNumber || ""}</td>
-            <td>${f.Origin || ""}</td>
-            <td>${f.Destination || ""}</td>
-            <td>${f.DistanceKM || ""}</td>
-          </tr>
-        `
+                <tr>
+                  <td>${f.FlightDate || ""}</td>
+                  <td>${f.TailNumber || ""}</td>
+                  <td>${f.Origin || ""}</td>
+                  <td>${f.Destination || ""}</td>
+                  <td>${f.DistanceKM || ""}</td>
+                </tr>
+              `
           )
           .join("");
 
         return `
-          <div class="p-2">
-            <strong>Matching flights (${flights.length})</strong>
-            <table class="table table-sm table-bordered mt-2 mb-0">
-              <thead>
-                <tr><th>Date</th><th>Tail #</th><th>Origin</th><th>Destination</th><th>Distance (km)</th></tr>
-              </thead>
-              <tbody>${rows}</tbody>
-            </table>
-          </div>
-        `;
+                <div class="p-2">
+                  <strong>Matching flights (${flights.length})</strong>
+                  <table class="table table-sm table-bordered mt-2 mb-0">
+                    <thead>
+                      <tr><th>Date</th><th>Tail #</th><th>Origin</th><th>Destination</th><th>Distance (km)</th></tr>
+                    </thead>
+                    <tbody>${rows}</tbody>
+                  </table>
+                </div>
+              `;
       }
 
       function renderCharts(data) {
