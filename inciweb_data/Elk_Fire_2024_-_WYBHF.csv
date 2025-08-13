@@ -1,0 +1,2 @@
+ScrapeDate,Incident,Type,State,Size,Updated,CurrentAsOf,IncidentTimeZone,IncidentType,Cause,DateOfOrigin,Location,IncidentCommander,Coordinates,Latitude,Longitude,TotalPersonnel,ContainmentPercent
+2025-08-13,"Elk Fire 2024 - WYBHF","Wildfire","Wyoming","98,352 Acres","4 hours 30 minutes ago","Wed, 08/13/2025 - 12:50","America/Denver","Wildfire","Lightning","Fri, 09/27/2024 - 08:36","15 miles northwest of Dayton, WY","Bighorn National Forest Type 4 incident command team","44° 53' 53'', -107° 34' 7 ''","44° 53' 53''","-107° 34' 7 ''","11","100%"
