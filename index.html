@@ -26,117 +26,673 @@
       href="https://cdn.datatables.net/buttons/2.4.2/css/buttons.dataTables.min.css"
     />
 
+    <!-- Google Fonts -->
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+
+    <!-- Lucide Icons -->
+    <script src="https://unpkg.com/lucide@latest/dist/umd/lucide.js"></script>
+
     <style>
-      body {
-        background: linear-gradient(135deg, #f8f9fa, #e9ecef);
-        font-family: "Segoe UI", Tahoma, sans-serif;
+      :root {
+        --primary-gradient: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        --danger-gradient: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
+        --success-gradient: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);
+        --dark-bg: #f8f9fa;
+        --card-bg: #ffffff;
+        --border-color: #e2e8f0;
+        --text-primary: #2d3748;
+        --text-secondary: #718096;
+        --accent-orange: #ff6b35;
+        --accent-blue: #4fc3f7;
+        --glass-bg: rgba(255, 255, 255, 0.8);
+        --glass-border: rgba(0, 0, 0, 0.1);
+        --shadow-lg: 0 20px 25px -5px rgba(0, 0, 0, 0.1),
+          0 10px 10px -5px rgba(0, 0, 0, 0.04);
+        --shadow-xl: 0 25px 50px -12px rgba(0, 0, 0, 0.15);
       }
+
+      body {
+        font-family: "Inter", -apple-system, BlinkMacSystemFont, sans-serif;
+        background: linear-gradient(135deg, #f8f9fa, #e9ecef);
+        color: var(--text-primary);
+        line-height: 1.6;
+        overflow-x: hidden;
+      }
+
+      /* Animated background */
+      body::before {
+        content: "";
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background: radial-gradient(
+            circle at 20% 80%,
+            rgba(255, 107, 53, 0.05) 0%,
+            transparent 50%
+          ),
+          radial-gradient(
+            circle at 80% 20%,
+            rgba(79, 195, 247, 0.05) 0%,
+            transparent 50%
+          ),
+          radial-gradient(
+            circle at 40% 40%,
+            rgba(118, 75, 162, 0.03) 0%,
+            transparent 50%
+          );
+        z-index: -1;
+        animation: float 20s ease-in-out infinite;
+      }
+
+      @keyframes float {
+        0%,
+        100% {
+          transform: translateY(0px);
+        }
+        50% {
+          transform: translateY(-20px);
+        }
+      }
+
+      /* Header Section */
       .header-section {
         text-align: center;
-        padding: 40px 20px 20px;
+        padding: 4rem 2rem 3rem;
+        position: relative;
       }
+
+      .header-section::after {
+        content: "";
+        position: absolute;
+        bottom: 0;
+        left: 50%;
+        transform: translateX(-50%);
+        width: 100px;
+        height: 2px;
+        background: var(--danger-gradient);
+        border-radius: 2px;
+      }
+
       .header-section h1 {
-        font-size: 2.5rem;
-        font-weight: bold;
-        color: #dc3545;
-        margin-bottom: 15px;
+        font-size: clamp(2.5rem, 5vw, 4rem);
+        font-weight: 700;
+        background: var(--danger-gradient);
+        background-clip: text;
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        margin-bottom: 1.5rem;
+        letter-spacing: -0.02em;
       }
-      .header-paragraphs {
+
+      .header-subtitle {
+        font-size: 1.2rem;
+        color: var(--text-secondary);
+        margin-bottom: 2rem;
+        font-weight: 400;
+      }
+
+      .status-grid {
+        display: grid;
+        grid-template-columns: repeat(6, 1fr);
+        gap: 1rem;
+        margin-top: 2rem;
+        max-width: 1200px;
+        margin-left: auto;
+        margin-right: auto;
+      }
+
+      .status-card {
+        background: var(--glass-bg);
+        border: 1px solid var(--glass-border);
+        border-radius: 16px;
+        padding: 1rem;
+        backdrop-filter: blur(10px);
+        transition: all 0.3s ease;
+      }
+
+      .status-card:hover {
+        transform: translateY(-5px);
+        box-shadow: var(--shadow-lg);
+        border-color: var(--accent-orange);
+      }
+
+      .status-card .icon {
+        width: 40px;
+        height: 40px;
+        margin-bottom: 0.75rem;
+        color: var(--accent-orange);
+      }
+
+      .status-card h3 {
+        font-size: 0.875rem;
+        font-weight: 600;
+        color: var(--text-secondary);
+        text-transform: uppercase;
+        letter-spacing: 0.05em;
+        margin-bottom: 0.5rem;
+      }
+
+      .status-card .value {
+        font-size: 1.25rem;
+        font-weight: 700;
+        color: var(--text-primary);
+      }
+
+      /* Main Container */
+      .container-fluid {
+        max-width: 1400px;
+        margin: 0 auto;
+        padding: 0 2rem;
+      }
+
+      /* Glass Card */
+      .glass-card {
+        background: var(--glass-bg);
+        border: 1px solid var(--glass-border);
+        border-radius: 24px;
+        padding: 2.5rem;
+        backdrop-filter: blur(20px);
+        box-shadow: var(--shadow-xl);
+        margin-bottom: 2rem;
+        transition: all 0.3s ease;
+      }
+
+      .glass-card:hover {
+        border-color: rgba(255, 255, 255, 0.2);
+      }
+
+      /* Controls Section */
+      .controls-section {
         display: flex;
-        flex-wrap: wrap; /* Wrap on small screens */
-        justify-content: center; /* Center horizontally */
-        align-items: baseline; /* ✅ Aligns all text on the same baseline */
-        gap: 15px; /* Space between p tags */
+        flex-wrap: wrap;
+        gap: 1.5rem;
+        align-items: center;
+        justify-content: space-between;
+        margin-bottom: 3rem;
+        padding: 1.5rem;
+        background: var(--glass-bg);
+        border: 1px solid var(--glass-border);
+        border-radius: 16px;
+        backdrop-filter: blur(10px);
       }
 
-      .header-paragraphs p {
-        margin: 0;
-        font-size: 1rem;
-        color: #6c757d;
-        line-height: 1.5; /* ✅ Consistent height */
-        white-space: nowrap; /* ✅ Prevents unwanted line breaks inside */
+      .control-group {
+        display: flex;
+        flex-direction: column;
+        gap: 0.5rem;
       }
 
-      .header-paragraphs p b {
-        font-weight: 600; /* Slightly less heavy than default <b> */
+      .control-group label {
+        font-size: 0.875rem;
+        font-weight: 600;
+        color: var(--text-secondary);
+        text-transform: uppercase;
+        letter-spacing: 0.05em;
       }
-      .card {
-        background: #ffffff;
+
+      .form-select {
+        background: var(--card-bg);
+        border: 1px solid var(--border-color);
         border-radius: 12px;
-        box-shadow: 0 4px 15px rgba(0, 0, 0, 0.05);
-        padding: 20px;
-        margin-top: 20px;
+        padding: 0.75rem 2.5rem 0.75rem 1rem;
+        color: var(--text-primary);
+        font-weight: 500;
+        min-width: 250px;
+        transition: all 0.3s ease;
+        appearance: none !important;
+        -webkit-appearance: none !important;
+        -moz-appearance: none !important;
+        background-image: url("data:image/svg+xml;charset=UTF-8,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23718096' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3e%3cpolyline points='6,9 12,15 18,9'%3e%3c/polyline%3e%3c/svg%3e");
+        background-repeat: no-repeat;
+        background-position: right 1rem center;
+        background-size: 16px;
       }
-      #lastUpdated {
-        font-size: 0.95rem;
-        color: #495057;
-        margin-top: 10px;
+
+      .form-select::-ms-expand {
+        display: none;
       }
-      select.form-select {
+
+      .form-select:focus {
+        border-color: var(--accent-orange);
+        box-shadow: 0 0 0 3px rgba(255, 107, 53, 0.1);
+        background-color: var(--card-bg);
+        color: var(--text-primary);
+        outline: none;
+        background-image: url("data:image/svg+xml;charset=UTF-8,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23ff6b35' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3e%3cpolyline points='6,9 12,15 18,9'%3e%3c/polyline%3e%3c/svg%3e");
+      }
+
+      .form-select option {
+        background: var(--card-bg);
+        color: var(--text-primary);
+      }
+
+      /* Export Buttons */
+      .export-controls {
+        display: flex;
+        gap: 0.75rem;
+        flex-wrap: wrap;
+      }
+
+      .btn-export {
+        background: var(--glass-bg);
+        border: 1px solid var(--glass-border);
+        color: var(--text-primary);
+        padding: 0.75rem 1.5rem;
+        border-radius: 12px;
+        font-weight: 500;
+        display: flex;
+        align-items: center;
+        gap: 0.5rem;
+        transition: all 0.3s ease;
+        text-decoration: none;
+      }
+
+      .btn-export:hover {
+        background: var(--accent-orange);
+        border-color: var(--accent-orange);
+        color: white;
+        transform: translateY(-2px);
+        box-shadow: var(--shadow-lg);
+      }
+
+      /* Charts Section */
+      .charts-section {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(400px, 2fr));
+        gap: 2rem;
+        margin-bottom: 3rem;
+      }
+
+      .chart-container {
+        background: var(--glass-bg);
+        border: 1px solid var(--glass-border);
+        border-radius: 20px;
+        padding: 2rem 2rem 3rem 2rem;
+        backdrop-filter: blur(10px);
+        transition: all 0.3s ease;
+        min-width: 450px;
+      }
+
+      .chart-container:hover {
+        transform: translateY(-5px);
+        box-shadow: var(--shadow-lg);
+      }
+
+      .chart-title {
+        font-size: 1.25rem;
+        font-weight: 600;
+        color: var(--text-primary);
+        margin-bottom: 1.5rem;
+        text-align: center;
+      }
+
+      /* Table Styles */
+      .table-container {
+        background: var(--glass-bg);
+        border: 1px solid var(--glass-border);
+        border-radius: 20px;
+        padding: 2rem;
+        backdrop-filter: blur(10px);
+        overflow: hidden;
+      }
+
+      .table-header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-bottom: 2rem;
+        flex-wrap: wrap;
+        gap: 1rem;
+      }
+
+      .table-title {
+        font-size: 1.5rem;
+        font-weight: 600;
+        color: var(--text-primary);
+        display: flex;
+        align-items: center;
+        gap: 0.75rem;
+      }
+
+      /* DataTables Overrides */
+      .dataTables_wrapper {
+        color: var(--text-primary);
+      }
+
+      .dataTables_wrapper .dataTables_length,
+      .dataTables_wrapper .dataTables_filter,
+      .dataTables_wrapper .dataTables_info,
+      .dataTables_wrapper .dataTables_paginate {
+        color: var(--text-secondary);
+      }
+
+      .dataTables_wrapper .dataTables_filter input {
+        background: var(--card-bg);
+        border: 1px solid var(--border-color);
         border-radius: 8px;
-        padding: 10px;
+        padding: 0.5rem;
+        color: var(--text-primary);
+        margin-left: 0.5rem;
       }
+
+      table.dataTable {
+        background: transparent;
+        border-collapse: separate;
+        border-spacing: 0;
+      }
+
+      table.dataTable thead th {
+        background: var(--card-bg);
+        color: var(--text-primary);
+        border-bottom: 2px solid var(--border-color);
+        font-weight: 600;
+        text-transform: uppercase;
+        font-size: 0.875rem;
+        letter-spacing: 0.05em;
+        padding: 1rem;
+      }
+
+      table.dataTable tbody tr {
+        background: var(--glass-bg);
+        border-bottom: 1px solid var(--border-color);
+        transition: all 0.3s ease;
+      }
+
+      table.dataTable tbody tr:hover {
+        background: rgba(255, 107, 53, 0.1);
+      }
+
+      table.dataTable tbody td {
+        padding: 1rem;
+        color: var(--text-primary);
+        border-bottom: 1px solid var(--border-color);
+      }
+
+      .show-flights {
+        background: var(--success-gradient);
+        color: white;
+        padding: 0.25rem 0.75rem;
+        border-radius: 20px;
+        text-decoration: none;
+        font-size: 0.875rem;
+        font-weight: 500;
+        transition: all 0.3s ease;
+      }
+
+      .show-flights:hover {
+        transform: scale(1.05);
+        color: white;
+        text-decoration: none;
+      }
+
+      /* Flights Block */
+      .flights-block {
+        background: var(--card-bg);
+        border: 1px solid var(--border-color);
+        border-radius: 16px;
+        padding: 1.5rem;
+        margin-top: 1rem;
+      }
+
+      .flights-block table {
+        background: transparent;
+        color: var(--text-primary);
+      }
+
+      .flights-block table th {
+        background: var(--glass-bg);
+        color: var(--text-secondary);
+        font-weight: 600;
+        text-transform: uppercase;
+        font-size: 0.75rem;
+        letter-spacing: 0.05em;
+      }
+
+      /* Loading States */
       .loading {
         text-align: center;
-        font-size: 1.1em;
-        padding: 20px;
-        color: #6c757d;
+        padding: 3rem;
+        color: var(--text-secondary);
+        font-size: 1.1rem;
       }
+
+      .loading::before {
+        content: "";
+        display: inline-block;
+        width: 32px;
+        height: 32px;
+        border: 3px solid var(--border-color);
+        border-top: 3px solid var(--accent-orange);
+        border-radius: 50%;
+        animation: spin 1s linear infinite;
+        margin-right: 1rem;
+        vertical-align: middle;
+      }
+
+      @keyframes spin {
+        0% {
+          transform: rotate(0deg);
+        }
+        100% {
+          transform: rotate(360deg);
+        }
+      }
+
+      /* Footer */
       footer {
         text-align: center;
-        margin-top: 40px;
-        font-size: 0.85rem;
-        color: #6c757d;
+        padding: 3rem 2rem;
+        color: var(--text-secondary);
+        font-size: 0.875rem;
+        border-top: 1px solid var(--border-color);
+        margin-top: 4rem;
+        background: var(--glass-bg);
+        backdrop-filter: blur(10px);
       }
-      .flights-block table {
-        background: #fff;
+
+      /* Responsive Design */
+      @media (max-width: 768px) {
+        .header-section {
+          padding: 2rem 1rem 2rem;
+        }
+
+        .container-fluid {
+          padding: 0 1rem;
+        }
+
+        .glass-card {
+          padding: 1.5rem;
+        }
+
+        .controls-section {
+          flex-direction: column;
+          align-items: stretch;
+        }
+
+        .form-select {
+          min-width: 100%;
+        }
+
+        .charts-section {
+          grid-template-columns: 1fr;
+        }
+
+        .chart-container {
+          padding: 1.5rem;
+        }
+
+        .export-controls {
+          justify-content: center;
+        }
+
+        .table-header {
+          flex-direction: column;
+          align-items: stretch;
+        }
       }
-      .flights-block strong {
-        display: inline-block;
-        margin-bottom: 0.25rem;
+
+      @media (max-width: 1200px) {
+        .status-grid {
+          grid-template-columns: repeat(3, 1fr);
+        }
       }
-      tr.shown td {
-        border-bottom: 0;
+
+      @media (max-width: 768px) {
+        .status-grid {
+          grid-template-columns: repeat(2, 1fr);
+        }
       }
-      .flights-block table {
-        margin-top: 0.5rem;
+
+      @media (max-width: 480px) {
+        .status-grid {
+          grid-template-columns: 1fr;
+        }
+      }
+
+      /* Micro-animations */
+      .glass-card,
+      .status-card,
+      .chart-container,
+      .btn-export {
+        animation: fadeInUp 0.6s ease-out;
+      }
+
+      @keyframes fadeInUp {
+        from {
+          opacity: 0;
+          transform: translateY(30px);
+        }
+        to {
+          opacity: 1;
+          transform: translateY(0);
+        }
+      }
+
+      /* Hide default DataTables buttons - we'll create custom ones */
+      .dt-buttons {
+        display: none;
       }
     </style>
   </head>
   <body>
     <!-- HEADER -->
     <div class="header-section">
-      <h1>🔥 Wildfire Incident Dashboard</h1>
-      <!-- ✅ Wrap p tags in a flex container -->
-      <div class="header-paragraphs">
-        <p>Live wildfire data auto-fetched from InciWeb</p>
-        <p id="lastUpdated" class="text-muted">
-          ⏳ Loading last update time...
-        </p>
-        <p>📅 The data shown here is from Sat, July 26, 2025</p>
+      <h1>🔥 FireTracker Pro</h1>
+      <p class="header-subtitle">
+        Comprehensive wildfire monitoring with real-time incident tracking and
+        aerial response coordination
+      </p>
+
+      <div class="status-grid">
+        <div class="status-card">
+          <i data-lucide="clock" class="icon"></i>
+          <h3>Last Updated</h3>
+          <div class="value" id="lastUpdated">Loading...</div>
+        </div>
+        <div class="status-card">
+          <i data-lucide="flame" class="icon"></i>
+          <h3>Current Fire Size</h3>
+          <div class="value" id="currentFireSize">Loading...</div>
+        </div>
+        <div class="status-card">
+          <i data-lucide="trending-up" class="icon"></i>
+          <h3>Growth Rate</h3>
+          <div class="value" id="growthRate">Loading...</div>
+        </div>
+        <div class="status-card">
+          <i data-lucide="shield-check" class="icon"></i>
+          <h3>Containment Status</h3>
+          <div class="value" id="containmentStatus">Loading...</div>
+        </div>
+        <div class="status-card">
+          <i data-lucide="calendar-days" class="icon"></i>
+          <h3>Days Active</h3>
+          <div class="value" id="daysActive">Loading...</div>
+        </div>
+        <div class="status-card">
+          <i data-lucide="plane" class="icon"></i>
+          <h3>Flight Operations</h3>
+          <div class="value" id="flightOperations">Loading...</div>
+        </div>
       </div>
     </div>
 
-    <div class="container">
-      <!-- CARD UI -->
-      <div class="card">
-        <h5 class="text-center mb-3">Select an Incident</h5>
-        <div class="mb-4 text-center">
-          <select id="csvSelect" class="form-select w-50 mx-auto"></select>
-          <!-- CHARTS -->
-          <div class="row">
-            <div class="col-md-6">
-              <canvas id="acresChart"></canvas>
-            </div>
-            <div class="col-md-6">
-              <canvas id="containmentChart"></canvas>
-            </div>
-          </div>
+    <div class="container-fluid">
+      <!-- CONTROLS -->
+      <div class="controls-section">
+        <div class="control-group">
+          <label for="csvSelect">Select Incident</label>
+          <select id="csvSelect" class="form-select">
+            <option>Loading incidents...</option>
+          </select>
         </div>
 
-        <!-- TABLE -->
-        <div id="tableContainer" class="table-responsive">
-          <div class="loading">Loading available CSV files...</div>
+        <div class="export-controls" id="exportControls" style="display: none">
+          <button class="btn-export" id="exportExcel">
+            <i data-lucide="download" style="width: 16px; height: 16px"></i>
+            Excel
+          </button>
+          <button class="btn-export" id="exportCSV">
+            <i data-lucide="file-text" style="width: 16px; height: 16px"></i>
+            CSV
+          </button>
+          <!-- <button class="btn-export" id="exportPDF">
+            <i data-lucide="file" style="width: 16px; height: 16px"></i>
+            PDF
+          </button> -->
+        </div>
+      </div>
+
+      <!-- CHARTS -->
+      <div class="charts-section">
+        <div class="chart-container">
+          <h3 class="chart-title">
+            <i
+              data-lucide="trending-up"
+              style="width: 20px; height: 20px; margin-right: 0.5rem"
+            ></i>
+            Fire Growth Over Time
+          </h3>
+          <canvas id="acresChart"></canvas>
+        </div>
+        <div class="chart-container">
+          <h3 class="chart-title">
+            <i
+              data-lucide="shield-check"
+              style="width: 20px; height: 20px; margin-right: 0.5rem"
+            ></i>
+            Containment Progress
+          </h3>
+          <canvas id="containmentChart"></canvas>
+        </div>
+        <div class="chart-container">
+          <h3 class="chart-title">
+            <i
+              data-lucide="plane"
+              style="width: 20px; height: 20px; margin-right: 0.5rem"
+            ></i>
+            Flight Activity Timeline
+          </h3>
+          <canvas id="flightsChart"></canvas>
+        </div>
+      </div>
+
+      <!-- TABLE -->
+      <div class="table-container">
+        <div class="table-header">
+          <h2 class="table-title">
+            <i data-lucide="database" style="width: 24px; height: 24px"></i>
+            Incident Details
+          </h2>
+        </div>
+
+        <div id="tableContainer">
+          <div class="loading">Loading incident data</div>
           <table
             id="incidentTable"
             class="display nowrap table table-striped table-hover align-middle"
@@ -148,7 +704,21 @@
 
     <!-- FOOTER -->
     <footer>
-      🚀 Built with ❤️ | Last refreshed dynamically from GitHub API
+      <div
+        style="
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          gap: 1rem;
+          flex-wrap: wrap;
+        "
+      >
+        <span>🚀 Powered by Advanced Analytics</span>
+        <span>•</span>
+        <span>📡 Real-time Data Integration</span>
+        <span>•</span>
+        <span>🛡️ Enterprise Security</span>
+      </div>
     </footer>
 
     <!-- jQuery -->
@@ -164,7 +734,7 @@
     <!-- JSZip for Excel export -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js"></script>
 
-    <!-- pdfmake for PDF export (optional) -->
+    <!-- pdfmake for PDF export -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.2.7/pdfmake.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.2.7/vfs_fonts.js"></script>
 
@@ -173,17 +743,21 @@
     <script src="https://cdn.datatables.net/buttons/2.4.2/js/buttons.html5.min.js"></script>
     <script src="https://cdn.datatables.net/buttons/2.4.2/js/buttons.print.min.js"></script>
 
+    <!-- Chart.js -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
     <script>
+      // Initialize Lucide icons
+      lucide.createIcons();
+
       const GITHUB_USER = "mandarc64";
       const GITHUB_REPO = "inciweb-wildfire-data";
       const CSV_FOLDER = "inciweb_data";
 
-      // const csvBaseURL = `https://raw.githubusercontent.com/${GITHUB_USER}/${GITHUB_REPO}/feature/flight-logic/${CSV_FOLDER}/`;
-      // const apiURL = `https://api.github.com/repos/${GITHUB_USER}/${GITHUB_REPO}/contents/${CSV_FOLDER}`;
-
       const csvSelect = document.getElementById("csvSelect");
       const tableContainer = document.getElementById("tableContainer");
       const lastUpdatedEl = document.getElementById("lastUpdated");
+      const exportControls = document.getElementById("exportControls");
 
       const BRANCH = "master";
       const csvBaseURL = `https://raw.githubusercontent.com/${GITHUB_USER}/${GITHUB_REPO}/${BRANCH}/${CSV_FOLDER}/`;
@@ -194,10 +768,21 @@
       const MAX_FLIGHT_FILES = 60;
 
       let dataTable = null;
-
-      // NEW  ✅
       let flightsData = [];
       const flightsReady = loadFlights();
+
+      // Custom export button handlers
+      document.getElementById("exportExcel").addEventListener("click", () => {
+        if (dataTable) dataTable.button(".buttons-excel").trigger();
+      });
+
+      document.getElementById("exportCSV").addEventListener("click", () => {
+        if (dataTable) dataTable.button(".buttons-csv").trigger();
+      });
+
+      //   document.getElementById("exportPDF").addEventListener("click", () => {
+      //     if (dataTable) dataTable.button(".buttons-pdf").trigger();
+      //   });
 
       async function loadFlights() {
         try {
@@ -206,7 +791,6 @@
           if (!res.ok) throw new Error("Failed to list flight files");
           const files = await res.json();
 
-          // only CSVs
           const csvs = (files || []).filter(
             (f) => f.type === "file" && f.name.toLowerCase().endsWith(".csv")
           );
@@ -216,16 +800,12 @@
             return;
           }
 
-          // sort by name ASC (timestamps in your filenames are ISO-like → lexicographic works)
           csvs.sort((a, b) => a.name.localeCompare(b.name));
-
-          // take the last K files
           const recent = csvs.slice(-MAX_FLIGHT_FILES);
           console.log(
             `[Flights] Will load ${recent.length} of ${csvs.length} files (limit=${MAX_FLIGHT_FILES}).`
           );
 
-          // helper to parse one CSV into rows
           const parseOne = (name) =>
             new Promise((resolve) => {
               const url = `https://raw.githubusercontent.com/${GITHUB_USER}/${GITHUB_REPO}/${BRANCH}/${FLIGHT_FOLDER}/${name}`;
@@ -241,7 +821,6 @@
               });
             });
 
-          // load all recent CSVs
           const allArrays = await Promise.all(
             recent.map((f) => parseOne(f.name))
           );
@@ -250,8 +829,6 @@
             `[Flights] Loaded ${combined.length} rows before de-dup.`
           );
 
-          // de-dup: keep the newest file’s row
-          // because we processed files in ascending order, later files overwrite earlier entries
           const byKey = new Map();
           const keyOf = (r) =>
             `${r.TailNumber || ""}|${r.FlightDate || ""}|${r.Origin || ""}|${
@@ -259,13 +836,12 @@
             }|${r.FireIncident || ""}`;
 
           for (const row of combined) {
-            byKey.set(keyOf(row), row); // later (newer) rows replace earlier ones
+            byKey.set(keyOf(row), row);
           }
 
           flightsData = Array.from(byKey.values());
           console.log(`[Flights] After de-dup: ${flightsData.length} rows.`);
 
-          // optional debug preview
           if (flightsData.length) {
             console.log("[Flights] Sample row:", flightsData[0]);
           }
@@ -275,14 +851,12 @@
         }
       }
 
-      // ✅ Fetch CSV file list dynamically from GitHub API
       async function fetchCSVList() {
         try {
           const res = await fetch(apiURL);
           if (!res.ok) throw new Error("Failed to fetch file list");
           const files = await res.json();
 
-          // Filter only .csv files
           const csvFiles = files
             .filter((file) => file.name.endsWith(".csv"))
             .map((file) => file.name)
@@ -293,7 +867,6 @@
             return;
           }
 
-          // Populate dropdown dynamically
           csvSelect.innerHTML = "";
           csvFiles.forEach((file) => {
             const opt = document.createElement("option");
@@ -302,10 +875,10 @@
             csvSelect.appendChild(opt);
           });
 
-          // Load first file by default
-          loadCSV(csvFiles[0]);
+          // Show export controls once data is loaded
+          exportControls.style.display = "flex";
 
-          // Add change listener
+          loadCSV(csvFiles[0]);
           csvSelect.addEventListener("change", (e) => loadCSV(e.target.value));
         } catch (err) {
           console.error("Error fetching CSV list:", err);
@@ -313,13 +886,12 @@
         }
       }
 
-      // ✅ Load and parse CSV file
       function loadCSV(filename) {
         const csvURL = csvBaseURL + filename;
         console.log("Loading CSV:", csvURL);
 
-        tableContainer.innerHTML = `<div class="loading">Loading ${filename}...</div>`;
-        lastUpdatedEl.innerText = "⏳ Fetching last update time...";
+        tableContainer.innerHTML = `<div class="loading">Loading ${filename}</div>`;
+        lastUpdatedEl.innerText = "Loading...";
 
         Papa.parse(csvURL, {
           download: true,
@@ -329,16 +901,12 @@
             console.log("Parsed CSV:", results.data);
 
             const data = results.data || [];
-            await flightsReady; // ⏳ ensure flight CSV is loaded
-            const enriched = attachFlightsToRows(data); // ➕ add flights per row
+            await flightsReady;
+            const enriched = attachFlightsToRows(data);
 
-            // ✅ Update "Last Updated" timestamp dynamically
             updateLastUpdated(data);
-
-            // ✅ Render table
+            updateStatsCards(enriched);
             renderTable(enriched);
-
-            // ✅ Render charts
             renderCharts(enriched);
           },
         });
@@ -356,43 +924,36 @@
       }
 
       function parseOriginDate(str = "") {
-        // pulls MM/DD/YYYY from "Sun, 08/03/2025 - 19:15"
         const m = str.match(/\d{2}\/\d{2}\/\d{4}/);
         if (!m) return null;
         const [mm, dd, yyyy] = m[0].split("/");
-        return new Date(Date.UTC(+yyyy, +mm - 1, +dd)); // midnight UTC
+        return new Date(Date.UTC(+yyyy, +mm - 1, +dd));
       }
 
       function parseISODateOnly(iso = "") {
-        // for FlightDate like "2025-08-07"
         const parts = iso.split("-");
         if (parts.length !== 3) return null;
         const [yyyy, mm, dd] = parts.map(Number);
-        return new Date(Date.UTC(yyyy, mm - 1, dd)); // midnight UTC
+        return new Date(Date.UTC(yyyy, mm - 1, dd));
       }
 
-      // ✅ Compute and display "Last updated at ..."
       function updateLastUpdated(data) {
         if (!data || data.length === 0) {
-          lastUpdatedEl.innerText = "⚠️ No data available.";
+          lastUpdatedEl.innerText = "No data";
           return;
         }
 
-        // Get the most recent ScrapeDate from all rows
         const latestDate = data.reduce((latest, row) => {
           const d = new Date(row.ScrapeDate);
           return d > latest ? d : latest;
         }, new Date(0));
 
         if (!latestDate || isNaN(latestDate)) {
-          lastUpdatedEl.innerText = "⚠️ Could not determine last update.";
+          lastUpdatedEl.innerText = "Unknown";
           return;
         }
 
-        // Format nicely in PST
         const formatted = latestDate.toLocaleString("en-US", {
-          weekday: "short",
-          year: "numeric",
           month: "short",
           day: "numeric",
           hour: "2-digit",
@@ -400,10 +961,96 @@
           timeZone: "America/Los_Angeles",
         });
 
-        lastUpdatedEl.innerHTML = `✅ Updated daily at <b>8:00 AM PST</b> | <strong>Last data update:</strong> ${formatted}`;
+        lastUpdatedEl.innerHTML = `${formatted} PST`;
       }
 
-      // ✅ Render DataTable
+      function updateStatsCards(data) {
+        if (!data || data.length === 0) {
+          document.getElementById("currentFireSize").innerText = "No data";
+          document.getElementById("growthRate").innerText = "No data";
+          document.getElementById("containmentStatus").innerText = "No data";
+          document.getElementById("daysActive").innerText = "No data";
+          document.getElementById("flightOperations").innerText = "No data";
+          return;
+        }
+
+        // Sort data by date to ensure chronological order
+        const sortedData = [...data].sort(
+          (a, b) => new Date(a.ScrapeDate) - new Date(b.ScrapeDate)
+        );
+        const latestData = sortedData[sortedData.length - 1];
+        const firstData = sortedData[0];
+
+        // 1. Current Fire Size
+        const currentSize =
+          parseFloat(latestData.Size.replace(/[^\d.]/g, "")) || 0;
+        document.getElementById(
+          "currentFireSize"
+        ).innerText = `${currentSize.toLocaleString()} acres`;
+
+        // 2. Growth Rate (acres per day)
+        if (sortedData.length > 1) {
+          const firstSize =
+            parseFloat(firstData.Size.replace(/[^\d.]/g, "")) || 0;
+          const daysDiff =
+            (new Date(latestData.ScrapeDate) - new Date(firstData.ScrapeDate)) /
+            (1000 * 60 * 60 * 24);
+          const growthRate =
+            daysDiff > 0 ? (currentSize - firstSize) / daysDiff : 0;
+          document.getElementById("growthRate").innerText = `${Math.round(
+            growthRate
+          ).toLocaleString()} acres/day`;
+        } else {
+          document.getElementById("growthRate").innerText = "Insufficient data";
+        }
+
+        // 3. Containment Status
+        const containment =
+          parseFloat(latestData.ContainmentPercent?.replace("%", "")) || 0;
+        const prevContainment =
+          sortedData.length > 1
+            ? parseFloat(
+                sortedData[sortedData.length - 2].ContainmentPercent?.replace(
+                  "%",
+                  ""
+                )
+              ) || 0
+            : containment;
+        const trend =
+          containment > prevContainment
+            ? "↗️"
+            : containment < prevContainment
+            ? "↘️"
+            : "➡️";
+        document.getElementById(
+          "containmentStatus"
+        ).innerText = `${containment}% ${trend}`;
+
+        // 4. Days Active
+        const originDate = parseOriginDate(latestData.DateOfOrigin);
+        if (originDate) {
+          const daysActive = Math.ceil(
+            (new Date(latestData.ScrapeDate) - originDate) /
+              (1000 * 60 * 60 * 24)
+          );
+          document.getElementById(
+            "daysActive"
+          ).innerText = `${daysActive} days`;
+        } else {
+          document.getElementById("daysActive").innerText = "Unknown";
+        }
+
+        // 5. Flight Operations
+        const totalFlights = data.reduce(
+          (sum, row) =>
+            sum + (Array.isArray(row.flights) ? row.flights.length : 0),
+          0
+        );
+        document.getElementById(
+          "flightOperations"
+        ).innerText = `${totalFlights} flights`;
+      }
+
       function renderTable(data) {
         tableContainer.innerHTML = `<table id="incidentTable" class="display nowrap table table-striped" style="width:100%"></table>`;
 
@@ -412,20 +1059,16 @@
           return;
         }
 
-        // ✅ Get headers dynamically from the FIRST row
         const headers = Object.keys(data[0]).filter((h) => h !== "flights");
         console.log("Detected Headers:", headers);
 
         const columns = headers
-          .filter((col) => col !== "flights") // ⬅️ hide the raw flights array
+          .filter((col) => col !== "flights")
           .map((col) => ({ title: col, data: col }));
 
-        // ✅ Which column index is ScrapeDate?
         const scrapeDateIdx = headers.indexOf("ScrapeDate");
-        // Fallback to the first column if ScrapeDate isn't found
         const initialOrderIdx = scrapeDateIdx === -1 ? 0 : scrapeDateIdx;
 
-        // Add an extra column at the end for flight count (force always visible)
         columns.push({
           title: "Flights",
           data: "flights",
@@ -435,7 +1078,6 @@
           render: (flights, type, row) => {
             const n = Array.isArray(flights) ? flights.length : 0;
 
-            // For export types (csv, excel, pdf), return plain text with all flight info
             if (type === "export") {
               if (!n) return "No flights";
               return flights
@@ -445,22 +1087,19 @@
                       f.Origin || ""
                     } -> ${f.Destination || ""} | ${f.DistanceKM || ""} km`
                 )
-                .join("\n"); // keep real newline
+                .join("\n");
             }
 
-            // For display in browser
             return n
               ? `<a href="#" class="show-flights" data-count="${n}">${n} flights</a>`
               : "—";
           },
         });
 
-        // Destroy old DataTable if it exists
         if (dataTable) {
           dataTable.destroy();
         }
 
-        // Create dynamic filename from first incident name + timestamp
         const incidentName = data.length
           ? data[0].Incident.replace(/\s+/g, "_")
           : "wildfire";
@@ -471,13 +1110,11 @@
           columns: columns,
           responsive: {
             details: {
-              // keep the click-to-expand on the left (same behavior you have now)
               type: "inline",
               renderer: function (api, rowIdx, columns) {
-                // Build the default details table but SKIP the Flights column
                 const rows = $.map(columns, function (col) {
-                  if (!col.hidden) return ""; // only render hidden columns
-                  if (col.title === "Flights") return ""; // omit Flights from child panel
+                  if (!col.hidden) return "";
+                  if (col.title === "Flights") return "";
                   return `
                 <tr data-dt-row="${
                   col.rowIndex
@@ -498,10 +1135,8 @@
           pageLength: 10,
           autoWidth: false,
           columnDefs: [{ defaultContent: "-", targets: "_all" }],
-          // ✅ Default sort: ScrapeDate DESC (newest first)
           order: [[initialOrderIdx, "desc"]],
-          // ✅ NEW LINES FOR EXPORT BUTTONS
-          dom: "Bfrtip", // Layout: Buttons, filter, table, pagination
+          dom: "Bfrtip",
 
           buttons: [
             {
@@ -512,8 +1147,7 @@
               exportOptions: { orthogonal: "export" },
               customize: function (xlsx) {
                 const sheet = xlsx.xl.worksheets["sheet1.xml"];
-                // Make Excel respect newlines
-                $("row c[r]", sheet).attr("s", "55"); // style with wrap text
+                $("row c[r]", sheet).attr("s", "55");
               },
             },
             {
@@ -522,11 +1156,10 @@
               title: "Wildfire Incident Data",
               filename: `${incidentName}_${timestamp}`,
               exportOptions: { orthogonal: "export" },
-              fieldBoundary: '"', // Enclose fields in quotes
-              escapeChar: '"', // Escape quotes
-              fieldSeparator: ",", // Comma separator
+              fieldBoundary: '"',
+              escapeChar: '"',
+              fieldSeparator: ",",
               customize: function (csv) {
-                // Ensure our `\n` in the flights column remain inside the quotes
                 return csv;
               },
             },
@@ -547,7 +1180,6 @@
           ],
         });
 
-        // Row-level expander for flights (dedicated child row; not Responsive details)
         $("#incidentTable tbody").off("click", "a.show-flights");
         $("#incidentTable tbody").on("click", "a.show-flights", function (e) {
           e.preventDefault();
@@ -556,7 +1188,7 @@
           const dt = $("#incidentTable").DataTable();
 
           let $tr = $(this).closest("tr");
-          if ($tr.hasClass("child")) $tr = $tr.prev("tr"); // normalize to parent row
+          if ($tr.hasClass("child")) $tr = $tr.prev("tr");
 
           const row = dt.row($tr);
           const rowData = row.data() || {};
@@ -571,21 +1203,18 @@
             flights: flightCount,
           });
 
-          // Ensure the Responsive child is open (so we have a place to inject)
           let $child = $tr.next("tr.child");
           if (!$child.length || !$child.is(":visible")) {
             $tr.find("td.dtr-control").trigger("click");
             $child = $tr.next("tr.child");
           }
 
-          // ✅ select ONLY the outer container cell, not all inner tds
           const $cell = $child.children("td");
           if (!$cell.length) {
             console.warn("No child cell to inject flights block.");
             return;
           }
 
-          // Toggle our custom block
           const EXISTING_SEL = ".flights-block";
           const $existing = $cell.find(EXISTING_SEL);
           if ($existing.length) {
@@ -603,11 +1232,11 @@
         });
       }
 
-      // ✅ Start by fetching CSV list
       fetchCSVList();
 
       let acresChart = null;
       let containmentChart = null;
+      let flightsChart = null;
 
       function formatFlightsRow(rowData) {
         const flights = Array.isArray(rowData?.flights) ? rowData.flights : [];
@@ -646,8 +1275,23 @@
       }
 
       function renderCharts(data) {
-        // Clean dates for X-axis
-        const labels = data.map((d) => d.ScrapeDate);
+        // Set chart container heights FIRST, before creating charts
+        const acresCanvas = document.getElementById("acresChart");
+        const containmentCanvas = document.getElementById("containmentChart");
+
+        acresCanvas.style.height = "300px";
+        containmentCanvas.style.height = "300px";
+        acresCanvas.parentElement.style.height = "350px"; // Give container some height too
+        containmentCanvas.parentElement.style.height = "350px";
+
+        const labels = data.map((d) => {
+          const date = new Date(d.ScrapeDate);
+          return date.toLocaleDateString("en-US", {
+            month: "short",
+            day: "numeric",
+          });
+        });
+
         const acres = data.map(
           (d) => parseFloat(d.Size.replace(/[^\d.]/g, "")) || 0
         );
@@ -655,46 +1299,106 @@
           (d) => parseFloat(d.ContainmentPercent?.replace("%", "")) || 0
         );
 
-        // Destroy previous charts if needed
         if (acresChart) acresChart.destroy();
         if (containmentChart) containmentChart.destroy();
 
-        // Chart 1: Acres Over Time
-        acresChart = new Chart(document.getElementById("acresChart"), {
-          type: "line",
-          data: {
-            labels: labels,
-            datasets: [
-              {
-                label: "Acres Burned",
-                data: acres,
-                fill: true,
-                borderWidth: 2,
-                borderColor: "rgba(255, 99, 132, 1)",
-                backgroundColor: "rgba(255, 99, 132, 0.2)",
-                tension: 0.3,
+        // Modern chart styling
+        // In the renderCharts function, update chartOptions:
+        const chartOptions = {
+          responsive: true,
+          maintainAspectRatio: false,
+          plugins: {
+            legend: {
+              labels: {
+                color: "#718096",
+                font: {
+                  family: "Inter",
+                  size: 12,
+                },
               },
-            ],
-          },
-          options: {
-            responsive: true,
-            plugins: {
-              title: { display: true, text: "Acres Burned Over Time" },
-            },
-            scales: {
-              y: {
-                beginAtZero: true,
-                title: { display: true, text: "Acres Burned" },
-              },
-              x: { title: { display: true, text: "Date" } },
             },
           },
-        });
+          scales: {
+            y: {
+              beginAtZero: true,
+              grid: {
+                color: "rgba(0, 0, 0, 0.1)",
+                drawBorder: false,
+              },
+              ticks: {
+                color: "#718096",
+                font: {
+                  family: "Inter",
+                },
+              },
+            },
+            x: {
+              grid: {
+                color: "rgba(0, 0, 0, 0.1)",
+                drawBorder: false,
+              },
+              ticks: {
+                color: "#718096",
+                font: {
+                  family: "Inter",
+                },
+              },
+            },
+          },
+        };
 
-        // Chart 2: Containment Over Time
-        containmentChart = new Chart(
-          document.getElementById("containmentChart"),
-          {
+        // Add a small delay to ensure DOM is ready
+        setTimeout(() => {
+          // Acres Chart
+          acresChart = new Chart(acresCanvas, {
+            type: "line",
+            data: {
+              labels: labels,
+              datasets: [
+                {
+                  label: "Acres Burned",
+                  data: acres,
+                  fill: true,
+                  borderWidth: 3,
+                  borderColor: "#ff6b35",
+                  backgroundColor: "rgba(255, 107, 53, 0.1)",
+                  tension: 0.4,
+                  pointBackgroundColor: "#ff6b35",
+                  pointBorderColor: "#ffffff",
+                  pointBorderWidth: 2,
+                  pointRadius: 6,
+                  pointHoverRadius: 8,
+                },
+              ],
+            },
+            options: {
+              ...chartOptions,
+              plugins: {
+                ...chartOptions.plugins,
+                title: {
+                  display: false,
+                },
+              },
+              scales: {
+                ...chartOptions.scales,
+                y: {
+                  ...chartOptions.scales.y,
+                  title: {
+                    display: true,
+                    text: "Acres Burned",
+                    color: "#a0aec0",
+                    font: {
+                      family: "Inter",
+                      size: 12,
+                    },
+                  },
+                },
+              },
+            },
+          });
+
+          // Containment Chart
+          containmentChart = new Chart(containmentCanvas, {
             type: "line",
             data: {
               labels: labels,
@@ -702,44 +1406,131 @@
                 {
                   label: "Containment %",
                   data: containment,
-                  fill: false,
-                  borderWidth: 2,
-                  borderColor: "rgba(54, 162, 235, 1)",
-                  tension: 0.3,
+                  fill: true,
+                  borderWidth: 3,
+                  borderColor: "#4fc3f7",
+                  backgroundColor: "rgba(79, 195, 247, 0.1)",
+                  tension: 0.4,
+                  pointBackgroundColor: "#4fc3f7",
+                  pointBorderColor: "#ffffff",
+                  pointBorderWidth: 2,
+                  pointRadius: 6,
+                  pointHoverRadius: 8,
                 },
               ],
             },
             options: {
-              responsive: true,
+              ...chartOptions,
               plugins: {
-                title: { display: true, text: "Containment Percent Over Time" },
+                ...chartOptions.plugins,
+                title: {
+                  display: false,
+                },
               },
               scales: {
+                ...chartOptions.scales,
                 y: {
-                  beginAtZero: true,
-                  suggestedMax: 105, // Allow chart to go slightly above 100%
-                  grace: "5%", // Add visual padding above the highest value
+                  ...chartOptions.scales.y,
+                  suggestedMax: 105,
+                  grace: "5%",
                   ticks: {
+                    ...chartOptions.scales.y.ticks,
                     callback: (v) => v + "%",
                     stepSize: 10,
                   },
-                  title: { display: true, text: "Containment %" },
+                  title: {
+                    display: true,
+                    text: "Containment %",
+                    color: "#a0aec0",
+                    font: {
+                      family: "Inter",
+                      size: 12,
+                    },
+                  },
                 },
-
-                x: { title: { display: true, text: "Date" } },
               },
             },
+          });
+        }, 100); // Small delay to ensure DOM is ready
+
+        const flightsByDate = {};
+        data.forEach((row) => {
+          if (Array.isArray(row.flights)) {
+            row.flights.forEach((flight) => {
+              const date = flight.FlightDate;
+              if (date) {
+                flightsByDate[date] = (flightsByDate[date] || 0) + 1;
+              }
+            });
           }
-        );
+        });
+
+        const flightLabels = labels; // Use same date labels as other charts
+        const flightData = data.map((row) => {
+          return Array.isArray(row.flights) ? row.flights.length : 0;
+        });
+
+        const flightsCanvas = document.getElementById("flightsChart");
+        flightsCanvas.style.height = "300px";
+        flightsCanvas.parentElement.style.height = "350px";
+
+        if (flightsChart) flightsChart.destroy();
+
+        setTimeout(() => {
+          flightsChart = new Chart(flightsCanvas, {
+            type: "line",
+            data: {
+              labels: labels,
+              datasets: [
+                {
+                  label: "Flights per Day",
+                  data: flightData,
+                  fill: true,
+                  borderWidth: 3,
+                  borderColor: "#4fc3f7",
+                  backgroundColor: "rgba(79, 195, 247, 0.1)",
+                  tension: 0.4,
+                  pointBackgroundColor: "#4fc3f7",
+                  pointBorderColor: "#ffffff",
+                  pointBorderWidth: 2,
+                  pointRadius: 6,
+                  pointHoverRadius: 8,
+                },
+              ],
+            },
+            options: {
+              ...chartOptions,
+              plugins: {
+                ...chartOptions.plugins,
+                title: {
+                  display: false,
+                },
+              },
+              scales: {
+                ...chartOptions.scales,
+                y: {
+                  ...chartOptions.scales.y,
+                  title: {
+                    display: true,
+                    text: "Number of Flights",
+                    color: "#a0aec0",
+                    font: {
+                      family: "Inter",
+                      size: 12,
+                    },
+                  },
+                },
+              },
+            },
+          });
+        }, 100);
       }
 
       function attachFlightsToRows(fireRows) {
         if (!Array.isArray(fireRows) || !fireRows.length) return [];
 
-        // We will return a copy in the SAME order as incoming rows.
         const output = fireRows.map((r) => ({ ...r, flights: [] }));
 
-        // 1) Group rows by Incident
         const byIncident = new Map();
         fireRows.forEach((row, idx) => {
           const key = row.Incident || "__UNKNOWN__";
@@ -747,16 +1538,13 @@
           byIncident.get(key).push({ row, idx });
         });
 
-        // 2) For each incident, sort rows by ScrapeDate ASC and build non-overlapping windows
         for (const [incident, list] of byIncident.entries()) {
           list.sort(
             (a, b) => new Date(a.row.ScrapeDate) - new Date(b.row.ScrapeDate)
           );
 
-          // First row starts at DateOfOrigin
           const origin = parseOriginDate(list[0].row.DateOfOrigin);
           if (!origin || isNaN(origin)) {
-            // can't compute windows for this incident; leave flights empty
             continue;
           }
 
@@ -765,7 +1553,6 @@
           for (let i = 0; i < list.length; i++) {
             const { row, idx } = list[i];
 
-            // end_i = ScrapeDate_i − parse(Updated_i)
             const scrape = new Date(row.ScrapeDate);
             const end = new Date(
               scrape.getTime() - parseUpdatedAgoToMs(row.Updated || "")
@@ -777,19 +1564,14 @@
               continue;
             }
 
-            // Window for this row:
-            //   i = 0  -> [origin, end]
-            //   i > 0  -> (prevEnd, end]
             const windowStart = i === 0 ? origin : prevEnd;
-            const inclusiveLower = i === 0; // include origin on first row
+            const inclusiveLower = i === 0;
 
-            // 3) Assign flights to THIS window
             const matches = flightsData.filter((f) => {
               if (f.FireIncident !== incident) return false;
               const fd = f.FlightDate ? parseISODateOnly(f.FlightDate) : null;
               if (!fd || isNaN(fd)) return false;
 
-              // (prevEnd, end]  OR  [origin, end] for first row
               if (inclusiveLower) {
                 return fd >= windowStart && fd <= end;
               } else {
@@ -802,10 +1584,8 @@
           }
         }
 
-        // same order as input so your DataTable sort still works
         return output;
       }
     </script>
-    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
   </body>
 </html>
