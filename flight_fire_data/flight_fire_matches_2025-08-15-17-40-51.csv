@@ -1,0 +1,299 @@
+TailNumber,FlightDate,Origin,Destination,FireIncident,FireStart,FireEnd,DistanceKM
+N132CG,2025-08-14,"Durango-La Plata County (KDRO)","Casper/Natrona County Intl (KCPR)","Stoner Mesa Fire - COSJF",2025-07-28,2025-08-14,29.85
+N132CG,2025-08-14,"Durango-La Plata County (KDRO)","Casper/Natrona County Intl (KCPR)","Lee Fire - COWRD",2025-08-02,2025-08-14,28.80
+N132CG,2025-08-13,"Grand Junction Rgnl (KGJT)","Durango-La Plata County (KDRO)","Crosho Fire - CORTF",2025-08-11,2025-08-14,28.58
+N132CG,2025-08-13,"Colorado Sprgs Muni (KCOS)","Grand Junction Rgnl (KGJT)","Crosho Fire - CORTF",2025-08-11,2025-08-14,27.71
+N132CG,2025-08-13,"Durango-La Plata County (KDRO)","Colorado Sprgs Muni (KCOS)","Crosho Fire - CORTF",2025-08-11,2025-08-14,27.93
+N136CG,2025-08-14,"Mc Call Muni (KMYL)","Gowen Field (KBOI)","Rock Fire - IDBOF",2025-08-13,2025-08-14,23.85
+N136CG,2025-08-14,"Mc Call Muni (KMYL)","Mc Call Muni (KMYL)","Rock Fire - IDBOF",2025-08-13,2025-08-14,23.88
+N136CG,2025-08-14,"Gowen Field (KBOI)","Mc Call Muni (KMYL)","Rock Fire - IDBOF",2025-08-13,2025-08-14,28.01
+N136CG,2025-08-13,"Gowen Field (KBOI)","Gowen Field (KBOI)","Rock Fire - IDBOF",2025-08-13,2025-08-14,29.46
+N136CG,2025-08-13,"Gowen Field (KBOI)","Gowen Field (KBOI)","Rock Fire - IDBOF",2025-08-13,2025-08-14,26.94
+N136CG,2025-08-13,"Mc Call Muni (KMYL)","Gowen Field (KBOI)","Rock Fire - IDBOF",2025-08-13,2025-08-14,23.93
+N136CG,2025-08-13,"Mc Call Muni (KMYL)","Mc Call Muni (KMYL)","Rock Fire - IDBOF",2025-08-13,2025-08-14,23.88
+N136CG,2025-08-13,"Mc Call Muni (KMYL)","Mc Call Muni (KMYL)","Rock Fire - IDBOF",2025-08-13,2025-08-14,23.88
+N136CG,2025-08-13,"Mc Call Muni (KMYL)","Mc Call Muni (KMYL)","Rock Fire - IDBOF",2025-08-13,2025-08-14,23.84
+N136CG,2025-08-13,"Gowen Field (KBOI)","Mc Call Muni (KMYL)","Rock Fire - IDBOF",2025-08-13,2025-08-14,28.11
+N136CG,2025-08-13,"Gowen Field (KBOI)","Gowen Field (KBOI)","Rock Fire - IDBOF",2025-08-13,2025-08-14,29.10
+N136CG,2025-08-13,"Redding Rgnl (KRDD)","Gowen Field (KBOI)","Rock Fire - IDBOF",2025-08-13,2025-08-14,29.58
+N137CG,2025-08-14,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Sunset Fire - IDIDS",2025-08-13,2025-08-14,28.75
+N137CG,2025-08-14,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Sunset Fire - IDIDS",2025-08-13,2025-08-14,29.63
+N137CG,2025-08-14,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Sunset Fire - IDIDS",2025-08-13,2025-08-14,29.33
+N137CG,2025-08-14,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Sunset Fire - IDIDS",2025-08-13,2025-08-14,29.33
+N137CG,2025-08-14,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Sunset Fire - IDIDS",2025-08-13,2025-08-14,29.09
+N137CG,2025-08-14,"Sacramento McClellan (KMCC)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Central Ferry - WANES",2025-08-13,2025-08-14,27.18
+N137CG,2025-08-14,"Sacramento McClellan (KMCC)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Sunset Fire - IDIDS",2025-08-13,2025-08-14,29.84
+N137CG,2025-08-14,"Near Santa Paula, CA","Sacramento McClellan (KMCC)","King Fire - CAANF",2025-08-13,2025-08-14,4.83
+N137CG,2025-08-14,"Sacramento McClellan (KMCC)","Near Santa Paula, CA","King Fire - CAANF",2025-08-13,2025-08-14,29.15
+N140CG,2025-08-13,"Roberts Fld (KRDM)","Roberts Fld (KRDM)","Central Ferry - WANES",2025-08-13,2025-08-14,28.06
+N140CG,2025-08-12,"Santa Maria (KSMX)","Santa Maria (KSMX)","Gifford Fire - CALPF",2025-08-01,2025-08-14,29.58
+N140CG,2025-08-12,"Santa Maria (KSMX)","Santa Maria (KSMX)","Gifford Fire - CALPF",2025-08-01,2025-08-14,29.63
+N140CG,2025-08-12,"Santa Maria (KSMX)","Santa Maria (KSMX)","Gifford Fire - CALPF",2025-08-01,2025-08-14,29.57
+N140CG,2025-08-12,"Santa Maria (KSMX)","Santa Maria (KSMX)","Gifford Fire - CALPF",2025-08-01,2025-08-14,28.82
+N291EA,2025-08-12,"Santa Maria (KSMX)","General Wm J Fox Airfield (KWJF)","Gifford Fire - CALPF",2025-08-01,2025-08-14,28.80
+N291EA,2025-08-12,"Santa Maria (KSMX)","Santa Maria (KSMX)","Gifford Fire - CALPF",2025-08-01,2025-08-14,28.64
+N291EA,2025-08-12,"Santa Maria (KSMX)","Santa Maria (KSMX)","Gifford Fire - CALPF",2025-08-01,2025-08-14,29.73
+N291EA,2025-08-12,"General Wm J Fox Airfield (KWJF)","Santa Maria (KSMX)","Gifford Fire - CALPF",2025-08-01,2025-08-14,28.49
+N292EA,2025-08-14,"General Wm J Fox Airfield (KWJF)","General Wm J Fox Airfield (KWJF)","King Fire - CAANF",2025-08-13,2025-08-14,28.05
+N292EA,2025-08-14,"Santa Maria (KSMX)","General Wm J Fox Airfield (KWJF)","King Fire - CAANF",2025-08-13,2025-08-14,26.65
+N292EA,2025-08-12,"Santa Maria (KSMX)","Santa Maria (KSMX)","Gifford Fire - CALPF",2025-08-01,2025-08-14,28.54
+N292EA,2025-08-12,"Santa Maria (KSMX)","Santa Maria (KSMX)","Gifford Fire - CALPF",2025-08-01,2025-08-14,29.42
+N292EA,2025-08-12,"Santa Maria (KSMX)","Santa Maria (KSMX)","Gifford Fire - CALPF",2025-08-01,2025-08-14,28.63
+N292EA,2025-08-12,"Santa Maria (KSMX)","Santa Maria (KSMX)","Gifford Fire - CALPF",2025-08-01,2025-08-14,29.86
+N292EA,2025-08-12,"Santa Maria (KSMX)","Santa Maria (KSMX)","Gifford Fire - CALPF",2025-08-01,2025-08-14,28.87
+N293EA,2025-08-14,"Phoenix-Mesa Gateway (KIWA)","Phoenix-Mesa Gateway (KIWA)","Washington Fire - AZTNF",2025-08-13,2025-08-14,27.41
+N293EA,2025-08-14,"Phoenix-Mesa Gateway (KIWA)","Phoenix-Mesa Gateway (KIWA)","Washington Fire - AZTNF",2025-08-13,2025-08-14,28.92
+N293EA,2025-08-14,"Phoenix-Mesa Gateway (KIWA)","Phoenix-Mesa Gateway (KIWA)","Washington Fire - AZTNF",2025-08-13,2025-08-14,29.26
+N293EA,2025-08-14,"Phoenix-Mesa Gateway (KIWA)","Phoenix-Mesa Gateway (KIWA)","Washington Fire - AZTNF",2025-08-13,2025-08-14,27.88
+N293EA,2025-08-14,"Phoenix-Mesa Gateway (KIWA)","Phoenix-Mesa Gateway (KIWA)","Washington Fire - AZTNF",2025-08-13,2025-08-14,29.14
+N293EA,2025-08-14,"Phoenix-Mesa Gateway (KIWA)","Phoenix-Mesa Gateway (KIWA)","Washington Fire - AZTNF",2025-08-13,2025-08-14,27.36
+N293EA,2025-08-13,"Phoenix-Mesa Gateway (KIWA)","Phoenix-Mesa Gateway (KIWA)","Washington Fire - AZTNF",2025-08-13,2025-08-14,28.60
+N293EA,2025-08-13,"Phoenix-Mesa Gateway (KIWA)","Phoenix-Mesa Gateway (KIWA)","Washington Fire - AZTNF",2025-08-13,2025-08-14,28.24
+N293EA,2025-08-13,"Phoenix-Mesa Gateway (KIWA)","Phoenix-Mesa Gateway (KIWA)","Washington Fire - AZTNF",2025-08-13,2025-08-14,29.81
+N293EA,2025-08-12,"Durango-La Plata County (KDRO)","Phoenix-Mesa Gateway (KIWA)","Bronco Fire - AZSCA",2025-08-03,2025-08-14,29.99
+N293EA,2025-08-12,"Durango-La Plata County (KDRO)","Phoenix-Mesa Gateway (KIWA)","Vereda Blanca Wildfire Mt Taylor Ranger District - NMCIF",2025-08-08,2025-08-14,28.28
+N293EA,2025-08-12,"Cedar City Rgnl (KCDC)","Durango-La Plata County (KDRO)","Vereda Blanca Wildfire Mt Taylor Ranger District - NMCIF",2025-08-08,2025-08-14,27.13
+N294EA,2025-08-14,"Durango-La Plata County (KDRO)","Casper/Natrona County Intl (KCPR)","Lee Fire - COWRD",2025-08-02,2025-08-14,28.77
+N294EA,2025-08-13,"Colorado Sprgs Muni (KCOS)","Durango-La Plata County (KDRO)","Crosho Fire - CORTF",2025-08-11,2025-08-14,25.37
+N294EA,2025-08-13,"Colorado Sprgs Muni (KCOS)","Colorado Sprgs Muni (KCOS)","Crosho Fire - CORTF",2025-08-11,2025-08-14,26.36
+N294EA,2025-08-13,"Colorado Sprgs Muni (KCOS)","Colorado Sprgs Muni (KCOS)","Crosho Fire - CORTF",2025-08-11,2025-08-14,29.47
+N294EA,2025-08-13,"Durango-La Plata County (KDRO)","Colorado Sprgs Muni (KCOS)","Crosho Fire - CORTF",2025-08-11,2025-08-14,27.44
+N295EA,2025-08-12,"Grand Junction Rgnl (KGJT)","Durango-La Plata County (KDRO)","Crosho Fire - CORTF",2025-08-11,2025-08-14,27.26
+N295EA,2025-08-12,"Durango-La Plata County (KDRO)","Grand Junction Rgnl (KGJT)","Crosho Fire - CORTF",2025-08-11,2025-08-14,29.61
+N295EA,2025-08-12,"Durango-La Plata County (KDRO)","Durango-La Plata County (KDRO)","Lee Fire - COWRD",2025-08-02,2025-08-14,29.61
+N296EA,2025-08-13,"Billings Logan Intl (KBIL)","Billings Logan Intl (KBIL)","Summer Springs Fire - MTMTS",2025-08-13,2025-08-15,25.55
+N296EA,2025-08-12,"Grand Junction Rgnl (KGJT)","Durango-La Plata County (KDRO)","Crosho Fire - CORTF",2025-08-11,2025-08-14,29.98
+N296EA,2025-08-12,"Durango-La Plata County (KDRO)","Grand Junction Rgnl (KGJT)","Crosho Fire - CORTF",2025-08-11,2025-08-14,27.70
+N296EA,2025-08-12,"Durango-La Plata County (KDRO)","Durango-La Plata County (KDRO)","Lee Fire - COWRD",2025-08-02,2025-08-14,27.24
+N297EA,2025-08-13,"Grand Junction Rgnl (KGJT)","Durango-La Plata County (KDRO)","Crosho Fire - CORTF",2025-08-11,2025-08-14,28.11
+N297EA,2025-08-13,"Grand Junction Rgnl (KGJT)","Grand Junction Rgnl (KGJT)","Crosho Fire - CORTF",2025-08-11,2025-08-14,26.90
+N297EA,2025-08-13,"Colorado Sprgs Muni (KCOS)","Grand Junction Rgnl (KGJT)","Crosho Fire - CORTF",2025-08-11,2025-08-14,28.43
+N297EA,2025-08-13,"Colorado Sprgs Muni (KCOS)","Colorado Sprgs Muni (KCOS)","Crosho Fire - CORTF",2025-08-11,2025-08-14,26.38
+N297EA,2025-08-13,"Durango-La Plata County (KDRO)","Colorado Sprgs Muni (KCOS)","Crosho Fire - CORTF",2025-08-11,2025-08-14,28.00
+N297EA,2025-08-12,"Grand Junction Rgnl (KGJT)","Durango-La Plata County (KDRO)","Crosho Fire - CORTF",2025-08-11,2025-08-14,26.95
+N297EA,2025-08-12,"Durango-La Plata County (KDRO)","Grand Junction Rgnl (KGJT)","Crosho Fire - CORTF",2025-08-11,2025-08-14,28.37
+N297EA,2025-08-12,"Durango-La Plata County (KDRO)","Durango-La Plata County (KDRO)","Lee Fire - COWRD",2025-08-02,2025-08-14,29.67
+N325AC,2025-08-14,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Sunset Fire - IDIDS",2025-08-13,2025-08-14,27.80
+N325AC,2025-08-14,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Sunset Fire - IDIDS",2025-08-13,2025-08-14,28.16
+N325AC,2025-08-14,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Sunset Fire - IDIDS",2025-08-13,2025-08-14,29.37
+N325AC,2025-08-14,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Sunset Fire - IDIDS",2025-08-13,2025-08-14,29.81
+N325AC,2025-08-14,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Sunset Fire - IDIDS",2025-08-13,2025-08-14,29.44
+N325AC,2025-08-14,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Sunset Fire - IDIDS",2025-08-13,2025-08-14,29.93
+N325AC,2025-08-14,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Sunset Fire - IDIDS",2025-08-13,2025-08-14,29.42
+N325AC,2025-08-14,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Sunset Fire - IDIDS",2025-08-13,2025-08-14,28.60
+N325AC,2025-08-14,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Sunset Fire - IDIDS",2025-08-13,2025-08-14,29.22
+N325AC,2025-08-14,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Sunset Fire - IDIDS",2025-08-13,2025-08-14,29.54
+N325AC,2025-08-14,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Sunset Fire - IDIDS",2025-08-13,2025-08-14,29.65
+N325AC,2025-08-14,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Sunset Fire - IDIDS",2025-08-13,2025-08-14,29.65
+N325AC,2025-08-13,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Sunset Fire - IDIDS",2025-08-13,2025-08-14,28.74
+N325AC,2025-08-13,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Sunset Fire - IDIDS",2025-08-13,2025-08-14,27.72
+N325AC,2025-08-13,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Sunset Fire - IDIDS",2025-08-13,2025-08-14,29.64
+N325AC,2025-08-13,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Sunset Fire - IDIDS",2025-08-13,2025-08-14,29.12
+N325AC,2025-08-13,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Sunset Fire - IDIDS",2025-08-13,2025-08-14,29.14
+N325AC,2025-08-13,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Lightning Creek Fire - IDIPF",2025-07-30,2025-08-14,25.55
+N325AC,2025-08-13,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Sunset Fire - IDIDS",2025-08-13,2025-08-14,29.76
+N325AC,2025-08-13,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Lightning Creek Fire - IDIPF",2025-07-30,2025-08-14,26.69
+N325AC,2025-08-13,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Sunset Fire - IDIDS",2025-08-13,2025-08-14,29.71
+N325AC,2025-08-12,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Lightning Creek Fire - IDIPF",2025-07-30,2025-08-14,28.67
+N325AC,2025-08-12,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Lightning Creek Fire - IDIPF",2025-07-30,2025-08-14,25.55
+N325AC,2025-08-12,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Lightning Creek Fire - IDIPF",2025-07-30,2025-08-14,27.68
+N325AC,2025-08-12,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Lightning Creek Fire - IDIPF",2025-07-30,2025-08-14,29.43
+N325AC,2025-08-12,"Roberts Fld (KRDM)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Lightning Creek Fire - IDIPF",2025-07-30,2025-08-14,27.84
+N355AC,2025-08-12,"Colorado Sprgs Muni (KCOS)","Colorado Sprgs Muni (KCOS)","Crosho Fire - CORTF",2025-08-11,2025-08-14,27.20
+N355AC,2025-08-12,"Colorado Sprgs Muni (KCOS)","Colorado Sprgs Muni (KCOS)","Crosho Fire - CORTF",2025-08-11,2025-08-14,28.74
+N355AC,2025-08-12,"Casper/Natrona County Intl (KCPR)","Colorado Sprgs Muni (KCOS)","Crosho Fire - CORTF",2025-08-11,2025-08-14,27.03
+N374AC,2025-08-13,"Grand Junction Rgnl (KGJT)","Grand Junction Rgnl (KGJT)","Crosho Fire - CORTF",2025-08-11,2025-08-14,27.42
+N374AC,2025-08-13,"Grand Junction Rgnl (KGJT)","Grand Junction Rgnl (KGJT)","Crosho Fire - CORTF",2025-08-11,2025-08-14,26.75
+N374AC,2025-08-13,"Grand Junction Rgnl (KGJT)","Grand Junction Rgnl (KGJT)","Crosho Fire - CORTF",2025-08-11,2025-08-14,27.36
+N374AC,2025-08-12,"Grand Junction Rgnl (KGJT)","Grand Junction Rgnl (KGJT)","Crosho Fire - CORTF",2025-08-11,2025-08-14,26.66
+N374AC,2025-08-12,"Grand Junction Rgnl (KGJT)","Grand Junction Rgnl (KGJT)","Crosho Fire - CORTF",2025-08-11,2025-08-14,28.79
+N374AC,2025-08-12,"Pocatello Rgnl (KPIH)","Grand Junction Rgnl (KGJT)","Lee Fire - COWRD",2025-08-02,2025-08-14,29.24
+N374AC,2025-08-12,"Pocatello Rgnl (KPIH)","Grand Junction Rgnl (KGJT)","Crosho Fire - CORTF",2025-08-11,2025-08-14,28.60
+N374AC,2025-08-12,"Pocatello Rgnl (KPIH)","Steamboat Sprgs (KSBS)","Lee Fire - COWRD",2025-08-02,2025-08-14,29.24
+N374AC,2025-08-12,"Pocatello Rgnl (KPIH)","Steamboat Sprgs (KSBS)","Crosho Fire - CORTF",2025-08-11,2025-08-14,28.60
+N385AC,2025-08-13,"Walla Walla Rgnl (KALW)","Pangborn Meml (KEAT)","Central Ferry - WANES",2025-08-13,2025-08-14,29.80
+N385AC,2025-08-13,"Pangborn Meml (KEAT)","Walla Walla Rgnl (KALW)","Central Ferry - WANES",2025-08-13,2025-08-14,28.89
+N386AC,2025-08-13,"Walla Walla Rgnl (KALW)","Pangborn Meml (KEAT)","Central Ferry - WANES",2025-08-13,2025-08-14,21.33
+N386AC,2025-08-13,"Pangborn Meml (KEAT)","Walla Walla Rgnl (KALW)","Central Ferry - WANES",2025-08-13,2025-08-14,29.56
+N389AC,2025-08-14,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Near Coeur D'Alene, ID","Sunset Fire - IDIDS",2025-08-13,2025-08-14,29.34
+N389AC,2025-08-14,"Near Sandpoint, ID","Near Coeur D'Alene, ID","Sunset Fire - IDIDS",2025-08-13,2025-08-14,9.02
+N389AC,2025-08-13,"Mc Call Muni (KMYL)","Summit Ridge Ranch Airstrip (ID95)","Rock Fire - IDBOF",2025-08-13,2025-08-14,23.86
+N389AC,2025-08-13,"Near Mc Call, ID","Mc Call Muni (KMYL)","Rock Fire - IDBOF",2025-08-13,2025-08-14,10.06
+N389AC,2025-08-12,"Steamboat Sprgs (KSBS)","Provo Muni (KPVU)","Crosho Fire - CORTF",2025-08-11,2025-08-14,29.95
+N389AC,2025-08-12,"Provo Muni (KPVU)","Steamboat Sprgs (KSBS)","Crosho Fire - CORTF",2025-08-11,2025-08-14,27.19
+N416AC,2025-08-13,"Gowen Field (KBOI)","Gowen Field (KBOI)","Rock Fire - IDBOF",2025-08-13,2025-08-14,26.15
+N416AC,2025-08-13,"Gowen Field (KBOI)","Gowen Field (KBOI)","Rock Fire - IDBOF",2025-08-13,2025-08-14,27.41
+N416AC,2025-08-13,"Gowen Field (KBOI)","Gowen Field (KBOI)","Rock Fire - IDBOF",2025-08-13,2025-08-14,26.12
+N416AC,2025-08-13,"Gowen Field (KBOI)","Gowen Field (KBOI)","Rock Fire - IDBOF",2025-08-13,2025-08-14,29.25
+N416AC,2025-08-13,"Gowen Field (KBOI)","Gowen Field (KBOI)","Rock Fire - IDBOF",2025-08-13,2025-08-14,26.56
+N416AC,2025-08-13,"Gowen Field (KBOI)","Gowen Field (KBOI)","Rock Fire - IDBOF",2025-08-13,2025-08-14,29.93
+N416AC,2025-08-13,"Cedar City Rgnl (KCDC)","Gowen Field (KBOI)","Rock Fire - IDBOF",2025-08-13,2025-08-14,28.59
+N635AC,2025-08-13,"Gowen Field (KBOI)","Gowen Field (KBOI)","Rock Fire - IDBOF",2025-08-13,2025-08-14,29.50
+N635AC,2025-08-13,"Gowen Field (KBOI)","Gowen Field (KBOI)","Rock Fire - IDBOF",2025-08-13,2025-08-14,27.86
+N635AC,2025-08-13,"Gowen Field (KBOI)","Gowen Field (KBOI)","Rock Fire - IDBOF",2025-08-13,2025-08-14,27.70
+N635AC,2025-08-13,"Casper/Natrona County Intl (KCPR)","Gowen Field (KBOI)","Elkhorn Fire - Salmon-Challis National Forest - IDSCF",2025-07-29,2025-08-14,29.16
+N635AC,2025-08-13,"Casper/Natrona County Intl (KCPR)","Gowen Field (KBOI)","Rock Fire - IDBOF",2025-08-13,2025-08-14,29.19
+N635AC,2025-08-13,"Casper/Natrona County Intl (KCPR)","Splan (2ID5)","Elkhorn Fire - Salmon-Challis National Forest - IDSCF",2025-07-29,2025-08-14,29.16
+N635AC,2025-08-13,"Casper/Natrona County Intl (KCPR)","Splan (2ID5)","Rock Fire - IDBOF",2025-08-13,2025-08-14,29.19
+N635AC,2025-08-12,"Colorado Sprgs Muni (KCOS)","Colorado Sprgs Muni (KCOS)","Crosho Fire - CORTF",2025-08-11,2025-08-14,28.80
+N635AC,2025-08-12,"Colorado Sprgs Muni (KCOS)","Colorado Sprgs Muni (KCOS)","Crosho Fire - CORTF",2025-08-11,2025-08-14,29.07
+N635AC,2025-08-12,"Casper/Natrona County Intl (KCPR)","Colorado Sprgs Muni (KCOS)","Crosho Fire - CORTF",2025-08-11,2025-08-14,25.88
+N839AC,2025-08-14,"Fresno Yosemite Intl (KFAT)","Gowen Field (KBOI)","Rock Fire - IDBOF",2025-08-13,2025-08-14,28.33
+N839AC,2025-08-14,"Fresno Yosemite Intl (KFAT)","Mc Call Muni (KMYL)","Rock Fire - IDBOF",2025-08-13,2025-08-14,28.33
+N988AC,2025-08-14,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Sunset Fire - IDIDS",2025-08-13,2025-08-14,29.30
+N988AC,2025-08-14,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Lightning Creek Fire - IDIPF",2025-07-30,2025-08-14,29.62
+N988AC,2025-08-14,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Sunset Fire - IDIDS",2025-08-13,2025-08-14,29.44
+N988AC,2025-08-14,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Sunset Fire - IDIDS",2025-08-13,2025-08-14,29.68
+N988AC,2025-08-14,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Sunset Fire - IDIDS",2025-08-13,2025-08-14,29.72
+N988AC,2025-08-14,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Sunset Fire - IDIDS",2025-08-13,2025-08-14,29.95
+N988AC,2025-08-14,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Sunset Fire - IDIDS",2025-08-13,2025-08-14,29.66
+N988AC,2025-08-14,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Sunset Fire - IDIDS",2025-08-13,2025-08-14,29.26
+N988AC,2025-08-14,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Sunset Fire - IDIDS",2025-08-13,2025-08-14,29.33
+N988AC,2025-08-14,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Sunset Fire - IDIDS",2025-08-13,2025-08-14,28.46
+N988AC,2025-08-14,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Sunset Fire - IDIDS",2025-08-13,2025-08-14,28.99
+N988AC,2025-08-14,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Sunset Fire - IDIDS",2025-08-13,2025-08-14,29.93
+N988AC,2025-08-14,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Sunset Fire - IDIDS",2025-08-13,2025-08-14,29.48
+N988AC,2025-08-14,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Sunset Fire - IDIDS",2025-08-13,2025-08-14,29.37
+N988AC,2025-08-13,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Sunset Fire - IDIDS",2025-08-13,2025-08-14,28.08
+N988AC,2025-08-13,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Sunset Fire - IDIDS",2025-08-13,2025-08-14,28.51
+N988AC,2025-08-13,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Sunset Fire - IDIDS",2025-08-13,2025-08-14,28.95
+N988AC,2025-08-13,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Sunset Fire - IDIDS",2025-08-13,2025-08-14,28.87
+N988AC,2025-08-13,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Sunset Fire - IDIDS",2025-08-13,2025-08-14,28.23
+N988AC,2025-08-13,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Lightning Creek Fire - IDIPF",2025-07-30,2025-08-14,29.69
+N988AC,2025-08-13,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Sunset Fire - IDIDS",2025-08-13,2025-08-14,28.91
+N988AC,2025-08-13,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Lightning Creek Fire - IDIPF",2025-07-30,2025-08-14,29.43
+N988AC,2025-08-13,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Sunset Fire - IDIDS",2025-08-13,2025-08-14,28.97
+N988AC,2025-08-12,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Lightning Creek Fire - IDIPF",2025-07-30,2025-08-14,28.55
+N988AC,2025-08-12,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Lightning Creek Fire - IDIPF",2025-07-30,2025-08-14,30.00
+N988AC,2025-08-12,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Lightning Creek Fire - IDIPF",2025-07-30,2025-08-14,28.60
+N988AC,2025-08-12,"Gowen Field (KBOI)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Lightning Creek Fire - IDIPF",2025-07-30,2025-08-14,25.49
+N998AC,2025-08-14,"Grant County Intl (KMWH)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Sunset Fire - IDIDS",2025-08-13,2025-08-14,29.77
+N406BT,2025-08-14,"Provo Muni (KPVU)","Provo Muni (KPVU)","Beulah Fire - UTWCF",2025-08-07,2025-08-14,29.77
+N406BT,2025-08-13,"Provo Muni (KPVU)","Provo Muni (KPVU)","Beulah Fire - UTWCF",2025-08-07,2025-08-14,27.36
+N406BT,2025-08-13,"Provo Muni (KPVU)","Provo Muni (KPVU)","Beulah Fire - UTWCF",2025-08-07,2025-08-14,29.30
+N406BT,2025-08-12,"Provo Muni (KPVU)","Provo Muni (KPVU)","Beulah Fire - UTWCF",2025-08-07,2025-08-14,28.19
+N406BT,2025-08-12,"Provo Muni (KPVU)","Provo Muni (KPVU)","Beulah Fire - UTWCF",2025-08-07,2025-08-14,27.44
+N415BT,2025-08-14,"Gowen Field (KBOI)","Gowen Field (KBOI)","Rock Fire - IDBOF",2025-08-13,2025-08-14,29.87
+N415BT,2025-08-14,"Gowen Field (KBOI)","Gowen Field (KBOI)","Rock Fire - IDBOF",2025-08-13,2025-08-14,28.58
+N415BT,2025-08-13,"Gowen Field (KBOI)","Gowen Field (KBOI)","Rock Fire - IDBOF",2025-08-13,2025-08-14,29.03
+N417BT,2025-08-14,"Near Boise, ID","Near Boise, ID","Rock Fire - IDBOF",2025-08-13,2025-08-14,29.78
+N417BT,2025-08-14,"Near Boise, ID","Near Boise, ID","Rock Fire - IDBOF",2025-08-13,2025-08-14,28.02
+N417BT,2025-08-13,"Near Boise, ID","Near Boise, ID","Rock Fire - IDBOF",2025-08-13,2025-08-14,28.88
+N418BT,2025-08-14,"Eagle County (KEGE)","Eagle County (KEGE)","Crosho Fire - CORTF",2025-08-11,2025-08-14,28.20
+N418BT,2025-08-13,"Eagle County (KEGE)","Eagle County (KEGE)","Crosho Fire - CORTF",2025-08-11,2025-08-14,29.61
+N418BT,2025-08-13,"Eagle County (KEGE)","Eagle County (KEGE)","Crosho Fire - CORTF",2025-08-11,2025-08-14,29.91
+N418BT,2025-08-12,"Yampa Valley (KHDN)","Eagle County (KEGE)","Crosho Fire - CORTF",2025-08-11,2025-08-14,29.84
+N419BT,2025-08-14,"Eagle County (KEGE)","Eagle County (KEGE)","Crosho Fire - CORTF",2025-08-11,2025-08-14,29.28
+N419BT,2025-08-13,"Eagle County (KEGE)","Near Eagle, CO","Crosho Fire - CORTF",2025-08-11,2025-08-14,29.51
+N419BT,2025-08-13,"Eagle County (KEGE)","Near Eagle, CO","Crosho Fire - CORTF",2025-08-11,2025-08-14,29.56
+N419BT,2025-08-12,"Yampa Valley (KHDN)","Eagle County (KEGE)","Crosho Fire - CORTF",2025-08-11,2025-08-14,28.64
+N470NA,2025-08-12,"Santa Maria (KSMX)","General Wm J Fox Airfield (KWJF)","Gifford Fire - CALPF",2025-08-01,2025-08-14,28.59
+N470NA,2025-08-12,"Santa Maria (KSMX)","Santa Maria (KSMX)","Gifford Fire - CALPF",2025-08-01,2025-08-14,29.88
+N470NA,2025-08-12,"Santa Maria (KSMX)","Santa Maria (KSMX)","Gifford Fire - CALPF",2025-08-01,2025-08-14,28.97
+N470NA,2025-08-12,"General Wm J Fox Airfield (KWJF)","Santa Maria (KSMX)","Gifford Fire - CALPF",2025-08-01,2025-08-14,29.14
+N471NA,2025-08-14,"Santa Maria (KSMX)","General Wm J Fox Airfield (KWJF)","Gifford Fire - CALPF",2025-08-01,2025-08-14,29.96
+N471NA,2025-08-14,"Santa Maria (KSMX)","General Wm J Fox Airfield (KWJF)","King Fire - CAANF",2025-08-13,2025-08-14,29.56
+N471NA,2025-08-12,"Santa Maria (KSMX)","Santa Maria (KSMX)","Gifford Fire - CALPF",2025-08-01,2025-08-14,29.69
+N471NA,2025-08-12,"Santa Maria (KSMX)","Santa Maria (KSMX)","Gifford Fire - CALPF",2025-08-01,2025-08-14,29.13
+N471NA,2025-08-12,"Santa Maria (KSMX)","Santa Maria (KSMX)","Gifford Fire - CALPF",2025-08-01,2025-08-14,29.54
+N471NA,2025-08-12,"Santa Maria (KSMX)","Santa Maria (KSMX)","Gifford Fire - CALPF",2025-08-01,2025-08-14,29.93
+N471NA,2025-08-12,"Santa Maria (KSMX)","Santa Maria (KSMX)","Gifford Fire - CALPF",2025-08-01,2025-08-14,29.85
+N472NA,2025-08-14,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Missoula Montana (KMSO)","Sunset Fire - IDIDS",2025-08-13,2025-08-14,28.48
+N472NA,2025-08-14,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Lightning Creek Fire - IDIPF",2025-07-30,2025-08-14,29.97
+N472NA,2025-08-14,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Sunset Fire - IDIDS",2025-08-13,2025-08-14,28.96
+N472NA,2025-08-14,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Sunset Fire - IDIDS",2025-08-13,2025-08-14,29.74
+N472NA,2025-08-14,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Sunset Fire - IDIDS",2025-08-13,2025-08-14,29.84
+N472NA,2025-08-14,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Sunset Fire - IDIDS",2025-08-13,2025-08-14,28.97
+N472NA,2025-08-14,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Sunset Fire - IDIDS",2025-08-13,2025-08-14,29.77
+N472NA,2025-08-14,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Sunset Fire - IDIDS",2025-08-13,2025-08-14,28.74
+N472NA,2025-08-14,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Sunset Fire - IDIDS",2025-08-13,2025-08-14,29.91
+N472NA,2025-08-14,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Sunset Fire - IDIDS",2025-08-13,2025-08-14,28.61
+N472NA,2025-08-14,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Sunset Fire - IDIDS",2025-08-13,2025-08-14,29.12
+N472NA,2025-08-14,"Missoula Montana (KMSO)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Sunset Fire - IDIDS",2025-08-13,2025-08-14,28.00
+N472NA,2025-08-13,"Missoula Montana (KMSO)","Billings Logan Intl (KBIL)","Gill Gulch Fire - MTHLF",2025-08-04,2025-08-14,29.40
+N472NA,2025-08-12,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Missoula Montana (KMSO)","Lightning Creek Fire - IDIPF",2025-07-30,2025-08-14,28.91
+N472NA,2025-08-12,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Lightning Creek Fire - IDIPF",2025-07-30,2025-08-14,27.39
+N472NA,2025-08-12,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Lightning Creek Fire - IDIPF",2025-07-30,2025-08-14,26.97
+N472NA,2025-08-12,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Lightning Creek Fire - IDIPF",2025-07-30,2025-08-14,26.76
+N472NA,2025-08-12,"Missoula Montana (KMSO)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Lightning Creek Fire - IDIPF",2025-07-30,2025-08-14,26.81
+N473NA,2025-08-14,"General Wm J Fox Airfield (KWJF)","General Wm J Fox Airfield (KWJF)","King Fire - CAANF",2025-08-13,2025-08-14,29.18
+N473NA,2025-08-14,"San Bernardino Intl (KSBD)","General Wm J Fox Airfield (KWJF)","King Fire - CAANF",2025-08-13,2025-08-14,25.94
+N474NA,2025-08-14,"Gowen Field (KBOI)","Gowen Field (KBOI)","Rock Fire - IDBOF",2025-08-13,2025-08-14,25.48
+N474NA,2025-08-14,"Gowen Field (KBOI)","Gowen Field (KBOI)","Rock Fire - IDBOF",2025-08-13,2025-08-14,28.43
+N474NA,2025-08-13,"Gowen Field (KBOI)","Gowen Field (KBOI)","Rock Fire - IDBOF",2025-08-13,2025-08-14,26.65
+N474NA,2025-08-13,"Gowen Field (KBOI)","Gowen Field (KBOI)","Rock Fire - IDBOF",2025-08-13,2025-08-14,28.47
+N474NA,2025-08-13,"Gowen Field (KBOI)","Gowen Field (KBOI)","Rock Fire - IDBOF",2025-08-13,2025-08-14,28.48
+N474NA,2025-08-13,"Gowen Field (KBOI)","Gowen Field (KBOI)","Rock Fire - IDBOF",2025-08-13,2025-08-14,29.18
+N474NA,2025-08-13,"Gowen Field (KBOI)","Gowen Field (KBOI)","Rock Fire - IDBOF",2025-08-13,2025-08-14,27.91
+N474NA,2025-08-13,"Gowen Field (KBOI)","Gowen Field (KBOI)","Rock Fire - IDBOF",2025-08-13,2025-08-14,25.78
+N474NA,2025-08-13,"Cedar City Rgnl (KCDC)","Gowen Field (KBOI)","Rock Fire - IDBOF",2025-08-13,2025-08-14,27.79
+N475NA,2025-08-14,"Grand Junction Rgnl (KGJT)","Grand Junction Rgnl (KGJT)","Lee Fire - COWRD",2025-08-02,2025-08-14,27.69
+N475NA,2025-08-14,"Grand Junction Rgnl (KGJT)","Grand Junction Rgnl (KGJT)","Crosho Fire - CORTF",2025-08-11,2025-08-14,29.98
+N475NA,2025-08-14,"Grand Junction Rgnl (KGJT)","Grand Junction Rgnl (KGJT)","Crosho Fire - CORTF",2025-08-11,2025-08-14,27.82
+N475NA,2025-08-13,"Grand Junction Rgnl (KGJT)","Grand Junction Rgnl (KGJT)","Crosho Fire - CORTF",2025-08-11,2025-08-14,29.23
+N475NA,2025-08-13,"Grand Junction Rgnl (KGJT)","Grand Junction Rgnl (KGJT)","Crosho Fire - CORTF",2025-08-11,2025-08-14,26.15
+N475NA,2025-08-13,"Grand Junction Rgnl (KGJT)","Grand Junction Rgnl (KGJT)","Crosho Fire - CORTF",2025-08-11,2025-08-14,29.13
+N475NA,2025-08-13,"Grand Junction Rgnl (KGJT)","Grand Junction Rgnl (KGJT)","Crosho Fire - CORTF",2025-08-11,2025-08-14,28.24
+N475NA,2025-08-13,"Grand Junction Rgnl (KGJT)","Grand Junction Rgnl (KGJT)","Crosho Fire - CORTF",2025-08-11,2025-08-14,29.01
+N475NA,2025-08-13,"Grand Junction Rgnl (KGJT)","Grand Junction Rgnl (KGJT)","Crosho Fire - CORTF",2025-08-11,2025-08-14,25.56
+N475NA,2025-08-12,"Grand Junction Rgnl (KGJT)","Grand Junction Rgnl (KGJT)","Crosho Fire - CORTF",2025-08-11,2025-08-14,26.30
+N475NA,2025-08-12,"Grand Junction Rgnl (KGJT)","Grand Junction Rgnl (KGJT)","Crosho Fire - CORTF",2025-08-11,2025-08-14,29.55
+N475NA,2025-08-12,"Grand Junction Rgnl (KGJT)","Grand Junction Rgnl (KGJT)","Crosho Fire - CORTF",2025-08-11,2025-08-14,26.24
+N475NA,2025-08-12,"Grand Junction Rgnl (KGJT)","Grand Junction Rgnl (KGJT)","Crosho Fire - CORTF",2025-08-11,2025-08-14,28.90
+N475NA,2025-08-12,"Grand Junction Rgnl (KGJT)","Grand Junction Rgnl (KGJT)","Crosho Fire - CORTF",2025-08-11,2025-08-14,28.85
+N475NA,2025-08-12,"Grand Junction Rgnl (KGJT)","Grand Junction Rgnl (KGJT)","Crosho Fire - CORTF",2025-08-11,2025-08-14,27.84
+N475NA,2025-08-12,"Grand Junction Rgnl (KGJT)","Grand Junction Rgnl (KGJT)","Crosho Fire - CORTF",2025-08-11,2025-08-14,28.97
+N475NA,2025-08-12,"Grand Junction Rgnl (KGJT)","Grand Junction Rgnl (KGJT)","Crosho Fire - CORTF",2025-08-11,2025-08-14,29.33
+N476NA,2025-08-13,"Roberts Fld (KRDM)","Roberts Fld (KRDM)","Central Ferry - WANES",2025-08-13,2025-08-14,28.36
+N476NA,2025-08-12,"Santa Maria (KSMX)","Santa Maria (KSMX)","Gifford Fire - CALPF",2025-08-01,2025-08-14,29.51
+N476NA,2025-08-12,"Santa Maria (KSMX)","Santa Maria (KSMX)","Gifford Fire - CALPF",2025-08-01,2025-08-14,29.28
+N476NA,2025-08-12,"Santa Maria (KSMX)","Santa Maria (KSMX)","Gifford Fire - CALPF",2025-08-01,2025-08-14,29.92
+N476NA,2025-08-12,"Santa Maria (KSMX)","Santa Maria (KSMX)","Gifford Fire - CALPF",2025-08-01,2025-08-14,29.93
+N476NA,2025-08-12,"Santa Maria (KSMX)","Santa Maria (KSMX)","Gifford Fire - CALPF",2025-08-01,2025-08-14,29.85
+N477NA,2025-08-14,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Missoula Montana (KMSO)","Sunset Fire - IDIDS",2025-08-13,2025-08-14,29.61
+N477NA,2025-08-14,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Sunset Fire - IDIDS",2025-08-13,2025-08-14,29.15
+N477NA,2025-08-14,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Sunset Fire - IDIDS",2025-08-13,2025-08-14,28.52
+N477NA,2025-08-14,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Sunset Fire - IDIDS",2025-08-13,2025-08-14,28.28
+N477NA,2025-08-14,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Sunset Fire - IDIDS",2025-08-13,2025-08-14,29.84
+N477NA,2025-08-14,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Sunset Fire - IDIDS",2025-08-13,2025-08-14,29.97
+N477NA,2025-08-14,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Sunset Fire - IDIDS",2025-08-13,2025-08-14,28.29
+N477NA,2025-08-14,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Sunset Fire - IDIDS",2025-08-13,2025-08-14,28.92
+N477NA,2025-08-14,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Sunset Fire - IDIDS",2025-08-13,2025-08-14,29.23
+N477NA,2025-08-14,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Sunset Fire - IDIDS",2025-08-13,2025-08-14,29.34
+N477NA,2025-08-14,"Missoula Montana (KMSO)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Sunset Fire - IDIDS",2025-08-13,2025-08-14,27.69
+N478NA,2025-08-13,"Grand Junction Rgnl (KGJT)","Colorado Sprgs Muni (KCOS)","Crosho Fire - CORTF",2025-08-11,2025-08-14,29.31
+N478NA,2025-08-13,"Grand Junction Rgnl (KGJT)","Grand Junction Rgnl (KGJT)","Crosho Fire - CORTF",2025-08-11,2025-08-14,29.79
+N478NA,2025-08-13,"Grand Junction Rgnl (KGJT)","Grand Junction Rgnl (KGJT)","Crosho Fire - CORTF",2025-08-11,2025-08-14,26.02
+N478NA,2025-08-13,"Grand Junction Rgnl (KGJT)","Grand Junction Rgnl (KGJT)","Crosho Fire - CORTF",2025-08-11,2025-08-14,29.71
+N478NA,2025-08-13,"Grand Junction Rgnl (KGJT)","Grand Junction Rgnl (KGJT)","Crosho Fire - CORTF",2025-08-11,2025-08-14,26.36
+N478NA,2025-08-13,"Colorado Sprgs Muni (KCOS)","Grand Junction Rgnl (KGJT)","Crosho Fire - CORTF",2025-08-11,2025-08-14,28.53
+N478NA,2025-08-12,"Grand Junction Rgnl (KGJT)","Colorado Sprgs Muni (KCOS)","Crosho Fire - CORTF",2025-08-11,2025-08-14,29.34
+N478NA,2025-08-12,"Grand Junction Rgnl (KGJT)","Grand Junction Rgnl (KGJT)","Crosho Fire - CORTF",2025-08-11,2025-08-14,28.51
+N478NA,2025-08-12,"Grand Junction Rgnl (KGJT)","Grand Junction Rgnl (KGJT)","Crosho Fire - CORTF",2025-08-11,2025-08-14,28.63
+N478NA,2025-08-12,"Grand Junction Rgnl (KGJT)","Grand Junction Rgnl (KGJT)","Crosho Fire - CORTF",2025-08-11,2025-08-14,28.52
+N478NA,2025-08-12,"Grand Junction Rgnl (KGJT)","Grand Junction Rgnl (KGJT)","Crosho Fire - CORTF",2025-08-11,2025-08-14,25.86
+N478NA,2025-08-12,"Grand Junction Rgnl (KGJT)","Grand Junction Rgnl (KGJT)","Crosho Fire - CORTF",2025-08-11,2025-08-14,27.81
+N478NA,2025-08-12,"Colorado Sprgs Muni (KCOS)","Grand Junction Rgnl (KGJT)","Crosho Fire - CORTF",2025-08-11,2025-08-14,29.37
+N522AX,2025-08-14,"Pocatello Rgnl (KPIH)","Pocatello Rgnl (KPIH)","Rock Fire - IDBOF",2025-08-13,2025-08-14,28.99
+N522AX,2025-08-13,"Colorado Sprgs Muni (KCOS)","Colorado Sprgs Muni (KCOS)","Crosho Fire - CORTF",2025-08-11,2025-08-14,27.97
+N522AX,2025-08-13,"Colorado Sprgs Muni (KCOS)","Colorado Sprgs Muni (KCOS)","Crosho Fire - CORTF",2025-08-11,2025-08-14,28.32
+N522AX,2025-08-13,"Colorado Sprgs Muni (KCOS)","Colorado Sprgs Muni (KCOS)","Crosho Fire - CORTF",2025-08-11,2025-08-14,29.10
+N522AX,2025-08-13,"Colorado Sprgs Muni (KCOS)","Colorado Sprgs Muni (KCOS)","Crosho Fire - CORTF",2025-08-11,2025-08-14,29.74
+N522AX,2025-08-12,"Colorado Sprgs Muni (KCOS)","Colorado Sprgs Muni (KCOS)","Crosho Fire - CORTF",2025-08-11,2025-08-14,29.43
+N522AX,2025-08-12,"Colorado Sprgs Muni (KCOS)","Colorado Sprgs Muni (KCOS)","Crosho Fire - CORTF",2025-08-11,2025-08-14,28.39
+N522AX,2025-08-12,"Phoenix-Mesa Gateway (KIWA)","Colorado Sprgs Muni (KCOS)","Crosho Fire - CORTF",2025-08-11,2025-08-14,25.93
+N603AX,2025-08-14,"Grant County Intl (KMWH)","Grant County Intl (KMWH)","Sunset Fire - IDIDS",2025-08-13,2025-08-14,22.36
+N603AX,2025-08-14,"Grant County Intl (KMWH)","Grant County Intl (KMWH)","Sunset Fire - IDIDS",2025-08-13,2025-08-14,27.38
+N603AX,2025-08-14,"Grant County Intl (KMWH)","Grant County Intl (KMWH)","Sunset Fire - IDIDS",2025-08-13,2025-08-14,27.80
+N603AX,2025-08-13,"Helena Rgnl (KHLN)","Grant County Intl (KMWH)","Gill Gulch Fire - MTHLF",2025-08-04,2025-08-14,27.18
+N603AX,2025-08-13,"Helena Rgnl (KHLN)","Grant County Intl (KMWH)","Sunset Fire - IDIDS",2025-08-13,2025-08-14,27.88
+N603AX,2025-08-13,"San Bernardino Intl (KSBD)","Billings Logan Intl (KBIL)","Summer Springs Fire - MTMTS",2025-08-13,2025-08-15,7.42
+N612AX,2025-08-13,"Pocatello Rgnl (KPIH)","Pocatello Rgnl (KPIH)","Rock Fire - IDBOF",2025-08-13,2025-08-14,28.02
+N612AX,2025-08-13,"Grant County Intl (KMWH)","Pocatello Rgnl (KPIH)","Rock Fire - IDBOF",2025-08-13,2025-08-14,28.95
+N612AX,2025-08-13,"Pocatello Rgnl (KPIH)","Grant County Intl (KMWH)","Central Ferry - WANES",2025-08-13,2025-08-14,28.25
+N612AX,2025-08-13,"Pocatello Rgnl (KPIH)","Grant County Intl (KMWH)","Rock Fire - IDBOF",2025-08-13,2025-08-14,27.44
+N612AX,2025-08-13,"Colorado Sprgs Muni (KCOS)","Pocatello Rgnl (KPIH)","Elkhorn Fire - Salmon-Challis National Forest - IDSCF",2025-07-29,2025-08-14,29.71
+N612AX,2025-08-13,"Colorado Sprgs Muni (KCOS)","Pocatello Rgnl (KPIH)","Crosho Fire - CORTF",2025-08-11,2025-08-14,26.05
+N612AX,2025-08-13,"Colorado Sprgs Muni (KCOS)","Pocatello Rgnl (KPIH)","Rock Fire - IDBOF",2025-08-13,2025-08-14,27.67
+N612AX,2025-08-12,"Colorado Sprgs Muni (KCOS)","Colorado Sprgs Muni (KCOS)","Crosho Fire - CORTF",2025-08-11,2025-08-14,29.52
+N612AX,2025-08-12,"San Bernardino Intl (KSBD)","Colorado Sprgs Muni (KCOS)","Crosho Fire - CORTF",2025-08-11,2025-08-14,28.32
