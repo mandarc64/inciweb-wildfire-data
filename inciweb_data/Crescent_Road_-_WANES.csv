@@ -1,3 +1,5 @@
 ScrapeDate,Incident,Type,State,Size,Updated,CurrentAsOf,IncidentTimeZone,IncidentType,Cause,DateOfOrigin,Location,IncidentCommander,Coordinates,Latitude,Longitude,TotalPersonnel,ContainmentPercent
 2025-08-15,"Crescent Road - WANES","Wildfire","Washington","779 Acres","14 hours 11 minutes ago","Thu, 08/14/2025 - 21:10","Pacific Standard Time","Wildfire","Under Investigation; Human Caused","Wed, 08/13/2025 - 16:17","7 Miles N of Reardan, WA","IC Shane Robson
 NEWA Type 3 Team 2 Incident Management Team","48° 46' 51.2'', -117° 25' 20.6 ''","48° 46' 51.2''","-117° 25' 20.6 ''","200","0%"
+2025-08-16,"Crescent Road - WANES","Wildfire","Washington","893 Acres","16 hours 34 minutes ago","Fri, 08/15/2025 - 18:40","Pacific Standard Time","Wildfire","Under Investigation; Human Caused","Wed, 08/13/2025 - 16:17","7 Miles N of Reardan, WA","IC Shane Robson
+NEWA Type 3 Team 2 Incident Management Team","48° 46' 51.2'', -117° 25' 20.6 ''","48° 46' 51.2''","-117° 25' 20.6 ''","200","0%"

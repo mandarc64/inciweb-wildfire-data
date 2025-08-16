@@ -1,0 +1,3 @@
+ScrapeDate,Incident,Type,State,Size,Updated,CurrentAsOf,IncidentTimeZone,IncidentType,Cause,DateOfOrigin,Location,IncidentCommander,Coordinates,Latitude,Longitude,TotalPersonnel,ContainmentPercent
+2025-08-16,"Woods Fire - AZCOF","Wildfire","Arizona","59 Acres","15 hours 47 minutes ago","Fri, 08/15/2025 - 19:27","Arizona Mountain Standard Time","Wildfire","Lightning","Wed, 08/13/2025 - 12:20","Two miles east of Village of Oak Creek, atop Horse Mesa.","IC Adam White, USFS
+Trainee Larry Badger, USFS","34° 46' 44.4'', -111° 43' 26.4 ''","34° 46' 44.4''","-111° 43' 26.4 ''","35","50%"
