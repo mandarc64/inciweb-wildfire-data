@@ -1,3 +1,5 @@
 ScrapeDate,Incident,Type,State,Size,Updated,CurrentAsOf,IncidentTimeZone,IncidentType,Cause,DateOfOrigin,Location,IncidentCommander,Coordinates,Latitude,Longitude,TotalPersonnel,ContainmentPercent
 2025-08-16,"Rancho - NVCCD","Wildfire","Nevada","600 Acres","19 hours 54 minutes ago","Fri, 08/15/2025 - 15:20","Pacific Standard Time","Wildfire","Undetermined","Thu, 08/14/2025 - 15:41","10 Miles N of Reno, NV","IC Scott Biddle
 IC Rob Stultz","39° 50' 13'', -119° 55' 37 ''","39° 50' 13''","-119° 55' 37 ''","183","0%"
+2025-08-17,"Rancho - NVCCD","Wildfire","Nevada","1,482 Acres","3 minutes 33 seconds ago","Sun, 08/17/2025 - 11:19","Pacific Standard Time","Wildfire","Undetermined","Thu, 08/14/2025 - 15:41","10 Miles N of Reno, NV","IC Scott Biddle
+IC Rob Stultz","39° 50' 13'', -119° 55' 37 ''","39° 50' 13''","-119° 55' 37 ''","172","50%"

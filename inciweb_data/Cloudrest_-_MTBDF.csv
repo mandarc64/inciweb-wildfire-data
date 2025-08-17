@@ -1,3 +1,5 @@
 ScrapeDate,Incident,Type,State,Size,Updated,CurrentAsOf,IncidentTimeZone,IncidentType,Cause,DateOfOrigin,Location,IncidentCommander,Coordinates,Latitude,Longitude,TotalPersonnel,ContainmentPercent
 2025-08-16,"Cloudrest - MTBDF","Wildfire","Montana","500 Acres","17 hours 12 minutes ago","Fri, 08/15/2025 - 18:02","Mountain Standard Time","Wildfire","Undetermined","Thu, 08/14/2025 - 15:44","9 miles northeast of Sheridan and 12 miles east of Twin Bridges on the Madison Ranger District","J. Sampson
 USDA FS","45° 33' 27'', -112° 2' 14 ''","45° 33' 27''","-112° 2' 14 ''","10",""
+2025-08-17,"Cloudrest - MTBDF","Wildfire","Montana","1,156 Acres","12 minutes 42 seconds ago","Sun, 08/17/2025 - 11:10","Mountain Standard Time","Wildfire","Undetermined","Thu, 08/14/2025 - 15:44","9 miles northeast of Sheridan and 12 miles east of Twin Bridges on the Madison Ranger District","B. Kuhn
+USDA FS","45° 33' 27'', -112° 2' 14 ''","45° 33' 27''","-112° 2' 14 ''","10",""

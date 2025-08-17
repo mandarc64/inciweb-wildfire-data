@@ -1,2 +1,4 @@
 ScrapeDate,Incident,Type,State,Size,Updated,CurrentAsOf,IncidentTimeZone,IncidentType,Cause,DateOfOrigin,Location,IncidentCommander,Coordinates,Latitude,Longitude,TotalPersonnel,ContainmentPercent
 2025-08-16,"Red Canyon Fire - WYWBD","Wildfire","Wyoming","34,400 Acres","3 hours 52 minutes ago","Sat, 08/16/2025 - 07:22","Mountain Standard Time","Wildfire","Unknown","Wed, 08/13/2025 - 09:00","Hot Springs County","","43° 35' 45.24'', -107° 55' 55.2 ''","43° 35' 45.24''","-107° 55' 55.2 ''","","0%"
+2025-08-17,"Red Canyon Fire - WYWBD","Wildfire","Wyoming","83,248 Acres","2 hours 42 minutes ago","Sun, 08/17/2025 - 08:40","Mountain Standard Time","Wildfire","Unknown","Wed, 08/13/2025 - 09:00","Hot Springs County","August Isernhagen
+Sierra Front/Nevada Team 5","43° 35' 45.24'', -107° 55' 55.2 ''","43° 35' 45.24''","-107° 55' 55.2 ''","303","0%"

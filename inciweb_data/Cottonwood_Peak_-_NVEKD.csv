@@ -1,0 +1,5 @@
+ScrapeDate,Incident,Type,State,Size,Updated,CurrentAsOf,IncidentTimeZone,IncidentType,Cause,DateOfOrigin,Location,IncidentCommander,Coordinates,Latitude,Longitude,TotalPersonnel,ContainmentPercent
+2025-08-17,"Cottonwood Peak - NVEKD","Wildfire","Nevada","15,000 Acres","13 hours 40 minutes ago","Sat, 08/16/2025 - 21:42","Pacific Standard Time","Wildfire","Lightning","Fri, 08/15/2025 - 19:02","3 Miles N of Tuscarora, NV","Robert Headley ICT3 Acutal
+Peter Fromherz ICT3 Trainee
+
+Type 3 IC","41° 23' 24'', -116° 12' 33 ''","41° 23' 24''","-116° 12' 33 ''","138","0%"

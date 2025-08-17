@@ -1,0 +1,6 @@
+ScrapeDate,Incident,Type,State,Size,Updated,CurrentAsOf,IncidentTimeZone,IncidentType,Cause,DateOfOrigin,Location,IncidentCommander,Coordinates,Latitude,Longitude,TotalPersonnel,ContainmentPercent
+2025-08-17,"Chin Creek Fire - NVELD","Wildfire","Nevada","648 Acres","16 hours 6 minutes ago","Sat, 08/16/2025 - 19:16","Pacific Standard Time","Wildfire","Undetermined","Thu, 08/14/2025 - 14:43","50 Miles NE of Ely, NV","Seth Trodahl IC3
+
+Jake Keogh IC3 Trainee
+
+BLM Nevada Ely District","40° 0' 11'', -114° 24' 42 ''","40° 0' 11''","-114° 24' 42 ''","115","45%"

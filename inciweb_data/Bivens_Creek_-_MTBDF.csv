@@ -1,3 +1,5 @@
 ScrapeDate,Incident,Type,State,Size,Updated,CurrentAsOf,IncidentTimeZone,IncidentType,Cause,DateOfOrigin,Location,IncidentCommander,Coordinates,Latitude,Longitude,TotalPersonnel,ContainmentPercent
 2025-08-16,"Bivens Creek - MTBDF","Wildfire","Montana","500 Acres","17 hours 29 minutes ago","Fri, 08/15/2025 - 17:46","Mountain Standard Time","Wildfire","Undetermined","Wed, 08/13/2025 - 18:16","11 miles northeast of Alder and 10 miles east of Sheridan, on the Madison Ranger District","A. Jones
 USDA FS","45° 27' 27'', -111° 58' 57 ''","45° 27' 27''","-111° 58' 57 ''","35",""
+2025-08-17,"Bivens Creek - MTBDF","Wildfire","Montana","1,932 Acres","27 minutes 36 seconds ago","Sun, 08/17/2025 - 10:55","Mountain Standard Time","Wildfire","Undetermined","Wed, 08/13/2025 - 18:16","11 miles northeast of Alder and 10 miles east of Sheridan, on the Madison Ranger District","E. Morgan
+USDA FS","45° 27' 27'', -111° 58' 57 ''","45° 27' 27''","-111° 58' 57 ''","35",""
