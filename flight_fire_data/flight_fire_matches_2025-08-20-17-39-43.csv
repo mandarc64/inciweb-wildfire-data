@@ -1,0 +1,350 @@
+TailNumber,FlightDate,Origin,Destination,FireIncident,FireStart,FireEnd,DistanceKM
+N132CG,2025-08-19,"Casper/Natrona County Intl (KCPR)","Casper/Natrona County Intl (KCPR)","Red Canyon Fire - WYWBD",2025-08-13,2025-08-19,28.86
+N132CG,2025-08-19,"Casper/Natrona County Intl (KCPR)","Casper/Natrona County Intl (KCPR)","Red Canyon Fire - WYWBD",2025-08-13,2025-08-19,28.06
+N132CG,2025-08-19,"Casper/Natrona County Intl (KCPR)","Casper/Natrona County Intl (KCPR)","Red Canyon Fire - WYWBD",2025-08-13,2025-08-19,29.57
+N132CG,2025-08-19,"Casper/Natrona County Intl (KCPR)","Casper/Natrona County Intl (KCPR)","Red Canyon Fire - WYWBD",2025-08-13,2025-08-19,28.65
+N132CG,2025-08-18,"Casper/Natrona County Intl (KCPR)","Casper/Natrona County Intl (KCPR)","Red Canyon Fire - WYWBD",2025-08-13,2025-08-19,28.14
+N132CG,2025-08-18,"Casper/Natrona County Intl (KCPR)","Casper/Natrona County Intl (KCPR)","Red Canyon Fire - WYWBD",2025-08-13,2025-08-19,28.91
+N132CG,2025-08-18,"Casper/Natrona County Intl (KCPR)","Casper/Natrona County Intl (KCPR)","Red Canyon Fire - WYWBD",2025-08-13,2025-08-19,28.17
+N132CG,2025-08-17,"Casper/Natrona County Intl (KCPR)","Casper/Natrona County Intl (KCPR)","Red Canyon Fire - WYWBD",2025-08-13,2025-08-17,29.89
+N132CG,2025-08-17,"Casper/Natrona County Intl (KCPR)","Casper/Natrona County Intl (KCPR)","Red Canyon Fire - WYWBD",2025-08-13,2025-08-19,28.88
+N132CG,2025-08-17,"Casper/Natrona County Intl (KCPR)","Casper/Natrona County Intl (KCPR)","Red Canyon Fire - WYWBD",2025-08-13,2025-08-17,28.98
+N132CG,2025-08-17,"Casper/Natrona County Intl (KCPR)","Casper/Natrona County Intl (KCPR)","Red Canyon Fire - WYWBD",2025-08-13,2025-08-19,29.05
+N132CG,2025-08-17,"Casper/Natrona County Intl (KCPR)","Casper/Natrona County Intl (KCPR)","Red Canyon Fire - WYWBD",2025-08-13,2025-08-17,28.79
+N132CG,2025-08-17,"Casper/Natrona County Intl (KCPR)","Casper/Natrona County Intl (KCPR)","Red Canyon Fire - WYWBD",2025-08-13,2025-08-19,27.61
+N132CG,2025-08-17,"Casper/Natrona County Intl (KCPR)","Casper/Natrona County Intl (KCPR)","Red Canyon Fire - WYWBD",2025-08-13,2025-08-17,28.87
+N132CG,2025-08-17,"Casper/Natrona County Intl (KCPR)","Casper/Natrona County Intl (KCPR)","Red Canyon Fire - WYWBD",2025-08-13,2025-08-19,27.99
+N132CG,2025-08-17,"Casper/Natrona County Intl (KCPR)","Casper/Natrona County Intl (KCPR)","Red Canyon Fire - WYWBD",2025-08-13,2025-08-17,28.13
+N132CG,2025-08-17,"Casper/Natrona County Intl (KCPR)","Casper/Natrona County Intl (KCPR)","Red Canyon Fire - WYWBD",2025-08-13,2025-08-19,29.85
+N132CG,2025-08-17,"Casper/Natrona County Intl (KCPR)","Casper/Natrona County Intl (KCPR)","Red Canyon Fire - WYWBD",2025-08-13,2025-08-17,29.87
+N132CG,2025-08-17,"Casper/Natrona County Intl (KCPR)","Casper/Natrona County Intl (KCPR)","Red Canyon Fire - WYWBD",2025-08-13,2025-08-19,29.89
+N136CG,2025-08-19,"Near Battle Mountain, NV","Near Battle Mountain, NV","Cottonwood Peak - NVEKD",2025-08-15,2025-08-19,26.05
+N136CG,2025-08-19,"Near Battle Mountain, NV","Near Battle Mountain, NV","Cottonwood Peak - NVEKD",2025-08-15,2025-08-19,23.71
+N136CG,2025-08-19,"Near Battle Mountain, NV","Near Elko, NV","Cottonwood Peak - NVEKD",2025-08-15,2025-08-19,24.81
+N136CG,2025-08-17,"Near Battle Mountain, NV","Near Elko, NV","Cottonwood Peak - NVEKD",2025-08-15,2025-08-19,25.29
+N136CG,2025-08-17,"Near Battle Mountain, NV","Near Battle Mountain, NV","Cottonwood Peak - NVEKD",2025-08-15,2025-08-19,27.75
+N136CG,2025-08-17,"Near Elko, NV","Near Battle Mountain, NV","Cottonwood Peak - NVEKD",2025-08-15,2025-08-19,4.59
+N136CG,2025-08-17,"Near Elko, NV","Near Battle Mountain, NV","Cottonwood Peak - NVEKD",2025-08-15,2025-08-19,11.06
+N136CG,2025-08-17,"Near Elko, NV","Near Battle Mountain, NV","Cottonwood Peak - NVEKD",2025-08-15,2025-08-19,13.49
+N136CG,2025-08-17,"Near Battle Mountain, NV","Near Battle Mountain, NV","Cottonwood Peak - NVEKD",2025-08-15,2025-08-19,24.49
+N137CG,2025-08-19,"Missoula Montana (KMSO)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Sunset Fire - IDIDS",2025-08-13,2025-08-20,29.46
+N137CG,2025-08-19,"Missoula Montana (KMSO)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Knowles Fire - MTMTS",2025-08-17,2025-08-19,28.22
+N137CG,2025-08-19,"Missoula Montana (KMSO)","Missoula Montana (KMSO)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-19,28.12
+N137CG,2025-08-19,"Missoula Montana (KMSO)","Missoula Montana (KMSO)","Bivens Creek - MTBDF",2025-08-13,2025-08-19,26.60
+N137CG,2025-08-19,"Missoula Montana (KMSO)","Missoula Montana (KMSO)","Cloudrest - MTBDF",2025-08-14,2025-08-19,25.02
+N137CG,2025-08-19,"Missoula Montana (KMSO)","Missoula Montana (KMSO)","Bivens Creek - MTBDF",2025-08-13,2025-08-19,28.12
+N137CG,2025-08-19,"Missoula Montana (KMSO)","Missoula Montana (KMSO)","Cloudrest - MTBDF",2025-08-14,2025-08-19,25.18
+N137CG,2025-08-19,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Missoula Montana (KMSO)","Bivens Creek - MTBDF",2025-08-13,2025-08-19,27.84
+N137CG,2025-08-19,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Missoula Montana (KMSO)","Cloudrest - MTBDF",2025-08-14,2025-08-19,27.27
+N137CG,2025-08-18,"Missoula Montana (KMSO)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Sunset Fire - IDIDS",2025-08-13,2025-08-20,29.07
+N137CG,2025-08-18,"Missoula Montana (KMSO)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Knowles Fire - MTMTS",2025-08-17,2025-08-19,29.38
+N137CG,2025-08-18,"Missoula Montana (KMSO)","Missoula Montana (KMSO)","Knowles Fire - MTMTS",2025-08-17,2025-08-19,29.49
+N137CG,2025-08-18,"Missoula Montana (KMSO)","Missoula Montana (KMSO)","Knowles Fire - MTMTS",2025-08-17,2025-08-19,25.67
+N137CG,2025-08-18,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Missoula Montana (KMSO)","Knowles Fire - MTMTS",2025-08-17,2025-08-19,28.80
+N137CG,2025-08-17,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Lightning Creek Fire - IDIPF",2025-07-30,2025-08-19,29.97
+N137CG,2025-08-17,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Sunset Fire - IDIDS",2025-08-13,2025-08-20,28.43
+N137CG,2025-08-17,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Lightning Creek Fire - IDIPF",2025-07-30,2025-08-19,29.30
+N137CG,2025-08-17,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Sunset Fire - IDIDS",2025-08-13,2025-08-20,28.74
+N137CG,2025-08-17,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Lightning Creek Fire - IDIPF",2025-07-30,2025-08-19,29.07
+N137CG,2025-08-17,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Sunset Fire - IDIDS",2025-08-13,2025-08-20,28.65
+N137CG,2025-08-17,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Lightning Creek Fire - IDIPF",2025-07-30,2025-08-19,28.25
+N137CG,2025-08-17,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Sunset Fire - IDIDS",2025-08-13,2025-08-20,29.13
+N137CG,2025-08-17,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Lightning Creek Fire - IDIPF",2025-07-30,2025-08-19,29.48
+N137CG,2025-08-17,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Sunset Fire - IDIDS",2025-08-13,2025-08-20,28.50
+N140CG,2025-08-19,"Missoula Montana (KMSO)","Helena Rgnl (KHLN)","Bivens Creek - MTBDF",2025-08-13,2025-08-19,29.65
+N140CG,2025-08-19,"Missoula Montana (KMSO)","Helena Rgnl (KHLN)","Cloudrest - MTBDF",2025-08-14,2025-08-19,27.60
+N140CG,2025-08-19,"Helena Rgnl (KHLN)","Missoula Montana (KMSO)","Bivens Creek - MTBDF",2025-08-13,2025-08-19,29.33
+N140CG,2025-08-19,"Helena Rgnl (KHLN)","Missoula Montana (KMSO)","Cloudrest - MTBDF",2025-08-14,2025-08-19,26.20
+N140CG,2025-08-19,"Helena Rgnl (KHLN)","Helena Rgnl (KHLN)","Bivens Creek - MTBDF",2025-08-13,2025-08-19,28.08
+N140CG,2025-08-19,"Helena Rgnl (KHLN)","Helena Rgnl (KHLN)","Cloudrest - MTBDF",2025-08-14,2025-08-19,29.71
+N140CG,2025-08-19,"Helena Rgnl (KHLN)","Helena Rgnl (KHLN)","Bivens Creek - MTBDF",2025-08-13,2025-08-19,27.67
+N140CG,2025-08-19,"Helena Rgnl (KHLN)","Helena Rgnl (KHLN)","Cloudrest - MTBDF",2025-08-14,2025-08-19,27.38
+N140CG,2025-08-19,"Helena Rgnl (KHLN)","Helena Rgnl (KHLN)","Bivens Creek - MTBDF",2025-08-13,2025-08-19,21.07
+N140CG,2025-08-19,"Helena Rgnl (KHLN)","Helena Rgnl (KHLN)","Cloudrest - MTBDF",2025-08-14,2025-08-19,28.08
+N140CG,2025-08-17,"Missoula Montana (KMSO)","Helena Rgnl (KHLN)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-19,29.10
+N140CG,2025-08-17,"Missoula Montana (KMSO)","Helena Rgnl (KHLN)","Knowles Fire - MTMTS",2025-08-17,2025-08-19,28.36
+N140CG,2025-08-17,"Missoula Montana (KMSO)","Missoula Montana (KMSO)","Knowles Fire - MTMTS",2025-08-17,2025-08-19,29.51
+N140CG,2025-08-17,"Helena Rgnl (KHLN)","Missoula Montana (KMSO)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-19,28.20
+N140CG,2025-08-17,"Helena Rgnl (KHLN)","Missoula Montana (KMSO)","Knowles Fire - MTMTS",2025-08-17,2025-08-19,28.16
+N291EA,2025-08-19,"Near Battle Mountain, NV","Near Battle Mountain, NV","Cottonwood Peak - NVEKD",2025-08-15,2025-08-19,29.49
+N291EA,2025-08-19,"Near Battle Mountain, NV","Near Battle Mountain, NV","Cottonwood Peak - NVEKD",2025-08-15,2025-08-19,28.15
+N291EA,2025-08-19,"Near Battle Mountain, NV","Near Battle Mountain, NV","Cottonwood Peak - NVEKD",2025-08-15,2025-08-19,26.62
+N291EA,2025-08-18,"Near Battle Mountain, NV","Near Battle Mountain, NV","Cottonwood Peak - NVEKD",2025-08-15,2025-08-19,18.93
+N291EA,2025-08-18,"Near Battle Mountain, NV","Near Battle Mountain, NV","Cottonwood Peak - NVEKD",2025-08-15,2025-08-19,29.71
+N291EA,2025-08-18,"Near Battle Mountain, NV","Near Battle Mountain, NV","Cottonwood Peak - NVEKD",2025-08-15,2025-08-19,27.70
+N291EA,2025-08-18,"Near Battle Mountain, NV","Near Battle Mountain, NV","Cottonwood Peak - NVEKD",2025-08-15,2025-08-19,26.10
+N291EA,2025-08-17,"Near Battle Mountain, NV","Near Battle Mountain, NV","Cottonwood Peak - NVEKD",2025-08-15,2025-08-19,29.52
+N291EA,2025-08-17,"Near Battle Mountain, NV","Near Battle Mountain, NV","Cottonwood Peak - NVEKD",2025-08-15,2025-08-19,15.42
+N291EA,2025-08-17,"Near Battle Mountain, NV","Near Battle Mountain, NV","Cottonwood Peak - NVEKD",2025-08-15,2025-08-19,16.28
+N291EA,2025-08-17,"Near Battle Mountain, NV","Near Battle Mountain, NV","Cottonwood Peak - NVEKD",2025-08-15,2025-08-19,13.30
+N291EA,2025-08-17,"Near Battle Mountain, NV","Near Battle Mountain, NV","Cottonwood Peak - NVEKD",2025-08-15,2025-08-19,27.72
+N291EA,2025-08-17,"Near Battle Mountain, NV","Near Battle Mountain, NV","Cottonwood Peak - NVEKD",2025-08-15,2025-08-19,29.45
+N292EA,2025-08-19,"Cedar City Rgnl (KCDC)","Cedar City Rgnl (KCDC)","One Way Fire - AZASD",2025-08-19,2025-08-19,27.38
+N292EA,2025-08-19,"Cedar City Rgnl (KCDC)","Cedar City Rgnl (KCDC)","One Way Fire - AZASD",2025-08-19,2025-08-19,29.55
+N292EA,2025-08-19,"Cedar City Rgnl (KCDC)","Cedar City Rgnl (KCDC)","One Way Fire - AZASD",2025-08-19,2025-08-19,27.32
+N292EA,2025-08-19,"Pocatello Rgnl (KPIH)","Cedar City Rgnl (KCDC)","One Way Fire - AZASD",2025-08-19,2025-08-19,27.58
+N295EA,2025-08-19,"Casper/Natrona County Intl (KCPR)","Casper/Natrona County Intl (KCPR)","Red Canyon Fire - WYWBD",2025-08-13,2025-08-19,29.63
+N295EA,2025-08-19,"Casper/Natrona County Intl (KCPR)","Casper/Natrona County Intl (KCPR)","Red Canyon Fire - WYWBD",2025-08-13,2025-08-19,27.52
+N295EA,2025-08-19,"Casper/Natrona County Intl (KCPR)","Casper/Natrona County Intl (KCPR)","Red Canyon Fire - WYWBD",2025-08-13,2025-08-19,28.16
+N295EA,2025-08-17,"Casper/Natrona County Intl (KCPR)","Casper/Natrona County Intl (KCPR)","Red Canyon Fire - WYWBD",2025-08-13,2025-08-17,28.99
+N295EA,2025-08-17,"Casper/Natrona County Intl (KCPR)","Casper/Natrona County Intl (KCPR)","Red Canyon Fire - WYWBD",2025-08-13,2025-08-19,29.22
+N295EA,2025-08-17,"Casper/Natrona County Intl (KCPR)","Casper/Natrona County Intl (KCPR)","Red Canyon Fire - WYWBD",2025-08-13,2025-08-17,27.33
+N295EA,2025-08-17,"Casper/Natrona County Intl (KCPR)","Casper/Natrona County Intl (KCPR)","Red Canyon Fire - WYWBD",2025-08-13,2025-08-19,28.73
+N295EA,2025-08-17,"Casper/Natrona County Intl (KCPR)","Casper/Natrona County Intl (KCPR)","Red Canyon Fire - WYWBD",2025-08-13,2025-08-17,29.57
+N295EA,2025-08-17,"Casper/Natrona County Intl (KCPR)","Casper/Natrona County Intl (KCPR)","Red Canyon Fire - WYWBD",2025-08-13,2025-08-19,28.68
+N295EA,2025-08-17,"Casper/Natrona County Intl (KCPR)","Casper/Natrona County Intl (KCPR)","Red Canyon Fire - WYWBD",2025-08-13,2025-08-17,29.55
+N295EA,2025-08-17,"Casper/Natrona County Intl (KCPR)","Casper/Natrona County Intl (KCPR)","Red Canyon Fire - WYWBD",2025-08-13,2025-08-19,27.64
+N295EA,2025-08-17,"Casper/Natrona County Intl (KCPR)","Casper/Natrona County Intl (KCPR)","Red Canyon Fire - WYWBD",2025-08-13,2025-08-17,29.87
+N295EA,2025-08-17,"Casper/Natrona County Intl (KCPR)","Casper/Natrona County Intl (KCPR)","Red Canyon Fire - WYWBD",2025-08-13,2025-08-19,29.02
+N295EA,2025-08-17,"Casper/Natrona County Intl (KCPR)","Casper/Natrona County Intl (KCPR)","Red Canyon Fire - WYWBD",2025-08-13,2025-08-17,29.32
+N295EA,2025-08-17,"Casper/Natrona County Intl (KCPR)","Casper/Natrona County Intl (KCPR)","Red Canyon Fire - WYWBD",2025-08-13,2025-08-19,28.91
+N296EA,2025-08-19,"Billings Logan Intl (KBIL)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Sunset Fire - IDIDS",2025-08-13,2025-08-20,29.01
+N296EA,2025-08-19,"Billings Logan Intl (KBIL)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-19,25.29
+N296EA,2025-08-19,"Billings Logan Intl (KBIL)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Knowles Fire - MTMTS",2025-08-17,2025-08-19,28.58
+N296EA,2025-08-19,"Missoula Montana (KMSO)","Billings Logan Intl (KBIL)","Bivens Creek - MTBDF",2025-08-13,2025-08-19,28.22
+N296EA,2025-08-19,"Missoula Montana (KMSO)","Billings Logan Intl (KBIL)","Cloudrest - MTBDF",2025-08-14,2025-08-19,25.81
+N296EA,2025-08-19,"Missoula Montana (KMSO)","Missoula Montana (KMSO)","Bivens Creek - MTBDF",2025-08-13,2025-08-19,27.92
+N296EA,2025-08-19,"Missoula Montana (KMSO)","Missoula Montana (KMSO)","Cloudrest - MTBDF",2025-08-14,2025-08-19,28.17
+N296EA,2025-08-19,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Missoula Montana (KMSO)","Bivens Creek - MTBDF",2025-08-13,2025-08-19,29.81
+N296EA,2025-08-19,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Missoula Montana (KMSO)","Cloudrest - MTBDF",2025-08-14,2025-08-19,25.65
+N296EA,2025-08-18,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Knowles Fire - MTMTS",2025-08-17,2025-08-19,27.48
+N296EA,2025-08-18,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Sunset Fire - IDIDS",2025-08-13,2025-08-20,29.44
+N296EA,2025-08-18,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Knowles Fire - MTMTS",2025-08-17,2025-08-19,28.48
+N296EA,2025-08-18,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Sunset Fire - IDIDS",2025-08-13,2025-08-20,29.25
+N296EA,2025-08-18,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Knowles Fire - MTMTS",2025-08-17,2025-08-19,25.51
+N296EA,2025-08-18,"Helena Rgnl (KHLN)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Sunset Fire - IDIDS",2025-08-13,2025-08-20,29.85
+N296EA,2025-08-18,"Helena Rgnl (KHLN)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-19,26.04
+N296EA,2025-08-18,"Helena Rgnl (KHLN)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Knowles Fire - MTMTS",2025-08-17,2025-08-19,27.87
+N297EA,2025-08-19,"Casper/Natrona County Intl (KCPR)","Casper/Natrona County Intl (KCPR)","Red Canyon Fire - WYWBD",2025-08-13,2025-08-19,29.98
+N297EA,2025-08-19,"Casper/Natrona County Intl (KCPR)","Casper/Natrona County Intl (KCPR)","Red Canyon Fire - WYWBD",2025-08-13,2025-08-19,29.15
+N297EA,2025-08-19,"Casper/Natrona County Intl (KCPR)","Casper/Natrona County Intl (KCPR)","Red Canyon Fire - WYWBD",2025-08-13,2025-08-19,29.98
+N325AC,2025-08-19,"Helena Rgnl (KHLN)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Sunset Fire - IDIDS",2025-08-13,2025-08-20,27.21
+N325AC,2025-08-19,"Helena Rgnl (KHLN)","Helena Rgnl (KHLN)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-19,28.31
+N325AC,2025-08-19,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Helena Rgnl (KHLN)","Bivens Creek - MTBDF",2025-08-13,2025-08-19,28.92
+N325AC,2025-08-19,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Helena Rgnl (KHLN)","Cloudrest - MTBDF",2025-08-14,2025-08-19,29.64
+N325AC,2025-08-17,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Lightning Creek Fire - IDIPF",2025-07-30,2025-08-19,27.98
+N325AC,2025-08-17,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Sunset Fire - IDIDS",2025-08-13,2025-08-20,29.71
+N325AC,2025-08-17,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Lightning Creek Fire - IDIPF",2025-07-30,2025-08-19,29.09
+N325AC,2025-08-17,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Sunset Fire - IDIDS",2025-08-13,2025-08-20,29.30
+N325AC,2025-08-17,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Lightning Creek Fire - IDIPF",2025-07-30,2025-08-19,29.47
+N325AC,2025-08-17,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Sunset Fire - IDIDS",2025-08-13,2025-08-20,28.45
+N325AC,2025-08-17,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Lightning Creek Fire - IDIPF",2025-07-30,2025-08-19,28.92
+N325AC,2025-08-17,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Sunset Fire - IDIDS",2025-08-13,2025-08-20,29.90
+N325AC,2025-08-17,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Lightning Creek Fire - IDIPF",2025-07-30,2025-08-19,28.85
+N325AC,2025-08-17,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Sunset Fire - IDIDS",2025-08-13,2025-08-20,27.98
+N355AC,2025-08-19,"Helena Rgnl (KHLN)","Helena Rgnl (KHLN)","Bivens Creek - MTBDF",2025-08-13,2025-08-19,26.46
+N355AC,2025-08-19,"Helena Rgnl (KHLN)","Helena Rgnl (KHLN)","Cloudrest - MTBDF",2025-08-14,2025-08-19,26.63
+N355AC,2025-08-19,"Helena Rgnl (KHLN)","Helena Rgnl (KHLN)","Bivens Creek - MTBDF",2025-08-13,2025-08-19,29.14
+N355AC,2025-08-19,"Helena Rgnl (KHLN)","Helena Rgnl (KHLN)","Cloudrest - MTBDF",2025-08-14,2025-08-19,28.87
+N355AC,2025-08-19,"Helena Rgnl (KHLN)","Helena Rgnl (KHLN)","Bivens Creek - MTBDF",2025-08-13,2025-08-19,27.86
+N355AC,2025-08-19,"Helena Rgnl (KHLN)","Helena Rgnl (KHLN)","Cloudrest - MTBDF",2025-08-14,2025-08-19,26.91
+N355AC,2025-08-19,"Helena Rgnl (KHLN)","Helena Rgnl (KHLN)","Bivens Creek - MTBDF",2025-08-13,2025-08-19,27.48
+N355AC,2025-08-19,"Helena Rgnl (KHLN)","Helena Rgnl (KHLN)","Cloudrest - MTBDF",2025-08-14,2025-08-19,26.28
+N355AC,2025-08-19,"Helena Rgnl (KHLN)","Helena Rgnl (KHLN)","Bivens Creek - MTBDF",2025-08-13,2025-08-19,28.46
+N355AC,2025-08-19,"Helena Rgnl (KHLN)","Helena Rgnl (KHLN)","Cloudrest - MTBDF",2025-08-14,2025-08-19,27.12
+N355AC,2025-08-18,"Missoula Montana (KMSO)","Helena Rgnl (KHLN)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-19,26.83
+N355AC,2025-08-18,"Missoula Montana (KMSO)","Helena Rgnl (KHLN)","Knowles Fire - MTMTS",2025-08-17,2025-08-19,25.88
+N355AC,2025-08-18,"Missoula Montana (KMSO)","Missoula Montana (KMSO)","Knowles Fire - MTMTS",2025-08-17,2025-08-19,27.27
+N355AC,2025-08-18,"Helena Rgnl (KHLN)","Missoula Montana (KMSO)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-19,24.84
+N355AC,2025-08-18,"Helena Rgnl (KHLN)","Missoula Montana (KMSO)","Knowles Fire - MTMTS",2025-08-17,2025-08-19,29.83
+N355AC,2025-08-17,"Missoula Montana (KMSO)","Helena Rgnl (KHLN)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-19,25.62
+N355AC,2025-08-17,"Missoula Montana (KMSO)","Helena Rgnl (KHLN)","Knowles Fire - MTMTS",2025-08-17,2025-08-19,28.96
+N355AC,2025-08-17,"Missoula Montana (KMSO)","Missoula Montana (KMSO)","Knowles Fire - MTMTS",2025-08-17,2025-08-19,27.27
+N355AC,2025-08-17,"Helena Rgnl (KHLN)","Missoula Montana (KMSO)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-19,28.65
+N355AC,2025-08-17,"Helena Rgnl (KHLN)","Missoula Montana (KMSO)","Knowles Fire - MTMTS",2025-08-17,2025-08-19,27.12
+N374AC,2025-08-19,"Casper/Natrona County Intl (KCPR)","Casper/Natrona County Intl (KCPR)","Red Canyon Fire - WYWBD",2025-08-13,2025-08-19,29.91
+N374AC,2025-08-19,"Casper/Natrona County Intl (KCPR)","Casper/Natrona County Intl (KCPR)","Red Canyon Fire - WYWBD",2025-08-13,2025-08-19,29.93
+N374AC,2025-08-19,"Casper/Natrona County Intl (KCPR)","Casper/Natrona County Intl (KCPR)","Red Canyon Fire - WYWBD",2025-08-13,2025-08-19,29.96
+N374AC,2025-08-19,"Spokane Intl (KGEG)","Casper/Natrona County Intl (KCPR)","Bivens Creek - MTBDF",2025-08-13,2025-08-19,28.68
+N374AC,2025-08-19,"Spokane Intl (KGEG)","Casper/Natrona County Intl (KCPR)","Red Canyon Fire - WYWBD",2025-08-13,2025-08-19,29.42
+N374AC,2025-08-19,"Spokane Intl (KGEG)","Casper/Natrona County Intl (KCPR)","Cloudrest - MTBDF",2025-08-14,2025-08-19,28.35
+N374AC,2025-08-18,"Casper/Natrona County Intl (KCPR)","Spokane Intl (KGEG)","Bivens Creek - MTBDF",2025-08-13,2025-08-19,24.91
+N374AC,2025-08-18,"Casper/Natrona County Intl (KCPR)","Spokane Intl (KGEG)","Horn Fire - MTMTS",2025-08-13,2025-08-18,28.58
+N374AC,2025-08-18,"Casper/Natrona County Intl (KCPR)","Spokane Intl (KGEG)","Red Canyon Fire - WYWBD",2025-08-13,2025-08-19,29.63
+N374AC,2025-08-18,"Casper/Natrona County Intl (KCPR)","Spokane Intl (KGEG)","Cloudrest - MTBDF",2025-08-14,2025-08-19,28.36
+N374AC,2025-08-18,"Casper/Natrona County Intl (KCPR)","Casper/Natrona County Intl (KCPR)","Red Canyon Fire - WYWBD",2025-08-13,2025-08-19,28.76
+N374AC,2025-08-18,"Casper/Natrona County Intl (KCPR)","Casper/Natrona County Intl (KCPR)","Red Canyon Fire - WYWBD",2025-08-13,2025-08-19,29.68
+N374AC,2025-08-18,"Casper/Natrona County Intl (KCPR)","Casper/Natrona County Intl (KCPR)","Red Canyon Fire - WYWBD",2025-08-13,2025-08-19,28.25
+N374AC,2025-08-17,"Casper/Natrona County Intl (KCPR)","Casper/Natrona County Intl (KCPR)","Red Canyon Fire - WYWBD",2025-08-13,2025-08-17,26.91
+N374AC,2025-08-17,"Casper/Natrona County Intl (KCPR)","Casper/Natrona County Intl (KCPR)","Red Canyon Fire - WYWBD",2025-08-13,2025-08-19,28.34
+N374AC,2025-08-17,"Casper/Natrona County Intl (KCPR)","Casper/Natrona County Intl (KCPR)","Red Canyon Fire - WYWBD",2025-08-13,2025-08-17,29.88
+N374AC,2025-08-17,"Casper/Natrona County Intl (KCPR)","Casper/Natrona County Intl (KCPR)","Red Canyon Fire - WYWBD",2025-08-13,2025-08-19,29.89
+N374AC,2025-08-17,"Casper/Natrona County Intl (KCPR)","Casper/Natrona County Intl (KCPR)","Red Canyon Fire - WYWBD",2025-08-13,2025-08-17,29.98
+N374AC,2025-08-17,"Casper/Natrona County Intl (KCPR)","Casper/Natrona County Intl (KCPR)","Red Canyon Fire - WYWBD",2025-08-13,2025-08-19,27.80
+N374AC,2025-08-17,"Casper/Natrona County Intl (KCPR)","Casper/Natrona County Intl (KCPR)","Red Canyon Fire - WYWBD",2025-08-13,2025-08-17,29.96
+N374AC,2025-08-17,"Casper/Natrona County Intl (KCPR)","Casper/Natrona County Intl (KCPR)","Red Canyon Fire - WYWBD",2025-08-13,2025-08-19,29.80
+N374AC,2025-08-17,"Casper/Natrona County Intl (KCPR)","Casper/Natrona County Intl (KCPR)","Red Canyon Fire - WYWBD",2025-08-13,2025-08-17,28.19
+N374AC,2025-08-17,"Casper/Natrona County Intl (KCPR)","Casper/Natrona County Intl (KCPR)","Red Canyon Fire - WYWBD",2025-08-13,2025-08-19,29.83
+N389AC,2025-08-18,"Near Sandpoint, ID","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Sunset Fire - IDIDS",2025-08-13,2025-08-20,7.46
+N389AC,2025-08-17,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Near Coeur D'Alene, ID","Lightning Creek Fire - IDIPF",2025-07-30,2025-08-19,27.43
+N389AC,2025-08-17,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Near Coeur D'Alene, ID","Sunset Fire - IDIDS",2025-08-13,2025-08-20,29.00
+N416AC,2025-08-18,"Gowen Field (KBOI)","Gowen Field (KBOI)","Rock Fire - IDBOF",2025-08-13,2025-08-19,28.04
+N416AC,2025-08-18,"Gowen Field (KBOI)","Gowen Field (KBOI)","Rock Fire - IDBOF",2025-08-13,2025-08-19,29.32
+N416AC,2025-08-18,"Gowen Field (KBOI)","Gowen Field (KBOI)","Rock Fire - IDBOF",2025-08-13,2025-08-19,28.07
+N416AC,2025-08-18,"Magic Valley Rgnl (KTWF)","Gowen Field (KBOI)","Cottonwood Peak - NVEKD",2025-08-15,2025-08-19,27.76
+N416AC,2025-08-17,"Gowen Field (KBOI)","Gowen Field (KBOI)","Cottonwood Peak - NVEKD",2025-08-15,2025-08-19,28.87
+N416AC,2025-08-17,"Gowen Field (KBOI)","Gowen Field (KBOI)","Cottonwood Peak - NVEKD",2025-08-15,2025-08-19,28.75
+N416AC,2025-08-17,"Gowen Field (KBOI)","Gowen Field (KBOI)","Cottonwood Peak - NVEKD",2025-08-15,2025-08-19,27.30
+N416AC,2025-08-17,"Gowen Field (KBOI)","Gowen Field (KBOI)","Cottonwood Peak - NVEKD",2025-08-15,2025-08-19,29.79
+N635AC,2025-08-19,"Gowen Field (KBOI)","Magic Valley Rgnl (KTWF)","Cottonwood Peak - NVEKD",2025-08-15,2025-08-19,28.07
+N635AC,2025-08-17,"Near Elko, NV","Gowen Field (KBOI)","Cottonwood Peak - NVEKD",2025-08-15,2025-08-19,11.49
+N635AC,2025-08-17,"Near Elko, NV","Near Battle Mountain, NV","Cottonwood Peak - NVEKD",2025-08-15,2025-08-19,6.08
+N635AC,2025-08-17,"Near Elko, NV","Near Battle Mountain, NV","Cottonwood Peak - NVEKD",2025-08-15,2025-08-19,7.01
+N635AC,2025-08-17,"Near Elko, NV","Near Battle Mountain, NV","Cottonwood Peak - NVEKD",2025-08-15,2025-08-19,6.25
+N635AC,2025-08-17,"Near Elko, NV","Near Battle Mountain, NV","Cottonwood Peak - NVEKD",2025-08-15,2025-08-19,13.03
+N635AC,2025-08-17,"Gowen Field (KBOI)","Near Battle Mountain, NV","Cottonwood Peak - NVEKD",2025-08-15,2025-08-19,26.34
+N839AC,2025-08-19,"Gowen Field (KBOI)","Magic Valley Rgnl (KTWF)","Cottonwood Peak - NVEKD",2025-08-15,2025-08-19,28.12
+N839AC,2025-08-18,"Magic Valley Rgnl (KTWF)","Gowen Field (KBOI)","Rock Fire - IDBOF",2025-08-13,2025-08-19,28.63
+N839AC,2025-08-18,"Near Battle Mountain, NV","Magic Valley Rgnl (KTWF)","Cottonwood Peak - NVEKD",2025-08-15,2025-08-19,29.36
+N839AC,2025-08-18,"Gowen Field (KBOI)","Near Battle Mountain, NV","Cottonwood Peak - NVEKD",2025-08-15,2025-08-19,28.78
+N839AC,2025-08-17,"Gowen Field (KBOI)","Gowen Field (KBOI)","Cottonwood Peak - NVEKD",2025-08-15,2025-08-19,26.72
+N839AC,2025-08-17,"Near Elko, NV","Gowen Field (KBOI)","Cottonwood Peak - NVEKD",2025-08-15,2025-08-19,3.33
+N839AC,2025-08-17,"Gowen Field (KBOI)","Near Battle Mountain, NV","Cottonwood Peak - NVEKD",2025-08-15,2025-08-19,26.99
+N839AC,2025-08-17,"Gowen Field (KBOI)","Near Battle Mountain, NV","Cottonwood Peak - NVEKD",2025-08-15,2025-08-19,28.58
+N988AC,2025-08-19,"Missoula Montana (KMSO)","Missoula Montana (KMSO)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-19,29.22
+N988AC,2025-08-19,"Helena Rgnl (KHLN)","Missoula Montana (KMSO)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-19,29.43
+N988AC,2025-08-19,"Helena Rgnl (KHLN)","Helena Rgnl (KHLN)","Bivens Creek - MTBDF",2025-08-13,2025-08-19,27.37
+N988AC,2025-08-19,"Helena Rgnl (KHLN)","Helena Rgnl (KHLN)","Cloudrest - MTBDF",2025-08-14,2025-08-19,27.05
+N988AC,2025-08-19,"Helena Rgnl (KHLN)","Helena Rgnl (KHLN)","Bivens Creek - MTBDF",2025-08-13,2025-08-19,27.36
+N988AC,2025-08-19,"Helena Rgnl (KHLN)","Helena Rgnl (KHLN)","Cloudrest - MTBDF",2025-08-14,2025-08-19,29.49
+N988AC,2025-08-19,"Helena Rgnl (KHLN)","Helena Rgnl (KHLN)","Bivens Creek - MTBDF",2025-08-13,2025-08-19,29.82
+N988AC,2025-08-19,"Helena Rgnl (KHLN)","Helena Rgnl (KHLN)","Cloudrest - MTBDF",2025-08-14,2025-08-19,27.76
+N988AC,2025-08-19,"Helena Rgnl (KHLN)","Helena Rgnl (KHLN)","Bivens Creek - MTBDF",2025-08-13,2025-08-19,27.05
+N988AC,2025-08-19,"Helena Rgnl (KHLN)","Helena Rgnl (KHLN)","Cloudrest - MTBDF",2025-08-14,2025-08-19,26.78
+N988AC,2025-08-18,"Missoula Montana (KMSO)","Helena Rgnl (KHLN)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-19,28.30
+N988AC,2025-08-18,"Missoula Montana (KMSO)","Missoula Montana (KMSO)","Knowles Fire - MTMTS",2025-08-17,2025-08-19,28.07
+N988AC,2025-08-18,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Missoula Montana (KMSO)","Knowles Fire - MTMTS",2025-08-17,2025-08-19,13.33
+N406BT,2025-08-19,"Mc Call Muni (KMYL)","Near Boise, ID","Rock Fire - IDBOF",2025-08-13,2025-08-19,24.45
+N406BT,2025-08-19,"Gowen Field (KBOI)","Mc Call Muni (KMYL)","Rock Fire - IDBOF",2025-08-13,2025-08-19,16.76
+N406BT,2025-08-18,"Mc Call Muni (KMYL)","Gowen Field (KBOI)","Rock Fire - IDBOF",2025-08-13,2025-08-19,24.68
+N406BT,2025-08-18,"Gowen Field (KBOI)","Mc Call Muni (KMYL)","Rock Fire - IDBOF",2025-08-13,2025-08-19,29.07
+N417BT,2025-08-19,"Casper/Natrona County Intl (KCPR)","Casper/Natrona County Intl (KCPR)","Red Canyon Fire - WYWBD",2025-08-13,2025-08-19,29.54
+N417BT,2025-08-19,"Near Worland, WY","Casper/Natrona County Intl (KCPR)","Red Canyon Fire - WYWBD",2025-08-13,2025-08-19,29.55
+N417BT,2025-08-18,"Casper/Natrona County Intl (KCPR)","Casper/Natrona County Intl (KCPR)","Red Canyon Fire - WYWBD",2025-08-13,2025-08-19,29.13
+N417BT,2025-08-18,"Near Casper, WY","Casper/Natrona County Intl (KCPR)","Red Canyon Fire - WYWBD",2025-08-13,2025-08-19,29.18
+N417BT,2025-08-17,"Casper/Natrona County Intl (KCPR)","Casper/Natrona County Intl (KCPR)","Red Canyon Fire - WYWBD",2025-08-13,2025-08-17,29.87
+N417BT,2025-08-17,"Casper/Natrona County Intl (KCPR)","Casper/Natrona County Intl (KCPR)","Red Canyon Fire - WYWBD",2025-08-13,2025-08-19,29.22
+N417BT,2025-08-17,"Casper/Natrona County Intl (KCPR)","Casper/Natrona County Intl (KCPR)","Red Canyon Fire - WYWBD",2025-08-13,2025-08-17,29.93
+N417BT,2025-08-17,"Casper/Natrona County Intl (KCPR)","Casper/Natrona County Intl (KCPR)","Red Canyon Fire - WYWBD",2025-08-13,2025-08-19,29.38
+N418BT,2025-08-19,"Casper/Natrona County Intl (KCPR)","Casper/Natrona County Intl (KCPR)","Red Canyon Fire - WYWBD",2025-08-13,2025-08-19,28.93
+N418BT,2025-08-19,"Casper/Natrona County Intl (KCPR)","Casper/Natrona County Intl (KCPR)","Red Canyon Fire - WYWBD",2025-08-13,2025-08-19,29.68
+N418BT,2025-08-18,"Casper/Natrona County Intl (KCPR)","Casper/Natrona County Intl (KCPR)","Red Canyon Fire - WYWBD",2025-08-13,2025-08-19,29.86
+N418BT,2025-08-18,"Casper/Natrona County Intl (KCPR)","Casper/Natrona County Intl (KCPR)","Red Canyon Fire - WYWBD",2025-08-13,2025-08-19,29.48
+N418BT,2025-08-17,"Casper/Natrona County Intl (KCPR)","Casper/Natrona County Intl (KCPR)","Red Canyon Fire - WYWBD",2025-08-13,2025-08-17,29.51
+N418BT,2025-08-17,"Casper/Natrona County Intl (KCPR)","Casper/Natrona County Intl (KCPR)","Red Canyon Fire - WYWBD",2025-08-13,2025-08-19,29.78
+N418BT,2025-08-17,"Casper/Natrona County Intl (KCPR)","Near Casper, WY","Red Canyon Fire - WYWBD",2025-08-13,2025-08-17,29.93
+N418BT,2025-08-17,"Casper/Natrona County Intl (KCPR)","Near Casper, WY","Red Canyon Fire - WYWBD",2025-08-13,2025-08-19,29.21
+N419BT,2025-08-19,"Casper/Natrona County Intl (KCPR)","Casper/Natrona County Intl (KCPR)","Red Canyon Fire - WYWBD",2025-08-13,2025-08-19,28.95
+N419BT,2025-08-19,"Casper/Natrona County Intl (KCPR)","Casper/Natrona County Intl (KCPR)","Red Canyon Fire - WYWBD",2025-08-13,2025-08-19,29.12
+N419BT,2025-08-18,"Casper/Natrona County Intl (KCPR)","Casper/Natrona County Intl (KCPR)","Red Canyon Fire - WYWBD",2025-08-13,2025-08-19,29.20
+N419BT,2025-08-17,"Casper/Natrona County Intl (KCPR)","Casper/Natrona County Intl (KCPR)","Red Canyon Fire - WYWBD",2025-08-13,2025-08-17,29.41
+N419BT,2025-08-17,"Casper/Natrona County Intl (KCPR)","Casper/Natrona County Intl (KCPR)","Red Canyon Fire - WYWBD",2025-08-13,2025-08-19,28.91
+N419BT,2025-08-17,"Casper/Natrona County Intl (KCPR)","Near Casper, WY","Red Canyon Fire - WYWBD",2025-08-13,2025-08-17,29.93
+N419BT,2025-08-17,"Casper/Natrona County Intl (KCPR)","Near Casper, WY","Red Canyon Fire - WYWBD",2025-08-13,2025-08-19,29.93
+N470NA,2025-08-19,"Cedar City Rgnl (KCDC)","Cedar City Rgnl (KCDC)","One Way Fire - AZASD",2025-08-19,2025-08-19,29.63
+N470NA,2025-08-19,"Cedar City Rgnl (KCDC)","Cedar City Rgnl (KCDC)","One Way Fire - AZASD",2025-08-19,2025-08-19,26.56
+N470NA,2025-08-19,"Cedar City Rgnl (KCDC)","Cedar City Rgnl (KCDC)","One Way Fire - AZASD",2025-08-19,2025-08-19,27.22
+N470NA,2025-08-19,"Hill Afb (KHIF)","Cedar City Rgnl (KCDC)","One Way Fire - AZASD",2025-08-19,2025-08-19,29.86
+N470NA,2025-08-17,"Gowen Field (KBOI)","Gowen Field (KBOI)","Cottonwood Peak - NVEKD",2025-08-15,2025-08-19,27.64
+N470NA,2025-08-17,"Near Elko, NV","Gowen Field (KBOI)","Cottonwood Peak - NVEKD",2025-08-15,2025-08-19,13.21
+N470NA,2025-08-17,"Near Elko, NV","Near Battle Mountain, NV","Cottonwood Peak - NVEKD",2025-08-15,2025-08-19,15.26
+N470NA,2025-08-17,"Near Elko, NV","Near Battle Mountain, NV","Cottonwood Peak - NVEKD",2025-08-15,2025-08-19,10.90
+N470NA,2025-08-17,"Near Elko, NV","Near Battle Mountain, NV","Cottonwood Peak - NVEKD",2025-08-15,2025-08-19,10.99
+N470NA,2025-08-17,"Gowen Field (KBOI)","Near Battle Mountain, NV","Cottonwood Peak - NVEKD",2025-08-15,2025-08-19,26.95
+N471NA,2025-08-17,"Missoula Montana (KMSO)","Redding Rgnl (KRDD)","Island Creek - IDNCF",2025-07-31,2025-08-19,25.41
+N472NA,2025-08-19,"Missoula Montana (KMSO)","Missoula Montana (KMSO)","Bivens Creek - MTBDF",2025-08-13,2025-08-19,27.92
+N472NA,2025-08-19,"Missoula Montana (KMSO)","Missoula Montana (KMSO)","Cloudrest - MTBDF",2025-08-14,2025-08-19,26.28
+N472NA,2025-08-19,"Missoula Montana (KMSO)","Missoula Montana (KMSO)","Bivens Creek - MTBDF",2025-08-13,2025-08-19,28.90
+N472NA,2025-08-19,"Missoula Montana (KMSO)","Missoula Montana (KMSO)","Cloudrest - MTBDF",2025-08-14,2025-08-19,27.71
+N472NA,2025-08-19,"Missoula Montana (KMSO)","Missoula Montana (KMSO)","Bivens Creek - MTBDF",2025-08-13,2025-08-19,28.96
+N472NA,2025-08-19,"Missoula Montana (KMSO)","Missoula Montana (KMSO)","Cloudrest - MTBDF",2025-08-14,2025-08-19,27.94
+N473NA,2025-08-19,"San Bernardino Intl (KSBD)","Phoenix-Mesa Gateway (KIWA)","Washington Fire - AZTNF",2025-08-13,2025-08-19,26.66
+N474NA,2025-08-18,"Gowen Field (KBOI)","Near Battle Mountain, NV","Cottonwood Peak - NVEKD",2025-08-15,2025-08-19,26.19
+N474NA,2025-08-17,"Gowen Field (KBOI)","Gowen Field (KBOI)","Cottonwood Peak - NVEKD",2025-08-15,2025-08-19,28.01
+N474NA,2025-08-17,"Near Battle Mountain, NV","Gowen Field (KBOI)","Cottonwood Peak - NVEKD",2025-08-15,2025-08-19,16.76
+N474NA,2025-08-17,"Gowen Field (KBOI)","Near Battle Mountain, NV","Cottonwood Peak - NVEKD",2025-08-15,2025-08-19,26.02
+N474NA,2025-08-17,"Gowen Field (KBOI)","Gowen Field (KBOI)","Cottonwood Peak - NVEKD",2025-08-15,2025-08-19,28.80
+N474NA,2025-08-17,"Gowen Field (KBOI)","Gowen Field (KBOI)","Cottonwood Peak - NVEKD",2025-08-15,2025-08-19,28.32
+N475NA,2025-08-19,"Durango-La Plata County (KDRO)","Durango-La Plata County (KDRO)","Stoner Mesa Fire - COSJF",2025-07-28,2025-08-19,28.54
+N475NA,2025-08-19,"Durango-La Plata County (KDRO)","Durango-La Plata County (KDRO)","Stoner Mesa Fire - COSJF",2025-07-28,2025-08-19,29.08
+N475NA,2025-08-19,"Durango-La Plata County (KDRO)","Durango-La Plata County (KDRO)","Stoner Mesa Fire - COSJF",2025-07-28,2025-08-19,27.80
+N475NA,2025-08-19,"Durango-La Plata County (KDRO)","Durango-La Plata County (KDRO)","Stoner Mesa Fire - COSJF",2025-07-28,2025-08-19,26.92
+N476NA,2025-08-19,"Missoula Montana (KMSO)","Missoula Montana (KMSO)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-19,29.38
+N476NA,2025-08-19,"Helena Rgnl (KHLN)","Missoula Montana (KMSO)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-19,29.38
+N476NA,2025-08-19,"Missoula Montana (KMSO)","Helena Rgnl (KHLN)","Bivens Creek - MTBDF",2025-08-13,2025-08-19,28.07
+N476NA,2025-08-19,"Missoula Montana (KMSO)","Helena Rgnl (KHLN)","Cloudrest - MTBDF",2025-08-14,2025-08-19,29.45
+N476NA,2025-08-19,"Missoula Montana (KMSO)","Missoula Montana (KMSO)","Bivens Creek - MTBDF",2025-08-13,2025-08-19,25.29
+N476NA,2025-08-19,"Missoula Montana (KMSO)","Missoula Montana (KMSO)","Cloudrest - MTBDF",2025-08-14,2025-08-19,29.59
+N476NA,2025-08-18,"Missoula Montana (KMSO)","Missoula Montana (KMSO)","Knowles Fire - MTMTS",2025-08-17,2025-08-19,29.62
+N476NA,2025-08-18,"Missoula Montana (KMSO)","Missoula Montana (KMSO)","Knowles Fire - MTMTS",2025-08-17,2025-08-19,26.32
+N476NA,2025-08-18,"Missoula Montana (KMSO)","Missoula Montana (KMSO)","Knowles Fire - MTMTS",2025-08-17,2025-08-19,28.06
+N476NA,2025-08-18,"Missoula Montana (KMSO)","Missoula Montana (KMSO)","Knowles Fire - MTMTS",2025-08-17,2025-08-19,28.18
+N476NA,2025-08-18,"Missoula Montana (KMSO)","Missoula Montana (KMSO)","Knowles Fire - MTMTS",2025-08-17,2025-08-19,29.69
+N476NA,2025-08-17,"Missoula Montana (KMSO)","Missoula Montana (KMSO)","Knowles Fire - MTMTS",2025-08-17,2025-08-19,29.81
+N476NA,2025-08-17,"Missoula Montana (KMSO)","Missoula Montana (KMSO)","Knowles Fire - MTMTS",2025-08-17,2025-08-19,29.51
+N476NA,2025-08-17,"Missoula Montana (KMSO)","Missoula Montana (KMSO)","Knowles Fire - MTMTS",2025-08-17,2025-08-19,29.80
+N477NA,2025-08-19,"Billings Logan Intl (KBIL)","Missoula Montana (KMSO)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-19,29.86
+N477NA,2025-08-19,"Missoula Montana (KMSO)","Billings Logan Intl (KBIL)","Bivens Creek - MTBDF",2025-08-13,2025-08-19,29.72
+N477NA,2025-08-19,"Missoula Montana (KMSO)","Billings Logan Intl (KBIL)","Cloudrest - MTBDF",2025-08-14,2025-08-19,28.83
+N477NA,2025-08-19,"Missoula Montana (KMSO)","Missoula Montana (KMSO)","Bivens Creek - MTBDF",2025-08-13,2025-08-19,28.62
+N477NA,2025-08-19,"Missoula Montana (KMSO)","Missoula Montana (KMSO)","Cloudrest - MTBDF",2025-08-14,2025-08-19,28.45
+N477NA,2025-08-19,"Helena Rgnl (KHLN)","Missoula Montana (KMSO)","Bivens Creek - MTBDF",2025-08-13,2025-08-19,28.94
+N477NA,2025-08-19,"Helena Rgnl (KHLN)","Missoula Montana (KMSO)","Cloudrest - MTBDF",2025-08-14,2025-08-19,29.40
+N477NA,2025-08-19,"Helena Rgnl (KHLN)","Helena Rgnl (KHLN)","Bivens Creek - MTBDF",2025-08-13,2025-08-19,29.36
+N477NA,2025-08-19,"Helena Rgnl (KHLN)","Helena Rgnl (KHLN)","Cloudrest - MTBDF",2025-08-14,2025-08-19,28.09
+N477NA,2025-08-19,"Helena Rgnl (KHLN)","Helena Rgnl (KHLN)","Bivens Creek - MTBDF",2025-08-13,2025-08-19,28.37
+N477NA,2025-08-19,"Helena Rgnl (KHLN)","Helena Rgnl (KHLN)","Cloudrest - MTBDF",2025-08-14,2025-08-19,26.46
+N477NA,2025-08-19,"Missoula Montana (KMSO)","Helena Rgnl (KHLN)","Bivens Creek - MTBDF",2025-08-13,2025-08-19,25.57
+N477NA,2025-08-19,"Missoula Montana (KMSO)","Helena Rgnl (KHLN)","Cloudrest - MTBDF",2025-08-14,2025-08-19,29.43
+N477NA,2025-08-18,"Missoula Montana (KMSO)","Missoula Montana (KMSO)","Knowles Fire - MTMTS",2025-08-17,2025-08-19,28.10
+N477NA,2025-08-18,"Missoula Montana (KMSO)","Missoula Montana (KMSO)","Knowles Fire - MTMTS",2025-08-17,2025-08-19,28.83
+N477NA,2025-08-18,"Missoula Montana (KMSO)","Missoula Montana (KMSO)","Knowles Fire - MTMTS",2025-08-17,2025-08-19,28.79
+N477NA,2025-08-18,"Missoula Montana (KMSO)","Missoula Montana (KMSO)","Knowles Fire - MTMTS",2025-08-17,2025-08-19,28.73
+N477NA,2025-08-18,"Missoula Montana (KMSO)","Missoula Montana (KMSO)","Knowles Fire - MTMTS",2025-08-17,2025-08-19,28.14
+N477NA,2025-08-17,"Missoula Montana (KMSO)","Missoula Montana (KMSO)","Knowles Fire - MTMTS",2025-08-17,2025-08-19,28.60
+N477NA,2025-08-17,"Missoula Montana (KMSO)","Missoula Montana (KMSO)","Knowles Fire - MTMTS",2025-08-17,2025-08-19,27.45
+N477NA,2025-08-17,"Missoula Montana (KMSO)","Missoula Montana (KMSO)","Knowles Fire - MTMTS",2025-08-17,2025-08-19,29.21
+N478NA,2025-08-19,"Casper/Natrona County Intl (KCPR)","Casper/Natrona County Intl (KCPR)","Red Canyon Fire - WYWBD",2025-08-13,2025-08-19,28.25
+N478NA,2025-08-19,"Casper/Natrona County Intl (KCPR)","Casper/Natrona County Intl (KCPR)","Red Canyon Fire - WYWBD",2025-08-13,2025-08-19,29.94
+N478NA,2025-08-19,"Casper/Natrona County Intl (KCPR)","Casper/Natrona County Intl (KCPR)","Red Canyon Fire - WYWBD",2025-08-13,2025-08-19,29.79
+N478NA,2025-08-18,"Casper/Natrona County Intl (KCPR)","Casper/Natrona County Intl (KCPR)","Red Canyon Fire - WYWBD",2025-08-13,2025-08-19,28.92
+N478NA,2025-08-18,"Casper/Natrona County Intl (KCPR)","Casper/Natrona County Intl (KCPR)","Red Canyon Fire - WYWBD",2025-08-13,2025-08-19,27.51
+N478NA,2025-08-18,"Casper/Natrona County Intl (KCPR)","Casper/Natrona County Intl (KCPR)","Red Canyon Fire - WYWBD",2025-08-13,2025-08-19,29.58
+N478NA,2025-08-18,"Casper/Natrona County Intl (KCPR)","Casper/Natrona County Intl (KCPR)","Red Canyon Fire - WYWBD",2025-08-13,2025-08-19,28.03
+N478NA,2025-08-17,"Casper/Natrona County Intl (KCPR)","Casper/Natrona County Intl (KCPR)","Red Canyon Fire - WYWBD",2025-08-13,2025-08-17,28.71
+N478NA,2025-08-17,"Casper/Natrona County Intl (KCPR)","Casper/Natrona County Intl (KCPR)","Red Canyon Fire - WYWBD",2025-08-13,2025-08-19,28.58
+N478NA,2025-08-17,"Casper/Natrona County Intl (KCPR)","Casper/Natrona County Intl (KCPR)","Red Canyon Fire - WYWBD",2025-08-13,2025-08-17,29.41
+N478NA,2025-08-17,"Casper/Natrona County Intl (KCPR)","Casper/Natrona County Intl (KCPR)","Red Canyon Fire - WYWBD",2025-08-13,2025-08-19,29.65
+N478NA,2025-08-17,"Casper/Natrona County Intl (KCPR)","Casper/Natrona County Intl (KCPR)","Red Canyon Fire - WYWBD",2025-08-13,2025-08-17,28.86
+N478NA,2025-08-17,"Casper/Natrona County Intl (KCPR)","Casper/Natrona County Intl (KCPR)","Red Canyon Fire - WYWBD",2025-08-13,2025-08-19,27.37
+N478NA,2025-08-17,"Casper/Natrona County Intl (KCPR)","Casper/Natrona County Intl (KCPR)","Red Canyon Fire - WYWBD",2025-08-13,2025-08-17,28.79
+N478NA,2025-08-17,"Casper/Natrona County Intl (KCPR)","Casper/Natrona County Intl (KCPR)","Red Canyon Fire - WYWBD",2025-08-13,2025-08-19,28.42
+N478NA,2025-08-17,"Casper/Natrona County Intl (KCPR)","Casper/Natrona County Intl (KCPR)","Red Canyon Fire - WYWBD",2025-08-13,2025-08-17,28.32
+N478NA,2025-08-17,"Casper/Natrona County Intl (KCPR)","Casper/Natrona County Intl (KCPR)","Red Canyon Fire - WYWBD",2025-08-13,2025-08-19,29.67
+N522AX,2025-08-19,"Pocatello Rgnl (KPIH)","Helena Rgnl (KHLN)","Bivens Creek - MTBDF",2025-08-13,2025-08-19,29.16
+N522AX,2025-08-19,"Pocatello Rgnl (KPIH)","Helena Rgnl (KHLN)","Cloudrest - MTBDF",2025-08-14,2025-08-19,29.10
+N522AX,2025-08-19,"Pocatello Rgnl (KPIH)","Pocatello Rgnl (KPIH)","Cottonwood Peak - NVEKD",2025-08-15,2025-08-19,15.65
+N522AX,2025-08-18,"Pocatello Rgnl (KPIH)","Pocatello Rgnl (KPIH)","Red Canyon Fire - WYWBD",2025-08-13,2025-08-19,29.09
+N603AX,2025-08-18,"Pocatello Rgnl (KPIH)","Pocatello Rgnl (KPIH)","Red Canyon Fire - WYWBD",2025-08-13,2025-08-19,29.58
+N603AX,2025-08-17,"Pocatello Rgnl (KPIH)","Pocatello Rgnl (KPIH)","Red Canyon Fire - WYWBD",2025-08-13,2025-08-17,29.35
+N603AX,2025-08-17,"Pocatello Rgnl (KPIH)","Pocatello Rgnl (KPIH)","Red Canyon Fire - WYWBD",2025-08-13,2025-08-19,29.79
+N603AX,2025-08-17,"Pocatello Rgnl (KPIH)","Pocatello Rgnl (KPIH)","Red Canyon Fire - WYWBD",2025-08-13,2025-08-17,28.07
+N603AX,2025-08-17,"Pocatello Rgnl (KPIH)","Pocatello Rgnl (KPIH)","Red Canyon Fire - WYWBD",2025-08-13,2025-08-19,29.02
+N603AX,2025-08-17,"Grant County Intl (KMWH)","Pocatello Rgnl (KPIH)","Island Creek - IDNCF",2025-07-31,2025-08-19,29.49
+N603AX,2025-08-17,"Grant County Intl (KMWH)","Pocatello Rgnl (KPIH)","Bivens Creek - MTBDF",2025-08-13,2025-08-19,26.95
+N603AX,2025-08-17,"Grant County Intl (KMWH)","Pocatello Rgnl (KPIH)","Horn Fire - MTMTS",2025-08-13,2025-08-18,28.83
+N603AX,2025-08-17,"Grant County Intl (KMWH)","Pocatello Rgnl (KPIH)","Red Canyon Fire - WYWBD",2025-08-13,2025-08-17,27.20
+N603AX,2025-08-17,"Grant County Intl (KMWH)","Pocatello Rgnl (KPIH)","Red Canyon Fire - WYWBD",2025-08-13,2025-08-19,28.46
+N603AX,2025-08-17,"Grant County Intl (KMWH)","Pocatello Rgnl (KPIH)","Cloudrest - MTBDF",2025-08-14,2025-08-19,29.61
+N612AX,2025-08-19,"Pocatello Rgnl (KPIH)","Pocatello Rgnl (KPIH)","Red Canyon Fire - WYWBD",2025-08-13,2025-08-19,29.14
+N612AX,2025-08-19,"Pocatello Rgnl (KPIH)","Pocatello Rgnl (KPIH)","Red Canyon Fire - WYWBD",2025-08-13,2025-08-19,28.81
+N612AX,2025-08-19,"Pocatello Rgnl (KPIH)","Pocatello Rgnl (KPIH)","Cottonwood Peak - NVEKD",2025-08-15,2025-08-19,25.05
+N612AX,2025-08-18,"Pocatello Rgnl (KPIH)","Pocatello Rgnl (KPIH)","Red Canyon Fire - WYWBD",2025-08-13,2025-08-19,29.84
+N612AX,2025-08-18,"Pocatello Rgnl (KPIH)","Pocatello Rgnl (KPIH)","Cottonwood Peak - NVEKD",2025-08-15,2025-08-19,4.38
+N612AX,2025-08-17,"Pocatello Rgnl (KPIH)","Pocatello Rgnl (KPIH)","Red Canyon Fire - WYWBD",2025-08-13,2025-08-17,29.99
+N612AX,2025-08-17,"Pocatello Rgnl (KPIH)","Pocatello Rgnl (KPIH)","Red Canyon Fire - WYWBD",2025-08-13,2025-08-19,28.91
+N612AX,2025-08-17,"Pocatello Rgnl (KPIH)","Pocatello Rgnl (KPIH)","Red Canyon Fire - WYWBD",2025-08-13,2025-08-17,29.60
+N612AX,2025-08-17,"Pocatello Rgnl (KPIH)","Pocatello Rgnl (KPIH)","Red Canyon Fire - WYWBD",2025-08-13,2025-08-19,29.54
+N612AX,2025-08-17,"Pocatello Rgnl (KPIH)","Pocatello Rgnl (KPIH)","Red Canyon Fire - WYWBD",2025-08-13,2025-08-17,28.96
+N612AX,2025-08-17,"Pocatello Rgnl (KPIH)","Pocatello Rgnl (KPIH)","Red Canyon Fire - WYWBD",2025-08-13,2025-08-19,29.92
+N17085,2025-08-19,"San Bernardino Intl (KSBD)","Colorado Sprgs Muni (KCOS)","Red Canyon Fire - WYWBD",2025-08-13,2025-08-19,29.28
