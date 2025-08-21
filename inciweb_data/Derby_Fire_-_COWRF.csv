@@ -1,2 +1,6 @@
 ScrapeDate,Incident,Type,State,Size,Updated,CurrentAsOf,IncidentTimeZone,IncidentType,Cause,DateOfOrigin,Location,IncidentCommander,Coordinates,Latitude,Longitude,TotalPersonnel,ContainmentPercent
 2025-08-20,"Derby Fire - COWRF","Wildfire","Colorado","839 Acres","1 hour 9 minutes ago","Wed, 08/20/2025 - 10:15","Mountain Standard Time","Wildfire","Lightning","Sat, 08/16/2025 - 00:10","13 miles west of Dotsero, CO","Mike Behrens, Northern Rockies Complex Incident Management Team 3","39° 50' 97'', -107° 5' 47 ''","39° 50' 97''","-107° 5' 47 ''","",""
+2025-08-21,"Derby Fire - COWRF","Wildfire","Colorado","2,624 Acres","19 minutes 27 seconds ago","Thu, 08/21/2025 - 11:01","Mountain Standard Time","Wildfire","Lightning","Sat, 08/16/2025 - 00:10","13 miles west of Dotsero, CO","Northern Rockies Complex Incident Management Team 3
+Mike Behrens, Incident Commander
+Mike Almas, Deputy Incident Commander
+Patrick Lonergan, Incident Commander Trainee","39° 50' 97'', -107° 5' 47 ''","39° 50' 97''","-107° 5' 47 ''","117","0%"

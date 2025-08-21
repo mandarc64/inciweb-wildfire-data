@@ -1,3 +1,5 @@
 ScrapeDate,Incident,Type,State,Size,Updated,CurrentAsOf,IncidentTimeZone,IncidentType,Cause,DateOfOrigin,Location,IncidentCommander,Coordinates,Latitude,Longitude,TotalPersonnel,ContainmentPercent
 2025-08-20,"La Plata - COPSF","Wildfire","Colorado","45 Acres","37 minutes 23 seconds ago","Wed, 08/20/2025 - 10:47","Mountain Standard Time","Wildfire","Human Caused","Sun, 08/17/2025 - 19:22","Approximately 4 miles southwest of Leadville, Colorado.","Type 3 IMT
 USDA Forest Service Pike-San Isabel National Forest & Cimarron and Comanche National Grasslands","39° 03' 15'', -106° 29' 33 ''","39° 03' 15''","-106° 29' 33 ''","32","0%"
+2025-08-21,"La Plata - COPSF","Wildfire","Colorado","82 Acres","2 minutes 13 seconds ago","Thu, 08/21/2025 - 11:18","Mountain Standard Time","Wildfire","Human Caused","Sun, 08/17/2025 - 19:22","Approximately 4 miles southwest of Twin Lakes, Colorado.","Type 3 IMT
+USDA Forest Service Pike-San Isabel National Forest & Cimarron and Comanche National Grasslands","39° 03' 15'', -106° 29' 33 ''","39° 03' 15''","-106° 29' 33 ''","129","0%"
