@@ -1,0 +1,2 @@
+ScrapeDate,Incident,Type,State,Size,Updated,CurrentAsOf,IncidentTimeZone,IncidentType,Cause,DateOfOrigin,Location,IncidentCommander,Coordinates,Latitude,Longitude,TotalPersonnel,ContainmentPercent
+2025-08-26,"Garnet Fire - CASNF","Wildfire","California","9,159 Acres","54 minutes 59 seconds ago","Tue, 08/26/2025 - 10:27","Pacific Standard Time","Wildfire","Undetermined","Sun, 08/24/0025 - 01:00","3 miles southeast of Balch Camp, CA","Victor Lefor, Incident Commander","36° 51' 38'', -119° 2' 35 ''","36° 51' 38''","-119° 2' 35 ''","240","0%"
