@@ -1,0 +1,234 @@
+TailNumber,FlightDate,Origin,Destination,FireIncident,FireStart,FireEnd,DistanceKM
+N132CG,2025-08-24,"Pocatello Rgnl (KPIH)","Magic Valley Rgnl (KTWF)","Dollar Lake Fire - WYBTF",2025-08-21,2025-08-25,29.34
+N132CG,2025-08-24,"Pocatello Rgnl (KPIH)","Pocatello Rgnl (KPIH)","Willow Creek - WYBTF",2025-08-22,2025-08-25,29.96
+N132CG,2025-08-24,"Magic Valley Rgnl (KTWF)","Pocatello Rgnl (KPIH)","Willow Creek - WYBTF",2025-08-22,2025-08-25,29.68
+N136CG,2025-08-25,"Helena Rgnl (KHLN)","Helena Rgnl (KHLN)","West Fork Fire - MTCGF",2025-08-19,2025-08-25,18.10
+N136CG,2025-08-25,"Helena Rgnl (KHLN)","Helena Rgnl (KHLN)","West Fork Fire - MTCGF",2025-08-19,2025-08-25,29.09
+N136CG,2025-08-25,"Helena Rgnl (KHLN)","Helena Rgnl (KHLN)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-25,28.68
+N136CG,2025-08-24,"Helena Rgnl (KHLN)","Helena Rgnl (KHLN)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-25,27.69
+N136CG,2025-08-24,"Helena Rgnl (KHLN)","Helena Rgnl (KHLN)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-25,28.71
+N136CG,2025-08-24,"Helena Rgnl (KHLN)","Helena Rgnl (KHLN)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-25,28.35
+N136CG,2025-08-24,"Helena Rgnl (KHLN)","Helena Rgnl (KHLN)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-25,28.42
+N136CG,2025-08-24,"Helena Rgnl (KHLN)","Helena Rgnl (KHLN)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-25,29.59
+N136CG,2025-08-24,"Helena Rgnl (KHLN)","Helena Rgnl (KHLN)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-25,28.47
+N136CG,2025-08-24,"Magic Valley Rgnl (KTWF)","Helena Rgnl (KHLN)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-25,28.96
+N136CG,2025-08-23,"Helena Rgnl (KHLN)","Magic Valley Rgnl (KTWF)","Bivens Creek - MTBDF",2025-08-13,2025-08-25,28.50
+N136CG,2025-08-23,"Helena Rgnl (KHLN)","Magic Valley Rgnl (KTWF)","Cloudrest - MTBDF",2025-08-14,2025-08-25,27.68
+N136CG,2025-08-23,"Helena Rgnl (KHLN)","Helena Rgnl (KHLN)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-25,28.62
+N136CG,2025-08-23,"Helena Rgnl (KHLN)","Helena Rgnl (KHLN)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-25,28.23
+N136CG,2025-08-23,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Helena Rgnl (KHLN)","Sunset Fire - IDIDS",2025-08-13,2025-08-25,29.19
+N136CG,2025-08-23,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Helena Rgnl (KHLN)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-25,28.91
+N136CG,2025-08-23,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Helena Rgnl (KHLN)","Knowles Fire - MTMTS",2025-08-17,2025-08-26,27.64
+N137CG,2025-08-23,"General Wm J Fox Airfield (KWJF)","San Bernardino Intl (KSBD)","Little Fire 2025 - CASQF",2025-08-22,2025-08-25,29.62
+N137CG,2025-08-23,"General Wm J Fox Airfield (KWJF)","General Wm J Fox Airfield (KWJF)","Little Fire 2025 - CASQF",2025-08-22,2025-08-25,26.47
+N137CG,2025-08-23,"San Bernardino Intl (KSBD)","General Wm J Fox Airfield (KWJF)","Little Fire 2025 - CASQF",2025-08-22,2025-08-25,28.28
+N292EA,2025-08-25,"Porterville Muni (KPTV)","General Wm J Fox Airfield (KWJF)","Little Fire 2025 - CASQF",2025-08-22,2025-08-25,26.40
+N292EA,2025-08-25,"General Wm J Fox Airfield (KWJF)","Porterville Muni (KPTV)","Little Fire 2025 - CASQF",2025-08-22,2025-08-25,27.74
+N292EA,2025-08-24,"General Wm J Fox Airfield (KWJF)","General Wm J Fox Airfield (KWJF)","Little Fire 2025 - CASQF",2025-08-22,2025-08-25,28.35
+N292EA,2025-08-23,"General Wm J Fox Airfield (KWJF)","General Wm J Fox Airfield (KWJF)","Little Fire 2025 - CASQF",2025-08-22,2025-08-25,26.08
+N292EA,2025-08-23,"General Wm J Fox Airfield (KWJF)","General Wm J Fox Airfield (KWJF)","Little Fire 2025 - CASQF",2025-08-22,2025-08-25,28.98
+N292EA,2025-08-23,"General Wm J Fox Airfield (KWJF)","General Wm J Fox Airfield (KWJF)","Little Fire 2025 - CASQF",2025-08-22,2025-08-25,28.06
+N292EA,2025-08-23,"General Wm J Fox Airfield (KWJF)","General Wm J Fox Airfield (KWJF)","Little Fire 2025 - CASQF",2025-08-22,2025-08-25,26.84
+N292EA,2025-08-23,"General Wm J Fox Airfield (KWJF)","General Wm J Fox Airfield (KWJF)","Little Fire 2025 - CASQF",2025-08-22,2025-08-25,29.13
+N292EA,2025-08-23,"General Wm J Fox Airfield (KWJF)","General Wm J Fox Airfield (KWJF)","Little Fire 2025 - CASQF",2025-08-22,2025-08-25,27.08
+N292EA,2025-08-23,"General Wm J Fox Airfield (KWJF)","General Wm J Fox Airfield (KWJF)","Little Fire 2025 - CASQF",2025-08-22,2025-08-25,28.95
+N293EA,2025-08-25,"Porterville Muni (KPTV)","General Wm J Fox Airfield (KWJF)","Little Fire 2025 - CASQF",2025-08-22,2025-08-25,26.67
+N293EA,2025-08-25,"General Wm J Fox Airfield (KWJF)","Porterville Muni (KPTV)","Little Fire 2025 - CASQF",2025-08-22,2025-08-25,26.24
+N293EA,2025-08-23,"General Wm J Fox Airfield (KWJF)","General Wm J Fox Airfield (KWJF)","Little Fire 2025 - CASQF",2025-08-22,2025-08-25,28.46
+N293EA,2025-08-23,"General Wm J Fox Airfield (KWJF)","General Wm J Fox Airfield (KWJF)","Little Fire 2025 - CASQF",2025-08-22,2025-08-25,27.72
+N293EA,2025-08-23,"General Wm J Fox Airfield (KWJF)","General Wm J Fox Airfield (KWJF)","Little Fire 2025 - CASQF",2025-08-22,2025-08-25,29.35
+N293EA,2025-08-23,"General Wm J Fox Airfield (KWJF)","General Wm J Fox Airfield (KWJF)","Little Fire 2025 - CASQF",2025-08-22,2025-08-25,29.44
+N293EA,2025-08-23,"General Wm J Fox Airfield (KWJF)","General Wm J Fox Airfield (KWJF)","Little Fire 2025 - CASQF",2025-08-22,2025-08-25,27.04
+N293EA,2025-08-23,"General Wm J Fox Airfield (KWJF)","General Wm J Fox Airfield (KWJF)","Little Fire 2025 - CASQF",2025-08-22,2025-08-25,27.18
+N293EA,2025-08-23,"Porterville Muni (KPTV)","General Wm J Fox Airfield (KWJF)","Little Fire 2025 - CASQF",2025-08-22,2025-08-25,29.90
+N293EA,2025-08-23,"Porterville Muni (KPTV)","Porterville Muni (KPTV)","Little Fire 2025 - CASQF",2025-08-22,2025-08-25,27.90
+N293EA,2025-08-23,"General Wm J Fox Airfield (KWJF)","Porterville Muni (KPTV)","Little Fire 2025 - CASQF",2025-08-22,2025-08-25,26.52
+N295EA,2025-08-24,"Casper/Natrona County Intl (KCPR)","Pocatello Rgnl (KPIH)","Red Canyon Fire - WYWBD",2025-08-13,2025-08-25,28.79
+N295EA,2025-08-23,"Casper/Natrona County Intl (KCPR)","Casper/Natrona County Intl (KCPR)","Willow Creek - WYBTF",2025-08-22,2025-08-23,28.11
+N295EA,2025-08-23,"Casper/Natrona County Intl (KCPR)","Casper/Natrona County Intl (KCPR)","Willow Creek - WYBTF",2025-08-22,2025-08-25,28.22
+N296EA,2025-08-25,"Missoula Montana (KMSO)","Missoula Montana (KMSO)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-25,29.85
+N296EA,2025-08-25,"Missoula Montana (KMSO)","Missoula Montana (KMSO)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-25,29.60
+N296EA,2025-08-24,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Missoula Montana (KMSO)","Bivens Creek - MTBDF",2025-08-13,2025-08-25,29.40
+N296EA,2025-08-24,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Missoula Montana (KMSO)","Sunset Fire - IDIDS",2025-08-13,2025-08-25,29.95
+N296EA,2025-08-24,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Missoula Montana (KMSO)","Cloudrest - MTBDF",2025-08-14,2025-08-25,29.09
+N296EA,2025-08-24,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Missoula Montana (KMSO)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-25,29.20
+N296EA,2025-08-24,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Missoula Montana (KMSO)","West Fork Fire - MTCGF",2025-08-19,2025-08-25,28.05
+N296EA,2025-08-24,"Near Elko, BC","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Ransome Fire - MTKNF",2025-08-21,2025-08-25,2.37
+N296EA,2025-08-24,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Near Elko, BC","Sunset Fire - IDIDS",2025-08-13,2025-08-25,29.78
+N296EA,2025-08-24,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Near Elko, BC","Ransome Fire - MTKNF",2025-08-21,2025-08-25,28.67
+N296EA,2025-08-24,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Sunset Fire - IDIDS",2025-08-13,2025-08-25,29.49
+N296EA,2025-08-24,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Ransome Fire - MTKNF",2025-08-21,2025-08-25,22.54
+N296EA,2025-08-24,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Sunset Fire - IDIDS",2025-08-13,2025-08-25,29.94
+N296EA,2025-08-24,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Ransome Fire - MTKNF",2025-08-21,2025-08-25,26.37
+N296EA,2025-08-24,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Sunset Fire - IDIDS",2025-08-13,2025-08-25,29.60
+N296EA,2025-08-24,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Ransome Fire - MTKNF",2025-08-21,2025-08-25,22.73
+N296EA,2025-08-24,"Near Coeur D'Alene, ID","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Sunset Fire - IDIDS",2025-08-13,2025-08-25,28.94
+N296EA,2025-08-24,"Near Coeur D'Alene, ID","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Ransome Fire - MTKNF",2025-08-21,2025-08-25,17.77
+N296EA,2025-08-24,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Sunset Fire - IDIDS",2025-08-13,2025-08-25,29.62
+N296EA,2025-08-24,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Ransome Fire - MTKNF",2025-08-21,2025-08-25,29.86
+N296EA,2025-08-23,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Sunset Fire - IDIDS",2025-08-13,2025-08-25,29.40
+N296EA,2025-08-23,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Sunset Fire - IDIDS",2025-08-13,2025-08-25,29.86
+N297EA,2025-08-24,"Casper/Natrona County Intl (KCPR)","Casper/Natrona County Intl (KCPR)","Dollar Lake Fire - WYBTF",2025-08-21,2025-08-25,29.42
+N297EA,2025-08-24,"Casper/Natrona County Intl (KCPR)","Casper/Natrona County Intl (KCPR)","Dollar Lake Fire - WYBTF",2025-08-21,2025-08-25,24.67
+N325AC,2025-08-24,"Near Sandpoint, ID","Near Sandpoint, ID","Ransome Fire - MTKNF",2025-08-21,2025-08-25,15.31
+N325AC,2025-08-24,"Near Sandpoint, ID","Near Sandpoint, ID","Ransome Fire - MTKNF",2025-08-21,2025-08-25,15.31
+N325AC,2025-08-24,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Near Spokane, WA","Sunset Fire - IDIDS",2025-08-13,2025-08-25,29.87
+N325AC,2025-08-24,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Near Spokane, WA","Ransome Fire - MTKNF",2025-08-21,2025-08-25,25.11
+N325AC,2025-08-24,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Sunset Fire - IDIDS",2025-08-13,2025-08-25,29.57
+N325AC,2025-08-24,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Ransome Fire - MTKNF",2025-08-21,2025-08-25,29.48
+N325AC,2025-08-24,"Near Elko, BC","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Sunset Fire - IDIDS",2025-08-13,2025-08-25,25.94
+N325AC,2025-08-24,"Near Elko, BC","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Ransome Fire - MTKNF",2025-08-21,2025-08-25,4.12
+N325AC,2025-08-24,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Sunset Fire - IDIDS",2025-08-13,2025-08-25,29.47
+N325AC,2025-08-24,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Ransome Fire - MTKNF",2025-08-21,2025-08-25,29.85
+N325AC,2025-08-24,"Near Sandpoint, ID","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Sunset Fire - IDIDS",2025-08-13,2025-08-25,13.99
+N325AC,2025-08-24,"Near Sandpoint, ID","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Ransome Fire - MTKNF",2025-08-21,2025-08-25,8.42
+N325AC,2025-08-24,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Near Sandpoint, ID","Sunset Fire - IDIDS",2025-08-13,2025-08-25,29.38
+N325AC,2025-08-24,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Near Sandpoint, ID","Ransome Fire - MTKNF",2025-08-21,2025-08-25,27.54
+N325AC,2025-08-23,"Helena Rgnl (KHLN)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-25,27.35
+N325AC,2025-08-23,"Helena Rgnl (KHLN)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Knowles Fire - MTMTS",2025-08-17,2025-08-26,29.76
+N325AC,2025-08-23,"Helena Rgnl (KHLN)","Helena Rgnl (KHLN)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-25,25.59
+N325AC,2025-08-23,"Helena Rgnl (KHLN)","Helena Rgnl (KHLN)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-25,29.42
+N325AC,2025-08-23,"Helena Rgnl (KHLN)","Helena Rgnl (KHLN)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-25,27.26
+N325AC,2025-08-23,"Helena Rgnl (KHLN)","Helena Rgnl (KHLN)","Sandbar 2 Fire - MTHLF",2025-08-19,2025-08-25,26.35
+N325AC,2025-08-23,"Helena Rgnl (KHLN)","Helena Rgnl (KHLN)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-25,29.65
+N325AC,2025-08-23,"Helena Rgnl (KHLN)","Helena Rgnl (KHLN)","Sandbar 2 Fire - MTHLF",2025-08-19,2025-08-25,29.85
+N325AC,2025-08-23,"Helena Rgnl (KHLN)","Helena Rgnl (KHLN)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-25,26.22
+N325AC,2025-08-23,"Helena Rgnl (KHLN)","Helena Rgnl (KHLN)","Sandbar 2 Fire - MTHLF",2025-08-19,2025-08-25,28.99
+N325AC,2025-08-23,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Helena Rgnl (KHLN)","Sunset Fire - IDIDS",2025-08-13,2025-08-25,29.86
+N325AC,2025-08-23,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Helena Rgnl (KHLN)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-25,26.58
+N325AC,2025-08-23,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Helena Rgnl (KHLN)","Knowles Fire - MTMTS",2025-08-17,2025-08-26,26.42
+N355AC,2025-08-25,"Spokane Intl (KGEG)","Helena Rgnl (KHLN)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-25,26.16
+N355AC,2025-08-25,"Spokane Intl (KGEG)","Helena Rgnl (KHLN)","Knowles Fire - MTMTS",2025-08-17,2025-08-26,27.74
+N355AC,2025-08-25,"Spokane Intl (KGEG)","Helena Rgnl (KHLN)","Sandbar 2 Fire - MTHLF",2025-08-19,2025-08-25,29.23
+N355AC,2025-08-23,"Helena Rgnl (KHLN)","Spokane Intl (KGEG)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-25,29.24
+N355AC,2025-08-23,"Helena Rgnl (KHLN)","Spokane Intl (KGEG)","Knowles Fire - MTMTS",2025-08-17,2025-08-26,27.73
+N355AC,2025-08-23,"Helena Rgnl (KHLN)","Spokane Intl (KGEG)","Sandbar 2 Fire - MTHLF",2025-08-19,2025-08-25,29.63
+N374AC,2025-08-25,"Helena Rgnl (KHLN)","Billings Logan Intl (KBIL)","West Fork Fire - MTCGF",2025-08-19,2025-08-25,29.00
+N374AC,2025-08-25,"Billings Logan Intl (KBIL)","Helena Rgnl (KHLN)","West Fork Fire - MTCGF",2025-08-19,2025-08-25,26.16
+N374AC,2025-08-24,"Helena Rgnl (KHLN)","Billings Logan Intl (KBIL)","Bivens Creek - MTBDF",2025-08-13,2025-08-25,28.52
+N374AC,2025-08-24,"Helena Rgnl (KHLN)","Billings Logan Intl (KBIL)","Cloudrest - MTBDF",2025-08-14,2025-08-25,29.64
+N374AC,2025-08-24,"Helena Rgnl (KHLN)","Billings Logan Intl (KBIL)","West Fork Fire - MTCGF",2025-08-19,2025-08-25,25.14
+N374AC,2025-08-24,"Billings Logan Intl (KBIL)","Helena Rgnl (KHLN)","West Fork Fire - MTCGF",2025-08-19,2025-08-25,28.13
+N374AC,2025-08-24,"Casper/Natrona County Intl (KCPR)","Billings Logan Intl (KBIL)","Red Canyon Fire - WYWBD",2025-08-13,2025-08-25,29.75
+N389AC,2025-08-23,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Near Jackson, WY","Twin - IDNCF",2025-08-01,2025-08-23,27.45
+N389AC,2025-08-23,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Near Jackson, WY","Mire - IDNCF",2025-08-13,2025-08-25,28.94
+N416AC,2025-08-24,"Roberts Fld (KRDM)","Pocatello Rgnl (KPIH)","Willow Creek - WYBTF",2025-08-22,2025-08-25,26.21
+N416AC,2025-08-24,"Roberts Fld (KRDM)","Afton Muni (KAFO)","Willow Creek - WYBTF",2025-08-22,2025-08-25,26.21
+N635AC,2025-08-25,"Fresno Yosemite Intl (KFAT)","General Wm J Fox Airfield (KWJF)","Little Fire 2025 - CASQF",2025-08-22,2025-08-25,27.79
+N635AC,2025-08-25,"General Wm J Fox Airfield (KWJF)","Fresno Yosemite Intl (KFAT)","Little Fire 2025 - CASQF",2025-08-22,2025-08-25,27.87
+N635AC,2025-08-23,"General Wm J Fox Airfield (KWJF)","General Wm J Fox Airfield (KWJF)","Little Fire 2025 - CASQF",2025-08-22,2025-08-25,26.24
+N635AC,2025-08-23,"General Wm J Fox Airfield (KWJF)","General Wm J Fox Airfield (KWJF)","Little Fire 2025 - CASQF",2025-08-22,2025-08-25,26.51
+N635AC,2025-08-23,"General Wm J Fox Airfield (KWJF)","General Wm J Fox Airfield (KWJF)","Little Fire 2025 - CASQF",2025-08-22,2025-08-25,25.97
+N635AC,2025-08-23,"General Wm J Fox Airfield (KWJF)","General Wm J Fox Airfield (KWJF)","Little Fire 2025 - CASQF",2025-08-22,2025-08-25,25.64
+N635AC,2025-08-23,"Fresno Yosemite Intl (KFAT)","General Wm J Fox Airfield (KWJF)","Little Fire 2025 - CASQF",2025-08-22,2025-08-25,28.03
+N839AC,2025-08-24,"Casper/Natrona County Intl (KCPR)","Pocatello Rgnl (KPIH)","Dollar Lake Fire - WYBTF",2025-08-21,2025-08-25,28.21
+N839AC,2025-08-24,"Roberts Fld (KRDM)","Pocatello Rgnl (KPIH)","Willow Creek - WYBTF",2025-08-22,2025-08-25,29.41
+N988AC,2025-08-23,"Helena Rgnl (KHLN)","Helena Rgnl (KHLN)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-25,28.75
+N988AC,2025-08-23,"Helena Rgnl (KHLN)","Helena Rgnl (KHLN)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-25,27.69
+N988AC,2025-08-23,"Helena Rgnl (KHLN)","Helena Rgnl (KHLN)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-25,26.92
+N988AC,2025-08-23,"Helena Rgnl (KHLN)","Helena Rgnl (KHLN)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-25,28.35
+N988AC,2025-08-23,"Helena Rgnl (KHLN)","Helena Rgnl (KHLN)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-25,28.77
+N988AC,2025-08-23,"Helena Rgnl (KHLN)","Helena Rgnl (KHLN)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-25,27.19
+N988AC,2025-08-23,"Helena Rgnl (KHLN)","Helena Rgnl (KHLN)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-25,27.62
+N988AC,2025-08-23,"Helena Rgnl (KHLN)","Helena Rgnl (KHLN)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-25,28.11
+N406BT,2025-08-24,"Near West Yellowstone, MT","Bozeman Yellowstone Intl (KBZN)","West Fork Fire - MTCGF",2025-08-19,2025-08-25,8.39
+N406BT,2025-08-24,"Bozeman Yellowstone Intl (KBZN)","Near West Yellowstone, MT","West Fork Fire - MTCGF",2025-08-19,2025-08-25,26.75
+N406BT,2025-08-23,"Near West Yellowstone, MT","Bozeman Yellowstone Intl (KBZN)","West Fork Fire - MTCGF",2025-08-19,2025-08-25,8.31
+N406BT,2025-08-23,"Bozeman Yellowstone Intl (KBZN)","Near West Yellowstone, MT","West Fork Fire - MTCGF",2025-08-19,2025-08-25,8.23
+N415BT,2025-08-23,"Bozeman Yellowstone Intl (KBZN)","Bozeman Yellowstone Intl (KBZN)","Bivens Creek - MTBDF",2025-08-13,2025-08-25,29.48
+N415BT,2025-08-23,"Bozeman Yellowstone Intl (KBZN)","Bozeman Yellowstone Intl (KBZN)","Cloudrest - MTBDF",2025-08-14,2025-08-25,29.60
+N417BT,2025-08-24,"Bozeman Yellowstone Intl (KBZN)","Bozeman Yellowstone Intl (KBZN)","West Fork Fire - MTCGF",2025-08-19,2025-08-25,18.92
+N417BT,2025-08-23,"Bozeman Yellowstone Intl (KBZN)","Bozeman Yellowstone Intl (KBZN)","Bivens Creek - MTBDF",2025-08-13,2025-08-25,28.45
+N417BT,2025-08-23,"Bozeman Yellowstone Intl (KBZN)","Bozeman Yellowstone Intl (KBZN)","Cloudrest - MTBDF",2025-08-14,2025-08-25,29.59
+N417BT,2025-08-23,"Near Twin Bridges, MT","Bozeman Yellowstone Intl (KBZN)","Bivens Creek - MTBDF",2025-08-13,2025-08-25,20.31
+N417BT,2025-08-23,"Near Twin Bridges, MT","Bozeman Yellowstone Intl (KBZN)","Cloudrest - MTBDF",2025-08-14,2025-08-25,29.82
+N470NA,2025-08-23,"Porterville Muni (KPTV)","Porterville Muni (KPTV)","Little Fire 2025 - CASQF",2025-08-22,2025-08-25,27.67
+N470NA,2025-08-23,"Porterville Muni (KPTV)","Porterville Muni (KPTV)","Little Fire 2025 - CASQF",2025-08-22,2025-08-25,29.74
+N470NA,2025-08-23,"General Wm J Fox Airfield (KWJF)","Fresno Yosemite Intl (KFAT)","Little Fire 2025 - CASQF",2025-08-22,2025-08-25,28.76
+N470NA,2025-08-23,"Porterville Muni (KPTV)","General Wm J Fox Airfield (KWJF)","Little Fire 2025 - CASQF",2025-08-22,2025-08-25,26.22
+N471NA,2025-08-23,"Missoula Montana (KMSO)","Redding Rgnl (KRDD)","Island Creek - IDNCF",2025-07-31,2025-08-25,28.72
+N472NA,2025-08-25,"Missoula Montana (KMSO)","Missoula Montana (KMSO)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-25,28.87
+N472NA,2025-08-25,"Missoula Montana (KMSO)","Missoula Montana (KMSO)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-25,28.36
+N472NA,2025-08-23,"Missoula Montana (KMSO)","Missoula Montana (KMSO)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-25,29.70
+N472NA,2025-08-23,"Missoula Montana (KMSO)","Missoula Montana (KMSO)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-25,27.84
+N472NA,2025-08-23,"Missoula Montana (KMSO)","Missoula Montana (KMSO)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-25,28.32
+N472NA,2025-08-23,"Missoula Montana (KMSO)","Missoula Montana (KMSO)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-25,26.21
+N472NA,2025-08-23,"Missoula Montana (KMSO)","Missoula Montana (KMSO)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-25,26.22
+N472NA,2025-08-23,"Missoula Montana (KMSO)","Missoula Montana (KMSO)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-25,25.71
+N472NA,2025-08-23,"Missoula Montana (KMSO)","Missoula Montana (KMSO)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-25,27.23
+N472NA,2025-08-23,"Missoula Montana (KMSO)","Missoula Montana (KMSO)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-25,28.59
+N472NA,2025-08-23,"Missoula Montana (KMSO)","Missoula Montana (KMSO)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-25,28.72
+N472NA,2025-08-23,"Missoula Montana (KMSO)","Missoula Montana (KMSO)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-25,26.01
+N473NA,2025-08-23,"Porterville Muni (KPTV)","General Wm J Fox Airfield (KWJF)","Little Fire 2025 - CASQF",2025-08-22,2025-08-25,28.92
+N473NA,2025-08-23,"Porterville Muni (KPTV)","Porterville Muni (KPTV)","Little Fire 2025 - CASQF",2025-08-22,2025-08-25,29.39
+N473NA,2025-08-23,"San Bernardino Intl (KSBD)","Porterville Muni (KPTV)","Little Fire 2025 - CASQF",2025-08-22,2025-08-25,26.07
+N475NA,2025-08-24,"Grand Junction Rgnl (KGJT)","Grand Junction Rgnl (KGJT)","Stoner Mesa Fire - COSJF",2025-07-28,2025-08-25,28.53
+N475NA,2025-08-24,"Grand Junction Rgnl (KGJT)","Grand Junction Rgnl (KGJT)","Derby Fire - COWRF",2025-08-16,2025-08-25,29.75
+N475NA,2025-08-24,"Grand Junction Rgnl (KGJT)","Grand Junction Rgnl (KGJT)","Derby Fire - COWRF",2025-08-16,2025-08-25,25.28
+N475NA,2025-08-24,"Grand Junction Rgnl (KGJT)","Grand Junction Rgnl (KGJT)","Derby Fire - COWRF",2025-08-16,2025-08-25,28.77
+N476NA,2025-08-25,"Helena Rgnl (KHLN)","Helena Rgnl (KHLN)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-25,29.35
+N476NA,2025-08-25,"Billings Logan Intl (KBIL)","Helena Rgnl (KHLN)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-25,27.39
+N476NA,2025-08-24,"Helena Rgnl (KHLN)","Billings Logan Intl (KBIL)","West Fork Fire - MTCGF",2025-08-19,2025-08-25,28.04
+N476NA,2025-08-24,"Billings Logan Intl (KBIL)","Helena Rgnl (KHLN)","West Fork Fire - MTCGF",2025-08-19,2025-08-25,27.44
+N476NA,2025-08-24,"Near Sandpoint, ID","Billings Logan Intl (KBIL)","Ransome Fire - MTKNF",2025-08-21,2025-08-25,7.60
+N476NA,2025-08-24,"Near Elko, BC","Near Elko, BC","Ransome Fire - MTKNF",2025-08-21,2025-08-25,3.11
+N476NA,2025-08-24,"Near Thompson Falls, MT","Near Elko, BC","Sunset Fire - IDIDS",2025-08-13,2025-08-25,16.85
+N476NA,2025-08-24,"Near Thompson Falls, MT","Near Elko, BC","Ransome Fire - MTKNF",2025-08-21,2025-08-25,14.95
+N476NA,2025-08-24,"Near Thompson Falls, MT","Near Thompson Falls, MT","Ransome Fire - MTKNF",2025-08-21,2025-08-25,14.95
+N476NA,2025-08-24,"Missoula Montana (KMSO)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Knowles Fire - MTMTS",2025-08-17,2025-08-26,28.42
+N476NA,2025-08-24,"Missoula Montana (KMSO)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Ransome Fire - MTKNF",2025-08-21,2025-08-25,26.56
+N476NA,2025-08-23,"Missoula Montana (KMSO)","Missoula Montana (KMSO)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-25,25.85
+N476NA,2025-08-23,"Missoula Montana (KMSO)","Missoula Montana (KMSO)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-25,26.17
+N476NA,2025-08-23,"Missoula Montana (KMSO)","Missoula Montana (KMSO)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-25,28.55
+N476NA,2025-08-23,"Missoula Montana (KMSO)","Missoula Montana (KMSO)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-25,29.05
+N476NA,2025-08-23,"Missoula Montana (KMSO)","Missoula Montana (KMSO)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-25,27.71
+N476NA,2025-08-23,"Missoula Montana (KMSO)","Missoula Montana (KMSO)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-25,26.98
+N476NA,2025-08-23,"Missoula Montana (KMSO)","Missoula Montana (KMSO)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-25,29.55
+N476NA,2025-08-23,"Missoula Montana (KMSO)","Missoula Montana (KMSO)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-25,29.83
+N476NA,2025-08-23,"Missoula Montana (KMSO)","Missoula Montana (KMSO)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-25,28.90
+N476NA,2025-08-23,"Missoula Montana (KMSO)","Missoula Montana (KMSO)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-25,28.98
+N477NA,2025-08-25,"Missoula Montana (KMSO)","Missoula Montana (KMSO)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-25,29.85
+N477NA,2025-08-25,"Missoula Montana (KMSO)","Missoula Montana (KMSO)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-25,29.17
+N477NA,2025-08-24,"Missoula Montana (KMSO)","Missoula Montana (KMSO)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-25,24.85
+N477NA,2025-08-24,"Missoula Montana (KMSO)","Missoula Montana (KMSO)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-25,26.98
+N477NA,2025-08-24,"Missoula Montana (KMSO)","Missoula Montana (KMSO)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-25,29.94
+N477NA,2025-08-24,"Missoula Montana (KMSO)","Missoula Montana (KMSO)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-25,26.91
+N477NA,2025-08-24,"Missoula Montana (KMSO)","Missoula Montana (KMSO)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-25,27.14
+N477NA,2025-08-24,"Missoula Montana (KMSO)","Missoula Montana (KMSO)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-25,28.95
+N477NA,2025-08-24,"Helena Rgnl (KHLN)","Missoula Montana (KMSO)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-25,29.66
+N477NA,2025-08-24,"Helena Rgnl (KHLN)","Helena Rgnl (KHLN)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-25,29.04
+N477NA,2025-08-24,"Helena Rgnl (KHLN)","Helena Rgnl (KHLN)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-25,26.27
+N477NA,2025-08-24,"Missoula Montana (KMSO)","Helena Rgnl (KHLN)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-25,27.83
+N477NA,2025-08-24,"Missoula Montana (KMSO)","Missoula Montana (KMSO)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-25,26.86
+N477NA,2025-08-23,"Missoula Montana (KMSO)","Missoula Montana (KMSO)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-25,29.61
+N477NA,2025-08-23,"Missoula Montana (KMSO)","Missoula Montana (KMSO)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-25,28.98
+N477NA,2025-08-23,"Missoula Montana (KMSO)","Missoula Montana (KMSO)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-25,28.06
+N477NA,2025-08-23,"Missoula Montana (KMSO)","Missoula Montana (KMSO)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-25,28.39
+N477NA,2025-08-23,"Missoula Montana (KMSO)","Missoula Montana (KMSO)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-25,27.61
+N477NA,2025-08-23,"Missoula Montana (KMSO)","Missoula Montana (KMSO)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-25,25.57
+N477NA,2025-08-23,"Missoula Montana (KMSO)","Missoula Montana (KMSO)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-25,28.60
+N477NA,2025-08-23,"Missoula Montana (KMSO)","Missoula Montana (KMSO)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-25,29.41
+N477NA,2025-08-23,"Missoula Montana (KMSO)","Missoula Montana (KMSO)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-25,28.88
+N477NA,2025-08-23,"Missoula Montana (KMSO)","Missoula Montana (KMSO)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-25,27.39
+N477NA,2025-08-23,"Missoula Montana (KMSO)","Missoula Montana (KMSO)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-25,26.77
+N478NA,2025-08-25,"Helena Rgnl (KHLN)","Billings Logan Intl (KBIL)","West Fork Fire - MTCGF",2025-08-19,2025-08-25,26.37
+N478NA,2025-08-25,"Billings Logan Intl (KBIL)","Helena Rgnl (KHLN)","West Fork Fire - MTCGF",2025-08-19,2025-08-25,28.06
+N478NA,2025-08-24,"Helena Rgnl (KHLN)","Billings Logan Intl (KBIL)","West Fork Fire - MTCGF",2025-08-19,2025-08-25,26.49
+N478NA,2025-08-24,"Billings Logan Intl (KBIL)","Helena Rgnl (KHLN)","West Fork Fire - MTCGF",2025-08-19,2025-08-25,24.78
+N478NA,2025-08-24,"Casper/Natrona County Intl (KCPR)","Billings Logan Intl (KBIL)","Red Canyon Fire - WYWBD",2025-08-13,2025-08-25,29.61
+N522AX,2025-08-25,"Helena Rgnl (KHLN)","Helena Rgnl (KHLN)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-25,28.89
+N522AX,2025-08-25,"Helena Rgnl (KHLN)","Helena Rgnl (KHLN)","Sandbar 2 Fire - MTHLF",2025-08-19,2025-08-25,28.97
+N522AX,2025-08-25,"Helena Rgnl (KHLN)","Helena Rgnl (KHLN)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-25,29.83
+N522AX,2025-08-25,"Helena Rgnl (KHLN)","Helena Rgnl (KHLN)","Sandbar 2 Fire - MTHLF",2025-08-19,2025-08-25,29.29
+N522AX,2025-08-23,"Helena Rgnl (KHLN)","Helena Rgnl (KHLN)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-25,28.22
+N522AX,2025-08-23,"Helena Rgnl (KHLN)","Helena Rgnl (KHLN)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-25,29.18
+N522AX,2025-08-23,"Helena Rgnl (KHLN)","Helena Rgnl (KHLN)","Sandbar 2 Fire - MTHLF",2025-08-19,2025-08-25,29.28
+N522AX,2025-08-23,"Helena Rgnl (KHLN)","Helena Rgnl (KHLN)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-25,28.38
+N522AX,2025-08-23,"Helena Rgnl (KHLN)","Helena Rgnl (KHLN)","Sandbar 2 Fire - MTHLF",2025-08-19,2025-08-25,28.40
+N522AX,2025-08-23,"Helena Rgnl (KHLN)","Helena Rgnl (KHLN)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-25,29.00
+N522AX,2025-08-23,"Helena Rgnl (KHLN)","Helena Rgnl (KHLN)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-25,27.26
+N603AX,2025-08-24,"Pocatello Rgnl (KPIH)","Rogue Valley Intl (KMFR)","Emigrant Fire - ORWIF",2025-08-24,2025-08-25,26.44
+N603AX,2025-08-24,"Rogue Valley Intl (KMFR)","Pocatello Rgnl (KPIH)","Willow Creek - WYBTF",2025-08-22,2025-08-25,25.83
+N612AX,2025-08-24,"Rogue Valley Intl (KMFR)","Rogue Valley Intl (KMFR)","Emigrant Fire - ORWIF",2025-08-24,2025-08-25,29.99
+N17085,2025-08-24,"Pocatello Rgnl (KPIH)","Pocatello Rgnl (KPIH)","Willow Creek - WYBTF",2025-08-22,2025-08-25,27.20
+N17085,2025-08-24,"Pocatello Rgnl (KPIH)","Pocatello Rgnl (KPIH)","Willow Creek - WYBTF",2025-08-22,2025-08-25,29.79
