@@ -1,0 +1,2 @@
+ScrapeDate,Incident,Type,State,Size,Updated,CurrentAsOf,IncidentTimeZone,IncidentType,Cause,DateOfOrigin,Location,IncidentCommander,Coordinates,Latitude,Longitude,TotalPersonnel,ContainmentPercent
+2025-08-27,"Peak Fire - CASHF","Wildfire","California","200 Acres","17 hours 4 minutes ago","Tue, 08/26/2025 - 18:20","Pacific Standard Time","Wildfire","lightning","Mon, 08/25/2025 - 15:30","located southeast of the Granite Peak summit and northwest of Trinity Lake","IC: Mike Anderson and Casey Dunn (t)","40° 54' 16'', -122° 51' 03 ''","40° 54' 16''","-122° 51' 03 ''","33","0%"
