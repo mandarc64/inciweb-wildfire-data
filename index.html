@@ -11,6 +11,15 @@
       rel="stylesheet"
     />
 
+    <link
+      href="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/css/select2.min.css"
+      rel="stylesheet"
+    />
+    <link
+      href="https://cdn.jsdelivr.net/npm/select2-bootstrap-5-theme@1.3.0/dist/select2-bootstrap-5-theme.min.css"
+      rel="stylesheet"
+    />
+
     <!-- DataTables -->
     <link
       rel="stylesheet"
@@ -627,7 +636,11 @@
       <div class="controls-section">
         <div class="control-group">
           <label for="csvSelect">Select Incident</label>
-          <select id="csvSelect" class="form-select">
+          <select
+            id="csvSelect"
+            class="form-select select2"
+            data-placeholder="Search incidents..."
+          >
             <option>Loading incidents...</option>
           </select>
         </div>
@@ -724,6 +737,8 @@
     <!-- jQuery -->
     <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
 
+    <script src="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/js/select2.min.js"></script>
+
     <!-- PapaParse for CSV -->
     <script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
 
@@ -758,6 +773,10 @@
       const tableContainer = document.getElementById("tableContainer");
       const lastUpdatedEl = document.getElementById("lastUpdated");
       const exportControls = document.getElementById("exportControls");
+
+      const incidentMap = new Map(); // label(lowercased) -> filename
+      const searchInput = document.getElementById("incidentSearch");
+      const incidentList = document.getElementById("incidentList");
 
       const BRANCH = "master";
       const csvBaseURL = `https://raw.githubusercontent.com/${GITHUB_USER}/${GITHUB_REPO}/${BRANCH}/${CSV_FOLDER}/`;
@@ -859,27 +878,83 @@
 
           const csvFiles = files
             .filter((file) => file.name.endsWith(".csv"))
-            .map((file) => file.name)
-            .sort();
+            .map((file) => file.name);
 
-          if (csvFiles.length === 0) {
+          if (!csvFiles.length) {
             tableContainer.innerHTML = "<p>No CSV files found in repo.</p>";
             return;
           }
 
+          // Get DateOfOrigin from each CSV and sort newest → oldest
+          const withDates = await Promise.all(
+            csvFiles.map(
+              (file) =>
+                new Promise((resolve) => {
+                  Papa.parse(csvBaseURL + file, {
+                    download: true,
+                    header: true,
+                    preview: 2,
+                    complete: (r) => {
+                      const first = r.data?.[0] || {};
+                      const d =
+                        parseOriginDate(first.DateOfOrigin || "") ||
+                        new Date(0);
+                      resolve({
+                        file,
+                        date: d,
+                        label: file.replace(".csv", "").replace(/_/g, " "),
+                      });
+                    },
+                    error: () =>
+                      resolve({
+                        file,
+                        date: new Date(0),
+                        label: file.replace(".csv", "").replace(/_/g, " "),
+                      }),
+                  });
+                })
+            )
+          );
+
+          withDates.sort((a, b) => b.date - a.date);
+
+          // Preserve current selection if any
+          const previous = csvSelect.value;
+
+          // Rebuild <select> options in sorted order
           csvSelect.innerHTML = "";
-          csvFiles.forEach((file) => {
+          withDates.forEach(({ file, label }) => {
             const opt = document.createElement("option");
             opt.value = file;
-            opt.textContent = file.replace(".csv", "").replace(/_/g, " ");
+            opt.textContent = label;
             csvSelect.appendChild(opt);
           });
 
-          // Show export controls once data is loaded
           exportControls.style.display = "flex";
 
-          loadCSV(csvFiles[0]);
-          csvSelect.addEventListener("change", (e) => loadCSV(e.target.value));
+          // Init / re-init Select2 on the existing dropdown to make it searchable
+          const $sel = $("#csvSelect");
+          if ($sel.hasClass("select2-hidden-accessible")) {
+            $sel.select2("destroy");
+          }
+          $sel.select2({
+            theme: "bootstrap-5",
+            width: "400px",
+            dropdownAutoWidth: true,
+            minimumResultsForSearch: 0, // always show search box
+            placeholder: $sel.data("placeholder") || "Search incidents...",
+          });
+
+          // Single change handler
+          csvSelect.onchange = (e) => loadCSV(e.target.value);
+
+          // Select previously chosen incident if still present, else the newest
+          const toLoad =
+            withDates.find((w) => w.file === previous)?.file ||
+            withDates[0].file;
+
+          // Set the value and trigger one change (loads the CSV once)
+          $sel.val(toLoad).trigger("change");
         } catch (err) {
           console.error("Error fetching CSV list:", err);
           tableContainer.innerHTML = `<p>Error loading CSV list. Check console.</p>`;
