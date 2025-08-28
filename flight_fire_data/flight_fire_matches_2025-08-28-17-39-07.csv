@@ -1,0 +1,161 @@
+TailNumber,FlightDate,Origin,Destination,FireIncident,FireStart,FireEnd,DistanceKM
+N136CG,2025-08-27,"Helena Rgnl (KHLN)","Helena Rgnl (KHLN)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-27,28.57
+N136CG,2025-08-27,"Helena Rgnl (KHLN)","Helena Rgnl (KHLN)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-27,28.31
+N136CG,2025-08-26,"Helena Rgnl (KHLN)","Helena Rgnl (KHLN)","Gill Gulch Fire - MTHLF",2025-08-04,2025-08-26,29.48
+N136CG,2025-08-26,"Helena Rgnl (KHLN)","Helena Rgnl (KHLN)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-27,29.73
+N136CG,2025-08-25,"Helena Rgnl (KHLN)","Helena Rgnl (KHLN)","West Fork Fire - MTCGF",2025-08-19,2025-08-27,18.10
+N136CG,2025-08-25,"Helena Rgnl (KHLN)","Helena Rgnl (KHLN)","West Fork Fire - MTCGF",2025-08-19,2025-08-27,29.09
+N136CG,2025-08-25,"Helena Rgnl (KHLN)","Helena Rgnl (KHLN)","Gill Gulch Fire - MTHLF",2025-08-04,2025-08-26,27.80
+N136CG,2025-08-25,"Helena Rgnl (KHLN)","Helena Rgnl (KHLN)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-27,28.68
+N137CG,2025-08-27,"San Bernardino Intl (KSBD)","Fresno Yosemite Intl (KFAT)","Little Fire 2025 - CASQF",2025-08-22,2025-08-27,25.26
+N137CG,2025-08-26,"San Bernardino Intl (KSBD)","Fresno Yosemite Intl (KFAT)","Little Fire - CASQF",2025-08-22,2025-08-26,26.49
+N137CG,2025-08-26,"San Bernardino Intl (KSBD)","Fresno Yosemite Intl (KFAT)","Little Fire 2025 - CASQF",2025-08-22,2025-08-26,26.51
+N137CG,2025-08-26,"San Bernardino Intl (KSBD)","Fresno Yosemite Intl (KFAT)","Little Fire 2025 - CASQF",2025-08-22,2025-08-27,26.49
+N140CG,2025-08-27,"Rogue Valley Intl (KMFR)","Sacramento McClellan (KMCC)","Peak Fire - CASHF",2025-08-25,2025-08-27,29.07
+N140CG,2025-08-27,"Sacramento McClellan (KMCC)","Rogue Valley Intl (KMFR)","Peak Fire - CASHF",2025-08-25,2025-08-27,27.42
+N140CG,2025-08-25,"Helena Rgnl (KHLN)","Sacramento McClellan (KMCC)","Elkhorn Fire - Salmon-Challis National Forest - IDSCF",2025-07-29,2025-08-26,29.87
+N292EA,2025-08-26,"Porterville Muni (KPTV)","General Wm J Fox Airfield (KWJF)","Little Fire - CASQF",2025-08-22,2025-08-26,28.63
+N292EA,2025-08-26,"Porterville Muni (KPTV)","General Wm J Fox Airfield (KWJF)","Little Fire 2025 - CASQF",2025-08-22,2025-08-26,28.71
+N292EA,2025-08-26,"Porterville Muni (KPTV)","General Wm J Fox Airfield (KWJF)","Little Fire 2025 - CASQF",2025-08-22,2025-08-27,28.63
+N292EA,2025-08-26,"General Wm J Fox Airfield (KWJF)","Fresno Yosemite Intl (KFAT)","Little Fire - CASQF",2025-08-22,2025-08-26,28.26
+N292EA,2025-08-26,"General Wm J Fox Airfield (KWJF)","Fresno Yosemite Intl (KFAT)","Little Fire 2025 - CASQF",2025-08-22,2025-08-26,28.21
+N292EA,2025-08-26,"General Wm J Fox Airfield (KWJF)","Fresno Yosemite Intl (KFAT)","Little Fire 2025 - CASQF",2025-08-22,2025-08-27,28.26
+N292EA,2025-08-25,"Porterville Muni (KPTV)","General Wm J Fox Airfield (KWJF)","Little Fire - CASQF",2025-08-22,2025-08-26,26.32
+N292EA,2025-08-25,"Porterville Muni (KPTV)","General Wm J Fox Airfield (KWJF)","Little Fire 2025 - CASQF",2025-08-22,2025-08-26,26.40
+N292EA,2025-08-25,"Porterville Muni (KPTV)","General Wm J Fox Airfield (KWJF)","Little Fire 2025 - CASQF",2025-08-22,2025-08-27,26.32
+N292EA,2025-08-25,"General Wm J Fox Airfield (KWJF)","Porterville Muni (KPTV)","Little Fire - CASQF",2025-08-22,2025-08-26,27.80
+N292EA,2025-08-25,"General Wm J Fox Airfield (KWJF)","Porterville Muni (KPTV)","Little Fire 2025 - CASQF",2025-08-22,2025-08-26,27.74
+N292EA,2025-08-25,"General Wm J Fox Airfield (KWJF)","Porterville Muni (KPTV)","Little Fire 2025 - CASQF",2025-08-22,2025-08-27,27.80
+N293EA,2025-08-26,"Porterville Muni (KPTV)","General Wm J Fox Airfield (KWJF)","Little Fire - CASQF",2025-08-22,2025-08-26,29.03
+N293EA,2025-08-26,"Porterville Muni (KPTV)","General Wm J Fox Airfield (KWJF)","Little Fire 2025 - CASQF",2025-08-22,2025-08-26,29.09
+N293EA,2025-08-26,"Porterville Muni (KPTV)","General Wm J Fox Airfield (KWJF)","Little Fire 2025 - CASQF",2025-08-22,2025-08-27,29.03
+N293EA,2025-08-26,"General Wm J Fox Airfield (KWJF)","Porterville Muni (KPTV)","Little Fire - CASQF",2025-08-22,2025-08-26,29.47
+N293EA,2025-08-26,"General Wm J Fox Airfield (KWJF)","Porterville Muni (KPTV)","Little Fire 2025 - CASQF",2025-08-22,2025-08-26,29.43
+N293EA,2025-08-26,"General Wm J Fox Airfield (KWJF)","Porterville Muni (KPTV)","Little Fire 2025 - CASQF",2025-08-22,2025-08-27,29.47
+N293EA,2025-08-25,"Porterville Muni (KPTV)","General Wm J Fox Airfield (KWJF)","Little Fire - CASQF",2025-08-22,2025-08-26,26.59
+N293EA,2025-08-25,"Porterville Muni (KPTV)","General Wm J Fox Airfield (KWJF)","Little Fire 2025 - CASQF",2025-08-22,2025-08-26,26.67
+N293EA,2025-08-25,"Porterville Muni (KPTV)","General Wm J Fox Airfield (KWJF)","Little Fire 2025 - CASQF",2025-08-22,2025-08-27,26.59
+N293EA,2025-08-25,"General Wm J Fox Airfield (KWJF)","Porterville Muni (KPTV)","Little Fire - CASQF",2025-08-22,2025-08-26,26.28
+N293EA,2025-08-25,"General Wm J Fox Airfield (KWJF)","Porterville Muni (KPTV)","Little Fire 2025 - CASQF",2025-08-22,2025-08-26,26.24
+N293EA,2025-08-25,"General Wm J Fox Airfield (KWJF)","Porterville Muni (KPTV)","Little Fire 2025 - CASQF",2025-08-22,2025-08-27,26.28
+N296EA,2025-08-27,"Missoula Montana (KMSO)","Missoula Montana (KMSO)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-27,28.86
+N296EA,2025-08-26,"Missoula Montana (KMSO)","Missoula Montana (KMSO)","Gill Gulch Fire - MTHLF",2025-08-04,2025-08-26,29.97
+N296EA,2025-08-26,"Missoula Montana (KMSO)","Missoula Montana (KMSO)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-27,28.14
+N296EA,2025-08-26,"Missoula Montana (KMSO)","Missoula Montana (KMSO)","Gill Gulch Fire - MTHLF",2025-08-04,2025-08-26,29.06
+N296EA,2025-08-26,"Missoula Montana (KMSO)","Missoula Montana (KMSO)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-27,26.02
+N296EA,2025-08-26,"Missoula Montana (KMSO)","Missoula Montana (KMSO)","Sandbar 2 Fire - MTHLF",2025-08-19,2025-08-27,28.94
+N296EA,2025-08-25,"Missoula Montana (KMSO)","Missoula Montana (KMSO)","Gill Gulch Fire - MTHLF",2025-08-04,2025-08-26,29.03
+N296EA,2025-08-25,"Missoula Montana (KMSO)","Missoula Montana (KMSO)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-27,29.85
+N296EA,2025-08-25,"Missoula Montana (KMSO)","Missoula Montana (KMSO)","Gill Gulch Fire - MTHLF",2025-08-04,2025-08-26,29.53
+N296EA,2025-08-25,"Missoula Montana (KMSO)","Missoula Montana (KMSO)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-27,29.60
+N325AC,2025-08-27,"Redding Rgnl (KRDD)","Sacramento McClellan (KMCC)","Peak Fire - CASHF",2025-08-25,2025-08-27,28.97
+N325AC,2025-08-27,"Sacramento McClellan (KMCC)","Redding Rgnl (KRDD)","Peak Fire - CASHF",2025-08-25,2025-08-27,29.45
+N355AC,2025-08-27,"Helena Rgnl (KHLN)","Helena Rgnl (KHLN)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-27,25.98
+N355AC,2025-08-26,"Helena Rgnl (KHLN)","Helena Rgnl (KHLN)","Gill Gulch Fire - MTHLF",2025-08-04,2025-08-26,28.78
+N355AC,2025-08-26,"Helena Rgnl (KHLN)","Helena Rgnl (KHLN)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-27,28.57
+N355AC,2025-08-26,"Helena Rgnl (KHLN)","Helena Rgnl (KHLN)","Gill Gulch Fire - MTHLF",2025-08-04,2025-08-26,28.98
+N355AC,2025-08-26,"Helena Rgnl (KHLN)","Helena Rgnl (KHLN)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-27,28.89
+N355AC,2025-08-25,"Spokane Intl (KGEG)","Helena Rgnl (KHLN)","Gill Gulch Fire - MTHLF",2025-08-04,2025-08-26,25.89
+N355AC,2025-08-25,"Spokane Intl (KGEG)","Helena Rgnl (KHLN)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-27,26.16
+N355AC,2025-08-25,"Spokane Intl (KGEG)","Helena Rgnl (KHLN)","Knowles Fire - MTMTS",2025-08-17,2025-08-27,27.74
+N355AC,2025-08-25,"Spokane Intl (KGEG)","Helena Rgnl (KHLN)","Sandbar 2 Fire - MTHLF",2025-08-19,2025-08-27,29.23
+N374AC,2025-08-25,"Helena Rgnl (KHLN)","Billings Logan Intl (KBIL)","West Fork Fire - MTCGF",2025-08-19,2025-08-27,29.00
+N374AC,2025-08-25,"Billings Logan Intl (KBIL)","Helena Rgnl (KHLN)","West Fork Fire - MTCGF",2025-08-19,2025-08-27,26.16
+N389AC,2025-08-27,"Redding Rgnl (KRDD)","Chico Rgnl (KCIC)","Peak Fire - CASHF",2025-08-25,2025-08-27,29.77
+N389AC,2025-08-27,"Chico Rgnl (KCIC)","Redding Rgnl (KRDD)","Peak Fire - CASHF",2025-08-25,2025-08-27,27.56
+N389AC,2025-08-26,"Bozeman Yellowstone Intl (KBZN)","Chico Rgnl (KCIC)","Elkhorn Fire - Salmon-Challis National Forest - IDSCF",2025-07-29,2025-08-26,29.93
+N389AC,2025-08-26,"Bozeman Yellowstone Intl (KBZN)","Chico Rgnl (KCIC)","Bivens Creek - MTBDF",2025-08-13,2025-08-27,28.96
+N389AC,2025-08-26,"Bozeman Yellowstone Intl (KBZN)","Chico Rgnl (KCIC)","Cloudrest - MTBDF",2025-08-14,2025-08-27,29.32
+N389AC,2025-08-26,"Near Jackson, WY","Bozeman Yellowstone Intl (KBZN)","West Fork Fire - MTCGF",2025-08-19,2025-08-27,29.57
+N635AC,2025-08-27,"Fresno Yosemite Intl (KFAT)","General Wm J Fox Airfield (KWJF)","Little Fire 2025 - CASQF",2025-08-22,2025-08-27,27.72
+N635AC,2025-08-27,"General Wm J Fox Airfield (KWJF)","Fresno Yosemite Intl (KFAT)","Little Fire 2025 - CASQF",2025-08-22,2025-08-27,27.29
+N635AC,2025-08-26,"Porterville Muni (KPTV)","General Wm J Fox Airfield (KWJF)","Little Fire - CASQF",2025-08-22,2025-08-26,28.77
+N635AC,2025-08-26,"Porterville Muni (KPTV)","General Wm J Fox Airfield (KWJF)","Little Fire 2025 - CASQF",2025-08-22,2025-08-26,28.84
+N635AC,2025-08-26,"Porterville Muni (KPTV)","General Wm J Fox Airfield (KWJF)","Little Fire 2025 - CASQF",2025-08-22,2025-08-27,28.77
+N635AC,2025-08-26,"General Wm J Fox Airfield (KWJF)","Fresno Yosemite Intl (KFAT)","Little Fire - CASQF",2025-08-22,2025-08-26,29.70
+N635AC,2025-08-26,"General Wm J Fox Airfield (KWJF)","Fresno Yosemite Intl (KFAT)","Little Fire 2025 - CASQF",2025-08-22,2025-08-26,29.68
+N635AC,2025-08-26,"General Wm J Fox Airfield (KWJF)","Fresno Yosemite Intl (KFAT)","Little Fire 2025 - CASQF",2025-08-22,2025-08-27,29.70
+N635AC,2025-08-26,"Fresno Yosemite Intl (KFAT)","General Wm J Fox Airfield (KWJF)","Little Fire - CASQF",2025-08-22,2025-08-26,29.24
+N635AC,2025-08-26,"Fresno Yosemite Intl (KFAT)","General Wm J Fox Airfield (KWJF)","Little Fire 2025 - CASQF",2025-08-22,2025-08-26,29.28
+N635AC,2025-08-26,"Fresno Yosemite Intl (KFAT)","General Wm J Fox Airfield (KWJF)","Little Fire 2025 - CASQF",2025-08-22,2025-08-27,29.24
+N635AC,2025-08-26,"General Wm J Fox Airfield (KWJF)","Fresno Yosemite Intl (KFAT)","Little Fire - CASQF",2025-08-22,2025-08-26,26.18
+N635AC,2025-08-26,"General Wm J Fox Airfield (KWJF)","Fresno Yosemite Intl (KFAT)","Little Fire 2025 - CASQF",2025-08-22,2025-08-26,26.12
+N635AC,2025-08-26,"General Wm J Fox Airfield (KWJF)","Fresno Yosemite Intl (KFAT)","Little Fire 2025 - CASQF",2025-08-22,2025-08-27,26.18
+N635AC,2025-08-25,"Fresno Yosemite Intl (KFAT)","General Wm J Fox Airfield (KWJF)","Little Fire - CASQF",2025-08-22,2025-08-26,27.72
+N635AC,2025-08-25,"Fresno Yosemite Intl (KFAT)","General Wm J Fox Airfield (KWJF)","Little Fire 2025 - CASQF",2025-08-22,2025-08-26,27.79
+N635AC,2025-08-25,"Fresno Yosemite Intl (KFAT)","General Wm J Fox Airfield (KWJF)","Little Fire 2025 - CASQF",2025-08-22,2025-08-27,27.72
+N635AC,2025-08-25,"General Wm J Fox Airfield (KWJF)","Fresno Yosemite Intl (KFAT)","Little Fire - CASQF",2025-08-22,2025-08-26,27.92
+N635AC,2025-08-25,"General Wm J Fox Airfield (KWJF)","Fresno Yosemite Intl (KFAT)","Little Fire 2025 - CASQF",2025-08-22,2025-08-26,27.87
+N635AC,2025-08-25,"General Wm J Fox Airfield (KWJF)","Fresno Yosemite Intl (KFAT)","Little Fire 2025 - CASQF",2025-08-22,2025-08-27,27.92
+N839AC,2025-08-26,"Chico Rgnl (KCIC)","Chico Rgnl (KCIC)","Peak Fire - CASHF",2025-08-25,2025-08-27,23.15
+N839AC,2025-08-26,"Redding Rgnl (KRDD)","Chico Rgnl (KCIC)","Peak Fire - CASHF",2025-08-25,2025-08-27,26.89
+N839AC,2025-08-26,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Peak Fire - CASHF",2025-08-25,2025-08-27,29.14
+N839AC,2025-08-26,"Chico Rgnl (KCIC)","Redding Rgnl (KRDD)","Peak Fire - CASHF",2025-08-25,2025-08-27,28.86
+N988AC,2025-08-27,"Helena Rgnl (KHLN)","Helena Rgnl (KHLN)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-27,27.89
+N988AC,2025-08-26,"Helena Rgnl (KHLN)","Helena Rgnl (KHLN)","Gill Gulch Fire - MTHLF",2025-08-04,2025-08-26,27.90
+N988AC,2025-08-26,"Helena Rgnl (KHLN)","Helena Rgnl (KHLN)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-27,29.26
+N988AC,2025-08-26,"Helena Rgnl (KHLN)","Helena Rgnl (KHLN)","Gill Gulch Fire - MTHLF",2025-08-04,2025-08-26,29.12
+N988AC,2025-08-26,"Helena Rgnl (KHLN)","Helena Rgnl (KHLN)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-27,27.48
+N998AC,2025-08-27,"Rogue Valley Intl (KMFR)","Chico Rgnl (KCIC)","Peak Fire - CASHF",2025-08-25,2025-08-27,26.06
+N998AC,2025-08-27,"Chico Rgnl (KCIC)","Rogue Valley Intl (KMFR)","Peak Fire - CASHF",2025-08-25,2025-08-27,26.31
+N998AC,2025-08-26,"Chico Rgnl (KCIC)","Chico Rgnl (KCIC)","Peak Fire - CASHF",2025-08-25,2025-08-27,29.86
+N406BT,2025-08-26,"Near West Yellowstone, MT","Near Bozeman, MT","West Fork Fire - MTCGF",2025-08-19,2025-08-27,8.15
+N406BT,2025-08-26,"Near West Yellowstone, MT","Near West Yellowstone, MT","West Fork Fire - MTCGF",2025-08-19,2025-08-27,8.23
+N471NA,2025-08-27,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Peak Fire - CASHF",2025-08-25,2025-08-27,29.14
+N471NA,2025-08-27,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Peak Fire - CASHF",2025-08-25,2025-08-27,27.25
+N471NA,2025-08-27,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Peak Fire - CASHF",2025-08-25,2025-08-27,27.59
+N471NA,2025-08-27,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Peak Fire - CASHF",2025-08-25,2025-08-27,28.03
+N471NA,2025-08-27,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Peak Fire - CASHF",2025-08-25,2025-08-27,28.72
+N471NA,2025-08-27,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Peak Fire - CASHF",2025-08-25,2025-08-27,28.78
+N471NA,2025-08-27,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Peak Fire - CASHF",2025-08-25,2025-08-27,28.41
+N471NA,2025-08-26,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Peak Fire - CASHF",2025-08-25,2025-08-27,26.89
+N471NA,2025-08-26,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Peak Fire - CASHF",2025-08-25,2025-08-27,27.60
+N471NA,2025-08-26,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Peak Fire - CASHF",2025-08-25,2025-08-27,28.76
+N471NA,2025-08-26,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Peak Fire - CASHF",2025-08-25,2025-08-27,28.29
+N472NA,2025-08-27,"Missoula Montana (KMSO)","Missoula Montana (KMSO)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-27,27.90
+N472NA,2025-08-26,"Missoula Montana (KMSO)","Missoula Montana (KMSO)","Gill Gulch Fire - MTHLF",2025-08-04,2025-08-26,28.40
+N472NA,2025-08-26,"Missoula Montana (KMSO)","Missoula Montana (KMSO)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-27,25.70
+N472NA,2025-08-25,"Missoula Montana (KMSO)","Missoula Montana (KMSO)","Gill Gulch Fire - MTHLF",2025-08-04,2025-08-26,29.61
+N472NA,2025-08-25,"Missoula Montana (KMSO)","Missoula Montana (KMSO)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-27,28.87
+N472NA,2025-08-25,"Missoula Montana (KMSO)","Missoula Montana (KMSO)","Gill Gulch Fire - MTHLF",2025-08-04,2025-08-26,29.13
+N472NA,2025-08-25,"Missoula Montana (KMSO)","Missoula Montana (KMSO)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-27,28.36
+N473NA,2025-08-27,"Fresno Yosemite Intl (KFAT)","San Bernardino Intl (KSBD)","Little Fire 2025 - CASQF",2025-08-22,2025-08-27,29.02
+N473NA,2025-08-27,"San Bernardino Intl (KSBD)","Fresno Yosemite Intl (KFAT)","Little Fire 2025 - CASQF",2025-08-22,2025-08-27,25.87
+N474NA,2025-08-27,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Peak Fire - CASHF",2025-08-25,2025-08-27,29.41
+N474NA,2025-08-27,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Peak Fire - CASHF",2025-08-25,2025-08-27,29.52
+N474NA,2025-08-27,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Peak Fire - CASHF",2025-08-25,2025-08-27,28.38
+N474NA,2025-08-27,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Peak Fire - CASHF",2025-08-25,2025-08-27,29.63
+N474NA,2025-08-27,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Peak Fire - CASHF",2025-08-25,2025-08-27,27.49
+N474NA,2025-08-27,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Peak Fire - CASHF",2025-08-25,2025-08-27,27.14
+N474NA,2025-08-27,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Peak Fire - CASHF",2025-08-25,2025-08-27,28.97
+N474NA,2025-08-27,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Peak Fire - CASHF",2025-08-25,2025-08-27,27.91
+N474NA,2025-08-25,"Rogue Valley Intl (KMFR)","Redding Rgnl (KRDD)","Klamath NF Late August Lightning Fires, 2025 - CAKNF",2025-08-24,2025-08-27,28.53
+N474NA,2025-08-25,"Redding Rgnl (KRDD)","Rogue Valley Intl (KMFR)","Klamath NF Late August Lightning Fires, 2025 - CAKNF",2025-08-24,2025-08-27,28.47
+N476NA,2025-08-27,"Billings Logan Intl (KBIL)","Missoula Montana (KMSO)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-27,28.52
+N476NA,2025-08-25,"Helena Rgnl (KHLN)","Helena Rgnl (KHLN)","Gill Gulch Fire - MTHLF",2025-08-04,2025-08-26,29.90
+N476NA,2025-08-25,"Helena Rgnl (KHLN)","Helena Rgnl (KHLN)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-27,29.35
+N476NA,2025-08-25,"Billings Logan Intl (KBIL)","Helena Rgnl (KHLN)","Gill Gulch Fire - MTHLF",2025-08-04,2025-08-26,28.99
+N476NA,2025-08-25,"Billings Logan Intl (KBIL)","Helena Rgnl (KHLN)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-27,27.39
+N477NA,2025-08-26,"Missoula Montana (KMSO)","Missoula Montana (KMSO)","Gill Gulch Fire - MTHLF",2025-08-04,2025-08-26,29.44
+N477NA,2025-08-26,"Missoula Montana (KMSO)","Missoula Montana (KMSO)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-27,27.32
+N477NA,2025-08-26,"Missoula Montana (KMSO)","Missoula Montana (KMSO)","Gill Gulch Fire - MTHLF",2025-08-04,2025-08-26,28.86
+N477NA,2025-08-26,"Missoula Montana (KMSO)","Missoula Montana (KMSO)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-27,26.43
+N477NA,2025-08-25,"Missoula Montana (KMSO)","Missoula Montana (KMSO)","Gill Gulch Fire - MTHLF",2025-08-04,2025-08-26,29.23
+N477NA,2025-08-25,"Missoula Montana (KMSO)","Missoula Montana (KMSO)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-27,29.85
+N477NA,2025-08-25,"Missoula Montana (KMSO)","Missoula Montana (KMSO)","Gill Gulch Fire - MTHLF",2025-08-04,2025-08-26,29.45
+N477NA,2025-08-25,"Missoula Montana (KMSO)","Missoula Montana (KMSO)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-27,29.17
+N478NA,2025-08-25,"Helena Rgnl (KHLN)","Billings Logan Intl (KBIL)","West Fork Fire - MTCGF",2025-08-19,2025-08-27,26.37
+N478NA,2025-08-25,"Billings Logan Intl (KBIL)","Helena Rgnl (KHLN)","West Fork Fire - MTCGF",2025-08-19,2025-08-27,28.06
+N522AX,2025-08-27,"Helena Rgnl (KHLN)","Helena Rgnl (KHLN)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-27,27.70
+N522AX,2025-08-27,"Helena Rgnl (KHLN)","Helena Rgnl (KHLN)","Sandbar 2 Fire - MTHLF",2025-08-19,2025-08-27,29.80
+N522AX,2025-08-25,"Helena Rgnl (KHLN)","Helena Rgnl (KHLN)","Gill Gulch Fire - MTHLF",2025-08-04,2025-08-26,25.91
+N522AX,2025-08-25,"Helena Rgnl (KHLN)","Helena Rgnl (KHLN)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-27,28.89
+N522AX,2025-08-25,"Helena Rgnl (KHLN)","Helena Rgnl (KHLN)","Sandbar 2 Fire - MTHLF",2025-08-19,2025-08-27,28.97
+N522AX,2025-08-25,"Helena Rgnl (KHLN)","Helena Rgnl (KHLN)","Gill Gulch Fire - MTHLF",2025-08-04,2025-08-26,29.05
+N522AX,2025-08-25,"Helena Rgnl (KHLN)","Helena Rgnl (KHLN)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-27,29.83
+N522AX,2025-08-25,"Helena Rgnl (KHLN)","Helena Rgnl (KHLN)","Sandbar 2 Fire - MTHLF",2025-08-19,2025-08-27,29.29
+N17085,2025-08-27,"Rogue Valley Intl (KMFR)","Sacramento McClellan (KMCC)","Peak Fire - CASHF",2025-08-25,2025-08-27,25.68
+N17085,2025-08-27,"Sacramento McClellan (KMCC)","Rogue Valley Intl (KMFR)","Klamath NF Late August Lightning Fires, 2025 - CAKNF",2025-08-24,2025-08-27,29.25
+N17085,2025-08-27,"Sacramento McClellan (KMCC)","Rogue Valley Intl (KMFR)","Peak Fire - CASHF",2025-08-25,2025-08-27,27.35
+N17085,2025-08-26,"Rogue Valley Intl (KMFR)","Sacramento McClellan (KMCC)","Klamath NF Late August Lightning Fires, 2025 - CAKNF",2025-08-24,2025-08-27,26.74
+N17085,2025-08-26,"Rogue Valley Intl (KMFR)","Sacramento McClellan (KMCC)","Peak Fire - CASHF",2025-08-25,2025-08-27,29.46
