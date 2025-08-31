@@ -1,0 +1,117 @@
+TailNumber,FlightDate,Origin,Destination,FireIncident,FireStart,FireEnd,DistanceKM
+N140CG,2025-08-30,"Redding Rgnl (KRDD)","Sacramento McClellan (KMCC)","Peak Fire - CASHF",2025-08-25,2025-08-30,29.77
+N140CG,2025-08-30,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Peak Fire - CASHF",2025-08-25,2025-08-30,28.36
+N140CG,2025-08-30,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Peak Fire - CASHF",2025-08-25,2025-08-30,29.21
+N140CG,2025-08-30,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Peak Fire - CASHF",2025-08-25,2025-08-30,28.76
+N140CG,2025-08-30,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Peak Fire - CASHF",2025-08-25,2025-08-30,29.56
+N140CG,2025-08-30,"Sacramento McClellan (KMCC)","Redding Rgnl (KRDD)","Peak Fire - CASHF",2025-08-25,2025-08-30,29.13
+N325AC,2025-08-30,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Peak Fire - CASHF",2025-08-25,2025-08-30,29.74
+N325AC,2025-08-30,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Peak Fire - CASHF",2025-08-25,2025-08-30,27.62
+N325AC,2025-08-30,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Peak Fire - CASHF",2025-08-25,2025-08-30,27.12
+N325AC,2025-08-30,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Peak Fire - CASHF",2025-08-25,2025-08-30,29.87
+N325AC,2025-08-30,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Peak Fire - CASHF",2025-08-25,2025-08-30,27.26
+N325AC,2025-08-30,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Peak Fire - CASHF",2025-08-25,2025-08-30,28.50
+N325AC,2025-08-30,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Peak Fire - CASHF",2025-08-25,2025-08-30,29.87
+N325AC,2025-08-30,"Sacramento McClellan (KMCC)","Redding Rgnl (KRDD)","Peak Fire - CASHF",2025-08-25,2025-08-30,29.52
+N389AC,2025-08-30,"Redding Rgnl (KRDD)","Chico Rgnl (KCIC)","Peak Fire - CASHF",2025-08-25,2025-08-30,29.50
+N389AC,2025-08-30,"Chico Rgnl (KCIC)","Redding Rgnl (KRDD)","Peak Fire - CASHF",2025-08-25,2025-08-30,29.67
+N389AC,2025-08-29,"Redding Rgnl (KRDD)","Chico Rgnl (KCIC)","Peak Fire - CASHF",2025-08-25,2025-08-30,28.02
+N389AC,2025-08-29,"Chico Rgnl (KCIC)","Redding Rgnl (KRDD)","Peak Fire - CASHF",2025-08-25,2025-08-30,29.71
+N389AC,2025-08-28,"Redding Rgnl (KRDD)","Chico Rgnl (KCIC)","Peak Fire - CASHF",2025-08-25,2025-08-30,29.23
+N389AC,2025-08-28,"Chico Rgnl (KCIC)","Redding Rgnl (KRDD)","Peak Fire - CASHF",2025-08-25,2025-08-30,27.82
+N416AC,2025-08-30,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Sunset Fire - IDIDS",2025-08-13,2025-08-30,28.45
+N416AC,2025-08-30,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Grande Fire - WANES",2025-08-25,2025-08-30,29.33
+N416AC,2025-08-30,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Crown Creek Fire - WANES",2025-08-29,2025-08-30,29.80
+N416AC,2025-08-30,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Sunset Fire - IDIDS",2025-08-13,2025-08-30,29.98
+N416AC,2025-08-30,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Grande Fire - WANES",2025-08-25,2025-08-30,27.65
+N416AC,2025-08-30,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Crown Creek Fire - WANES",2025-08-29,2025-08-30,29.17
+N416AC,2025-08-30,"Roberts Fld (KRDM)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Sunset Fire - IDIDS",2025-08-13,2025-08-30,29.05
+N416AC,2025-08-30,"Roberts Fld (KRDM)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Grande Fire - WANES",2025-08-25,2025-08-30,27.71
+N416AC,2025-08-30,"Roberts Fld (KRDM)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Crown Creek Fire - WANES",2025-08-29,2025-08-30,27.12
+N839AC,2025-08-29,"Rogue Valley Intl (KMFR)","Chico Rgnl (KCIC)","Klamath NF Late August Lightning Fires, 2025 - CAKNF",2025-08-24,2025-08-30,29.66
+N839AC,2025-08-29,"Rogue Valley Intl (KMFR)","Chico Rgnl (KCIC)","Peak Fire - CASHF",2025-08-25,2025-08-30,27.70
+N839AC,2025-08-29,"Rogue Valley Intl (KMFR)","Chico Rgnl (KCIC)","Blue - CAKNF",2025-08-26,2025-08-30,29.73
+N839AC,2025-08-29,"Rogue Valley Intl (KMFR)","Rogue Valley Intl (KMFR)","Blue - CAKNF",2025-08-26,2025-08-30,26.56
+N839AC,2025-08-29,"Rogue Valley Intl (KMFR)","Rogue Valley Intl (KMFR)","Klamath NF Late August Lightning Fires, 2025 - CAKNF",2025-08-24,2025-08-30,28.60
+N839AC,2025-08-29,"Rogue Valley Intl (KMFR)","Rogue Valley Intl (KMFR)","Blue - CAKNF",2025-08-26,2025-08-30,27.51
+N839AC,2025-08-29,"Rogue Valley Intl (KMFR)","Rogue Valley Intl (KMFR)","Klamath NF Late August Lightning Fires, 2025 - CAKNF",2025-08-24,2025-08-30,26.75
+N839AC,2025-08-29,"Rogue Valley Intl (KMFR)","Rogue Valley Intl (KMFR)","Blue - CAKNF",2025-08-26,2025-08-30,28.81
+N839AC,2025-08-29,"Rogue Valley Intl (KMFR)","Rogue Valley Intl (KMFR)","Klamath NF Late August Lightning Fires, 2025 - CAKNF",2025-08-24,2025-08-30,20.22
+N839AC,2025-08-29,"Rogue Valley Intl (KMFR)","Rogue Valley Intl (KMFR)","Blue - CAKNF",2025-08-26,2025-08-30,28.02
+N839AC,2025-08-29,"Chico Rgnl (KCIC)","Rogue Valley Intl (KMFR)","Klamath NF Late August Lightning Fires, 2025 - CAKNF",2025-08-24,2025-08-30,27.08
+N839AC,2025-08-29,"Chico Rgnl (KCIC)","Rogue Valley Intl (KMFR)","Peak Fire - CASHF",2025-08-25,2025-08-30,29.35
+N839AC,2025-08-29,"Chico Rgnl (KCIC)","Rogue Valley Intl (KMFR)","Blue - CAKNF",2025-08-26,2025-08-30,26.65
+N839AC,2025-08-28,"Redding Rgnl (KRDD)","Chico Rgnl (KCIC)","Peak Fire - CASHF",2025-08-25,2025-08-30,28.28
+N839AC,2025-08-28,"Chico Rgnl (KCIC)","Redding Rgnl (KRDD)","Peak Fire - CASHF",2025-08-25,2025-08-30,29.78
+N988AC,2025-08-30,"Helena Rgnl (KHLN)","Spokane Intl (KGEG)","Windy Rock Fire - MTMTS",2025-08-14,2025-08-30,28.94
+N988AC,2025-08-30,"Helena Rgnl (KHLN)","Spokane Intl (KGEG)","Knowles Fire - MTMTS",2025-08-17,2025-08-30,29.53
+N998AC,2025-08-29,"Rogue Valley Intl (KMFR)","Chico Rgnl (KCIC)","Klamath NF Late August Lightning Fires, 2025 - CAKNF",2025-08-24,2025-08-30,22.08
+N998AC,2025-08-29,"Rogue Valley Intl (KMFR)","Chico Rgnl (KCIC)","Peak Fire - CASHF",2025-08-25,2025-08-30,27.53
+N998AC,2025-08-29,"Rogue Valley Intl (KMFR)","Chico Rgnl (KCIC)","Blue - CAKNF",2025-08-26,2025-08-30,27.39
+N998AC,2025-08-29,"Siskiyou County (KSIY)","Rogue Valley Intl (KMFR)","Klamath NF Late August Lightning Fires, 2025 - CAKNF",2025-08-24,2025-08-30,27.34
+N998AC,2025-08-29,"Siskiyou County (KSIY)","Rogue Valley Intl (KMFR)","Blue - CAKNF",2025-08-26,2025-08-30,27.27
+N998AC,2025-08-29,"Rogue Valley Intl (KMFR)","Siskiyou County (KSIY)","Klamath NF Late August Lightning Fires, 2025 - CAKNF",2025-08-24,2025-08-30,29.00
+N998AC,2025-08-29,"Rogue Valley Intl (KMFR)","Siskiyou County (KSIY)","Blue - CAKNF",2025-08-26,2025-08-30,27.59
+N998AC,2025-08-29,"Rogue Valley Intl (KMFR)","Rogue Valley Intl (KMFR)","Klamath NF Late August Lightning Fires, 2025 - CAKNF",2025-08-24,2025-08-30,29.61
+N998AC,2025-08-29,"Rogue Valley Intl (KMFR)","Rogue Valley Intl (KMFR)","Blue - CAKNF",2025-08-26,2025-08-30,28.95
+N998AC,2025-08-29,"Rogue Valley Intl (KMFR)","Rogue Valley Intl (KMFR)","Klamath NF Late August Lightning Fires, 2025 - CAKNF",2025-08-24,2025-08-30,26.02
+N998AC,2025-08-29,"Rogue Valley Intl (KMFR)","Rogue Valley Intl (KMFR)","Blue - CAKNF",2025-08-26,2025-08-30,29.54
+N998AC,2025-08-29,"Chico Rgnl (KCIC)","Rogue Valley Intl (KMFR)","Klamath NF Late August Lightning Fires, 2025 - CAKNF",2025-08-24,2025-08-30,28.79
+N998AC,2025-08-29,"Chico Rgnl (KCIC)","Rogue Valley Intl (KMFR)","Peak Fire - CASHF",2025-08-25,2025-08-30,25.75
+N998AC,2025-08-29,"Chico Rgnl (KCIC)","Rogue Valley Intl (KMFR)","Blue - CAKNF",2025-08-26,2025-08-30,28.75
+N998AC,2025-08-28,"Siskiyou County (KSIY)","Chico Rgnl (KCIC)","Klamath NF Late August Lightning Fires, 2025 - CAKNF",2025-08-24,2025-08-30,27.66
+N998AC,2025-08-28,"Siskiyou County (KSIY)","Chico Rgnl (KCIC)","Peak Fire - CASHF",2025-08-25,2025-08-30,25.61
+N998AC,2025-08-28,"Siskiyou County (KSIY)","Siskiyou County (KSIY)","Klamath NF Late August Lightning Fires, 2025 - CAKNF",2025-08-24,2025-08-30,27.75
+N998AC,2025-08-28,"Chico Rgnl (KCIC)","Siskiyou County (KSIY)","Klamath NF Late August Lightning Fires, 2025 - CAKNF",2025-08-24,2025-08-30,29.54
+N998AC,2025-08-28,"Chico Rgnl (KCIC)","Siskiyou County (KSIY)","Peak Fire - CASHF",2025-08-25,2025-08-30,26.81
+N406BT,2025-08-28,"Bozeman Yellowstone Intl (KBZN)","Flying R (11UT)","Sleeper Ranch Fire - WYWYS",2025-08-14,2025-08-30,28.45
+N471NA,2025-08-29,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Peak Fire - CASHF",2025-08-25,2025-08-30,29.02
+N471NA,2025-08-29,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Peak Fire - CASHF",2025-08-25,2025-08-30,29.11
+N471NA,2025-08-29,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Peak Fire - CASHF",2025-08-25,2025-08-30,29.72
+N471NA,2025-08-29,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Peak Fire - CASHF",2025-08-25,2025-08-30,28.33
+N471NA,2025-08-29,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Peak Fire - CASHF",2025-08-25,2025-08-30,28.60
+N471NA,2025-08-29,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Peak Fire - CASHF",2025-08-25,2025-08-30,29.24
+N471NA,2025-08-29,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Peak Fire - CASHF",2025-08-25,2025-08-30,28.97
+N471NA,2025-08-29,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Peak Fire - CASHF",2025-08-25,2025-08-30,28.68
+N471NA,2025-08-29,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Peak Fire - CASHF",2025-08-25,2025-08-30,27.67
+N471NA,2025-08-28,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Peak Fire - CASHF",2025-08-25,2025-08-30,29.24
+N471NA,2025-08-28,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Peak Fire - CASHF",2025-08-25,2025-08-30,29.22
+N471NA,2025-08-28,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Klamath NF Late August Lightning Fires, 2025 - CAKNF",2025-08-24,2025-08-30,29.96
+N471NA,2025-08-28,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Peak Fire - CASHF",2025-08-25,2025-08-30,29.97
+N471NA,2025-08-28,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Blue - CAKNF",2025-08-26,2025-08-30,28.72
+N471NA,2025-08-28,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Peak Fire - CASHF",2025-08-25,2025-08-30,28.63
+N471NA,2025-08-28,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Peak Fire - CASHF",2025-08-25,2025-08-30,27.44
+N471NA,2025-08-28,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Peak Fire - CASHF",2025-08-25,2025-08-30,27.76
+N471NA,2025-08-28,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Peak Fire - CASHF",2025-08-25,2025-08-30,28.53
+N474NA,2025-08-29,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Peak Fire - CASHF",2025-08-25,2025-08-30,28.49
+N474NA,2025-08-29,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Peak Fire - CASHF",2025-08-25,2025-08-30,28.53
+N474NA,2025-08-29,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Peak Fire - CASHF",2025-08-25,2025-08-30,29.87
+N474NA,2025-08-29,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Peak Fire - CASHF",2025-08-25,2025-08-30,28.97
+N474NA,2025-08-29,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Peak Fire - CASHF",2025-08-25,2025-08-30,27.30
+N474NA,2025-08-29,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Peak Fire - CASHF",2025-08-25,2025-08-30,28.15
+N474NA,2025-08-29,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Peak Fire - CASHF",2025-08-25,2025-08-30,28.73
+N474NA,2025-08-29,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Peak Fire - CASHF",2025-08-25,2025-08-30,28.81
+N474NA,2025-08-29,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Peak Fire - CASHF",2025-08-25,2025-08-30,29.70
+N474NA,2025-08-28,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Peak Fire - CASHF",2025-08-25,2025-08-30,26.74
+N474NA,2025-08-28,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Peak Fire - CASHF",2025-08-25,2025-08-30,28.29
+N474NA,2025-08-28,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Klamath NF Late August Lightning Fires, 2025 - CAKNF",2025-08-24,2025-08-30,29.79
+N474NA,2025-08-28,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Peak Fire - CASHF",2025-08-25,2025-08-30,27.23
+N474NA,2025-08-28,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Blue - CAKNF",2025-08-26,2025-08-30,28.02
+N474NA,2025-08-28,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Peak Fire - CASHF",2025-08-25,2025-08-30,28.44
+N474NA,2025-08-28,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Peak Fire - CASHF",2025-08-25,2025-08-30,29.98
+N474NA,2025-08-28,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Peak Fire - CASHF",2025-08-25,2025-08-30,28.87
+N474NA,2025-08-28,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Peak Fire - CASHF",2025-08-25,2025-08-30,28.59
+N474NA,2025-08-28,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Peak Fire - CASHF",2025-08-25,2025-08-30,29.54
+N476NA,2025-08-30,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Sunset Fire - IDIDS",2025-08-13,2025-08-30,29.45
+N476NA,2025-08-30,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Grande Fire - WANES",2025-08-25,2025-08-30,25.96
+N476NA,2025-08-30,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Crown Creek Fire - WANES",2025-08-29,2025-08-30,27.74
+N476NA,2025-08-30,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Sunset Fire - IDIDS",2025-08-13,2025-08-30,28.48
+N476NA,2025-08-30,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Grande Fire - WANES",2025-08-25,2025-08-30,29.16
+N476NA,2025-08-30,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Crown Creek Fire - WANES",2025-08-29,2025-08-30,26.95
+N476NA,2025-08-30,"Missoula Montana (KMSO)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Sunset Fire - IDIDS",2025-08-13,2025-08-30,27.18
+N476NA,2025-08-30,"Missoula Montana (KMSO)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Knowles Fire - MTMTS",2025-08-17,2025-08-30,26.59
+N476NA,2025-08-30,"Missoula Montana (KMSO)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Grande Fire - WANES",2025-08-25,2025-08-30,29.93
+N476NA,2025-08-30,"Missoula Montana (KMSO)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Crown Creek Fire - WANES",2025-08-29,2025-08-30,27.26
+N17085,2025-08-28,"Sacramento McClellan (KMCC)","Sacramento McClellan (KMCC)","Klamath NF Late August Lightning Fires, 2025 - CAKNF",2025-08-24,2025-08-30,28.67
+N17085,2025-08-28,"Sacramento McClellan (KMCC)","Sacramento McClellan (KMCC)","Peak Fire - CASHF",2025-08-25,2025-08-30,28.07
+N17085,2025-08-28,"Sacramento McClellan (KMCC)","Sacramento McClellan (KMCC)","Blue - CAKNF",2025-08-26,2025-08-30,26.26
