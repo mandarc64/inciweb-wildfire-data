@@ -1,0 +1,3 @@
+ScrapeDate,Incident,Type,State,Size,Updated,CurrentAsOf,IncidentTimeZone,IncidentType,Cause,DateOfOrigin,Location,IncidentCommander,Coordinates,Latitude,Longitude,TotalPersonnel,ContainmentPercent
+2025-08-31,"Blue - CAKNF","Wildfire","California","1,049 Acres","16 minutes 24 seconds ago","Sun, 08/31/2025 - 11:01","Pacific Standard Time","Wildfire","Lightning/Natural","Tue, 08/26/2025 - 20:15","4 Miles southeast of Seiad, CA","Kristen Allison IC
+Jerry McGowan Deputy IC","41° 46' 48'', -123° 11' 43 ''","41° 46' 48''","-123° 11' 43 ''","225","0%"

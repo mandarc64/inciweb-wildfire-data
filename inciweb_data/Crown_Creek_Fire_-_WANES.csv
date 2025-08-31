@@ -1,0 +1,3 @@
+ScrapeDate,Incident,Type,State,Size,Updated,CurrentAsOf,IncidentTimeZone,IncidentType,Cause,DateOfOrigin,Location,IncidentCommander,Coordinates,Latitude,Longitude,TotalPersonnel,ContainmentPercent
+2025-08-31,"Crown Creek Fire - WANES","Wildfire","Washington","800 Acres","17 minutes 3 seconds ago","Sun, 08/31/2025 - 11:00","Pacific Standard Time","Wildfire","Lightning","Fri, 08/29/2025 - 18:18","6 miles southwest of Northport","Braden Britt- IC
+Northeast Interagency Management Team","48° 49' 58.8'', -117° 52' 59.4 ''","48° 49' 58.8''","-117° 52' 59.4 ''","","0%"
