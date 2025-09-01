@@ -999,10 +999,19 @@
       }
 
       function parseOriginDate(str = "") {
-        const m = str.match(/\d{2}\/\d{2}\/\d{4}/);
+        const m = str.match(/(\d{2})\/(\d{2})\/(\d{4})/);
         if (!m) return null;
-        const [mm, dd, yyyy] = m[0].split("/");
-        return new Date(Date.UTC(+yyyy, +mm - 1, +dd));
+
+        const [, mmStr, ddStr, yyyyStr] = m;
+        let yyyy = Number(yyyyStr);
+        const mm = Number(mmStr);
+        const dd = Number(ddStr);
+
+        // InciWeb sometimes emits "00YY" (e.g., "0025") for 20YY years.
+        if (yyyy < 100) yyyy += 2000; // "0025" -> 2025
+
+        const d = new Date(Date.UTC(yyyy, mm - 1, dd));
+        return isNaN(d) ? null : d;
       }
 
       function parseISODateOnly(iso = "") {
