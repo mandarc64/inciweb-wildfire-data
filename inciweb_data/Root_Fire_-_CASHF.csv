@@ -1,0 +1,3 @@
+ScrapeDate,Incident,Type,State,Size,Updated,CurrentAsOf,IncidentTimeZone,IncidentType,Cause,DateOfOrigin,Location,IncidentCommander,Coordinates,Latitude,Longitude,TotalPersonnel,ContainmentPercent
+2025-09-02,"Root Fire - CASHF","Wildfire","California","300 Acres","13 hours 6 minutes ago","Mon, 09/01/2025 - 22:18","Pacific Standard Time","Wildfire","","Mon, 09/01/2025 - 12:34","The Root Fire is west of Castella and north of Castle Creek.","Shasta-Trinity National Forest
+Incident Commander Drew Graham","41° 9' 36.8'', -122° 23' 50.7 ''","41° 9' 36.8''","-122° 23' 50.7 ''","",""

@@ -1,3 +1,5 @@
 ScrapeDate,Incident,Type,State,Size,Updated,CurrentAsOf,IncidentTimeZone,IncidentType,Cause,DateOfOrigin,Location,IncidentCommander,Coordinates,Latitude,Longitude,TotalPersonnel,ContainmentPercent
 2025-09-01,"Wildcat Fire - WAOWF","Wildfire","Washington","1,000 Acres","33 minutes 28 seconds ago","Mon, 09/01/2025 - 10:46","Pacific Standard Time","Wildfire","Lightning","Mon, 08/25/2025 - 16:48","30 miles West of Naches, WA","Joe Landburg - IC
 Nick Wigle - IC(t)","46° 50' 43'', -121° 23' 48 ''","46° 50' 43''","-121° 23' 48 ''","70","0%"
+2025-09-02,"Wildcat Fire - WAOWF","Wildfire","Washington","1,170 Acres","17 hours 9 minutes ago","Mon, 09/01/2025 - 18:15","Pacific Standard Time","Wildfire","Lightning","Mon, 08/25/2025 - 16:48","30 miles West of Naches, WA","Joe Landburg - IC
+Nick Wigle - IC(t)","46° 50' 43'', -121° 23' 48 ''","46° 50' 43''","-121° 23' 48 ''","72","0%"
