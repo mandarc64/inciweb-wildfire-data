@@ -1,0 +1,177 @@
+TailNumber,FlightDate,Origin,Destination,FireIncident,FireStart,FireEnd,DistanceKM
+N136CG,2025-09-01,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Helena Rgnl (KHLN)","Windy Rock Fire - MTMTS",2025-08-14,2025-09-01,27.93
+N136CG,2025-09-01,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Helena Rgnl (KHLN)","Knowles Fire - MTMTS",2025-08-17,2025-09-01,27.93
+N136CG,2025-09-01,"Helena Rgnl (KHLN)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Windy Rock Fire - MTMTS",2025-08-14,2025-09-01,29.92
+N136CG,2025-09-01,"Helena Rgnl (KHLN)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Knowles Fire - MTMTS",2025-08-17,2025-09-01,29.60
+N140CG,2025-08-30,"Redding Rgnl (KRDD)","Sacramento McClellan (KMCC)","Peak Fire - CASHF",2025-08-25,2025-08-30,29.77
+N140CG,2025-08-30,"Redding Rgnl (KRDD)","Sacramento McClellan (KMCC)","Peak and Lick Fire - CASHF",2025-08-25,2025-09-01,29.77
+N140CG,2025-08-30,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Peak Fire - CASHF",2025-08-25,2025-08-30,28.36
+N140CG,2025-08-30,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Peak and Lick Fire - CASHF",2025-08-25,2025-09-01,28.36
+N140CG,2025-08-30,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Peak Fire - CASHF",2025-08-25,2025-08-30,29.21
+N140CG,2025-08-30,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Peak and Lick Fire - CASHF",2025-08-25,2025-09-01,29.21
+N140CG,2025-08-30,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Peak Fire - CASHF",2025-08-25,2025-08-30,28.76
+N140CG,2025-08-30,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Peak and Lick Fire - CASHF",2025-08-25,2025-09-01,28.76
+N140CG,2025-08-30,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Peak Fire - CASHF",2025-08-25,2025-08-30,29.56
+N140CG,2025-08-30,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Peak and Lick Fire - CASHF",2025-08-25,2025-09-01,29.56
+N140CG,2025-08-30,"Sacramento McClellan (KMCC)","Redding Rgnl (KRDD)","Peak Fire - CASHF",2025-08-25,2025-08-30,29.13
+N140CG,2025-08-30,"Sacramento McClellan (KMCC)","Redding Rgnl (KRDD)","Peak and Lick Fire - CASHF",2025-08-25,2025-09-01,29.13
+N291EA,2025-09-01,"Rogue Valley Intl (KMFR)","Grant County Intl (KMWH)","Emigrant Fire - ORWIF",2025-08-24,2025-09-01,26.38
+N291EA,2025-09-01,"Roberts Fld (KRDM)","Rogue Valley Intl (KMFR)","Emigrant Fire - ORWIF",2025-08-24,2025-09-01,29.39
+N296EA,2025-08-31,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Grande Fire - WANES",2025-08-25,2025-08-31,27.60
+N296EA,2025-08-31,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Crown Creek Fire - WANES",2025-08-29,2025-09-01,27.16
+N296EA,2025-08-31,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Katy Creek - WACOF",2025-08-30,2025-09-01,29.73
+N296EA,2025-08-31,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Grande Fire - WANES",2025-08-25,2025-08-31,26.12
+N296EA,2025-08-31,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Crown Creek Fire - WANES",2025-08-29,2025-09-01,28.72
+N296EA,2025-08-31,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Katy Creek - WACOF",2025-08-30,2025-09-01,30.00
+N296EA,2025-08-31,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Grande Fire - WANES",2025-08-25,2025-08-31,27.14
+N296EA,2025-08-31,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Crown Creek Fire - WANES",2025-08-29,2025-09-01,27.92
+N296EA,2025-08-31,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Katy Creek - WACOF",2025-08-30,2025-09-01,29.93
+N296EA,2025-08-31,"Missoula Montana (KMSO)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Knowles Fire - MTMTS",2025-08-17,2025-09-01,27.17
+N296EA,2025-08-31,"Missoula Montana (KMSO)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Grande Fire - WANES",2025-08-25,2025-08-31,28.57
+N296EA,2025-08-31,"Missoula Montana (KMSO)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Crown Creek Fire - WANES",2025-08-29,2025-09-01,26.69
+N325AC,2025-08-30,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Peak Fire - CASHF",2025-08-25,2025-08-30,29.74
+N325AC,2025-08-30,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Peak and Lick Fire - CASHF",2025-08-25,2025-09-01,29.74
+N325AC,2025-08-30,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Peak Fire - CASHF",2025-08-25,2025-08-30,27.62
+N325AC,2025-08-30,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Peak and Lick Fire - CASHF",2025-08-25,2025-09-01,27.62
+N325AC,2025-08-30,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Peak Fire - CASHF",2025-08-25,2025-08-30,27.12
+N325AC,2025-08-30,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Peak and Lick Fire - CASHF",2025-08-25,2025-09-01,27.12
+N325AC,2025-08-30,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Peak Fire - CASHF",2025-08-25,2025-08-30,29.87
+N325AC,2025-08-30,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Peak and Lick Fire - CASHF",2025-08-25,2025-09-01,29.87
+N325AC,2025-08-30,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Peak Fire - CASHF",2025-08-25,2025-08-30,27.26
+N325AC,2025-08-30,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Peak and Lick Fire - CASHF",2025-08-25,2025-09-01,27.26
+N325AC,2025-08-30,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Peak Fire - CASHF",2025-08-25,2025-08-30,28.50
+N325AC,2025-08-30,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Peak and Lick Fire - CASHF",2025-08-25,2025-09-01,28.50
+N325AC,2025-08-30,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Peak Fire - CASHF",2025-08-25,2025-08-30,29.87
+N325AC,2025-08-30,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Peak and Lick Fire - CASHF",2025-08-25,2025-09-01,29.87
+N325AC,2025-08-30,"Sacramento McClellan (KMCC)","Redding Rgnl (KRDD)","Peak Fire - CASHF",2025-08-25,2025-08-30,29.52
+N325AC,2025-08-30,"Sacramento McClellan (KMCC)","Redding Rgnl (KRDD)","Peak and Lick Fire - CASHF",2025-08-25,2025-09-01,29.52
+N355AC,2025-09-01,"Grant County Intl (KMWH)","Helena Rgnl (KHLN)","Windy Rock Fire - MTMTS",2025-08-14,2025-09-01,28.50
+N355AC,2025-09-01,"Helena Rgnl (KHLN)","Grant County Intl (KMWH)","Windy Rock Fire - MTMTS",2025-08-14,2025-09-01,28.02
+N355AC,2025-09-01,"Helena Rgnl (KHLN)","Grant County Intl (KMWH)","Knowles Fire - MTMTS",2025-08-17,2025-09-01,27.00
+N389AC,2025-09-01,"Near Redding, CA","Chico Rgnl (KCIC)","Peak and Lick Fire - CASHF",2025-08-25,2025-09-01,3.61
+N389AC,2025-09-01,"Redding Rgnl (KRDD)","Near Redding, CA","Peak and Lick Fire - CASHF",2025-08-25,2025-09-01,29.14
+N389AC,2025-09-01,"Chico Rgnl (KCIC)","Redding Rgnl (KRDD)","Peak and Lick Fire - CASHF",2025-08-25,2025-09-01,29.11
+N389AC,2025-08-31,"Redding Rgnl (KRDD)","Chico Rgnl (KCIC)","Peak and Lick Fire - CASHF",2025-08-25,2025-09-01,28.19
+N389AC,2025-08-31,"Chico Rgnl (KCIC)","Redding Rgnl (KRDD)","Peak and Lick Fire - CASHF",2025-08-25,2025-09-01,29.69
+N389AC,2025-08-30,"Redding Rgnl (KRDD)","Chico Rgnl (KCIC)","Peak Fire - CASHF",2025-08-25,2025-08-30,29.50
+N389AC,2025-08-30,"Redding Rgnl (KRDD)","Chico Rgnl (KCIC)","Peak and Lick Fire - CASHF",2025-08-25,2025-09-01,29.50
+N389AC,2025-08-30,"Chico Rgnl (KCIC)","Redding Rgnl (KRDD)","Peak Fire - CASHF",2025-08-25,2025-08-30,29.67
+N389AC,2025-08-30,"Chico Rgnl (KCIC)","Redding Rgnl (KRDD)","Peak and Lick Fire - CASHF",2025-08-25,2025-09-01,29.67
+N416AC,2025-08-31,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Spokane Intl (KGEG)","Grande Fire - WANES",2025-08-25,2025-08-31,27.66
+N416AC,2025-08-31,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Spokane Intl (KGEG)","Crown Creek Fire - WANES",2025-08-29,2025-09-01,29.59
+N416AC,2025-08-31,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Spokane Intl (KGEG)","Katy Creek - WACOF",2025-08-30,2025-09-01,25.51
+N416AC,2025-08-31,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Grande Fire - WANES",2025-08-25,2025-08-31,26.64
+N416AC,2025-08-31,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Crown Creek Fire - WANES",2025-08-29,2025-09-01,23.88
+N416AC,2025-08-31,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Katy Creek - WACOF",2025-08-30,2025-09-01,28.24
+N416AC,2025-08-31,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Grande Fire - WANES",2025-08-25,2025-08-31,28.69
+N416AC,2025-08-31,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Crown Creek Fire - WANES",2025-08-29,2025-09-01,29.79
+N416AC,2025-08-31,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Katy Creek - WACOF",2025-08-30,2025-09-01,28.51
+N416AC,2025-08-30,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Grande Fire - WANES",2025-08-25,2025-08-31,29.33
+N416AC,2025-08-30,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Crown Creek Fire - WANES",2025-08-29,2025-09-01,29.80
+N416AC,2025-08-30,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Katy Creek - WACOF",2025-08-30,2025-09-01,29.34
+N416AC,2025-08-30,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Grande Fire - WANES",2025-08-25,2025-08-31,27.65
+N416AC,2025-08-30,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Crown Creek Fire - WANES",2025-08-29,2025-09-01,29.17
+N416AC,2025-08-30,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Katy Creek - WACOF",2025-08-30,2025-09-01,29.16
+N416AC,2025-08-30,"Roberts Fld (KRDM)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Grande Fire - WANES",2025-08-25,2025-08-31,27.71
+N416AC,2025-08-30,"Roberts Fld (KRDM)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Crown Creek Fire - WANES",2025-08-29,2025-09-01,27.12
+N416AC,2025-08-30,"Roberts Fld (KRDM)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Katy Creek - WACOF",2025-08-30,2025-09-01,29.28
+N839AC,2025-09-01,"Redding Rgnl (KRDD)","Chico Rgnl (KCIC)","Root Fire - CASHF",2025-09-01,2025-09-01,26.64
+N839AC,2025-09-01,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Root Fire - CASHF",2025-09-01,2025-09-01,29.90
+N839AC,2025-09-01,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Root Fire - CASHF",2025-09-01,2025-09-01,29.39
+N839AC,2025-09-01,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Root Fire - CASHF",2025-09-01,2025-09-01,25.54
+N839AC,2025-09-01,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Root Fire - CASHF",2025-09-01,2025-09-01,28.33
+N839AC,2025-09-01,"Chico Rgnl (KCIC)","Redding Rgnl (KRDD)","Root Fire - CASHF",2025-09-01,2025-09-01,29.40
+N839AC,2025-09-01,"Chico Rgnl (KCIC)","Chico Rgnl (KCIC)","Peak and Lick Fire - CASHF",2025-08-25,2025-09-01,27.57
+N839AC,2025-09-01,"Chico Rgnl (KCIC)","Chico Rgnl (KCIC)","Root Fire - CASHF",2025-09-01,2025-09-01,28.60
+N988AC,2025-08-30,"Helena Rgnl (KHLN)","Spokane Intl (KGEG)","Windy Rock Fire - MTMTS",2025-08-14,2025-09-01,28.94
+N988AC,2025-08-30,"Helena Rgnl (KHLN)","Spokane Intl (KGEG)","Knowles Fire - MTMTS",2025-08-17,2025-09-01,29.53
+N998AC,2025-09-01,"Redding Rgnl (KRDD)","Chico Rgnl (KCIC)","Root Fire - CASHF",2025-09-01,2025-09-01,28.93
+N998AC,2025-09-01,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Root Fire - CASHF",2025-09-01,2025-09-01,27.30
+N998AC,2025-09-01,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Root Fire - CASHF",2025-09-01,2025-09-01,29.71
+N998AC,2025-09-01,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Root Fire - CASHF",2025-09-01,2025-09-01,26.65
+N998AC,2025-09-01,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Root Fire - CASHF",2025-09-01,2025-09-01,29.91
+N998AC,2025-09-01,"Chico Rgnl (KCIC)","Redding Rgnl (KRDD)","Root Fire - CASHF",2025-09-01,2025-09-01,28.93
+N415BT,2025-09-01,"Chico Rgnl (KCIC)","Near Redding, CA","Peak and Lick Fire - CASHF",2025-08-25,2025-09-01,29.33
+N417BT,2025-09-01,"Chico Rgnl (KCIC)","Chico Rgnl (KCIC)","Peak and Lick Fire - CASHF",2025-08-25,2025-09-01,28.59
+N417BT,2025-09-01,"Bozeman Yellowstone Intl (KBZN)","Chico Rgnl (KCIC)","Bivens Creek - MTBDF",2025-08-13,2025-09-02,29.28
+N418BT,2025-09-01,"Pangborn Meml (KEAT)","Mahlon Sweet Fld (KEUG)","Wildcat Fire - WAOWF",2025-08-25,2025-09-01,29.09
+N419BT,2025-09-01,"Pangborn Meml (KEAT)","Near Cascade Locks, OR","Wildcat Fire - WAOWF",2025-08-25,2025-09-01,28.20
+N419BT,2025-09-01,"Mahlon Sweet Fld (KEUG)","Pangborn Meml (KEAT)","Wildcat Fire - WAOWF",2025-08-25,2025-09-01,29.24
+N471NA,2025-08-31,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Peak and Lick Fire - CASHF",2025-08-25,2025-09-01,28.40
+N471NA,2025-08-31,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Peak and Lick Fire - CASHF",2025-08-25,2025-09-01,28.79
+N474NA,2025-09-01,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Root Fire - CASHF",2025-09-01,2025-09-01,28.39
+N474NA,2025-09-01,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Root Fire - CASHF",2025-09-01,2025-09-01,29.87
+N474NA,2025-09-01,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Root Fire - CASHF",2025-09-01,2025-09-01,28.09
+N474NA,2025-09-01,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Root Fire - CASHF",2025-09-01,2025-09-01,28.71
+N474NA,2025-09-01,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Root Fire - CASHF",2025-09-01,2025-09-01,28.93
+N474NA,2025-09-01,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Root Fire - CASHF",2025-09-01,2025-09-01,29.34
+N474NA,2025-09-01,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Root Fire - CASHF",2025-09-01,2025-09-01,25.53
+N474NA,2025-08-31,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Peak and Lick Fire - CASHF",2025-08-25,2025-09-01,28.80
+N474NA,2025-08-31,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Peak and Lick Fire - CASHF",2025-08-25,2025-09-01,27.59
+N476NA,2025-08-31,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Grande Fire - WANES",2025-08-25,2025-08-31,28.76
+N476NA,2025-08-31,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Crown Creek Fire - WANES",2025-08-29,2025-09-01,26.95
+N476NA,2025-08-31,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Katy Creek - WACOF",2025-08-30,2025-09-01,29.83
+N476NA,2025-08-31,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Grande Fire - WANES",2025-08-25,2025-08-31,28.51
+N476NA,2025-08-31,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Crown Creek Fire - WANES",2025-08-29,2025-09-01,28.73
+N476NA,2025-08-31,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Grande Fire - WANES",2025-08-25,2025-08-31,29.72
+N476NA,2025-08-31,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Crown Creek Fire - WANES",2025-08-29,2025-09-01,29.95
+N476NA,2025-08-31,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Katy Creek - WACOF",2025-08-30,2025-09-01,29.73
+N476NA,2025-08-31,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Grande Fire - WANES",2025-08-25,2025-08-31,29.25
+N476NA,2025-08-31,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Crown Creek Fire - WANES",2025-08-29,2025-09-01,24.79
+N476NA,2025-08-31,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Katy Creek - WACOF",2025-08-30,2025-09-01,28.34
+N476NA,2025-08-31,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Grande Fire - WANES",2025-08-25,2025-08-31,28.34
+N476NA,2025-08-31,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Crown Creek Fire - WANES",2025-08-29,2025-09-01,25.88
+N476NA,2025-08-31,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Katy Creek - WACOF",2025-08-30,2025-09-01,28.30
+N476NA,2025-08-31,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Grande Fire - WANES",2025-08-25,2025-08-31,28.64
+N476NA,2025-08-31,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Crown Creek Fire - WANES",2025-08-29,2025-09-01,28.19
+N476NA,2025-08-31,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Katy Creek - WACOF",2025-08-30,2025-09-01,27.88
+N476NA,2025-08-30,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Grande Fire - WANES",2025-08-25,2025-08-31,25.96
+N476NA,2025-08-30,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Crown Creek Fire - WANES",2025-08-29,2025-09-01,27.74
+N476NA,2025-08-30,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Katy Creek - WACOF",2025-08-30,2025-09-01,29.52
+N476NA,2025-08-30,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Grande Fire - WANES",2025-08-25,2025-08-31,29.16
+N476NA,2025-08-30,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Crown Creek Fire - WANES",2025-08-29,2025-09-01,26.95
+N476NA,2025-08-30,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Katy Creek - WACOF",2025-08-30,2025-09-01,29.23
+N476NA,2025-08-30,"Missoula Montana (KMSO)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Knowles Fire - MTMTS",2025-08-17,2025-09-01,26.59
+N476NA,2025-08-30,"Missoula Montana (KMSO)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Grande Fire - WANES",2025-08-25,2025-08-31,29.93
+N476NA,2025-08-30,"Missoula Montana (KMSO)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Crown Creek Fire - WANES",2025-08-29,2025-09-01,27.26
+N476NA,2025-08-30,"Missoula Montana (KMSO)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Katy Creek - WACOF",2025-08-30,2025-09-01,29.19
+N477NA,2025-08-31,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Grande Fire - WANES",2025-08-25,2025-08-31,29.89
+N477NA,2025-08-31,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Crown Creek Fire - WANES",2025-08-29,2025-09-01,29.72
+N477NA,2025-08-31,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Katy Creek - WACOF",2025-08-30,2025-09-01,29.97
+N477NA,2025-08-31,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Grande Fire - WANES",2025-08-25,2025-08-31,29.27
+N477NA,2025-08-31,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Crown Creek Fire - WANES",2025-08-29,2025-09-01,27.22
+N477NA,2025-08-31,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Grande Fire - WANES",2025-08-25,2025-08-31,30.00
+N477NA,2025-08-31,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Crown Creek Fire - WANES",2025-08-29,2025-09-01,29.91
+N477NA,2025-08-31,"Missoula Montana (KMSO)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Knowles Fire - MTMTS",2025-08-17,2025-09-01,25.85
+N477NA,2025-08-31,"Missoula Montana (KMSO)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Grande Fire - WANES",2025-08-25,2025-08-31,27.99
+N477NA,2025-08-31,"Missoula Montana (KMSO)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Crown Creek Fire - WANES",2025-08-29,2025-09-01,27.14
+N603AX,2025-09-01,"Rogue Valley Intl (KMFR)","Rogue Valley Intl (KMFR)","Root Fire - CASHF",2025-09-01,2025-09-01,26.99
+N603AX,2025-09-01,"Rogue Valley Intl (KMFR)","Grant County Intl (KMWH)","Emigrant Fire - ORWIF",2025-08-24,2025-09-01,29.71
+N603AX,2025-09-01,"Rogue Valley Intl (KMFR)","Grant County Intl (KMWH)","Wildcat Fire - WAOWF",2025-08-25,2025-09-01,28.97
+N603AX,2025-08-31,"Grant County Intl (KMWH)","Rogue Valley Intl (KMFR)","Emigrant Fire - ORWIF",2025-08-24,2025-09-01,28.11
+N603AX,2025-08-31,"Grant County Intl (KMWH)","Grant County Intl (KMWH)","Grande Fire - WANES",2025-08-25,2025-08-31,26.29
+N603AX,2025-08-31,"Grant County Intl (KMWH)","Grant County Intl (KMWH)","Crown Creek Fire - WANES",2025-08-29,2025-09-01,27.79
+N603AX,2025-08-31,"Grant County Intl (KMWH)","Grant County Intl (KMWH)","Katy Creek - WACOF",2025-08-30,2025-09-01,26.96
+N603AX,2025-08-31,"Grant County Intl (KMWH)","Grant County Intl (KMWH)","Grande Fire - WANES",2025-08-25,2025-08-31,29.84
+N603AX,2025-08-31,"Grant County Intl (KMWH)","Grant County Intl (KMWH)","Crown Creek Fire - WANES",2025-08-29,2025-09-01,28.84
+N603AX,2025-08-31,"Grant County Intl (KMWH)","Grant County Intl (KMWH)","Katy Creek - WACOF",2025-08-30,2025-09-01,29.22
+N603AX,2025-08-31,"Rogue Valley Intl (KMFR)","Grant County Intl (KMWH)","Emigrant Fire - ORWIF",2025-08-24,2025-09-01,28.26
+N603AX,2025-08-31,"Rogue Valley Intl (KMFR)","Grant County Intl (KMWH)","Grande Fire - WANES",2025-08-25,2025-08-31,28.68
+N603AX,2025-08-31,"Rogue Valley Intl (KMFR)","Grant County Intl (KMWH)","Crown Creek Fire - WANES",2025-08-29,2025-09-01,29.26
+N603AX,2025-08-31,"Rogue Valley Intl (KMFR)","Grant County Intl (KMWH)","Katy Creek - WACOF",2025-08-30,2025-09-01,21.59
+N612AX,2025-08-31,"Grant County Intl (KMWH)","Grant County Intl (KMWH)","Grande Fire - WANES",2025-08-25,2025-08-31,28.12
+N612AX,2025-08-31,"Grant County Intl (KMWH)","Grant County Intl (KMWH)","Crown Creek Fire - WANES",2025-08-29,2025-09-01,26.66
+N612AX,2025-08-31,"Grant County Intl (KMWH)","Grant County Intl (KMWH)","Katy Creek - WACOF",2025-08-30,2025-09-01,25.45
+N612AX,2025-08-31,"Grant County Intl (KMWH)","Grant County Intl (KMWH)","Grande Fire - WANES",2025-08-25,2025-08-31,29.10
+N612AX,2025-08-31,"Grant County Intl (KMWH)","Grant County Intl (KMWH)","Crown Creek Fire - WANES",2025-08-29,2025-09-01,29.37
+N612AX,2025-08-31,"Grant County Intl (KMWH)","Grant County Intl (KMWH)","Katy Creek - WACOF",2025-08-30,2025-09-01,28.28
+N612AX,2025-08-31,"Grant County Intl (KMWH)","Grant County Intl (KMWH)","Grande Fire - WANES",2025-08-25,2025-08-31,28.70
+N612AX,2025-08-31,"Grant County Intl (KMWH)","Grant County Intl (KMWH)","Crown Creek Fire - WANES",2025-08-29,2025-09-01,28.21
+N612AX,2025-08-31,"Grant County Intl (KMWH)","Grant County Intl (KMWH)","Katy Creek - WACOF",2025-08-30,2025-09-01,27.10
+N612AX,2025-08-31,"Rogue Valley Intl (KMFR)","Grant County Intl (KMWH)","Emigrant Fire - ORWIF",2025-08-24,2025-09-01,25.29
+N612AX,2025-08-31,"Rogue Valley Intl (KMFR)","Grant County Intl (KMWH)","Grande Fire - WANES",2025-08-25,2025-08-31,29.95
+N612AX,2025-08-31,"Rogue Valley Intl (KMFR)","Grant County Intl (KMWH)","Crown Creek Fire - WANES",2025-08-29,2025-09-01,29.97
+N612AX,2025-08-31,"Rogue Valley Intl (KMFR)","Grant County Intl (KMWH)","Katy Creek - WACOF",2025-08-30,2025-09-01,29.83
+N17085,2025-09-01,"Rogue Valley Intl (KMFR)","Sacramento McClellan (KMCC)","Root Fire - CASHF",2025-09-01,2025-09-01,29.61
+N17085,2025-09-01,"Rogue Valley Intl (KMFR)","Rogue Valley Intl (KMFR)","Root Fire - CASHF",2025-09-01,2025-09-01,28.36
+N17085,2025-09-01,"Sacramento McClellan (KMCC)","Rogue Valley Intl (KMFR)","Root Fire - CASHF",2025-09-01,2025-09-01,28.34
