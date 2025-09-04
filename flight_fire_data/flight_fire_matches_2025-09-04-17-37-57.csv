@@ -1,0 +1,272 @@
+TailNumber,FlightDate,Origin,Destination,FireIncident,FireStart,FireEnd,DistanceKM
+N136CG,2025-09-01,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Helena Rgnl (KHLN)","Windy Rock Fire - MTMTS",2025-08-14,2025-09-03,27.93
+N136CG,2025-09-01,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Helena Rgnl (KHLN)","Knowles Fire - MTMTS",2025-08-17,2025-09-03,27.93
+N136CG,2025-09-01,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Helena Rgnl (KHLN)","Rattlesnake - WACOA",2025-09-01,2025-09-03,28.88
+N136CG,2025-09-01,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Rattlesnake - WACOA",2025-09-01,2025-09-03,28.43
+N136CG,2025-09-01,"Helena Rgnl (KHLN)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Windy Rock Fire - MTMTS",2025-08-14,2025-09-03,29.92
+N136CG,2025-09-01,"Helena Rgnl (KHLN)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Knowles Fire - MTMTS",2025-08-17,2025-09-03,29.60
+N136CG,2025-09-01,"Helena Rgnl (KHLN)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Rattlesnake - WACOA",2025-09-01,2025-09-03,29.43
+N137CG,2025-09-02,"San Bernardino Intl (KSBD)","Fresno Yosemite Intl (KFAT)","Little Fire - CASQF",2025-08-22,2025-09-03,27.56
+N140CG,2025-09-02,"Rogue Valley Intl (KMFR)","Redding Rgnl (KRDD)","Swift Complex - CASHF",2025-08-25,2025-09-03,27.78
+N140CG,2025-09-02,"Rogue Valley Intl (KMFR)","Redding Rgnl (KRDD)","Blue Fire - Klamath National Forest - CAKNF",2025-08-26,2025-09-03,28.87
+N140CG,2025-09-02,"Rogue Valley Intl (KMFR)","Redding Rgnl (KRDD)","Root Fire - CASHF",2025-09-01,2025-09-03,28.53
+N140CG,2025-09-02,"Rogue Valley Intl (KMFR)","Rogue Valley Intl (KMFR)","Blue Fire - Klamath National Forest - CAKNF",2025-08-26,2025-09-03,29.84
+N140CG,2025-09-02,"Sacramento McClellan (KMCC)","Rogue Valley Intl (KMFR)","Swift Complex - CASHF",2025-08-25,2025-09-03,27.88
+N140CG,2025-09-02,"Sacramento McClellan (KMCC)","Rogue Valley Intl (KMFR)","Blue Fire - Klamath National Forest - CAKNF",2025-08-26,2025-09-03,27.67
+N140CG,2025-09-02,"Sacramento McClellan (KMCC)","Rogue Valley Intl (KMFR)","Log - CAKNF",2025-08-26,2025-09-02,29.95
+N140CG,2025-09-02,"Sacramento McClellan (KMCC)","Rogue Valley Intl (KMFR)","Log Fire - CAKNF",2025-08-26,2025-09-03,29.95
+N140CG,2025-09-02,"Sacramento McClellan (KMCC)","Rogue Valley Intl (KMFR)","Root Fire - CASHF",2025-09-01,2025-09-03,28.41
+N291EA,2025-09-02,"Near Moses Lake, WA","Grant County Intl (KMWH)","Rattlesnake - WACOA",2025-09-01,2025-09-03,27.90
+N291EA,2025-09-02,"Grant County Intl (KMWH)","Grant County Intl (KMWH)","Rattlesnake - WACOA",2025-09-01,2025-09-03,29.69
+N291EA,2025-09-02,"Near Moses Lake, WA","Grant County Intl (KMWH)","Rattlesnake - WACOA",2025-09-01,2025-09-03,27.50
+N291EA,2025-09-02,"Grant County Intl (KMWH)","Grant County Intl (KMWH)","Rattlesnake - WACOA",2025-09-01,2025-09-03,29.56
+N291EA,2025-09-02,"Roberts Fld (KRDM)","Grant County Intl (KMWH)","Rattlesnake - WACOA",2025-09-01,2025-09-03,27.26
+N291EA,2025-09-01,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Roberts Fld (KRDM)","Rattlesnake - WACOA",2025-09-01,2025-09-03,25.70
+N291EA,2025-09-01,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Rattlesnake - WACOA",2025-09-01,2025-09-03,22.28
+N291EA,2025-09-01,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Rattlesnake - WACOA",2025-09-01,2025-09-03,27.49
+N291EA,2025-09-01,"Grant County Intl (KMWH)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Rattlesnake - WACOA",2025-09-01,2025-09-03,28.45
+N291EA,2025-09-01,"Rogue Valley Intl (KMFR)","Grant County Intl (KMWH)","Emigrant Fire - ORWIF",2025-08-24,2025-09-03,26.38
+N291EA,2025-09-01,"Rogue Valley Intl (KMFR)","Grant County Intl (KMWH)","Rattlesnake - WACOA",2025-09-01,2025-09-03,26.64
+N291EA,2025-09-01,"Roberts Fld (KRDM)","Rogue Valley Intl (KMFR)","Emigrant Fire - ORWIF",2025-08-24,2025-09-03,29.39
+N292EA,2025-09-02,"General Wm J Fox Airfield (KWJF)","General Wm J Fox Airfield (KWJF)","Little Fire - CASQF",2025-08-22,2025-09-03,28.62
+N292EA,2025-09-01,"Fresno Yosemite Intl (KFAT)","General Wm J Fox Airfield (KWJF)","Little Fire - CASQF",2025-08-22,2025-09-03,28.51
+N292EA,2025-09-01,"General Wm J Fox Airfield (KWJF)","Fresno Yosemite Intl (KFAT)","Little Fire - CASQF",2025-08-22,2025-09-03,27.89
+N293EA,2025-09-02,"Sacramento McClellan (KMCC)","General Wm J Fox Airfield (KWJF)","Little Fire - CASQF",2025-08-22,2025-09-03,25.46
+N293EA,2025-09-02,"General Wm J Fox Airfield (KWJF)","Fresno Yosemite Intl (KFAT)","Little Fire - CASQF",2025-08-22,2025-09-03,25.03
+N293EA,2025-09-01,"Fresno Yosemite Intl (KFAT)","General Wm J Fox Airfield (KWJF)","Little Fire - CASQF",2025-08-22,2025-09-03,24.75
+N293EA,2025-09-01,"General Wm J Fox Airfield (KWJF)","Fresno Yosemite Intl (KFAT)","Little Fire - CASQF",2025-08-22,2025-09-03,25.53
+N296EA,2025-09-02,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Rattlesnake - WACOA",2025-09-01,2025-09-03,28.24
+N296EA,2025-09-02,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Rattlesnake - WACOA",2025-09-01,2025-09-03,29.12
+N296EA,2025-09-02,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Rattlesnake - WACOA",2025-09-01,2025-09-03,26.63
+N296EA,2025-09-02,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Rattlesnake - WACOA",2025-09-01,2025-09-03,28.63
+N296EA,2025-09-02,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Rattlesnake - WACOA",2025-09-01,2025-09-03,26.77
+N296EA,2025-09-02,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Rattlesnake - WACOA",2025-09-01,2025-09-03,29.49
+N296EA,2025-09-01,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Rattlesnake - WACOA",2025-09-01,2025-09-03,26.21
+N296EA,2025-09-01,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Rattlesnake - WACOA",2025-09-01,2025-09-03,29.95
+N296EA,2025-09-01,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Rattlesnake - WACOA",2025-09-01,2025-09-03,26.96
+N296EA,2025-09-01,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Rattlesnake - WACOA",2025-09-01,2025-09-03,25.90
+N296EA,2025-09-01,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Rattlesnake - WACOA",2025-09-01,2025-09-03,28.58
+N355AC,2025-09-02,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Rattlesnake - WACOA",2025-09-01,2025-09-03,25.78
+N355AC,2025-09-02,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Rattlesnake - WACOA",2025-09-01,2025-09-03,27.20
+N355AC,2025-09-02,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Rattlesnake - WACOA",2025-09-01,2025-09-03,28.90
+N355AC,2025-09-02,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Rattlesnake - WACOA",2025-09-01,2025-09-03,26.50
+N355AC,2025-09-02,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Rattlesnake - WACOA",2025-09-01,2025-09-03,26.71
+N355AC,2025-09-02,"Helena Rgnl (KHLN)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Windy Rock Fire - MTMTS",2025-08-14,2025-09-03,27.35
+N355AC,2025-09-02,"Helena Rgnl (KHLN)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Knowles Fire - MTMTS",2025-08-17,2025-09-03,27.89
+N355AC,2025-09-02,"Helena Rgnl (KHLN)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Rattlesnake - WACOA",2025-09-01,2025-09-03,29.10
+N355AC,2025-09-01,"Grant County Intl (KMWH)","Helena Rgnl (KHLN)","Windy Rock Fire - MTMTS",2025-08-14,2025-09-03,28.50
+N355AC,2025-09-01,"Helena Rgnl (KHLN)","Grant County Intl (KMWH)","Windy Rock Fire - MTMTS",2025-08-14,2025-09-03,28.02
+N355AC,2025-09-01,"Helena Rgnl (KHLN)","Grant County Intl (KMWH)","Knowles Fire - MTMTS",2025-08-17,2025-09-03,27.00
+N355AC,2025-09-01,"Helena Rgnl (KHLN)","Grant County Intl (KMWH)","Rattlesnake - WACOA",2025-09-01,2025-09-03,28.19
+N374AC,2025-09-03,"Helena Rgnl (KHLN)","Helena Rgnl (KHLN)","Windy Rock Fire - MTMTS",2025-08-14,2025-09-03,29.41
+N374AC,2025-09-03,"Helena Rgnl (KHLN)","Helena Rgnl (KHLN)","Windy Rock Fire - MTMTS",2025-08-14,2025-09-03,28.83
+N374AC,2025-09-03,"Helena Rgnl (KHLN)","Helena Rgnl (KHLN)","Windy Rock Fire - MTMTS",2025-08-14,2025-09-03,29.01
+N374AC,2025-09-01,"Billings Logan Intl (KBIL)","Near Sandpoint, ID","Ulm Creek Fire - IDIPF",2025-08-30,2025-09-03,27.91
+N385AC,2025-09-03,"Spokane Intl (KGEG)","Spokane Intl (KGEG)","Crown Creek Fire - WANES",2025-08-29,2025-09-03,23.68
+N385AC,2025-09-03,"Spokane Intl (KGEG)","Spokane Intl (KGEG)","Katy Creek - WACOF",2025-08-30,2025-09-03,23.38
+N385AC,2025-09-03,"Spokane Intl (KGEG)","Spokane Intl (KGEG)","Tacoma Creek - WANES",2025-09-01,2025-09-03,28.07
+N385AC,2025-09-03,"Near Trail, BC","Near Deer Park, WA","Tacoma Creek - WANES",2025-09-01,2025-09-03,3.88
+N385AC,2025-09-02,"Spokane Intl (KGEG)","Spokane Intl (KGEG)","Crown Creek Fire - WANES",2025-08-29,2025-09-03,27.95
+N385AC,2025-09-02,"Spokane Intl (KGEG)","Spokane Intl (KGEG)","Katy Creek - WACOF",2025-08-30,2025-09-03,28.58
+N385AC,2025-09-01,"Spokane Intl (KGEG)","Spokane Intl (KGEG)","Tacoma Creek - WANES",2025-09-01,2025-09-03,27.68
+N385AC,2025-09-01,"Yakima Air Terminal (KYKM)","Spokane Intl (KGEG)","Rattlesnake - WACOA",2025-09-01,2025-09-03,28.58
+N385AC,2025-09-01,"Yakima Air Terminal (KYKM)","Spokane Intl (KGEG)","Tacoma Creek - WANES",2025-09-01,2025-09-03,29.52
+N386AC,2025-09-03,"Near Trail, BC","Spokane Intl (KGEG)","Crown Creek Fire - WANES",2025-08-29,2025-09-03,10.23
+N386AC,2025-09-03,"Near Trail, BC","Spokane Intl (KGEG)","Katy Creek - WACOF",2025-08-30,2025-09-03,22.48
+N386AC,2025-09-03,"Near Trail, BC","Spokane Intl (KGEG)","Tacoma Creek - WANES",2025-09-01,2025-09-03,28.55
+N386AC,2025-09-03,"Spokane Intl (KGEG)","Spokane Intl (KGEG)","Tacoma Creek - WANES",2025-09-01,2025-09-03,29.53
+N386AC,2025-09-01,"Spokane Intl (KGEG)","Spokane Intl (KGEG)","Tacoma Creek - WANES",2025-09-01,2025-09-03,28.50
+N386AC,2025-09-01,"Yakima Air Terminal (KYKM)","Spokane Intl (KGEG)","Rattlesnake - WACOA",2025-09-01,2025-09-03,29.76
+N386AC,2025-09-01,"Yakima Air Terminal (KYKM)","Spokane Intl (KGEG)","Tacoma Creek - WANES",2025-09-01,2025-09-03,28.83
+N389AC,2025-09-02,"Chico Rgnl (KCIC)","Chico Rgnl (KCIC)","Swift Complex - CASHF",2025-08-25,2025-09-03,29.25
+N389AC,2025-09-02,"Chico Rgnl (KCIC)","Redding Rgnl (KRDD)","Swift Complex - CASHF",2025-08-25,2025-09-03,28.05
+N389AC,2025-09-01,"Near Redding, CA","Chico Rgnl (KCIC)","Peak and Lick Fire - CASHF",2025-08-25,2025-09-01,3.61
+N389AC,2025-09-01,"Near Redding, CA","Chico Rgnl (KCIC)","Swift Complex - CASHF",2025-08-25,2025-09-03,3.61
+N389AC,2025-09-01,"Redding Rgnl (KRDD)","Near Redding, CA","Peak and Lick Fire - CASHF",2025-08-25,2025-09-01,29.14
+N389AC,2025-09-01,"Redding Rgnl (KRDD)","Near Redding, CA","Swift Complex - CASHF",2025-08-25,2025-09-03,29.14
+N389AC,2025-09-01,"Chico Rgnl (KCIC)","Redding Rgnl (KRDD)","Peak and Lick Fire - CASHF",2025-08-25,2025-09-01,29.11
+N389AC,2025-09-01,"Chico Rgnl (KCIC)","Redding Rgnl (KRDD)","Swift Complex - CASHF",2025-08-25,2025-09-03,29.11
+N416AC,2025-09-01,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Rattlesnake - WACOA",2025-09-01,2025-09-03,27.99
+N416AC,2025-09-01,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Rattlesnake - WACOA",2025-09-01,2025-09-03,29.15
+N416AC,2025-09-01,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Rattlesnake - WACOA",2025-09-01,2025-09-03,26.28
+N416AC,2025-09-01,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Rattlesnake - WACOA",2025-09-01,2025-09-03,28.13
+N416AC,2025-09-01,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Rattlesnake - WACOA",2025-09-01,2025-09-03,28.59
+N416AC,2025-09-01,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Green Mountain - IDIPF",2025-08-29,2025-09-03,27.95
+N416AC,2025-09-01,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Ulm Creek Fire - IDIPF",2025-08-30,2025-09-03,29.08
+N416AC,2025-09-01,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Green Mountain - IDIPF",2025-08-29,2025-09-03,29.60
+N416AC,2025-09-01,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Ulm Creek Fire - IDIPF",2025-08-30,2025-09-03,28.10
+N635AC,2025-09-02,"Fresno Yosemite Intl (KFAT)","General Wm J Fox Airfield (KWJF)","Little Fire - CASQF",2025-08-22,2025-09-03,27.42
+N635AC,2025-09-02,"General Wm J Fox Airfield (KWJF)","General Wm J Fox Airfield (KWJF)","Little Fire - CASQF",2025-08-22,2025-09-03,28.64
+N635AC,2025-09-01,"Fresno Yosemite Intl (KFAT)","General Wm J Fox Airfield (KWJF)","Little Fire - CASQF",2025-08-22,2025-09-03,29.04
+N635AC,2025-09-01,"General Wm J Fox Airfield (KWJF)","Fresno Yosemite Intl (KFAT)","Little Fire - CASQF",2025-08-22,2025-09-03,27.47
+N839AC,2025-09-02,"Rogue Valley Intl (KMFR)","Chico Rgnl (KCIC)","Swift Complex - CASHF",2025-08-25,2025-09-03,28.18
+N839AC,2025-09-02,"Rogue Valley Intl (KMFR)","Chico Rgnl (KCIC)","Blue Fire - Klamath National Forest - CAKNF",2025-08-26,2025-09-03,27.72
+N839AC,2025-09-02,"Rogue Valley Intl (KMFR)","Chico Rgnl (KCIC)","Log - CAKNF",2025-08-26,2025-09-02,29.29
+N839AC,2025-09-02,"Rogue Valley Intl (KMFR)","Chico Rgnl (KCIC)","Log Fire - CAKNF",2025-08-26,2025-09-03,29.29
+N839AC,2025-09-02,"Rogue Valley Intl (KMFR)","Rogue Valley Intl (KMFR)","Blue Fire - Klamath National Forest - CAKNF",2025-08-26,2025-09-03,28.60
+N839AC,2025-09-02,"Rogue Valley Intl (KMFR)","Rogue Valley Intl (KMFR)","Blue Fire - Klamath National Forest - CAKNF",2025-08-26,2025-09-03,29.86
+N839AC,2025-09-02,"Chico Rgnl (KCIC)","Rogue Valley Intl (KMFR)","Swift Complex - CASHF",2025-08-25,2025-09-03,29.15
+N839AC,2025-09-02,"Chico Rgnl (KCIC)","Rogue Valley Intl (KMFR)","Blue Fire - Klamath National Forest - CAKNF",2025-08-26,2025-09-03,25.38
+N839AC,2025-09-02,"Chico Rgnl (KCIC)","Rogue Valley Intl (KMFR)","Log - CAKNF",2025-08-26,2025-09-02,25.01
+N839AC,2025-09-02,"Chico Rgnl (KCIC)","Rogue Valley Intl (KMFR)","Log Fire - CAKNF",2025-08-26,2025-09-03,25.01
+N839AC,2025-09-01,"Redding Rgnl (KRDD)","Chico Rgnl (KCIC)","Root Fire - CASHF",2025-09-01,2025-09-01,26.64
+N839AC,2025-09-01,"Redding Rgnl (KRDD)","Chico Rgnl (KCIC)","Root Fire - CASHF",2025-09-01,2025-09-03,26.68
+N839AC,2025-09-01,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Root Fire - CASHF",2025-09-01,2025-09-01,29.90
+N839AC,2025-09-01,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Root Fire - CASHF",2025-09-01,2025-09-03,29.93
+N839AC,2025-09-01,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Root Fire - CASHF",2025-09-01,2025-09-01,29.39
+N839AC,2025-09-01,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Root Fire - CASHF",2025-09-01,2025-09-03,29.43
+N839AC,2025-09-01,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Root Fire - CASHF",2025-09-01,2025-09-01,25.54
+N839AC,2025-09-01,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Root Fire - CASHF",2025-09-01,2025-09-03,25.57
+N839AC,2025-09-01,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Root Fire - CASHF",2025-09-01,2025-09-01,28.33
+N839AC,2025-09-01,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Root Fire - CASHF",2025-09-01,2025-09-03,28.36
+N839AC,2025-09-01,"Chico Rgnl (KCIC)","Redding Rgnl (KRDD)","Root Fire - CASHF",2025-09-01,2025-09-01,29.40
+N839AC,2025-09-01,"Chico Rgnl (KCIC)","Redding Rgnl (KRDD)","Root Fire - CASHF",2025-09-01,2025-09-03,29.44
+N839AC,2025-09-01,"Chico Rgnl (KCIC)","Chico Rgnl (KCIC)","Peak and Lick Fire - CASHF",2025-08-25,2025-09-01,27.57
+N839AC,2025-09-01,"Chico Rgnl (KCIC)","Chico Rgnl (KCIC)","Swift Complex - CASHF",2025-08-25,2025-09-03,27.57
+N839AC,2025-09-01,"Chico Rgnl (KCIC)","Chico Rgnl (KCIC)","Root Fire - CASHF",2025-09-01,2025-09-01,28.60
+N839AC,2025-09-01,"Chico Rgnl (KCIC)","Chico Rgnl (KCIC)","Root Fire - CASHF",2025-09-01,2025-09-03,28.63
+N988AC,2025-09-02,"Grant County Intl (KMWH)","Grant County Intl (KMWH)","Rattlesnake - WACOA",2025-09-01,2025-09-03,29.62
+N988AC,2025-09-02,"Grant County Intl (KMWH)","Grant County Intl (KMWH)","Rattlesnake - WACOA",2025-09-01,2025-09-03,27.61
+N988AC,2025-09-02,"Grant County Intl (KMWH)","Grant County Intl (KMWH)","Rattlesnake - WACOA",2025-09-01,2025-09-03,29.43
+N988AC,2025-09-02,"Grant County Intl (KMWH)","Grant County Intl (KMWH)","Rattlesnake - WACOA",2025-09-01,2025-09-03,29.34
+N988AC,2025-09-02,"Grant County Intl (KMWH)","Grant County Intl (KMWH)","Rattlesnake - WACOA",2025-09-01,2025-09-03,29.20
+N988AC,2025-09-02,"Grant County Intl (KMWH)","Grant County Intl (KMWH)","Rattlesnake - WACOA",2025-09-01,2025-09-03,26.73
+N988AC,2025-09-01,"Grant County Intl (KMWH)","Grant County Intl (KMWH)","Rattlesnake - WACOA",2025-09-01,2025-09-03,28.06
+N988AC,2025-09-01,"Grant County Intl (KMWH)","Grant County Intl (KMWH)","Rattlesnake - WACOA",2025-09-01,2025-09-03,27.15
+N988AC,2025-09-01,"Grant County Intl (KMWH)","Grant County Intl (KMWH)","Rattlesnake - WACOA",2025-09-01,2025-09-03,29.62
+N988AC,2025-09-01,"Grant County Intl (KMWH)","Grant County Intl (KMWH)","Rattlesnake - WACOA",2025-09-01,2025-09-03,29.80
+N988AC,2025-09-01,"Spokane Intl (KGEG)","Grant County Intl (KMWH)","Rattlesnake - WACOA",2025-09-01,2025-09-03,26.56
+N998AC,2025-09-02,"Rogue Valley Intl (KMFR)","Redding Rgnl (KRDD)","Swift Complex - CASHF",2025-08-25,2025-09-03,29.30
+N998AC,2025-09-02,"Rogue Valley Intl (KMFR)","Redding Rgnl (KRDD)","Blue Fire - Klamath National Forest - CAKNF",2025-08-26,2025-09-03,28.82
+N998AC,2025-09-02,"Rogue Valley Intl (KMFR)","Redding Rgnl (KRDD)","Log - CAKNF",2025-08-26,2025-09-02,24.63
+N998AC,2025-09-02,"Rogue Valley Intl (KMFR)","Redding Rgnl (KRDD)","Log Fire - CAKNF",2025-08-26,2025-09-03,24.63
+N998AC,2025-09-02,"Rogue Valley Intl (KMFR)","Rogue Valley Intl (KMFR)","Blue Fire - Klamath National Forest - CAKNF",2025-08-26,2025-09-03,28.51
+N998AC,2025-09-02,"Near Montague, CA","Rogue Valley Intl (KMFR)","Blue Fire - Klamath National Forest - CAKNF",2025-08-26,2025-09-03,27.33
+N998AC,2025-09-02,"Near Montague, CA","Rogue Valley Intl (KMFR)","Log - CAKNF",2025-08-26,2025-09-02,28.39
+N998AC,2025-09-02,"Near Montague, CA","Rogue Valley Intl (KMFR)","Log Fire - CAKNF",2025-08-26,2025-09-03,28.39
+N998AC,2025-09-01,"Redding Rgnl (KRDD)","Chico Rgnl (KCIC)","Root Fire - CASHF",2025-09-01,2025-09-01,28.93
+N998AC,2025-09-01,"Redding Rgnl (KRDD)","Chico Rgnl (KCIC)","Root Fire - CASHF",2025-09-01,2025-09-03,28.96
+N998AC,2025-09-01,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Root Fire - CASHF",2025-09-01,2025-09-01,27.30
+N998AC,2025-09-01,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Root Fire - CASHF",2025-09-01,2025-09-03,27.33
+N998AC,2025-09-01,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Root Fire - CASHF",2025-09-01,2025-09-01,29.71
+N998AC,2025-09-01,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Root Fire - CASHF",2025-09-01,2025-09-03,29.74
+N998AC,2025-09-01,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Root Fire - CASHF",2025-09-01,2025-09-01,26.65
+N998AC,2025-09-01,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Root Fire - CASHF",2025-09-01,2025-09-03,26.68
+N998AC,2025-09-01,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Root Fire - CASHF",2025-09-01,2025-09-01,29.91
+N998AC,2025-09-01,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Root Fire - CASHF",2025-09-01,2025-09-03,29.95
+N998AC,2025-09-01,"Chico Rgnl (KCIC)","Redding Rgnl (KRDD)","Root Fire - CASHF",2025-09-01,2025-09-01,28.93
+N998AC,2025-09-01,"Chico Rgnl (KCIC)","Redding Rgnl (KRDD)","Root Fire - CASHF",2025-09-01,2025-09-03,28.97
+N415BT,2025-09-02,"Redding Rgnl (KRDD)","Chico Rgnl (KCIC)","Swift Complex - CASHF",2025-08-25,2025-09-03,28.67
+N415BT,2025-09-02,"Chico Rgnl (KCIC)","Redding Rgnl (KRDD)","Swift Complex - CASHF",2025-08-25,2025-09-03,28.37
+N415BT,2025-09-01,"Chico Rgnl (KCIC)","Near Redding, CA","Peak and Lick Fire - CASHF",2025-08-25,2025-09-01,29.33
+N415BT,2025-09-01,"Chico Rgnl (KCIC)","Near Redding, CA","Swift Complex - CASHF",2025-08-25,2025-09-03,29.33
+N417BT,2025-09-02,"Near Redding, CA","Chico Rgnl (KCIC)","Swift Complex - CASHF",2025-08-25,2025-09-03,28.90
+N417BT,2025-09-02,"Chico Rgnl (KCIC)","Near Redding, CA","Swift Complex - CASHF",2025-08-25,2025-09-03,29.90
+N417BT,2025-09-01,"Chico Rgnl (KCIC)","Chico Rgnl (KCIC)","Peak and Lick Fire - CASHF",2025-08-25,2025-09-01,28.59
+N417BT,2025-09-01,"Chico Rgnl (KCIC)","Chico Rgnl (KCIC)","Swift Complex - CASHF",2025-08-25,2025-09-03,28.59
+N418BT,2025-09-02,"Mahlon Sweet Fld (KEUG)","Mahlon Sweet Fld (KEUG)","Wildcat Fire - WAOWF",2025-08-25,2025-09-03,28.54
+N418BT,2025-09-02,"Mahlon Sweet Fld (KEUG)","Mahlon Sweet Fld (KEUG)","Labor Mountain Fire - WAOWF",2025-09-01,2025-09-03,29.71
+N418BT,2025-09-02,"Mahlon Sweet Fld (KEUG)","Mahlon Sweet Fld (KEUG)","Lower Sugarloaf Fire - WAOWF",2025-09-01,2025-09-03,29.83
+N418BT,2025-09-01,"Pangborn Meml (KEAT)","Mahlon Sweet Fld (KEUG)","Wildcat Fire - WAOWF",2025-08-25,2025-09-03,29.09
+N418BT,2025-09-01,"Pangborn Meml (KEAT)","Mahlon Sweet Fld (KEUG)","Labor Mountain Fire - WAOWF",2025-09-01,2025-09-03,28.74
+N418BT,2025-09-01,"Near Easton, WA","Pangborn Meml (KEAT)","Labor Mountain Fire - WAOWF",2025-09-01,2025-09-03,21.51
+N419BT,2025-09-02,"Mahlon Sweet Fld (KEUG)","Near Easton, WA","Wildcat Fire - WAOWF",2025-08-25,2025-09-03,28.40
+N419BT,2025-09-02,"Mahlon Sweet Fld (KEUG)","Near Easton, WA","Labor Mountain Fire - WAOWF",2025-09-01,2025-09-03,28.74
+N419BT,2025-09-02,"Mahlon Sweet Fld (KEUG)","Near Easton, WA","Lower Sugarloaf Fire - WAOWF",2025-09-01,2025-09-03,29.74
+N419BT,2025-09-01,"Pangborn Meml (KEAT)","Near Cascade Locks, OR","Wildcat Fire - WAOWF",2025-08-25,2025-09-03,28.20
+N419BT,2025-09-01,"Pangborn Meml (KEAT)","Near Cascade Locks, OR","Labor Mountain Fire - WAOWF",2025-09-01,2025-09-03,28.46
+N419BT,2025-09-01,"Mahlon Sweet Fld (KEUG)","Pangborn Meml (KEAT)","Wildcat Fire - WAOWF",2025-08-25,2025-09-03,29.24
+N419BT,2025-09-01,"Mahlon Sweet Fld (KEUG)","Pangborn Meml (KEAT)","Labor Mountain Fire - WAOWF",2025-09-01,2025-09-03,29.23
+N471NA,2025-09-03,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Root Fire - CASHF",2025-09-01,2025-09-03,28.60
+N471NA,2025-09-03,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Root Fire - CASHF",2025-09-01,2025-09-03,29.19
+N471NA,2025-09-02,"Rogue Valley Intl (KMFR)","Redding Rgnl (KRDD)","Swift Complex - CASHF",2025-08-25,2025-09-03,27.77
+N471NA,2025-09-02,"Rogue Valley Intl (KMFR)","Redding Rgnl (KRDD)","Blue Fire - Klamath National Forest - CAKNF",2025-08-26,2025-09-03,29.99
+N471NA,2025-09-02,"Rogue Valley Intl (KMFR)","Redding Rgnl (KRDD)","Log - CAKNF",2025-08-26,2025-09-02,27.23
+N471NA,2025-09-02,"Rogue Valley Intl (KMFR)","Redding Rgnl (KRDD)","Log Fire - CAKNF",2025-08-26,2025-09-03,27.23
+N471NA,2025-09-02,"Rogue Valley Intl (KMFR)","Rogue Valley Intl (KMFR)","Blue Fire - Klamath National Forest - CAKNF",2025-08-26,2025-09-03,29.90
+N471NA,2025-09-02,"Rogue Valley Intl (KMFR)","Rogue Valley Intl (KMFR)","Blue Fire - Klamath National Forest - CAKNF",2025-08-26,2025-09-03,28.64
+N471NA,2025-09-02,"Rogue Valley Intl (KMFR)","Rogue Valley Intl (KMFR)","Blue Fire - Klamath National Forest - CAKNF",2025-08-26,2025-09-03,29.30
+N471NA,2025-09-02,"Rogue Valley Intl (KMFR)","Rogue Valley Intl (KMFR)","Blue Fire - Klamath National Forest - CAKNF",2025-08-26,2025-09-03,29.26
+N472NA,2025-09-02,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Rattlesnake - WACOA",2025-09-01,2025-09-03,26.22
+N472NA,2025-09-02,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Rattlesnake - WACOA",2025-09-01,2025-09-03,28.82
+N472NA,2025-09-02,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Rattlesnake - WACOA",2025-09-01,2025-09-03,27.00
+N472NA,2025-09-02,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Rattlesnake - WACOA",2025-09-01,2025-09-03,26.02
+N472NA,2025-09-02,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Rattlesnake - WACOA",2025-09-01,2025-09-03,27.91
+N472NA,2025-09-02,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Lower Sugarloaf Fire - WAOWF",2025-09-01,2025-09-03,29.37
+N472NA,2025-09-02,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Rattlesnake - WACOA",2025-09-01,2025-09-03,27.31
+N472NA,2025-09-01,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Rattlesnake - WACOA",2025-09-01,2025-09-03,29.12
+N472NA,2025-09-01,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Rattlesnake - WACOA",2025-09-01,2025-09-03,28.59
+N472NA,2025-09-01,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Rattlesnake - WACOA",2025-09-01,2025-09-03,27.62
+N472NA,2025-09-01,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Rattlesnake - WACOA",2025-09-01,2025-09-03,29.34
+N472NA,2025-09-01,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Rattlesnake - WACOA",2025-09-01,2025-09-03,29.16
+N473NA,2025-09-02,"San Bernardino Intl (KSBD)","Sacramento McClellan (KMCC)","Little Fire - CASQF",2025-08-22,2025-09-03,28.30
+N474NA,2025-09-03,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Root Fire - CASHF",2025-09-01,2025-09-03,25.57
+N474NA,2025-09-03,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Root Fire - CASHF",2025-09-01,2025-09-03,28.01
+N474NA,2025-09-03,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Root Fire - CASHF",2025-09-01,2025-09-03,27.89
+N474NA,2025-09-01,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Root Fire - CASHF",2025-09-01,2025-09-01,28.39
+N474NA,2025-09-01,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Root Fire - CASHF",2025-09-01,2025-09-03,28.42
+N474NA,2025-09-01,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Root Fire - CASHF",2025-09-01,2025-09-01,29.87
+N474NA,2025-09-01,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Root Fire - CASHF",2025-09-01,2025-09-03,29.91
+N474NA,2025-09-01,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Root Fire - CASHF",2025-09-01,2025-09-01,28.09
+N474NA,2025-09-01,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Root Fire - CASHF",2025-09-01,2025-09-03,28.12
+N474NA,2025-09-01,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Root Fire - CASHF",2025-09-01,2025-09-01,28.71
+N474NA,2025-09-01,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Root Fire - CASHF",2025-09-01,2025-09-03,28.74
+N474NA,2025-09-01,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Root Fire - CASHF",2025-09-01,2025-09-01,28.93
+N474NA,2025-09-01,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Root Fire - CASHF",2025-09-01,2025-09-03,28.96
+N474NA,2025-09-01,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Root Fire - CASHF",2025-09-01,2025-09-01,29.34
+N474NA,2025-09-01,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Root Fire - CASHF",2025-09-01,2025-09-03,29.37
+N474NA,2025-09-01,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Root Fire - CASHF",2025-09-01,2025-09-01,25.53
+N474NA,2025-09-01,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Root Fire - CASHF",2025-09-01,2025-09-03,25.57
+N476NA,2025-09-02,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Rattlesnake - WACOA",2025-09-01,2025-09-03,28.93
+N476NA,2025-09-02,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Rattlesnake - WACOA",2025-09-01,2025-09-03,29.46
+N476NA,2025-09-02,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Rattlesnake - WACOA",2025-09-01,2025-09-03,28.92
+N476NA,2025-09-02,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Rattlesnake - WACOA",2025-09-01,2025-09-03,26.62
+N476NA,2025-09-01,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Rattlesnake - WACOA",2025-09-01,2025-09-03,28.92
+N476NA,2025-09-01,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Rattlesnake - WACOA",2025-09-01,2025-09-03,26.84
+N476NA,2025-09-01,"Grant County Intl (KMWH)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Rattlesnake - WACOA",2025-09-01,2025-09-03,29.83
+N476NA,2025-09-01,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Grant County Intl (KMWH)","Labor Mountain Fire - WAOWF",2025-09-01,2025-09-03,27.84
+N476NA,2025-09-01,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Grant County Intl (KMWH)","Lower Sugarloaf Fire - WAOWF",2025-09-01,2025-09-03,26.43
+N476NA,2025-09-01,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Grant County Intl (KMWH)","Rattlesnake - WACOA",2025-09-01,2025-09-03,29.30
+N477NA,2025-09-02,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Rattlesnake - WACOA",2025-09-01,2025-09-03,25.87
+N477NA,2025-09-01,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Rattlesnake - WACOA",2025-09-01,2025-09-03,25.90
+N477NA,2025-09-01,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Near Spokane, WA","Rattlesnake - WACOA",2025-09-01,2025-09-03,28.63
+N477NA,2025-09-01,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Green Mountain - IDIPF",2025-08-29,2025-09-03,29.08
+N477NA,2025-09-01,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Ulm Creek Fire - IDIPF",2025-08-30,2025-09-03,27.26
+N477NA,2025-09-01,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Green Mountain - IDIPF",2025-08-29,2025-09-03,29.05
+N477NA,2025-09-01,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Ulm Creek Fire - IDIPF",2025-08-30,2025-09-03,27.14
+N478NA,2025-09-03,"Helena Rgnl (KHLN)","Helena Rgnl (KHLN)","Windy Rock Fire - MTMTS",2025-08-14,2025-09-03,27.98
+N478NA,2025-09-03,"Helena Rgnl (KHLN)","Helena Rgnl (KHLN)","Windy Rock Fire - MTMTS",2025-08-14,2025-09-03,28.11
+N478NA,2025-09-03,"Helena Rgnl (KHLN)","Helena Rgnl (KHLN)","Windy Rock Fire - MTMTS",2025-08-14,2025-09-03,28.30
+N478NA,2025-09-02,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Helena Rgnl (KHLN)","Windy Rock Fire - MTMTS",2025-08-14,2025-09-03,26.91
+N478NA,2025-09-02,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Helena Rgnl (KHLN)","Knowles Fire - MTMTS",2025-08-17,2025-09-03,28.15
+N478NA,2025-09-02,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Rattlesnake - WACOA",2025-09-01,2025-09-03,28.33
+N478NA,2025-09-02,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Rattlesnake - WACOA",2025-09-01,2025-09-03,27.56
+N478NA,2025-09-02,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Rattlesnake - WACOA",2025-09-01,2025-09-03,27.87
+N478NA,2025-09-02,"Helena Rgnl (KHLN)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Windy Rock Fire - MTMTS",2025-08-14,2025-09-03,27.88
+N478NA,2025-09-02,"Helena Rgnl (KHLN)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Knowles Fire - MTMTS",2025-08-17,2025-09-03,29.08
+N478NA,2025-09-02,"Helena Rgnl (KHLN)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Rattlesnake - WACOA",2025-09-01,2025-09-03,29.15
+N522AX,2025-09-02,"Helena Rgnl (KHLN)","Rogue Valley Intl (KMFR)","Windy Rock Fire - MTMTS",2025-08-14,2025-09-03,29.42
+N603AX,2025-09-01,"Rogue Valley Intl (KMFR)","Rogue Valley Intl (KMFR)","Root Fire - CASHF",2025-09-01,2025-09-01,26.99
+N603AX,2025-09-01,"Rogue Valley Intl (KMFR)","Rogue Valley Intl (KMFR)","Root Fire - CASHF",2025-09-01,2025-09-03,26.95
+N603AX,2025-09-01,"Rogue Valley Intl (KMFR)","Grant County Intl (KMWH)","Emigrant Fire - ORWIF",2025-08-24,2025-09-03,29.71
+N603AX,2025-09-01,"Rogue Valley Intl (KMFR)","Grant County Intl (KMWH)","Wildcat Fire - WAOWF",2025-08-25,2025-09-03,28.97
+N612AX,2025-09-03,"Grant County Intl (KMWH)","Grant County Intl (KMWH)","Rattlesnake - WACOA",2025-09-01,2025-09-03,28.64
+N612AX,2025-09-02,"Grant County Intl (KMWH)","Grant County Intl (KMWH)","Rattlesnake - WACOA",2025-09-01,2025-09-03,29.13
+N612AX,2025-09-02,"Grant County Intl (KMWH)","Grant County Intl (KMWH)","Rattlesnake - WACOA",2025-09-01,2025-09-03,26.68
+N612AX,2025-09-02,"Grant County Intl (KMWH)","Grant County Intl (KMWH)","Rattlesnake - WACOA",2025-09-01,2025-09-03,29.22
+N612AX,2025-09-02,"Grant County Intl (KMWH)","Grant County Intl (KMWH)","Rattlesnake - WACOA",2025-09-01,2025-09-03,28.91
+N612AX,2025-09-02,"Grant County Intl (KMWH)","Grant County Intl (KMWH)","Rattlesnake - WACOA",2025-09-01,2025-09-03,28.54
+N612AX,2025-09-02,"Grant County Intl (KMWH)","Grant County Intl (KMWH)","Rattlesnake - WACOA",2025-09-01,2025-09-03,27.55
+N612AX,2025-09-02,"Grant County Intl (KMWH)","Grant County Intl (KMWH)","Rattlesnake - WACOA",2025-09-01,2025-09-03,27.14
+N612AX,2025-09-01,"Grant County Intl (KMWH)","Grant County Intl (KMWH)","Rattlesnake - WACOA",2025-09-01,2025-09-03,28.31
+N612AX,2025-09-01,"Grant County Intl (KMWH)","Grant County Intl (KMWH)","Rattlesnake - WACOA",2025-09-01,2025-09-03,29.10
+N612AX,2025-09-01,"Grant County Intl (KMWH)","Grant County Intl (KMWH)","Rattlesnake - WACOA",2025-09-01,2025-09-03,27.97
+N612AX,2025-09-01,"Grant County Intl (KMWH)","Grant County Intl (KMWH)","Rattlesnake - WACOA",2025-09-01,2025-09-03,26.68
+N612AX,2025-09-01,"Grant County Intl (KMWH)","Grant County Intl (KMWH)","Rattlesnake - WACOA",2025-09-01,2025-09-03,29.79
+N612AX,2025-09-01,"Grant County Intl (KMWH)","Grant County Intl (KMWH)","Rattlesnake - WACOA",2025-09-01,2025-09-03,29.28
+N17085,2025-09-01,"Rogue Valley Intl (KMFR)","Sacramento McClellan (KMCC)","Root Fire - CASHF",2025-09-01,2025-09-01,29.61
+N17085,2025-09-01,"Rogue Valley Intl (KMFR)","Sacramento McClellan (KMCC)","Root Fire - CASHF",2025-09-01,2025-09-03,29.57
+N17085,2025-09-01,"Rogue Valley Intl (KMFR)","Rogue Valley Intl (KMFR)","Root Fire - CASHF",2025-09-01,2025-09-01,28.36
+N17085,2025-09-01,"Rogue Valley Intl (KMFR)","Rogue Valley Intl (KMFR)","Root Fire - CASHF",2025-09-01,2025-09-03,28.33
+N17085,2025-09-01,"Sacramento McClellan (KMCC)","Rogue Valley Intl (KMFR)","Root Fire - CASHF",2025-09-01,2025-09-01,28.34
+N17085,2025-09-01,"Sacramento McClellan (KMCC)","Rogue Valley Intl (KMFR)","Root Fire - CASHF",2025-09-01,2025-09-03,28.38
