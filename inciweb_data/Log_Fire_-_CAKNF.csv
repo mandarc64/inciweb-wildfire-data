@@ -1,0 +1,2 @@
+ScrapeDate,Incident,Type,State,Size,Updated,CurrentAsOf,IncidentTimeZone,IncidentType,Cause,DateOfOrigin,Location,IncidentCommander,Coordinates,Latitude,Longitude,TotalPersonnel,ContainmentPercent
+2025-09-04,"Log Fire - CAKNF","Wildfire","California","758 Acres","13 hours 29 minutes ago","Wed, 09/03/2025 - 21:53","Pacific Standard Time","Wildfire","Lightning","Tue, 08/26/2025 - 13:13","19 miles east of Etna, California","Terry Williamson, ICT3, Klamath National Forest","41° 24' 54'', -123° 15' 59 ''","41° 24' 54''","-123° 15' 59 ''","19","0%"

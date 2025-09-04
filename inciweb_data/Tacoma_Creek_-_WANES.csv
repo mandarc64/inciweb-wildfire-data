@@ -1,3 +1,5 @@
 ScrapeDate,Incident,Type,State,Size,Updated,CurrentAsOf,IncidentTimeZone,IncidentType,Cause,DateOfOrigin,Location,IncidentCommander,Coordinates,Latitude,Longitude,TotalPersonnel,ContainmentPercent
 2025-09-03,"Tacoma Creek - WANES","Wildfire","Washington","100 Acres","20 hours 4 minutes ago","Tue, 09/02/2025 - 15:14","","Wildfire","Under investigation","Mon, 09/01/2025 - 02:15","15 miles NW of Cusick, WA","Shane Robson, ICT3
 Northeast Washington Incident Management Team 2","48° 29' 39'', -117° 30' 41 ''","48° 29' 39''","-117° 30' 41 ''","112","0%"
+2025-09-04,"Tacoma Creek - WANES","Wildfire","Washington","651 Acres","18 hours 7 minutes ago","Wed, 09/03/2025 - 17:15","","Wildfire","Under investigation","Mon, 09/01/2025 - 02:15","15 miles NW of Cusick, WA","Shane Robson, ICT3
+Northeast Washington Incident Management Team 2","48° 29' 39'', -117° 30' 41 ''","48° 29' 39''","-117° 30' 41 ''","112","0%"

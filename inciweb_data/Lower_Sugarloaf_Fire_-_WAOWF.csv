@@ -1,0 +1,2 @@
+ScrapeDate,Incident,Type,State,Size,Updated,CurrentAsOf,IncidentTimeZone,IncidentType,Cause,DateOfOrigin,Location,IncidentCommander,Coordinates,Latitude,Longitude,TotalPersonnel,ContainmentPercent
+2025-09-04,"Lower Sugarloaf Fire - WAOWF","Wildfire","Washington","3,700 Acres","10 hours 13 minutes ago","Thu, 09/04/2025 - 01:09","Pacific Standard Time","Wildfire","lightning/natural","Mon, 09/01/2025 - 10:30","12 miles northeast of Leavenworth, WA","Ross Boots ICT4, USFS","47° 45' 20'', -120° 33' 16 ''","47° 45' 20''","-120° 33' 16 ''","150","0%"
