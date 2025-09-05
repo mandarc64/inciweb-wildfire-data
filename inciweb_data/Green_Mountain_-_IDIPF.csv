@@ -1,3 +1,4 @@
 ScrapeDate,Incident,Type,State,Size,Updated,CurrentAsOf,IncidentTimeZone,IncidentType,Cause,DateOfOrigin,Location,IncidentCommander,Coordinates,Latitude,Longitude,TotalPersonnel,ContainmentPercent
 2025-09-03,"Green Mountain - IDIPF","Wildfire","Idaho","1 Acres","16 hours 15 minutes ago","Tue, 09/02/2025 - 19:02","Pacific Standard Time","Wildfire","","Fri, 08/29/2025 - 06:27","","","48° 7' 00'', -116° 19' 99 ''","48° 7' 00''","-116° 19' 99 ''","","0%"
 2025-09-04,"Green Mountain - IDIPF","Wildfire","Idaho","1 Acres","18 hours 21 minutes ago","Wed, 09/03/2025 - 17:01","Pacific Standard Time","Wildfire","","Fri, 08/29/2025 - 06:27","","","48° 7' 00'', -116° 19' 99 ''","48° 7' 00''","-116° 19' 99 ''","","0%"
+2025-09-05,"Green Mountain - IDIPF","Wildfire","Idaho","1 Acres","11 hours 54 minutes ago","Thu, 09/04/2025 - 23:27","Pacific Standard Time","Wildfire","","Fri, 08/29/2025 - 06:27","","","48° 7' 00'', -116° 19' 99 ''","48° 7' 00''","-116° 19' 99 ''","","0%"
