@@ -1,0 +1,2 @@
+ScrapeDate,Incident,Type,State,Size,Updated,CurrentAsOf,IncidentTimeZone,IncidentType,Cause,DateOfOrigin,Location,IncidentCommander,Coordinates,Latitude,Longitude,TotalPersonnel,ContainmentPercent
+2025-09-06,"Perry Fire - WANCP","Wildfire","Washington","1,309 Acres","12 minutes 59 seconds ago","Sat, 09/06/2025 - 11:05","Pacific Standard Time","Wildfire","Natural/Lightning","Wed, 08/27/2025 - 18:48","16 miles NE of Newhalem, WA, west of Ross Lake","","48° 55' 19.2'', -121° 6' 17.4 ''","48° 55' 19.2''","-121° 6' 17.4 ''","","0%"

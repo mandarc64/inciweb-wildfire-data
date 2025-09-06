@@ -1,0 +1,2 @@
+ScrapeDate,Incident,Type,State,Size,Updated,CurrentAsOf,IncidentTimeZone,IncidentType,Cause,DateOfOrigin,Location,IncidentCommander,Coordinates,Latitude,Longitude,TotalPersonnel,ContainmentPercent
+2025-09-06,"Green Mtn Fire - IDIPF","Wildfire","Idaho","8 Acres","21 seconds ago","Sat, 09/06/2025 - 11:18","Pacific Standard Time","Wildfire","Lightning","Fri, 08/29/2025 - 06:27","8 miles West/Southwest of Clark Fork, ID","Shane Martin and Bryce Barth, trainee; Northern Rockies Incident Management Team 9","48° 7' 00'', -116° 19' 99 ''","48° 7' 00''","-116° 19' 99 ''","71","0%"

@@ -1,0 +1,3 @@
+ScrapeDate,Incident,Type,State,Size,Updated,CurrentAsOf,IncidentTimeZone,IncidentType,Cause,DateOfOrigin,Location,IncidentCommander,Coordinates,Latitude,Longitude,TotalPersonnel,ContainmentPercent
+2025-09-06,"Bridge Fire - ORMAF","Wildfire","Oregon","350 Acres","1 minute 19 seconds ago","Sat, 09/06/2025 - 11:17","Pacific Standard Time","Wildfire","Undetermined","Wed, 09/03/2025 - 22:30","Malheur National Forest, Blue Mountain Ranger District","IC Rocky Opliger
+California Interagency Incident Management Team 4","44° 35' 37.631'', -118° 36' 11 ''","44° 35' 37.631''","-118° 36' 11 ''","264","0%"
