@@ -1,0 +1,160 @@
+TailNumber,FlightDate,Origin,Destination,FireIncident,FireStart,FireEnd,DistanceKM
+N132CG,2025-09-06,"Crater Lake/Klamath Rgnl (KLMT)","Near La Grande, OR","Bridge Fire - OR - ORMAF",2025-09-03,2025-09-06,28.40
+N132CG,2025-09-06,"Near La Grande, OR","Crater Lake/Klamath Rgnl (KLMT)","Bridge Fire - OR - ORMAF",2025-09-03,2025-09-06,29.41
+N132CG,2025-09-05,"Near La Grande, OR","Near La Grande, OR","Bridge Fire - ORMAF",2025-09-03,2025-09-05,27.16
+N132CG,2025-09-05,"Near La Grande, OR","Near La Grande, OR","Bridge Fire - OR - ORMAF",2025-09-03,2025-09-06,27.16
+N132CG,2025-09-05,"La Grande/Union County (KLGD)","Near La Grande, OR","Bridge Fire - ORMAF",2025-09-03,2025-09-05,27.11
+N132CG,2025-09-05,"La Grande/Union County (KLGD)","Near La Grande, OR","Bridge Fire - OR - ORMAF",2025-09-03,2025-09-06,27.11
+N132CG,2025-09-05,"Near La Grande, OR","Near La Grande, OR","Bridge Fire - ORMAF",2025-09-03,2025-09-05,28.24
+N132CG,2025-09-05,"Near La Grande, OR","Near La Grande, OR","Bridge Fire - OR - ORMAF",2025-09-03,2025-09-06,28.24
+N132CG,2025-09-04,"Near La Grande, OR","Near La Grande, OR","Bridge Fire - ORMAF",2025-09-03,2025-09-05,15.09
+N132CG,2025-09-04,"Near La Grande, OR","Near La Grande, OR","Bridge Fire - OR - ORMAF",2025-09-03,2025-09-06,15.09
+N132CG,2025-09-04,"Near La Grande, OR","Near La Grande, OR","Bridge Fire - ORMAF",2025-09-03,2025-09-05,27.07
+N132CG,2025-09-04,"Near La Grande, OR","Near La Grande, OR","Bridge Fire - OR - ORMAF",2025-09-03,2025-09-06,27.07
+N132CG,2025-09-04,"Near La Grande, OR","La Grande/Union County (KLGD)","Bridge Fire - ORMAF",2025-09-03,2025-09-05,29.14
+N132CG,2025-09-04,"Near La Grande, OR","La Grande/Union County (KLGD)","Bridge Fire - OR - ORMAF",2025-09-03,2025-09-06,29.14
+N132CG,2025-09-04,"Near La Grande, OR","Near La Grande, OR","Bridge Fire - ORMAF",2025-09-03,2025-09-05,29.61
+N132CG,2025-09-04,"Near La Grande, OR","Near La Grande, OR","Bridge Fire - OR - ORMAF",2025-09-03,2025-09-06,29.61
+N132CG,2025-09-04,"Magic Valley Rgnl (KTWF)","Near La Grande, OR","Bridge Fire - ORMAF",2025-09-03,2025-09-05,28.61
+N132CG,2025-09-04,"Magic Valley Rgnl (KTWF)","Near La Grande, OR","Bridge Fire - OR - ORMAF",2025-09-03,2025-09-06,28.61
+N296EA,2025-09-04,"Pocatello Rgnl (KPIH)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Mire - IDNCF",2025-08-13,2025-09-06,29.38
+N296EA,2025-09-04,"Pocatello Rgnl (KPIH)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","East - IDNCF",2025-08-20,2025-09-06,26.44
+N296EA,2025-09-04,"Pocatello Rgnl (KPIH)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Timber Butte - MTBDF",2025-09-03,2025-09-06,27.18
+N296EA,2025-09-04,"Pocatello Rgnl (KPIH)","Pocatello Rgnl (KPIH)","Timber Butte - MTBDF",2025-09-03,2025-09-06,29.75
+N296EA,2025-09-04,"Pocatello Rgnl (KPIH)","Pocatello Rgnl (KPIH)","Timber Butte - MTBDF",2025-09-03,2025-09-06,29.95
+N296EA,2025-09-04,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Pocatello Rgnl (KPIH)","Mire - IDNCF",2025-08-13,2025-09-06,29.01
+N296EA,2025-09-04,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Pocatello Rgnl (KPIH)","East - IDNCF",2025-08-20,2025-09-06,26.19
+N296EA,2025-09-04,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Pocatello Rgnl (KPIH)","Timber Butte - MTBDF",2025-09-03,2025-09-06,28.34
+N355AC,2025-09-04,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Crown Creek Fire - WANES",2025-08-29,2025-09-06,29.50
+N355AC,2025-09-04,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Katy Creek - WACOF",2025-08-30,2025-09-06,26.37
+N355AC,2025-09-04,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","White Pine - IDNCF",2025-08-31,2025-09-06,28.71
+N355AC,2025-09-04,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Tacoma Creek Fire - WANES",2025-09-01,2025-09-06,26.68
+N374AC,2025-09-04,"Helena Rgnl (KHLN)","Helena Rgnl (KHLN)","Cloudrest - MTBDF",2025-08-14,2025-09-06,28.09
+N374AC,2025-09-04,"Helena Rgnl (KHLN)","Helena Rgnl (KHLN)","Timber Butte - MTBDF",2025-09-03,2025-09-06,29.63
+N374AC,2025-09-04,"Pocatello Rgnl (KPIH)","Helena Rgnl (KHLN)","Cloudrest - MTBDF",2025-08-14,2025-09-06,28.46
+N374AC,2025-09-04,"Pocatello Rgnl (KPIH)","Helena Rgnl (KHLN)","Timber Butte - MTBDF",2025-09-03,2025-09-06,26.70
+N374AC,2025-09-04,"Helena Rgnl (KHLN)","Pocatello Rgnl (KPIH)","Timber Butte - MTBDF",2025-09-03,2025-09-06,26.97
+N374AC,2025-09-04,"Helena Rgnl (KHLN)","Helena Rgnl (KHLN)","Cloudrest - MTBDF",2025-08-14,2025-09-06,29.83
+N374AC,2025-09-04,"Helena Rgnl (KHLN)","Helena Rgnl (KHLN)","Timber Butte - MTBDF",2025-09-03,2025-09-06,25.02
+N385AC,2025-09-05,"Near Ellensburg, WA","Davenport (68S)","Lower Sugarloaf Fire - WAOWF",2025-09-01,2025-09-06,29.14
+N385AC,2025-09-05,"Near Ellensburg, WA","Davenport (68S)","Rattlesnake - WACOA",2025-09-01,2025-09-06,29.89
+N385AC,2025-09-04,"Spokane Intl (KGEG)","Spokane Intl (KGEG)","Rattlesnake - WACOA",2025-09-01,2025-09-06,28.30
+N386AC,2025-09-05,"Spokane Intl (KGEG)","Spokane Intl (KGEG)","Labor Mountain Fire - WAOWF",2025-09-01,2025-09-06,28.73
+N386AC,2025-09-05,"Spokane Intl (KGEG)","Spokane Intl (KGEG)","Lower Sugarloaf Fire - WAOWF",2025-09-01,2025-09-06,29.03
+N386AC,2025-09-05,"Spokane Intl (KGEG)","Spokane Intl (KGEG)","Rattlesnake - WACOA",2025-09-01,2025-09-06,29.32
+N386AC,2025-09-04,"Spokane Intl (KGEG)","Near Spokane, WA","Rattlesnake - WACOA",2025-09-01,2025-09-06,29.33
+N389AC,2025-09-06,"Columbia Gorge Rgnl (KDLS)","Bend Muni (KBDN)","Marks Creek - OROCF",2025-09-02,2025-09-06,28.31
+N389AC,2025-09-06,"Bend Muni (KBDN)","Columbia Gorge Rgnl (KDLS)","Marks Creek - OROCF",2025-09-02,2025-09-06,27.89
+N389AC,2025-09-05,"Bend Muni (KBDN)","Columbia Gorge Rgnl (KDLS)","Marks Creek - OROCF",2025-09-02,2025-09-06,29.67
+N389AC,2025-09-04,"Bend Muni (KBDN)","Bend Muni (KBDN)","Marks Creek - OROCF",2025-09-02,2025-09-06,29.47
+N839AC,2025-09-04,"Rogue Valley Intl (KMFR)","Rogue Valley Intl (KMFR)","Bridge Fire - ORMAF",2025-09-03,2025-09-05,28.90
+N839AC,2025-09-04,"Rogue Valley Intl (KMFR)","Rogue Valley Intl (KMFR)","Bridge Fire - OR - ORMAF",2025-09-03,2025-09-06,28.90
+N839AC,2025-09-04,"Rogue Valley Intl (KMFR)","Rogue Valley Intl (KMFR)","Moon Complex - ORRSF",2025-09-04,2025-09-06,28.21
+N839AC,2025-09-04,"Chico Rgnl (KCIC)","Rogue Valley Intl (KMFR)","Swift Complex - CASHF",2025-08-25,2025-09-06,28.63
+N839AC,2025-09-04,"Chico Rgnl (KCIC)","Rogue Valley Intl (KMFR)","Blue Fire - Klamath National Forest - CAKNF",2025-08-26,2025-09-06,26.91
+N839AC,2025-09-04,"Chico Rgnl (KCIC)","Rogue Valley Intl (KMFR)","Root Fire - CASHF",2025-09-01,2025-09-05,29.14
+N839AC,2025-09-04,"Chico Rgnl (KCIC)","Rogue Valley Intl (KMFR)","Moon Complex - ORRSF",2025-09-04,2025-09-06,28.82
+N988AC,2025-09-06,"Roberts Fld (KRDM)","La Grande/Union County (KLGD)","Marks Creek - OROCF",2025-09-02,2025-09-06,29.24
+N988AC,2025-09-05,"La Grande/Union County (KLGD)","La Grande/Union County (KLGD)","Bridge Fire - ORMAF",2025-09-03,2025-09-05,29.28
+N988AC,2025-09-05,"La Grande/Union County (KLGD)","La Grande/Union County (KLGD)","Bridge Fire - OR - ORMAF",2025-09-03,2025-09-06,29.28
+N988AC,2025-09-05,"La Grande/Union County (KLGD)","La Grande/Union County (KLGD)","Bridge Fire - ORMAF",2025-09-03,2025-09-05,19.37
+N988AC,2025-09-05,"La Grande/Union County (KLGD)","La Grande/Union County (KLGD)","Bridge Fire - OR - ORMAF",2025-09-03,2025-09-06,19.37
+N988AC,2025-09-05,"La Grande/Union County (KLGD)","La Grande/Union County (KLGD)","Bridge Fire - ORMAF",2025-09-03,2025-09-05,29.28
+N988AC,2025-09-05,"La Grande/Union County (KLGD)","La Grande/Union County (KLGD)","Bridge Fire - OR - ORMAF",2025-09-03,2025-09-06,29.28
+N988AC,2025-09-04,"La Grande/Union County (KLGD)","La Grande/Union County (KLGD)","Bridge Fire - ORMAF",2025-09-03,2025-09-05,17.26
+N988AC,2025-09-04,"La Grande/Union County (KLGD)","La Grande/Union County (KLGD)","Bridge Fire - OR - ORMAF",2025-09-03,2025-09-06,17.26
+N988AC,2025-09-04,"Near La Grande, OR","La Grande/Union County (KLGD)","Bridge Fire - ORMAF",2025-09-03,2025-09-05,28.85
+N988AC,2025-09-04,"Near La Grande, OR","La Grande/Union County (KLGD)","Bridge Fire - OR - ORMAF",2025-09-03,2025-09-06,28.85
+N988AC,2025-09-04,"La Grande/Union County (KLGD)","La Grande/Union County (KLGD)","Bridge Fire - ORMAF",2025-09-03,2025-09-05,20.99
+N988AC,2025-09-04,"La Grande/Union County (KLGD)","La Grande/Union County (KLGD)","Bridge Fire - OR - ORMAF",2025-09-03,2025-09-06,20.99
+N988AC,2025-09-04,"Near La Grande, OR","La Grande/Union County (KLGD)","Bridge Fire - ORMAF",2025-09-03,2025-09-05,27.58
+N988AC,2025-09-04,"Near La Grande, OR","La Grande/Union County (KLGD)","Bridge Fire - OR - ORMAF",2025-09-03,2025-09-06,27.58
+N988AC,2025-09-04,"La Grande/Union County (KLGD)","La Grande/Union County (KLGD)","Bridge Fire - ORMAF",2025-09-03,2025-09-05,28.00
+N988AC,2025-09-04,"La Grande/Union County (KLGD)","La Grande/Union County (KLGD)","Bridge Fire - OR - ORMAF",2025-09-03,2025-09-06,28.00
+N988AC,2025-09-04,"La Grande/Union County (KLGD)","La Grande/Union County (KLGD)","Bridge Fire - ORMAF",2025-09-03,2025-09-05,28.93
+N988AC,2025-09-04,"La Grande/Union County (KLGD)","La Grande/Union County (KLGD)","Bridge Fire - OR - ORMAF",2025-09-03,2025-09-06,28.93
+N988AC,2025-09-04,"Grant County Intl (KMWH)","La Grande/Union County (KLGD)","Bridge Fire - ORMAF",2025-09-03,2025-09-05,28.33
+N988AC,2025-09-04,"Grant County Intl (KMWH)","La Grande/Union County (KLGD)","Bridge Fire - OR - ORMAF",2025-09-03,2025-09-06,28.33
+N998AC,2025-09-06,"Roberts Fld (KRDM)","Roberts Fld (KRDM)","Marks Creek - OROCF",2025-09-02,2025-09-06,29.08
+N998AC,2025-09-04,"Rogue Valley Intl (KMFR)","Roberts Fld (KRDM)","Emigrant Fire - ORWIF",2025-08-24,2025-09-06,29.28
+N998AC,2025-09-04,"Rogue Valley Intl (KMFR)","Roberts Fld (KRDM)","Marks Creek - OROCF",2025-09-02,2025-09-06,28.05
+N998AC,2025-09-04,"Rogue Valley Intl (KMFR)","Roberts Fld (KRDM)","Moon Complex - ORRSF",2025-09-04,2025-09-06,27.87
+N998AC,2025-09-04,"Chico Rgnl (KCIC)","Rogue Valley Intl (KMFR)","Swift Complex - CASHF",2025-08-25,2025-09-06,29.98
+N998AC,2025-09-04,"Chico Rgnl (KCIC)","Rogue Valley Intl (KMFR)","Blue Fire - Klamath National Forest - CAKNF",2025-08-26,2025-09-06,29.17
+N998AC,2025-09-04,"Chico Rgnl (KCIC)","Rogue Valley Intl (KMFR)","Root Fire - CASHF",2025-09-01,2025-09-05,27.38
+N998AC,2025-09-04,"Chico Rgnl (KCIC)","Rogue Valley Intl (KMFR)","Moon Complex - ORRSF",2025-09-04,2025-09-06,27.74
+N417BT,2025-09-05,"Chico Rgnl (KCIC)","Columbia Gorge Rgnl (KDLS)","Emigrant Fire - ORWIF",2025-08-24,2025-09-06,29.72
+N418BT,2025-09-06,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","White Pine - IDNCF",2025-08-31,2025-09-06,28.70
+N418BT,2025-09-06,"Bozeman Yellowstone Intl (KBZN)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Windy Rock Fire - MTMTS",2025-08-14,2025-09-06,28.32
+N418BT,2025-09-04,"Near Ennis, MT","Near Dillon, MT","Cloudrest - MTBDF",2025-08-14,2025-09-06,23.94
+N418BT,2025-09-04,"Near Ennis, MT","Near Dillon, MT","Timber Butte - MTBDF",2025-09-03,2025-09-06,28.51
+N418BT,2025-09-04,"Near Salmon, ID","Near Dillon, MT","Timber Butte - MTBDF",2025-09-03,2025-09-06,29.98
+N419BT,2025-09-06,"Bozeman Yellowstone Intl (KBZN)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Windy Rock Fire - MTMTS",2025-08-14,2025-09-06,29.07
+N419BT,2025-09-05,"Spokane Intl (KGEG)","Bozeman Yellowstone Intl (KBZN)","Mire - IDNCF",2025-08-13,2025-09-06,27.23
+N419BT,2025-09-05,"Spokane Intl (KGEG)","Bozeman Yellowstone Intl (KBZN)","East - IDNCF",2025-08-20,2025-09-06,27.08
+N419BT,2025-09-05,"Spokane Intl (KGEG)","Bozeman Yellowstone Intl (KBZN)","White Pine - IDNCF",2025-08-31,2025-09-06,29.65
+N419BT,2025-09-05,"Bozeman Yellowstone Intl (KBZN)","Spokane Intl (KGEG)","Mire - IDNCF",2025-08-13,2025-09-06,28.98
+N419BT,2025-09-05,"Bozeman Yellowstone Intl (KBZN)","Spokane Intl (KGEG)","East - IDNCF",2025-08-20,2025-09-06,27.79
+N419BT,2025-09-05,"Bozeman Yellowstone Intl (KBZN)","Spokane Intl (KGEG)","White Pine - IDNCF",2025-08-31,2025-09-06,29.81
+N419BT,2025-09-04,"Bozeman Yellowstone Intl (KBZN)","Bozeman Yellowstone Intl (KBZN)","Cloudrest - MTBDF",2025-08-14,2025-09-06,29.84
+N419BT,2025-09-04,"Bozeman Yellowstone Intl (KBZN)","Bozeman Yellowstone Intl (KBZN)","Timber Butte - MTBDF",2025-09-03,2025-09-06,29.14
+N419BT,2025-09-04,"Mahlon Sweet Fld (KEUG)","Bozeman Yellowstone Intl (KBZN)","Cloudrest - MTBDF",2025-08-14,2025-09-06,29.51
+N419BT,2025-09-04,"Mahlon Sweet Fld (KEUG)","Bozeman Yellowstone Intl (KBZN)","Marks Creek - OROCF",2025-09-02,2025-09-06,27.48
+N419BT,2025-09-04,"Mahlon Sweet Fld (KEUG)","Bozeman Yellowstone Intl (KBZN)","Bridge Fire - ORMAF",2025-09-03,2025-09-05,29.85
+N419BT,2025-09-04,"Mahlon Sweet Fld (KEUG)","Bozeman Yellowstone Intl (KBZN)","Bridge Fire - OR - ORMAF",2025-09-03,2025-09-06,29.85
+N419BT,2025-09-04,"Mahlon Sweet Fld (KEUG)","Bozeman Yellowstone Intl (KBZN)","Timber Butte - MTBDF",2025-09-03,2025-09-06,29.40
+N471NA,2025-09-06,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Cedar Fire - CASHF",2025-09-03,2025-09-06,29.59
+N471NA,2025-09-06,"Redding Rgnl (KRDD)","Redding Rgnl (KRDD)","Cedar Fire - CASHF",2025-09-03,2025-09-06,29.32
+N471NA,2025-09-05,"Reno/Stead (KRTS)","Redding Rgnl (KRDD)","Swift Complex - CASHF",2025-08-25,2025-09-06,28.01
+N471NA,2025-09-05,"Reno/Stead (KRTS)","Redding Rgnl (KRDD)","Root Fire - CASHF",2025-09-01,2025-09-05,28.85
+N472NA,2025-09-05,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Ransome Fire - MTKNF",2025-08-21,2025-09-06,29.44
+N472NA,2025-09-05,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Green Mtn Fire - IDIPF",2025-08-29,2025-09-06,28.07
+N472NA,2025-09-05,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Green Rattle Complex - IDIPF",2025-08-29,2025-09-06,27.80
+N472NA,2025-09-05,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Ulm Creek Fire - IDIPF",2025-08-30,2025-09-06,28.75
+N472NA,2025-09-05,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Rattle Mountain Fire - IDIPF",2025-09-02,2025-09-06,29.25
+N472NA,2025-09-04,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Katy Creek - WACOF",2025-08-30,2025-09-06,27.77
+N472NA,2025-09-04,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","White Pine - IDNCF",2025-08-31,2025-09-06,28.76
+N472NA,2025-09-04,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Snow Peak - WACOF",2025-09-01,2025-09-06,29.73
+N472NA,2025-09-04,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Tacoma Creek Fire - WANES",2025-09-01,2025-09-06,29.57
+N472NA,2025-09-04,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Lynx Mountain - WACOA",2025-09-02,2025-09-06,28.45
+N476NA,2025-09-05,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Ransome Fire - MTKNF",2025-08-21,2025-09-06,28.18
+N476NA,2025-09-05,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Green Mtn Fire - IDIPF",2025-08-29,2025-09-06,29.16
+N476NA,2025-09-05,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Green Rattle Complex - IDIPF",2025-08-29,2025-09-06,27.30
+N476NA,2025-09-05,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Ulm Creek Fire - IDIPF",2025-08-30,2025-09-06,27.66
+N476NA,2025-09-05,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Rattle Mountain Fire - IDIPF",2025-09-02,2025-09-06,29.47
+N477NA,2025-09-05,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Ransome Fire - MTKNF",2025-08-21,2025-09-06,28.12
+N477NA,2025-09-05,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Green Mtn Fire - IDIPF",2025-08-29,2025-09-06,29.93
+N477NA,2025-09-05,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Green Rattle Complex - IDIPF",2025-08-29,2025-09-06,29.88
+N477NA,2025-09-05,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Ulm Creek Fire - IDIPF",2025-08-30,2025-09-06,28.53
+N477NA,2025-09-05,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Rattle Mountain Fire - IDIPF",2025-09-02,2025-09-06,28.64
+N478NA,2025-09-04,"Helena Rgnl (KHLN)","Helena Rgnl (KHLN)","Cloudrest - MTBDF",2025-08-14,2025-09-06,29.00
+N478NA,2025-09-04,"Helena Rgnl (KHLN)","Helena Rgnl (KHLN)","Timber Butte - MTBDF",2025-09-03,2025-09-06,28.40
+N478NA,2025-09-04,"Helena Rgnl (KHLN)","Helena Rgnl (KHLN)","Cloudrest - MTBDF",2025-08-14,2025-09-06,29.97
+N478NA,2025-09-04,"Helena Rgnl (KHLN)","Helena Rgnl (KHLN)","Timber Butte - MTBDF",2025-09-03,2025-09-06,28.80
+N478NA,2025-09-04,"Helena Rgnl (KHLN)","Helena Rgnl (KHLN)","Cloudrest - MTBDF",2025-08-14,2025-09-06,29.56
+N478NA,2025-09-04,"Helena Rgnl (KHLN)","Helena Rgnl (KHLN)","Timber Butte - MTBDF",2025-09-03,2025-09-06,27.76
+N522AX,2025-09-05,"Rogue Valley Intl (KMFR)","Rogue Valley Intl (KMFR)","Bridge Fire - ORMAF",2025-09-03,2025-09-05,28.66
+N522AX,2025-09-05,"Rogue Valley Intl (KMFR)","Rogue Valley Intl (KMFR)","Bridge Fire - OR - ORMAF",2025-09-03,2025-09-06,28.66
+N522AX,2025-09-04,"Gowen Field (KBOI)","Rogue Valley Intl (KMFR)","Root Fire - CASHF",2025-09-01,2025-09-05,26.21
+N522AX,2025-09-04,"Gowen Field (KBOI)","Gowen Field (KBOI)","Bridge Fire - ORMAF",2025-09-03,2025-09-05,29.89
+N522AX,2025-09-04,"Gowen Field (KBOI)","Gowen Field (KBOI)","Bridge Fire - OR - ORMAF",2025-09-03,2025-09-06,29.89
+N522AX,2025-09-04,"Gowen Field (KBOI)","Gowen Field (KBOI)","Bridge Fire - ORMAF",2025-09-03,2025-09-05,28.10
+N522AX,2025-09-04,"Gowen Field (KBOI)","Gowen Field (KBOI)","Bridge Fire - OR - ORMAF",2025-09-03,2025-09-06,28.10
+N522AX,2025-09-04,"Rogue Valley Intl (KMFR)","Gowen Field (KBOI)","Bridge Fire - ORMAF",2025-09-03,2025-09-05,11.92
+N522AX,2025-09-04,"Rogue Valley Intl (KMFR)","Gowen Field (KBOI)","Bridge Fire - OR - ORMAF",2025-09-03,2025-09-06,11.92
+N603AX,2025-09-05,"Grant County Intl (KMWH)","Rogue Valley Intl (KMFR)","Bridge Fire - ORMAF",2025-09-03,2025-09-05,27.46
+N603AX,2025-09-05,"Grant County Intl (KMWH)","Rogue Valley Intl (KMFR)","Bridge Fire - OR - ORMAF",2025-09-03,2025-09-06,27.46
+N603AX,2025-09-05,"Rogue Valley Intl (KMFR)","Grant County Intl (KMWH)","Bridge Fire - ORMAF",2025-09-03,2025-09-05,6.55
+N603AX,2025-09-05,"Rogue Valley Intl (KMFR)","Grant County Intl (KMWH)","Bridge Fire - OR - ORMAF",2025-09-03,2025-09-06,6.55
+N603AX,2025-09-04,"Grant County Intl (KMWH)","Rogue Valley Intl (KMFR)","Bridge Fire - ORMAF",2025-09-03,2025-09-05,28.01
+N603AX,2025-09-04,"Grant County Intl (KMWH)","Rogue Valley Intl (KMFR)","Bridge Fire - OR - ORMAF",2025-09-03,2025-09-06,28.01
+N603AX,2025-09-04,"Grant County Intl (KMWH)","Grant County Intl (KMWH)","Bridge Fire - ORMAF",2025-09-03,2025-09-05,29.87
+N603AX,2025-09-04,"Grant County Intl (KMWH)","Grant County Intl (KMWH)","Bridge Fire - OR - ORMAF",2025-09-03,2025-09-06,29.87
+N603AX,2025-09-04,"Grant County Intl (KMWH)","Grant County Intl (KMWH)","Bridge Fire - ORMAF",2025-09-03,2025-09-05,26.86
+N603AX,2025-09-04,"Grant County Intl (KMWH)","Grant County Intl (KMWH)","Bridge Fire - OR - ORMAF",2025-09-03,2025-09-06,26.86
+N603AX,2025-09-04,"Rogue Valley Intl (KMFR)","Grant County Intl (KMWH)","Bridge Fire - ORMAF",2025-09-03,2025-09-05,29.84
+N603AX,2025-09-04,"Rogue Valley Intl (KMFR)","Grant County Intl (KMWH)","Bridge Fire - OR - ORMAF",2025-09-03,2025-09-06,29.84
+N612AX,2025-09-05,"Grant County Intl (KMWH)","Grant County Intl (KMWH)","Bridge Fire - ORMAF",2025-09-03,2025-09-05,20.19
+N612AX,2025-09-05,"Grant County Intl (KMWH)","Grant County Intl (KMWH)","Bridge Fire - OR - ORMAF",2025-09-03,2025-09-06,20.19
+N612AX,2025-09-05,"Grant County Intl (KMWH)","Grant County Intl (KMWH)","Bridge Fire - ORMAF",2025-09-03,2025-09-05,29.20
+N612AX,2025-09-05,"Grant County Intl (KMWH)","Grant County Intl (KMWH)","Bridge Fire - OR - ORMAF",2025-09-03,2025-09-06,29.20
