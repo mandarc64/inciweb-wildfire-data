@@ -1,0 +1,2 @@
+ScrapeDate,Incident,Type,State,Size,Updated,CurrentAsOf,IncidentTimeZone,IncidentType,Cause,DateOfOrigin,Location,IncidentCommander,Coordinates,Latitude,Longitude,TotalPersonnel,ContainmentPercent
+2025-09-07,"Moon Complex - ORRSF","Wildfire","Oregon","1,506 Acres","37 minutes 28 seconds ago","Sun, 09/07/2025 - 10:41","Pacific Standard Time","Wildfire","Lightning","Thu, 09/04/2025 - 16:25","10 Miles NE of Agness, OR","Trent Ingram, Incident Commander, Great Basin Team 5","42° 41' 15'', -123° 54' 55 ''","42° 41' 15''","-123° 54' 55 ''","99","0%"
