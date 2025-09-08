@@ -1,0 +1,4 @@
+ScrapeDate,Incident,Type,State,Size,Updated,CurrentAsOf,IncidentTimeZone,IncidentType,Cause,DateOfOrigin,Location,IncidentCommander,Coordinates,Latitude,Longitude,TotalPersonnel,ContainmentPercent
+2025-09-08,"Black Rock Fire - ORPRD","Wildfire","Oregon","32,453 Acres","10 minutes 4 seconds ago","Mon, 09/08/2025 - 11:11","Pacific Standard Time","Wildfire","Lightning","Thu, 09/04/2025 - 18:29","13 miles west of Fossil, OR","Cason McCain, ICT3
+Pepe Delgado, ICT3 (t)
+with Central Oregon IMT3","120° 29' 22'', -44° 59' 22 ''","120° 29' 22''","-44° 59' 22 ''","274","10%"
