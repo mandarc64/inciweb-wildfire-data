@@ -1,0 +1,2 @@
+ScrapeDate,Incident,Type,State,Size,Updated,CurrentAsOf,IncidentTimeZone,IncidentType,Cause,DateOfOrigin,Location,IncidentCommander,Coordinates,Latitude,Longitude,TotalPersonnel,ContainmentPercent
+2025-09-09,"Sugar - WA0107","Wildfire","Washington","63 Acres","23 hours ago","Mon, 09/08/2025 - 12:24","Pacific Standard Time","Wildfire","Undetermined","Sat, 09/06/2025 - 23:02","5 Miles NE of Conconully, WA","Shane Robison","48° 39' 94'', -114° 41' 73 ''","48° 39' 94''","-114° 41' 73 ''","57","0%"
