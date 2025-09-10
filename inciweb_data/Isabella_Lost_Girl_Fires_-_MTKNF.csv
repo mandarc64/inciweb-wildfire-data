@@ -1,3 +1,5 @@
 ScrapeDate,Incident,Type,State,Size,Updated,CurrentAsOf,IncidentTimeZone,IncidentType,Cause,DateOfOrigin,Location,IncidentCommander,Coordinates,Latitude,Longitude,TotalPersonnel,ContainmentPercent
 2025-09-09,"Isabella & Lost Girl Fires - MTKNF","Wildfire","Montana","457 Acres","19 hours 36 minutes ago","Mon, 09/08/2025 - 15:48","Mountain Standard Time","Wildfire","Lightning","Sun, 08/31/2025 - 19:30","","Local Type 3 Incident Commander
 Cabinet Ranger District","48° 07' 21.3'', -115° 40' 42.9 ''","48° 07' 21.3''","-115° 40' 42.9 ''","","0%"
+2025-09-10,"Isabella & Lost Girl Fires - MTKNF","Wildfire","Montana","671 Acres","20 hours 24 minutes ago","Tue, 09/09/2025 - 14:57","Mountain Standard Time","Wildfire","Lightning","Sun, 08/31/2025 - 19:30","","Local Type 3 Incident Commander
+Cabinet Ranger District","48° 07' 21.3'', -115° 40' 42.9 ''","48° 07' 21.3''","-115° 40' 42.9 ''","","0%"
