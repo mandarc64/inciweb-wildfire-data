@@ -1,0 +1,59 @@
+TailNumber,FlightDate,Origin,Destination,FireIncident,FireStart,FireEnd,DistanceKM
+N132CG,2025-09-09,"Grant County Intl (KMWH)","Roberts Fld (KRDM)","Rattlesnake - WACOA",2025-09-01,2025-09-11,29.33
+N132CG,2025-09-09,"Grant County Intl (KMWH)","Roberts Fld (KRDM)","Marks Creek - OROCF",2025-09-02,2025-09-11,28.94
+N132CG,2025-09-09,"Grant County Intl (KMWH)","Roberts Fld (KRDM)","Black Rock Fire - ORPRD",2025-09-04,2025-09-11,28.08
+N132CG,2025-09-09,"Grant County Intl (KMWH)","Grant County Intl (KMWH)","Rattlesnake - WACOA",2025-09-01,2025-09-11,29.37
+N132CG,2025-09-09,"Roberts Fld (KRDM)","Grant County Intl (KMWH)","Rattlesnake - WACOA",2025-09-01,2025-09-11,29.90
+N132CG,2025-09-09,"Roberts Fld (KRDM)","Grant County Intl (KMWH)","Black Rock Fire - ORPRD",2025-09-04,2025-09-11,29.65
+N136CG,2025-09-11,"Helena Rgnl (KHLN)","Helena Rgnl (KHLN)","Sandbar 2 Fire - MTHLF",2025-08-19,2025-09-12,29.26
+N296EA,2025-09-09,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Rattlesnake - WACOA",2025-09-01,2025-09-11,26.20
+N296EA,2025-09-09,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Rattlesnake - WACOA",2025-09-01,2025-09-11,29.67
+N296EA,2025-09-09,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Rattlesnake - WACOA",2025-09-01,2025-09-11,27.62
+N296EA,2025-09-09,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Rattlesnake - WACOA",2025-09-01,2025-09-11,27.34
+N296EA,2025-09-09,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Rattlesnake - WACOA",2025-09-01,2025-09-11,25.96
+N296EA,2025-09-09,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Rattlesnake - WACOA",2025-09-01,2025-09-11,29.95
+N325AC,2025-09-09,"San Bernardino Intl (KSBD)","Chico Rgnl (KCIC)","Little Fire - CASQF",2025-08-22,2025-09-10,28.79
+N355AC,2025-09-09,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Rattlesnake - WACOA",2025-09-01,2025-09-11,29.20
+N355AC,2025-09-09,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Rattlesnake - WACOA",2025-09-01,2025-09-11,29.66
+N355AC,2025-09-09,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Rattlesnake - WACOA",2025-09-01,2025-09-11,29.33
+N355AC,2025-09-09,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Rattlesnake - WACOA",2025-09-01,2025-09-11,28.67
+N385AC,2025-09-11,"Near Spokane, WA","Near Spokane, WA","Rattlesnake - WACOA",2025-09-01,2025-09-11,29.39
+N385AC,2025-09-11,"Near Spokane, WA","Near Spokane, WA","Lynx Mountain - WACOA",2025-09-02,2025-09-11,28.06
+N385AC,2025-09-11,"Near Spokane, WA","Near Spokane, WA","Sugar - WA0107",2025-09-06,2025-09-11,28.15
+N386AC,2025-09-11,"Spokane Intl (KGEG)","Near Spokane, WA","Rattlesnake - WACOA",2025-09-01,2025-09-11,29.90
+N386AC,2025-09-11,"Spokane Intl (KGEG)","Near Spokane, WA","Lynx Mountain - WACOA",2025-09-02,2025-09-11,29.24
+N386AC,2025-09-11,"Spokane Intl (KGEG)","Near Spokane, WA","Sugar - WA0107",2025-09-06,2025-09-11,28.46
+N389AC,2025-09-11,"Near Spokane, WA","Near Spokane, WA","Rattlesnake - WACOA",2025-09-01,2025-09-11,29.83
+N389AC,2025-09-11,"Near Spokane, WA","Near Spokane, WA","Lynx Mountain - WACOA",2025-09-02,2025-09-11,29.86
+N389AC,2025-09-11,"Near Spokane, WA","Near Spokane, WA","Sugar - WA0107",2025-09-06,2025-09-11,28.14
+N389AC,2025-09-10,"Bend Muni (KBDN)","Spokane Intl (KGEG)","Marks Creek - OROCF",2025-09-02,2025-09-11,29.67
+N988AC,2025-09-09,"Grant County Intl (KMWH)","Grant County Intl (KMWH)","Rattlesnake - WACOA",2025-09-01,2025-09-11,28.36
+N988AC,2025-09-09,"Grant County Intl (KMWH)","Grant County Intl (KMWH)","Rattlesnake - WACOA",2025-09-01,2025-09-11,29.97
+N988AC,2025-09-09,"Grant County Intl (KMWH)","Grant County Intl (KMWH)","Rattlesnake - WACOA",2025-09-01,2025-09-11,28.24
+N988AC,2025-09-09,"Grant County Intl (KMWH)","Grant County Intl (KMWH)","Rattlesnake - WACOA",2025-09-01,2025-09-11,27.37
+N988AC,2025-09-09,"Grant County Intl (KMWH)","Grant County Intl (KMWH)","Rattlesnake - WACOA",2025-09-01,2025-09-11,27.15
+N988AC,2025-09-09,"Grant County Intl (KMWH)","Grant County Intl (KMWH)","Rattlesnake - WACOA",2025-09-01,2025-09-11,29.93
+N415BT,2025-09-11,"Yakima Air Terminal (KYKM)","Columbia Gorge Rgnl (KDLS)","Labor Mountain Fire - WAOWF",2025-09-01,2025-09-11,28.98
+N415BT,2025-09-11,"Yakima Air Terminal (KYKM)","Columbia Gorge Rgnl (KDLS)","Lower Sugarloaf Fire - WAOWF",2025-09-01,2025-09-11,29.34
+N417BT,2025-09-11,"Yakima Air Terminal (KYKM)","Columbia Gorge Rgnl (KDLS)","Labor Mountain Fire - WAOWF",2025-09-01,2025-09-11,28.44
+N417BT,2025-09-11,"Yakima Air Terminal (KYKM)","Columbia Gorge Rgnl (KDLS)","Lower Sugarloaf Fire - WAOWF",2025-09-01,2025-09-11,29.85
+N418BT,2025-09-11,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","White Pine - IDNCF",2025-08-31,2025-09-11,28.60
+N418BT,2025-09-09,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","White Pine - IDNCF",2025-08-31,2025-09-11,29.47
+N419BT,2025-09-11,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","White Pine - IDNCF",2025-08-31,2025-09-11,27.98
+N472NA,2025-09-09,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Rattlesnake - WACOA",2025-09-01,2025-09-11,28.87
+N472NA,2025-09-09,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Rattlesnake - WACOA",2025-09-01,2025-09-11,28.08
+N472NA,2025-09-09,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Rattlesnake - WACOA",2025-09-01,2025-09-11,27.87
+N472NA,2025-09-09,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Rattlesnake - WACOA",2025-09-01,2025-09-11,28.05
+N476NA,2025-09-09,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Rattlesnake - WACOA",2025-09-01,2025-09-11,29.16
+N476NA,2025-09-09,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Rattlesnake - WACOA",2025-09-01,2025-09-11,29.36
+N476NA,2025-09-09,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Rattlesnake - WACOA",2025-09-01,2025-09-11,28.46
+N476NA,2025-09-09,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Rattlesnake - WACOA",2025-09-01,2025-09-11,28.56
+N476NA,2025-09-09,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Rattlesnake - WACOA",2025-09-01,2025-09-11,27.58
+N477NA,2025-09-09,"Missoula Montana (KMSO)","Missoula Montana (KMSO)","White Pine - IDNCF",2025-08-31,2025-09-11,28.18
+N477NA,2025-09-09,"Missoula Montana (KMSO)","Missoula Montana (KMSO)","White Pine - IDNCF",2025-08-31,2025-09-11,28.96
+N477NA,2025-09-09,"Missoula Montana (KMSO)","Missoula Montana (KMSO)","White Pine - IDNCF",2025-08-31,2025-09-11,29.17
+N478NA,2025-09-09,"Missoula Montana (KMSO)","Missoula Montana (KMSO)","White Pine - IDNCF",2025-08-31,2025-09-11,29.66
+N478NA,2025-09-09,"Helena Rgnl (KHLN)","Missoula Montana (KMSO)","Mire - IDNCF",2025-08-13,2025-09-11,29.75
+N478NA,2025-09-09,"Helena Rgnl (KHLN)","Missoula Montana (KMSO)","Windy Rock Fire - MTMTS",2025-08-14,2025-09-12,26.98
+N478NA,2025-09-09,"Helena Rgnl (KHLN)","Missoula Montana (KMSO)","East - IDNCF",2025-08-20,2025-09-11,26.96
+N478NA,2025-09-09,"Helena Rgnl (KHLN)","Missoula Montana (KMSO)","White Pine - IDNCF",2025-08-31,2025-09-11,28.55
