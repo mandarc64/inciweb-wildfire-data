@@ -1,0 +1,22 @@
+TailNumber,FlightDate,Origin,Destination,FireIncident,FireStart,FireEnd,DistanceKM
+N136CG,2025-09-11,"Helena Rgnl (KHLN)","Helena Rgnl (KHLN)","Sandbar 2 Fire - MTHLF",2025-08-19,2025-09-12,29.26
+N385AC,2025-09-13,"Yakima Air Terminal (KYKM)","Yakima Air Terminal (KYKM)","Labor Mountain Fire - WAOWF",2025-09-01,2025-09-13,29.97
+N385AC,2025-09-12,"Spokane Intl (KGEG)","Yakima Air Terminal (KYKM)","Labor Mountain Fire - WAOWF",2025-09-01,2025-09-13,28.62
+N385AC,2025-09-12,"Spokane Intl (KGEG)","Yakima Air Terminal (KYKM)","Lower Sugarloaf Fire - WAOWF",2025-09-01,2025-09-13,29.25
+N385AC,2025-09-11,"Near Spokane, WA","Near Spokane, WA","Lynx Mountain - WACOA",2025-09-02,2025-09-13,28.06
+N385AC,2025-09-11,"Near Spokane, WA","Near Spokane, WA","Sugar - WA0107",2025-09-06,2025-09-11,28.15
+N386AC,2025-09-13,"Yakima Air Terminal (KYKM)","Yakima Air Terminal (KYKM)","Labor Mountain Fire - WAOWF",2025-09-01,2025-09-13,29.80
+N386AC,2025-09-12,"Near Spokane, WA","Yakima Air Terminal (KYKM)","Labor Mountain Fire - WAOWF",2025-09-01,2025-09-13,28.37
+N386AC,2025-09-12,"Near Spokane, WA","Yakima Air Terminal (KYKM)","Lower Sugarloaf Fire - WAOWF",2025-09-01,2025-09-13,28.76
+N386AC,2025-09-11,"Spokane Intl (KGEG)","Near Spokane, WA","Lynx Mountain - WACOA",2025-09-02,2025-09-13,29.24
+N386AC,2025-09-11,"Spokane Intl (KGEG)","Near Spokane, WA","Sugar - WA0107",2025-09-06,2025-09-11,28.46
+N389AC,2025-09-11,"Near Spokane, WA","Near Spokane, WA","Lynx Mountain - WACOA",2025-09-02,2025-09-13,29.86
+N389AC,2025-09-11,"Near Spokane, WA","Near Spokane, WA","Sugar - WA0107",2025-09-06,2025-09-11,28.14
+N415BT,2025-09-11,"Yakima Air Terminal (KYKM)","Columbia Gorge Rgnl (KDLS)","Labor Mountain Fire - WAOWF",2025-09-01,2025-09-13,28.98
+N415BT,2025-09-11,"Yakima Air Terminal (KYKM)","Columbia Gorge Rgnl (KDLS)","Lower Sugarloaf Fire - WAOWF",2025-09-01,2025-09-13,29.34
+N417BT,2025-09-11,"Yakima Air Terminal (KYKM)","Columbia Gorge Rgnl (KDLS)","Labor Mountain Fire - WAOWF",2025-09-01,2025-09-13,28.44
+N417BT,2025-09-11,"Yakima Air Terminal (KYKM)","Columbia Gorge Rgnl (KDLS)","Lower Sugarloaf Fire - WAOWF",2025-09-01,2025-09-13,29.85
+N418BT,2025-09-11,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","White Pine - IDNCF",2025-08-31,2025-09-13,28.60
+N419BT,2025-09-11,"Coeur D'Alene/Pappy Boyington Fld (KCOE)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","White Pine - IDNCF",2025-08-31,2025-09-13,27.98
+N477NA,2025-09-12,"Missoula Montana (KMSO)","Billings Logan Intl (KBIL)","Sandbar 2 Fire - MTHLF",2025-08-19,2025-09-12,27.50
+N478NA,2025-09-12,"Billings Logan Intl (KBIL)","Missoula Montana (KMSO)","Sandbar 2 Fire - MTHLF",2025-08-19,2025-09-12,29.35
