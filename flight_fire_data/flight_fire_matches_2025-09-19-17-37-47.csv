@@ -1,0 +1,6 @@
+TailNumber,FlightDate,Origin,Destination,FireIncident,FireStart,FireEnd,DistanceKM
+N385AC,2025-09-16,"Yakima Air Terminal (KYKM)","Yakima Air Terminal (KYKM)","Labor Mountain Fire - WAOWF",2025-09-01,2025-09-18,29.78
+N385AC,2025-09-16,"Yakima Air Terminal (KYKM)","Yakima Air Terminal (KYKM)","Lower Sugarloaf Fire - WAOWF",2025-09-01,2025-09-18,29.43
+N386AC,2025-09-16,"Yakima Air Terminal (KYKM)","Yakima Air Terminal (KYKM)","Labor Mountain Fire - WAOWF",2025-09-01,2025-09-18,28.53
+N386AC,2025-09-16,"Yakima Air Terminal (KYKM)","Yakima Air Terminal (KYKM)","Lower Sugarloaf Fire - WAOWF",2025-09-01,2025-09-18,29.61
+N389AC,2025-09-16,"Spokane Intl (KGEG)","Spokane Intl (KGEG)","Lower Sugarloaf Fire - WAOWF",2025-09-01,2025-09-18,28.93
