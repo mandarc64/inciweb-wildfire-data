@@ -1,3 +1,6 @@
 ScrapeDate,Incident,Type,State,Size,Updated,CurrentAsOf,IncidentTimeZone,IncidentType,Cause,DateOfOrigin,Location,IncidentCommander,Coordinates,Latitude,Longitude,TotalPersonnel,ContainmentPercent
 2025-09-23,"Tunnel Creek Fire - WAOLF","Wildfire","Washington","515 Acres","17 hours 10 minutes ago","Mon, 09/22/2025 - 18:12","Pacific Standard Time","Wildfire","","Sat, 09/06/2025 - 10:44","","","47° 47' 05'', -123° 05' 11 ''","47° 47' 05''","-123° 05' 11 ''","",""
 2025-09-24,"Tunnel Creek Fire - WAOLF","Wildfire","Washington","515 Acres","1 day 17 hours ago","Mon, 09/22/2025 - 18:12","Pacific Standard Time","Wildfire","","Sat, 09/06/2025 - 10:44","","","47° 47' 05'', -123° 05' 11 ''","47° 47' 05''","-123° 05' 11 ''","",""
+2025-09-25,"Tunnel Creek Fire - WAOLF","Wildfire","Washington","558 Acres","4 hours 52 minutes ago","Thu, 09/25/2025 - 12:45","Pacific Standard Time","Wildfire","Lightning/Natural","Sat, 09/06/2025 - 10:44","","Brian Kitchen - Incident Commander
+Jeremie Gamiao - IC Trainee
+Type 3 Team","47° 47' 05'', -123° 05' 11 ''","47° 47' 05''","-123° 05' 11 ''","1","0%"
