@@ -1,0 +1,45 @@
+TailNumber,FlightDate,Origin,Destination,FireIncident,FireStart,FireEnd,DistanceKM
+N291EA,2025-09-26,"Grant County Intl (KMWH)","Roberts Fld (KRDM)","Labor Mountain Fire - WAOWF",2025-09-01,2025-09-27,29.93
+N291EA,2025-09-26,"Grant County Intl (KMWH)","Roberts Fld (KRDM)","Lower Sugarloaf Fire - WAOWF",2025-09-01,2025-09-27,28.74
+N291EA,2025-09-26,"Grant County Intl (KMWH)","Grant County Intl (KMWH)","Lower Sugarloaf Fire - WAOWF",2025-09-01,2025-09-27,28.32
+N291EA,2025-09-26,"Near Moses Lake, WA","Grant County Intl (KMWH)","Lower Sugarloaf Fire - WAOWF",2025-09-01,2025-09-27,29.47
+N291EA,2025-09-26,"Grant County Intl (KMWH)","Grant County Intl (KMWH)","Lower Sugarloaf Fire - WAOWF",2025-09-01,2025-09-27,29.46
+N291EA,2025-09-26,"Grant County Intl (KMWH)","Grant County Intl (KMWH)","Lower Sugarloaf Fire - WAOWF",2025-09-01,2025-09-27,29.85
+N291EA,2025-09-26,"Roberts Fld (KRDM)","Grant County Intl (KMWH)","Labor Mountain Fire - WAOWF",2025-09-01,2025-09-27,28.22
+N291EA,2025-09-26,"Roberts Fld (KRDM)","Grant County Intl (KMWH)","Lower Sugarloaf Fire - WAOWF",2025-09-01,2025-09-27,29.76
+N293EA,2025-09-26,"Magic Valley Rgnl (KTWF)","Coeur D'Alene/Pappy Boyington Fld (KCOE)","Ulm Creek Fire - IDIPF",2025-08-30,2025-09-26,29.75
+N385AC,2025-09-26,"Yakima Air Terminal (KYKM)","Yakima Air Terminal (KYKM)","Labor Mountain Fire - WAOWF",2025-09-01,2025-09-27,29.95
+N385AC,2025-09-26,"Yakima Air Terminal (KYKM)","Yakima Air Terminal (KYKM)","Lower Sugarloaf Fire - WAOWF",2025-09-01,2025-09-27,29.53
+N385AC,2025-09-25,"Yakima Air Terminal (KYKM)","Yakima Air Terminal (KYKM)","Labor Mountain Fire - WAOWF",2025-09-01,2025-09-27,29.04
+N839AC,2025-09-26,"Rogue Valley Intl (KMFR)","Grant County Intl (KMWH)","Lower Sugarloaf Fire - WAOWF",2025-09-01,2025-09-27,28.90
+N839AC,2025-09-26,"Rogue Valley Intl (KMFR)","Grant County Intl (KMWH)","Foley Ridge Fire - ORWIF",2025-09-06,2025-09-27,27.74
+N988AC,2025-09-26,"Grant County Intl (KMWH)","Grant County Intl (KMWH)","Lower Sugarloaf Fire - WAOWF",2025-09-01,2025-09-27,26.94
+N988AC,2025-09-26,"Grant County Intl (KMWH)","Grant County Intl (KMWH)","Lower Sugarloaf Fire - WAOWF",2025-09-01,2025-09-27,28.97
+N988AC,2025-09-26,"Grant County Intl (KMWH)","Grant County Intl (KMWH)","Lower Sugarloaf Fire - WAOWF",2025-09-01,2025-09-27,29.15
+N988AC,2025-09-26,"Grant County Intl (KMWH)","Grant County Intl (KMWH)","Lower Sugarloaf Fire - WAOWF",2025-09-01,2025-09-27,28.84
+N988AC,2025-09-26,"Grant County Intl (KMWH)","Grant County Intl (KMWH)","Lower Sugarloaf Fire - WAOWF",2025-09-01,2025-09-27,29.03
+N988AC,2025-09-26,"Grant County Intl (KMWH)","Grant County Intl (KMWH)","Lower Sugarloaf Fire - WAOWF",2025-09-01,2025-09-27,29.00
+N988AC,2025-09-26,"Grant County Intl (KMWH)","Grant County Intl (KMWH)","Lower Sugarloaf Fire - WAOWF",2025-09-01,2025-09-27,28.70
+N471NA,2025-09-26,"Grant County Intl (KMWH)","Missoula Montana (KMSO)","Lower Sugarloaf Fire - WAOWF",2025-09-01,2025-09-27,29.24
+N471NA,2025-09-26,"Grant County Intl (KMWH)","Grant County Intl (KMWH)","Lower Sugarloaf Fire - WAOWF",2025-09-01,2025-09-27,28.40
+N471NA,2025-09-26,"Rogue Valley Intl (KMFR)","Grant County Intl (KMWH)","Labor Mountain Fire - WAOWF",2025-09-01,2025-09-27,27.56
+N471NA,2025-09-26,"Rogue Valley Intl (KMFR)","Grant County Intl (KMWH)","Lower Sugarloaf Fire - WAOWF",2025-09-01,2025-09-27,25.72
+N471NA,2025-09-26,"Rogue Valley Intl (KMFR)","Grant County Intl (KMWH)","Foley Ridge Fire - ORWIF",2025-09-06,2025-09-27,26.79
+N473NA,2025-09-26,"Grant County Intl (KMWH)","Roberts Fld (KRDM)","Labor Mountain Fire - WAOWF",2025-09-01,2025-09-27,29.14
+N473NA,2025-09-26,"Grant County Intl (KMWH)","Roberts Fld (KRDM)","Lower Sugarloaf Fire - WAOWF",2025-09-01,2025-09-27,29.20
+N473NA,2025-09-26,"Grant County Intl (KMWH)","Grant County Intl (KMWH)","Lower Sugarloaf Fire - WAOWF",2025-09-01,2025-09-27,29.67
+N473NA,2025-09-26,"Grant County Intl (KMWH)","Grant County Intl (KMWH)","Lower Sugarloaf Fire - WAOWF",2025-09-01,2025-09-27,29.62
+N473NA,2025-09-26,"Grant County Intl (KMWH)","Grant County Intl (KMWH)","Lower Sugarloaf Fire - WAOWF",2025-09-01,2025-09-27,29.82
+N473NA,2025-09-26,"Roberts Fld (KRDM)","Grant County Intl (KMWH)","Labor Mountain Fire - WAOWF",2025-09-01,2025-09-27,27.73
+N473NA,2025-09-26,"Roberts Fld (KRDM)","Grant County Intl (KMWH)","Lower Sugarloaf Fire - WAOWF",2025-09-01,2025-09-27,29.39
+N522AX,2025-09-26,"Grant County Intl (KMWH)","Grant County Intl (KMWH)","Lower Sugarloaf Fire - WAOWF",2025-09-01,2025-09-27,27.32
+N522AX,2025-09-26,"Grant County Intl (KMWH)","Grant County Intl (KMWH)","Labor Mountain Fire - WAOWF",2025-09-01,2025-09-27,29.83
+N522AX,2025-09-26,"Grant County Intl (KMWH)","Grant County Intl (KMWH)","Lower Sugarloaf Fire - WAOWF",2025-09-01,2025-09-27,28.56
+N522AX,2025-09-26,"Grant County Intl (KMWH)","Grant County Intl (KMWH)","Lower Sugarloaf Fire - WAOWF",2025-09-01,2025-09-27,28.07
+N522AX,2025-09-26,"Rogue Valley Intl (KMFR)","Grant County Intl (KMWH)","Labor Mountain Fire - WAOWF",2025-09-01,2025-09-27,29.72
+N522AX,2025-09-26,"Rogue Valley Intl (KMFR)","Grant County Intl (KMWH)","Lower Sugarloaf Fire - WAOWF",2025-09-01,2025-09-27,29.15
+N522AX,2025-09-26,"Rogue Valley Intl (KMFR)","Grant County Intl (KMWH)","Foley Ridge Fire - ORWIF",2025-09-06,2025-09-27,25.00
+N612AX,2025-09-26,"Grant County Intl (KMWH)","Grant County Intl (KMWH)","Lower Sugarloaf Fire - WAOWF",2025-09-01,2025-09-27,28.81
+N612AX,2025-09-26,"Grant County Intl (KMWH)","Grant County Intl (KMWH)","Lower Sugarloaf Fire - WAOWF",2025-09-01,2025-09-27,27.87
+N612AX,2025-09-26,"Grant County Intl (KMWH)","Grant County Intl (KMWH)","Lower Sugarloaf Fire - WAOWF",2025-09-01,2025-09-27,28.59
+N612AX,2025-09-26,"Grant County Intl (KMWH)","Grant County Intl (KMWH)","Lower Sugarloaf Fire - WAOWF",2025-09-01,2025-09-27,28.57
