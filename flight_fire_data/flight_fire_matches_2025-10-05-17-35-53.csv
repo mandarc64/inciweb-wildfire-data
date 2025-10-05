@@ -1,0 +1,4 @@
+TailNumber,FlightDate,Origin,Destination,FireIncident,FireStart,FireEnd,DistanceKM
+N291EA,2025-10-04,"Abilene Rgnl (KABI)","Abilene Rgnl (KABI)","Tule Fire - TXTXS",2025-10-04,2025-10-05,27.09
+N297EA,2025-10-04,"Abilene Rgnl (KABI)","Abilene Rgnl (KABI)","Tule Fire - TXTXS",2025-10-04,2025-10-05,29.84
+N477NA,2025-10-04,"Missoula Montana (KMSO)","Abilene Rgnl (KABI)","Tule Fire - TXTXS",2025-10-04,2025-10-05,28.46
