@@ -1,3 +1,5 @@
 ScrapeDate,Incident,Type,State,Size,Updated,CurrentAsOf,IncidentTimeZone,IncidentType,Cause,DateOfOrigin,Location,IncidentCommander,Coordinates,Latitude,Longitude,TotalPersonnel,ContainmentPercent
 2025-10-05,"Tule Fire - TXTXS","Wildfire","Texas","3,500 Acres","9 seconds ago","Sun, 10/05/2025 - 11:11","Central Standard Time","Wildfire","Undetermined","Sat, 10/04/2025 - 14:00","Briscoe County","C. Norman, TAMFS
 Tulia FD","34° 20' 0.006'', -101° 25' 50.592 ''","34° 20' 0.006''","-101° 25' 50.592 ''","","80%"
+2025-10-06,"Tule Fire - TXTXS","Wildfire","Texas","2,547 Acres","47 minutes 43 seconds ago","Mon, 10/06/2025 - 10:14","Central Standard Time","Wildfire","Undetermined","Sat, 10/04/2025 - 13:00","Briscoe County","M. Nicoletti, TAMFS
+Tulia FD","34° 20' 0.006'', -101° 25' 50.592 ''","34° 20' 0.006''","-101° 25' 50.592 ''","","100%"
