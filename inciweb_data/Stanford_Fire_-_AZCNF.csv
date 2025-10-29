@@ -1,0 +1,2 @@
+ScrapeDate,Incident,Type,State,Size,Updated,CurrentAsOf,IncidentTimeZone,IncidentType,Cause,DateOfOrigin,Location,IncidentCommander,Coordinates,Latitude,Longitude,TotalPersonnel,ContainmentPercent
+2025-10-29,"Stanford Fire - AZCNF","Wildfire","Arizona","160 Acres","58 seconds ago","Wed, 10/29/2025 - 11:11","Arizona Mountain Standard Time","Wildfire","Under Investigation","Fri, 10/24/2025 - 08:12","Chiricahua Wilderness","","31° 50' 1.3'', -109° 20' 30.8 ''","31° 50' 1.3''","-109° 20' 30.8 ''","90","0%"
