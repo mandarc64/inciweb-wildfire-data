@@ -1,0 +1,2 @@
+ScrapeDate,Incident,Type,State,Size,Updated,CurrentAsOf,IncidentTimeZone,IncidentType,Cause,DateOfOrigin,Location,IncidentCommander,Coordinates,Latitude,Longitude,TotalPersonnel,ContainmentPercent
+2025-10-30,"Mill Fire - TXTXS","Wildfire","Texas","14 Acres","50 minutes 10 seconds ago","Thu, 10/30/2025 - 09:42","Central Standard Time","Wildfire","Undetermined","Wed, 10/29/2025 - 15:00","Gregory, TX","B. Glauthier, Texas A&M Forest Service","27° 55' 37.831'', -97° 17' 30.749 ''","27° 55' 37.831''","-97° 17' 30.749 ''","","90%"
