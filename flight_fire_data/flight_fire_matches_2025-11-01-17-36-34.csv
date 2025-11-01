@@ -1,0 +1,9 @@
+TailNumber,FlightDate,Origin,Destination,FireIncident,FireStart,FireEnd,DistanceKM
+N292EA,2025-10-29,"Abilene Rgnl (KABI)","Grant County (KSVC)","Stanford Fire - AZCNF",2025-10-24,2025-11-01,29.59
+N297EA,2025-10-29,"Abilene Rgnl (KABI)","Grant County (KSVC)","Stanford Fire - AZCNF",2025-10-24,2025-11-01,29.46
+N325AC,2025-10-30,"San Bernardino Intl (KSBD)","Tucson Intl (KTUS)","Stanford Fire - AZCNF",2025-10-24,2025-11-01,25.74
+N325AC,2025-10-29,"San Bernardino Intl (KSBD)","Tucson Intl (KTUS)","Stanford Fire - AZCNF",2025-10-24,2025-11-01,26.88
+N988AC,2025-10-30,"San Bernardino Intl (KSBD)","Tucson Intl (KTUS)","Stanford Fire - AZCNF",2025-10-24,2025-11-01,29.30
+N988AC,2025-10-29,"San Bernardino Intl (KSBD)","Tucson Intl (KTUS)","Stanford Fire - AZCNF",2025-10-24,2025-11-01,26.33
+N473NA,2025-10-29,"Fresno Yosemite Intl (KFAT)","Tucson Intl (KTUS)","Stanford Fire - AZCNF",2025-10-24,2025-11-01,27.09
+N17085,2025-10-29,"Sacramento McClellan (KMCC)","San Bernardino Intl (KSBD)","Stanford Fire - AZCNF",2025-10-24,2025-11-01,28.32
