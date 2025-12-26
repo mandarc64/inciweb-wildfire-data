@@ -1,0 +1,2 @@
+ScrapeDate,Incident,Type,State,Size,Updated,CurrentAsOf,IncidentTimeZone,IncidentType,Cause,DateOfOrigin,Location,IncidentCommander,Coordinates,Latitude,Longitude,TotalPersonnel,ContainmentPercent
+2025-12-26,"Mistletoe Fire - TXTXS","Wildfire","Texas","523 Acres","10 hours 52 minutes ago","Thu, 12/25/2025 - 20:34","Central Standard Time","Wildfire","Unknown","Thu, 12/25/2025 - 14:36","Amarillo, TX","Mark Nicoletti, Texas A&M Forest Service","35° 4' 33'', -101° 41' 48 ''","35° 4' 33''","-101° 41' 48 ''","65","95%"
