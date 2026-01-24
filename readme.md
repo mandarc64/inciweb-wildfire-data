@@ -3,6 +3,8 @@
 This repository hosts an **automated scraper** that collects **wildfire incident data** from [InciWeb](https://inciweb.wildfire.gov/) with **daily updates at 8:00 AM PST**.
 It includes a **live dashboard** for monitoring wildfire incidents with flight tracking and analytics.
 
+![](demo1.png)
+![](demo2.png)
 ---
 
 ## ✅ Features
